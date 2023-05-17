@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6a5a38faaad36488",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "backlinks": true
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "2b49a43461335805",
             "type": "leaf",
             "state": {
@@ -50,21 +64,8 @@
                 "backlinks": true
               }
             }
-          },
-          {
-            "id": "a95bce8e3aafa11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHANGELOG.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,10 +244,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "a95bce8e3aafa11d",
+  "active": "6a5a38faaad36488",
   "lastOpenFiles": [
-    "HOME.md",
     "CHANGELOG.md",
+    "HOME.md",
     "Daily/2023-05-17.md",
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-Terraform.md",
