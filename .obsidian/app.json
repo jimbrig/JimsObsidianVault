@@ -5,5 +5,6 @@
   "livePreview": false,
   "readableLineLength": false,
   "showLineNumber": true,
-  "legacyEditor": true
+  "legacyEditor": true,
+  "attachmentFolderPath": "Assets"
 }

@@ -1,3 +1,4 @@
+- 2023-05-17 at 19h40 · [[HOME]]
 - 2023-05-17 at 19h08 · [[Template-Code]]
 - 2023-05-17 at 19h07 · [[Template-Code-Terraform]]
 - 2023-05-17 at 19h06 · [[Template-Code-YAML]]
@@ -25,7 +26,6 @@
 - 2023-05-17 at 19h01 · [[Template-Definition]]
 - 2023-05-17 at 19h01 · [[Template-Frontmatter]]
 - 2023-05-17 at 19h01 · [[Template-Footer]]
-- 2023-05-17 at 19h01 · [[HOME]]
 - 2023-05-17 at 19h01 · [[README]]
 - 2023-05-17 at 19h00 · [[Template-Folder-README]]
 - 2023-05-17 at 18h58 · [[_README]]

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "HOME.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true
               },
               "pinned": true
@@ -62,6 +62,16 @@
                 "file": "README.md",
                 "mode": "source",
                 "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "fdd359e902d2f926",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Banners/programming.gif"
               }
             }
           }
@@ -246,8 +256,12 @@
   },
   "active": "6a5a38faaad36488",
   "lastOpenFiles": [
-    "CHANGELOG.md",
+    "Assets/Banners/programming.gif",
     "HOME.md",
+    "Assets/Banners",
+    "Assets/programming.gif.crdownload",
+    "Assets",
+    "CHANGELOG.md",
     "Daily/2023-05-17.md",
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-Terraform.md",
@@ -274,11 +288,9 @@
     "Templates/Template-MOC.md",
     "Templates/Template-Development.md",
     "Templates/Template-Default.md",
-    "Templates/Template-Zotero.md",
     "Projects",
     "Code",
     "Inbox",
-    "Daily",
-    "Templates"
+    "Daily"
   ]
 }

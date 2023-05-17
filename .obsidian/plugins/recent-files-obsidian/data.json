@@ -5,6 +5,10 @@
       "path": "HOME.md"
     },
     {
+      "basename": "programming",
+      "path": "Assets/Banners/programming.gif"
+    },
+    {
       "basename": "CHANGELOG",
       "path": "CHANGELOG.md"
     },
