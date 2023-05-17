@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "2023-05-17",
       "path": "Daily/2023-05-17.md"
     },
@@ -117,16 +125,8 @@
       "path": "Templates/Template-Folder-README.md"
     },
     {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
     },
     {
       "basename": "Template-Daily-Note",

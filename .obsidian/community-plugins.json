@@ -36,5 +36,6 @@
   "mermaid-tools",
   "matter",
   "open-vscode",
-  "callout-manager"
+  "callout-manager",
+  "obsidian-vault-changelog"
 ]

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-17.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -133,35 +133,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3d8b0fac4b0becf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Daily/2023-05-17.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1954e3c8892f8dcd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Daily/2023-05-17.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "c241af3ac9a6dc5a",
             "type": "leaf",
             "state": {
@@ -178,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-17.md"
+                "file": "CHANGELOG.md"
               }
             }
           },
@@ -191,6 +162,50 @@
             }
           },
           {
+            "id": "d3d8b0fac4b0becf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CHANGELOG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1954e3c8892f8dcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CHANGELOG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1ac3153552315a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0056ce105b3d8a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "497926e496d1f2de",
             "type": "leaf",
             "state": {
@@ -198,12 +213,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,6 +245,9 @@
   },
   "active": "a95bce8e3aafa11d",
   "lastOpenFiles": [
+    "HOME.md",
+    "CHANGELOG.md",
+    "Daily/2023-05-17.md",
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-Terraform.md",
     "Templates/Code-Templates/Template-Code-YAML.md",
@@ -257,9 +274,6 @@
     "Templates/Template-Development.md",
     "Templates/Template-Default.md",
     "Templates/Template-Zotero.md",
-    "Templates/Template-List.md",
-    "Templates/Template-Definition.md",
-    "Templates/Template-Frontmatter.md",
     "Projects",
     "Code",
     "Inbox",
