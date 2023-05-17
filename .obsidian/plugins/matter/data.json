@@ -1,0 +1,16 @@
+{
+  "accessToken": null,
+  "refreshToken": null,
+  "qrSessionToken": null,
+  "dataDir": "Matter",
+  "syncInterval": 60,
+  "syncOnLaunch": true,
+  "notifyOnSync": "always",
+  "hasCompletedInitialSetup": false,
+  "lastSync": null,
+  "isSyncing": false,
+  "contentMap": {},
+  "recreateIfMissing": true,
+  "metadataTemplate": null,
+  "highlightTemplate": null
+}

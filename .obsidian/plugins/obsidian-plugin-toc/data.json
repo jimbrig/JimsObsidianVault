@@ -1,0 +1,8 @@
+{
+  "minimumDepth": 2,
+  "maximumDepth": 6,
+  "listStyle": "bullet",
+  "useMarkdown": true,
+  "title": "## Contents",
+  "githubCompat": true
+}

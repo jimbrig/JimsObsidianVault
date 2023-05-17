@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "4bd518b26b142b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "f198a9697c509e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b49a43461335805",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "618e2ac863b594eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template-Folder-README.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "ada0d1e03e304893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGELOG.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "9e32b093fb5576c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "a95bce8e3aafa11d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-17.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c15d0f1125b345c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c842f4de2874b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c869dc57698e4add",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "665582f2fb073909",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f212a2bdabd8bce1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "66604145a4dcec0f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c765e711ed4f22b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6115b598c980f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d8b0fac4b0becf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2023-05-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1954e3c8892f8dcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2023-05-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c241af3ac9a6dc5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "46618e96c808bc14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2023-05-17.md"
+              }
+            }
+          },
+          {
+            "id": "3457117c262ba1a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "497926e496d1f2de",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "workbench-obsidian:Workbench": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "open-vscode:VSCode": false
+    }
+  },
+  "active": "a95bce8e3aafa11d",
+  "lastOpenFiles": [
+    "Templates/Code-Templates/Template-Code.md",
+    "Templates/Code-Templates/Template-Code-Terraform.md",
+    "Templates/Code-Templates/Template-Code-YAML.md",
+    "Templates/Code-Templates/Template-Code-CSS.md",
+    "Templates/Code-Templates/Template-Code-HTML.md",
+    "Templates/Code-Templates/Template-Code-JavaScript.md",
+    "Templates/Code-Templates/Template-Code-Bash.md",
+    "Templates/Code-Templates/Template-Code-VBA.md",
+    "Templates/Code-Templates/Template-Code-SQL.md",
+    "Templates/Code-Templates/Template-Code-Registry.md",
+    "Templates/Code-Templates/Template-Code-R.md",
+    "Templates/Code-Templates/Template-Code-Python.md",
+    "Templates/Code-Templates/Template-Code-PowerShell.md",
+    "Templates/Code-Templates/Template-Code-GHA.md",
+    "Templates/Code-Templates/Template-Code-CMD.md",
+    "Templates/Template-Meta.md",
+    "Templates/Tool-Templates",
+    "Templates/Fragment-Templates",
+    "Templates/Code-Templates",
+    "Templates/Template-Person.md",
+    "Templates/Template-Agenda.md",
+    "Templates/Template-Tool.md",
+    "Templates/Template-MOC.md",
+    "Templates/Template-Development.md",
+    "Templates/Template-Default.md",
+    "Templates/Template-Zotero.md",
+    "Templates/Template-List.md",
+    "Templates/Template-Definition.md",
+    "Templates/Template-Frontmatter.md",
+    "Projects",
+    "Code",
+    "Inbox",
+    "Daily",
+    "Templates"
+  ]
+}
