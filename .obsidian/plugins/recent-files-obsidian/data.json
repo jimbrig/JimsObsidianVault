@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-17",
+      "path": "Daily/2023-05-17.md"
+    },
+    {
+      "basename": "PowerShell Functions List",
+      "path": "Inbox/PowerShell Functions List.md"
+    },
+    {
       "basename": "HOME",
       "path": "HOME.md"
     },
     {
+      "basename": "PowerShell - ConvertTo-NuSpec",
+      "path": "Code/PowerShell/PowerShell - ConvertTo-NuSpec.md"
+    },
+    {
+      "basename": "PowerShell - ConvertTo-Markdown",
+      "path": "Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
+    },
+    {
+      "basename": "PowerShell - Add-GodModeShortcut",
+      "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/PowerShell/_README.md"
+    },
+    {
+      "basename": "Template-Code-PowerShell",
+      "path": "Templates/Code-Templates/Template-Code-PowerShell.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
       "basename": "Template-Folder-README",
       "path": "Templates/Template-Folder-README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
     },
     {
       "basename": "2023-05-17",
@@ -89,10 +129,6 @@
       "path": "Templates/Code-Templates/Template-Code-Python.md"
     },
     {
-      "basename": "Template-Code-PowerShell",
-      "path": "Templates/Code-Templates/Template-Code-PowerShell.md"
-    },
-    {
       "basename": "Template-Code-GHA",
       "path": "Templates/Code-Templates/Template-Code-GHA.md"
     },
@@ -139,14 +175,6 @@
     {
       "basename": "Template-Definition",
       "path": "Templates/Template-Definition.md"
-    },
-    {
-      "basename": "Template-Frontmatter",
-      "path": "Templates/Template-Frontmatter.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "Templates/Template-Footer.md"
     },
     {
       "basename": "README",

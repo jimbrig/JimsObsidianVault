@@ -20,8 +20,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "37a352119272d34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "6376a8617d060b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-17.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 399.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -106,16 +131,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Daily/2023-05-17.md"
               }
-            }
-          },
-          {
-            "id": "3457117c262ba1a9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -124,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Daily/2023-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,14 +158,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "Daily/2023-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1ac3153552315a07",
@@ -194,29 +211,39 @@
       "homepage:Open homepage": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "smart-random-note:Open Random Note from Search": false,
       "workbench-obsidian:Workbench": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6a5a38faaad36488",
+  "active": "6376a8617d060b06",
   "lastOpenFiles": [
-    "Templates/Template-Folder-README.md",
+    "Inbox/PowerShell Functions List.md",
+    "Daily/2023-05-17.md",
     "HOME.md",
+    "Code/PowerShell/PowerShell - ConvertTo-NuSpec.md",
+    "Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
+    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+    "Code/PowerShell/_README.md",
+    "Templates/Code-Templates/Template-Code-PowerShell.md",
+    "Tools",
+    "Templates/Fragment-Templates/Template-Footer.md",
+    "Templates/Fragment-Templates/Template-Frontmatter.md",
+    "Templates/Template-Folder-README.md",
+    "Code/Git",
+    "Code/VBA",
+    "Code/PowerQuery",
+    "Code/_README.md",
+    "Code/YAML",
+    "Code/Registry",
+    "Code/CMD",
+    "Code/CSS",
+    "Code/JavaScript",
+    "Code/HTML",
     "Daily/2023/05-May/2023-05-17.md",
     "Daily/_README.md",
-    "Daily/2022/12-December",
-    "Daily/2022",
-    "Daily/2023/06-June",
-    "Daily/2023/03-March",
-    "Daily/2023/02-February",
-    "Daily/2023/01-January",
-    "Daily/2023/04-April",
-    "Daily/2023/05-May",
-    "Daily/2023",
     "MOCs/_README.md",
-    "MOCs",
     "Inbox/_README.md",
     "Projects/_README.md",
     "Projects/PowerShell-Profile.md",
@@ -228,15 +255,6 @@
     "Templates/Code-Templates/Template-Code-YAML.md",
     "Templates/Code-Templates/Template-Code-CSS.md",
     "Templates/Code-Templates/Template-Code-HTML.md",
-    "Templates/Code-Templates/Template-Code-JavaScript.md",
-    "Templates/Code-Templates/Template-Code-Bash.md",
-    "Templates/Code-Templates/Template-Code-VBA.md",
-    "Templates/Code-Templates/Template-Code-SQL.md",
-    "Templates/Code-Templates/Template-Code-Registry.md",
-    "Templates/Code-Templates/Template-Code-R.md",
-    "Templates/Code-Templates/Template-Code-Python.md",
-    "Templates/Code-Templates/Template-Code-PowerShell.md",
-    "Templates/Code-Templates/Template-Code-GHA.md",
-    "Templates/Code-Templates/Template-Code-CMD.md"
+    "Templates/Code-Templates/Template-Code-JavaScript.md"
   ]
 }
