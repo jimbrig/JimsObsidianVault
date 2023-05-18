@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
       "basename": "2023-05-17",
       "path": "Daily/2023-05-17.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "programming",
       "path": "Assets/Banners/programming.gif"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
     },
     {
       "basename": "Template-Code-Terraform",
