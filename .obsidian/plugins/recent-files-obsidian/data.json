@@ -5,16 +5,40 @@
       "path": "HOME.md"
     },
     {
+      "basename": "2023-05-17",
+      "path": "Daily/2023/05-May/2023-05-17.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Daily/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "MOCs/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Inbox/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Projects/_README.md"
+    },
+    {
+      "basename": "PowerShell-Profile",
+      "path": "Projects/PowerShell-Profile.md"
+    },
+    {
+      "basename": "Template-Folder-README",
+      "path": "Templates/Template-Folder-README.md"
+    },
+    {
       "basename": "programming",
       "path": "Assets/Banners/programming.gif"
     },
     {
       "basename": "CHANGELOG",
       "path": "CHANGELOG.md"
-    },
-    {
-      "basename": "2023-05-17",
-      "path": "Daily/2023-05-17.md"
     },
     {
       "basename": "Template-Code-Terraform",
@@ -125,20 +149,12 @@
       "path": "Templates/Template-Footer.md"
     },
     {
-      "basename": "Template-Folder-README",
-      "path": "Templates/Template-Folder-README.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "Template-Daily-Note",
       "path": "Templates/Template-Daily-Note.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Daily/_README.md"
     }
   ],
   "omittedPaths": [],

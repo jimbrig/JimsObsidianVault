@@ -2,20 +2,20 @@
 Date: 2023-05-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "Daily Notes" ]
+Alias: [ "Projects" ]
 ---
 
-# Daily
+# Projects
 
 > [!NOTE] About
-> This folder houses Daily Notes.
+> This folder houses my Projects.
 
 ## Overview
 
 ## Contents
 
 ```dataview
-LIST FROM "Daily" AND -"CHANGELOG" AND -"Daily/_README"
+LIST FROM "Projects" AND -"CHANGELOG" AND -"Projects/_README"
 ```
 
 ***
@@ -31,7 +31,7 @@ LIST FROM "Daily" AND -"CHANGELOG" AND -"Daily/_README"
 #### Backlinks
 
 ```dataview
-list from [[_README]] AND -"CHANGELOG" AND -"Daily/_README"
+list from [[_README]] AND -"CHANGELOG" AND -"Projects/_README"
 ```
 
 

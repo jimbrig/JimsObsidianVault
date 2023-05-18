@@ -6,5 +6,6 @@
   "readableLineLength": false,
   "showLineNumber": true,
   "legacyEditor": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "promptDelete": false
 }

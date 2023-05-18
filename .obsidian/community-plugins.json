@@ -38,5 +38,6 @@
   "open-vscode",
   "callout-manager",
   "obsidian-vault-changelog",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-snippet-downloader"
 ]

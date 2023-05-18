@@ -2,20 +2,20 @@
 Date: 2023-05-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "Daily Notes" ]
+Alias: [ "MOCs", "Maps of Content", "Vault Index" ]
 ---
 
-# Daily
+# MOCs
 
 > [!NOTE] About
-> This folder houses Daily Notes.
+> This folder houses .
 
 ## Overview
 
 ## Contents
 
 ```dataview
-LIST FROM "Daily" AND -"CHANGELOG" AND -"Daily/_README"
+LIST FROM "MOCs" AND -"CHANGELOG" AND -"MOCs/_README"
 ```
 
 ***
@@ -31,7 +31,7 @@ LIST FROM "Daily" AND -"CHANGELOG" AND -"Daily/_README"
 #### Backlinks
 
 ```dataview
-list from [[_README]] AND -"CHANGELOG" AND -"Daily/_README"
+list from [[_README]] AND -"CHANGELOG" AND -"MOCs/_README"
 ```
 
 

@@ -74,6 +74,66 @@
                 "file": "Assets/Banners/programming.gif"
               }
             }
+          },
+          {
+            "id": "dd8f969ea911c89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "e235b0d2de0bffcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/_README.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "34a5f1468a566d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/_README.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "f88ac5856a4f3c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOCs/_README.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "47a10c5972546a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023/05-May/2023-05-17.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            }
           }
         ]
       }
@@ -256,13 +316,27 @@
   },
   "active": "6a5a38faaad36488",
   "lastOpenFiles": [
-    "Assets/Banners/programming.gif",
+    "Daily/2023/05-May/2023-05-17.md",
+    "Daily/_README.md",
+    "Daily/2022/12-December",
+    "Daily/2022",
+    "Daily/2023/06-June",
+    "Daily/2023/03-March",
+    "Daily/2023/02-February",
+    "Daily/2023/01-January",
+    "Daily/2023/04-April",
+    "Daily/2023/05-May",
+    "Daily/2023",
     "HOME.md",
-    "Assets/Banners",
-    "Assets/programming.gif.crdownload",
-    "Assets",
+    "MOCs/_README.md",
+    "MOCs",
+    "Inbox/_README.md",
+    "Projects/_README.md",
+    "Projects/PowerShell-Profile.md",
+    "Projects/PowerShell-Profile/_README.md",
+    "Templates/Template-Folder-README.md",
+    "Assets/Banners/programming.gif",
     "CHANGELOG.md",
-    "Daily/2023-05-17.md",
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-Terraform.md",
     "Templates/Code-Templates/Template-Code-YAML.md",
@@ -277,20 +351,6 @@
     "Templates/Code-Templates/Template-Code-Python.md",
     "Templates/Code-Templates/Template-Code-PowerShell.md",
     "Templates/Code-Templates/Template-Code-GHA.md",
-    "Templates/Code-Templates/Template-Code-CMD.md",
-    "Templates/Template-Meta.md",
-    "Templates/Tool-Templates",
-    "Templates/Fragment-Templates",
-    "Templates/Code-Templates",
-    "Templates/Template-Person.md",
-    "Templates/Template-Agenda.md",
-    "Templates/Template-Tool.md",
-    "Templates/Template-MOC.md",
-    "Templates/Template-Development.md",
-    "Templates/Template-Default.md",
-    "Projects",
-    "Code",
-    "Inbox",
-    "Daily"
+    "Templates/Code-Templates/Template-Code-CMD.md"
   ]
 }
