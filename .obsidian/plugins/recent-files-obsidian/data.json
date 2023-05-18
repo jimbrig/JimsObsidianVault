@@ -5,6 +5,10 @@
       "path": "HOME.md"
     },
     {
+      "basename": "Template-Folder-README",
+      "path": "Templates/Template-Folder-README.md"
+    },
+    {
       "basename": "2023-05-17",
       "path": "Daily/2023/05-May/2023-05-17.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "PowerShell-Profile",
       "path": "Projects/PowerShell-Profile.md"
-    },
-    {
-      "basename": "Template-Folder-README",
-      "path": "Templates/Template-Folder-README.md"
     },
     {
       "basename": "programming",
