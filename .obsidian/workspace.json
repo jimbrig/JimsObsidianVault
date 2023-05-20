@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
-                "mode": "preview",
+                "file": "Daily/2023-05-19.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG.md"
+                "file": "Daily/2023-05-19.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "Daily/2023-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "Daily/2023-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,6 +220,8 @@
   },
   "active": "6376a8617d060b06",
   "lastOpenFiles": [
+    "CHANGELOG.md",
+    "Daily/2023-05-19.md",
     "Daily/2023-05-17.md",
     "Inbox/PowerShell Functions List.md",
     "HOME.md",
@@ -249,12 +252,10 @@
     "Projects/PowerShell-Profile.md",
     "Projects/PowerShell-Profile/_README.md",
     "Assets/Banners/programming.gif",
-    "CHANGELOG.md",
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-Terraform.md",
     "Templates/Code-Templates/Template-Code-YAML.md",
     "Templates/Code-Templates/Template-Code-CSS.md",
-    "Templates/Code-Templates/Template-Code-HTML.md",
-    "Templates/Code-Templates/Template-Code-JavaScript.md"
+    "Templates/Code-Templates/Template-Code-HTML.md"
   ]
 }
