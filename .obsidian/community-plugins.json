@@ -39,5 +39,6 @@
   "callout-manager",
   "obsidian-vault-changelog",
   "obsidian-banners",
-  "obsidian-snippet-downloader"
+  "obsidian-snippet-downloader",
+  "obsidian-local-rest-api"
 ]

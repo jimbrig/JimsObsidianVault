@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Links",
-      "path": "Links.md"
+      "basename": "Obsidian Clipper",
+      "path": "Inbox/Clips/Obsidian Clipper.md"
+    },
+    {
+      "basename": "Obsidian Browser Extensions",
+      "path": "Obsidian Browser Extensions.md"
     },
     {
       "basename": "2023-05-19",
       "path": "Daily/2023-05-19.md"
     },
     {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
+      "basename": "Template-Daily-Note",
+      "path": "Templates/Template-Daily-Note.md"
     },
     {
       "basename": "2023-05-17",
       "path": "Daily/2023-05-17.md"
+    },
+    {
+      "basename": "Links",
+      "path": "Links.md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
     },
     {
       "basename": "PowerShell Functions List",
@@ -187,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Template-Daily-Note",
-      "path": "Templates/Template-Daily-Note.md"
     }
   ],
   "omittedPaths": [],

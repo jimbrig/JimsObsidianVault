@@ -42,7 +42,7 @@ SORT file.mtime asc
 
 ## Appendix: Links and References
 
-*Note created on [[<% tp.file.creation_date(format: string = "YYYY-MM-DD") %>]] and last modified on [[<% tp.file.last_modified_date(format: string = "YYYY-MM-DD") %>]].*
+*Note created on [[<% tp.file.creation_date("YYYY-MM-DD") %>]] and last modified on [[<% tp.file.last_modified_date("YYYY-MM-DD") %>]].*
 
 ### Internal Linked Notes
 
