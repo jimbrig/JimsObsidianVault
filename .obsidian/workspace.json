@@ -51,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md",
-                "mode": "preview",
+                "file": "ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md"
+                "file": "ps-menups-menu.psm1 at master · chrisserokaps-menu.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md",
+                "file": "ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md",
+                "file": "ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,8 +231,9 @@
   },
   "active": "2a2bbacfa3bb4b38",
   "lastOpenFiles": [
-    "Obsidian Browser Extensions.md",
     "Inbox/Clips/Obsidian Clipper.md",
+    "ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
+    "Obsidian Browser Extensions.md",
     "Inbox/Clips",
     "Daily/2023-05-19.md",
     "Templates/Template-Daily-Note.md",
@@ -266,7 +267,6 @@
     "Projects/_README.md",
     "Projects/PowerShell-Profile.md",
     "Projects/PowerShell-Profile/_README.md",
-    "Assets/Banners/programming.gif",
-    "Templates/Code-Templates/Template-Code.md"
+    "Assets/Banners/programming.gif"
   ]
 }
