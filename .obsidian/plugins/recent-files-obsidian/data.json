@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Organize your Omnivore library with labels",
+      "path": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md"
+    },
+    {
+      "basename": "notes-01-poisson.md at main · actuarialopensource-notes · GitHub",
+      "path": "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md"
+    },
+    {
       "basename": "ps-menups-menu.psm1 at master · chrisserokaps-menu",
       "path": "ps-menups-menu.psm1 at master · chrisserokaps-menu.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Template-Zotero",
       "path": "Templates/Template-Zotero.md"
-    },
-    {
-      "basename": "Template-List",
-      "path": "Templates/Template-List.md"
-    },
-    {
-      "basename": "Template-Definition",
-      "path": "Templates/Template-Definition.md"
     }
   ],
   "omittedPaths": [],
