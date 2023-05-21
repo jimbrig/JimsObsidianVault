@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-20",
+      "path": "Daily/2023-05-20.md"
+    },
+    {
       "basename": "Organize your Omnivore library with labels",
       "path": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Default",
       "path": "Templates/Template-Default.md"
-    },
-    {
-      "basename": "Template-Zotero",
-      "path": "Templates/Template-Zotero.md"
     }
   ],
   "omittedPaths": [],

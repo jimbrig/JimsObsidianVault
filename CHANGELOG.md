@@ -1,3 +1,5 @@
+- 2023-05-20 at 20h46 · [[2023-05-20]]
+- 2023-05-20 at 20h46 · [[Links]]
 - 2023-05-19 at 22h28 · [[notes-01-poisson.md at main · actuarialopensource-notes · GitHub]]
 - 2023-05-19 at 22h28 · [[Getting Started with Omnivore]]
 - 2023-05-19 at 22h28 · [[The Secret Power of ‘Read It Later’ Apps]]
@@ -7,7 +9,6 @@
 - 2023-05-19 at 22h04 · [[Obsidian Browser Extensions]]
 - 2023-05-19 at 22h01 · [[2023-05-19]]
 - 2023-05-19 at 22h01 · [[Template-Daily-Note]]
-- 2023-05-19 at 21h57 · [[Links]]
 - 2023-05-17 at 20h35 · [[2023-05-17]]
 - 2023-05-17 at 20h34 · [[PowerShell Functions List]]
 - 2023-05-17 at 20h34 · [[HOME]]
@@ -47,4 +48,3 @@
 - 2023-05-17 at 19h02 · [[Template-Default]]
 - 2023-05-17 at 19h02 · [[Template-Zotero]]
 - 2023-05-17 at 19h02 · [[Template-List]]
-- 2023-05-17 at 19h01 · [[Template-Definition]]

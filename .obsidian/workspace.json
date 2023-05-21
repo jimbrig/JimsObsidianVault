@@ -56,9 +56,21 @@
                 "backlinks": true
               }
             }
+          },
+          {
+            "id": "70401ff95eb29ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-20.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md"
+                "file": "Daily/2023-05-20.md"
               }
             }
           },
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md",
+                "file": "Daily/2023-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md",
+                "file": "Daily/2023-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,8 +242,9 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "2a2bbacfa3bb4b38",
+  "active": "70401ff95eb29ca8",
   "lastOpenFiles": [
+    "Daily/2023-05-20.md",
     "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md",
     "ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
     "Omnivore/2023-05-19/Getting Started with Omnivore.md",
@@ -267,7 +280,6 @@
     "Code/CMD",
     "Daily/2023/05-May/2023-05-17.md",
     "Daily/_README.md",
-    "MOCs/_README.md",
     "Assets/Banners/programming.gif"
   ]
 }
