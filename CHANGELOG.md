@@ -1,3 +1,6 @@
+- 2023-05-20 at 22h42 · [[DAPR and Terraform]]
+- 2023-05-20 at 22h41 · [[DAPR]]
+- 2023-05-20 at 22h40 · [[_README]]
 - 2023-05-20 at 22h33 · [[_README]]
 - 2023-05-20 at 22h32 · [[Version Upgrade Tests]]
 - 2023-05-20 at 22h32 · [[Unit Tests]]
@@ -45,6 +48,3 @@
 - 2023-05-17 at 19h52 · [[Template-Folder-README]]
 - 2023-05-17 at 19h08 · [[Template-Code]]
 - 2023-05-17 at 19h07 · [[Template-Code-Terraform]]
-- 2023-05-17 at 19h06 · [[Template-Code-YAML]]
-- 2023-05-17 at 19h06 · [[Template-Code-CSS]]
-- 2023-05-17 at 19h06 · [[Template-Code-HTML]]

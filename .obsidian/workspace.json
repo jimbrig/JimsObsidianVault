@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Terraform/Codex/_README.md",
+                "file": "Inbox/Terraform/DAPR and Terraform.md",
                 "mode": "preview",
                 "backlinks": true
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Terraform/Azure Terratest Terraform Fluent Extension.md",
+                "file": "Inbox/Terraform/Azure Terraform Modules/Azure Terratest Terraform Fluent Extension.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Terraform/Codex/_README.md"
+                "file": "Inbox/Terraform/DAPR and Terraform.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Terraform/Codex/_README.md",
+                "file": "Inbox/Terraform/DAPR and Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Terraform/Codex/_README.md",
+                "file": "Inbox/Terraform/DAPR and Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,8 +264,16 @@
   },
   "active": "bb1021f031d9dbe4",
   "lastOpenFiles": [
-    "Inbox/Terraform/Codex/Tests/Version Upgrade Tests.md",
+    "Inbox/DAPR.md",
+    "Inbox/Terraform/DAPR and Terraform.md",
+    "Inbox/Terraform/Azure Terraform Modules/Container Apps Module/_README.md",
+    "Inbox/Terraform/Azure Terraform Modules/Azure Terratest Terraform Fluent Extension.md",
+    "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
+    "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
+    "Inbox/Terraform/Azure Terraform Modules/Azure Terraform Modules.md",
     "Inbox/Terraform/Codex/_README.md",
+    "Inbox/Terraform/Azure Terraform Modules",
+    "Inbox/Terraform/Codex/Tests/Version Upgrade Tests.md",
     "Inbox/Terraform/Codex/Tests/Unit Tests.md",
     "Inbox/Terraform/Codex/Tests/Testing Code.md",
     "Inbox/Terraform/Codex/Tests/End-to-End (e2e) Tests.md",
@@ -274,9 +282,7 @@
     "Inbox/Terraform/Codex/Including Examples for Terraform Modules.md",
     "Inbox/Terraform/Codex/Tests",
     "Inbox/Terraform/Codex/Logic",
-    "Inbox/Terraform/Azure Terratest Terraform Fluent Extension.md",
     "Inbox/Terraform/Codex",
-    "Inbox/Terraform/Azure Terraform Modules.md",
     "Inbox/Terraform/Untitled.md",
     "Inbox/Terraform/Codex/Logic/Terraform - versions.tf.md",
     "Inbox/Terraform/Codex/Logic/Terraform - variables.tf.md",
@@ -292,14 +298,8 @@
     "Inbox/Setting up R and RStudio on Ubuntu.md",
     "Daily/2023-05-20.md",
     "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md",
-    "Omnivore/2023-05-19/Getting Started with Omnivore.md",
-    "Omnivore/2023-05-19/The Secret Power of ‘Read It Later’ Apps.md",
-    "Omnivore/2023-05-19/Organize your Omnivore library with labels.md",
     "Omnivore/2023-05-19",
     "Omnivore",
-    "Inbox/Clips",
-    "Tools",
-    "Code/Git",
     "Assets/Banners/programming.gif"
   ]
 }

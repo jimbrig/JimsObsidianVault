@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "DAPR and Terraform",
+      "path": "Inbox/Terraform/DAPR and Terraform.md"
+    },
+    {
+      "basename": "DAPR",
+      "path": "Inbox/DAPR.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Inbox/Terraform/Azure Terraform Modules/Container Apps Module/_README.md"
+    },
+    {
+      "basename": "Azure Terratest Terraform Fluent Extension",
+      "path": "Inbox/Terraform/Azure Terraform Modules/Azure Terratest Terraform Fluent Extension.md"
+    },
+    {
+      "basename": "Azure Terraform Modules",
+      "path": "Inbox/Terraform/Azure Terraform Modules/Azure Terraform Modules.md"
+    },
+    {
       "basename": "_README",
       "path": "Inbox/Terraform/Codex/_README.md"
     },
@@ -31,14 +51,6 @@
     {
       "basename": "Including Examples for Terraform Modules",
       "path": "Inbox/Terraform/Codex/Including Examples for Terraform Modules.md"
-    },
-    {
-      "basename": "Azure Terratest Terraform Fluent Extension",
-      "path": "Inbox/Terraform/Azure Terratest Terraform Fluent Extension.md"
-    },
-    {
-      "basename": "Azure Terraform Modules",
-      "path": "Inbox/Terraform/Azure Terraform Modules.md"
     },
     {
       "basename": "Untitled",
@@ -187,18 +199,6 @@
     {
       "basename": "programming",
       "path": "Assets/Banners/programming.gif"
-    },
-    {
-      "basename": "Template-Code-Terraform",
-      "path": "Templates/Code-Templates/Template-Code-Terraform.md"
-    },
-    {
-      "basename": "Template-Code",
-      "path": "Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "Template-Code-YAML",
-      "path": "Templates/Code-Templates/Template-Code-YAML.md"
     }
   ],
   "omittedPaths": [],
