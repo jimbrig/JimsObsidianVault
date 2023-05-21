@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Application Factories — Flask Documentation (2.0.x)",
+      "path": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "Flask Application Factory Pattern",
+      "path": "Inbox/Flask/Flask Application Factory Pattern.md"
+    },
+    {
       "basename": "DAPR and Terraform",
       "path": "Inbox/Terraform/DAPR and Terraform.md"
     },
@@ -125,16 +141,8 @@
       "path": "Daily/2023-05-17.md"
     },
     {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
-    },
-    {
       "basename": "PowerShell Functions List",
       "path": "Inbox/PowerShell Functions List.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "PowerShell - ConvertTo-NuSpec",
@@ -191,14 +199,6 @@
     {
       "basename": "_README",
       "path": "Projects/_README.md"
-    },
-    {
-      "basename": "PowerShell-Profile",
-      "path": "Projects/PowerShell-Profile.md"
-    },
-    {
-      "basename": "programming",
-      "path": "Assets/Banners/programming.gif"
     }
   ],
   "omittedPaths": [],

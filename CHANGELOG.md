@@ -1,3 +1,5 @@
+- 2023-05-21 at 14h32 · [[Application Factories — Flask Documentation (2.0.x)]]
+- 2023-05-21 at 14h32 · [[Flask Application Factory Pattern]]
 - 2023-05-20 at 22h42 · [[DAPR and Terraform]]
 - 2023-05-20 at 22h41 · [[DAPR]]
 - 2023-05-20 at 22h40 · [[_README]]
@@ -46,5 +48,3 @@
 - 2023-05-17 at 19h54 · [[PowerShell-Profile]]
 - 2023-05-17 at 19h53 · [[_README]]
 - 2023-05-17 at 19h52 · [[Template-Folder-README]]
-- 2023-05-17 at 19h08 · [[Template-Code]]
-- 2023-05-17 at 19h07 · [[Template-Code-Terraform]]

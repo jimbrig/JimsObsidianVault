@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Terraform/DAPR and Terraform.md",
+                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
                 "mode": "preview",
                 "backlinks": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Terraform/DAPR and Terraform.md"
+                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Terraform/DAPR and Terraform.md",
+                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Terraform/DAPR and Terraform.md",
+                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,8 +264,13 @@
   },
   "active": "bb1021f031d9dbe4",
   "lastOpenFiles": [
-    "Inbox/DAPR.md",
+    "CHANGELOG.md",
+    "HOME.md",
+    "Inbox/Flask/Flask Application Factory Pattern.md",
+    "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
     "Inbox/Terraform/DAPR and Terraform.md",
+    "Inbox/Flask",
+    "Inbox/DAPR.md",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module/_README.md",
     "Inbox/Terraform/Azure Terraform Modules/Azure Terratest Terraform Fluent Extension.md",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
@@ -294,12 +299,7 @@
     "Definitions",
     "Inbox/ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
     "Inbox/Links.md",
-    "Inbox/Obsidian Browser Extensions.md",
-    "Inbox/Setting up R and RStudio on Ubuntu.md",
-    "Daily/2023-05-20.md",
-    "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md",
     "Omnivore/2023-05-19",
-    "Omnivore",
     "Assets/Banners/programming.gif"
   ]
 }
