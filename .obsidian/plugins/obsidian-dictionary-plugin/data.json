@@ -3,7 +3,7 @@
   "defaultLanguage": "en_US",
   "normalLang": "en_US",
   "shouldShowSynonymPopover": true,
-  "shouldShowCustomContextMenu": false,
+  "shouldShowCustomContextMenu": true,
   "apiSettings": {
     "en_US": {
       "definitionApiName": "Free Dictionary API",
@@ -64,11 +64,11 @@
   },
   "partOfSpeechApiName": "Systran API",
   "advancedSynonymAnalysis": false,
-  "useCaching": false,
-  "folder": "",
+  "useCaching": true,
+  "folder": "Definitions",
   "capitalizedFileName": true,
   "prefix": "",
-  "suffix": " ({{lang}})",
+  "suffix": "",
   "template": "---\n# {{notice}}\naliases: [\"{{word}}\"]\n---\n\n# {{word}}\n\n## {{pronunciationHeader}}\n\n{{phoneticList}}\n\n## {{meaningHeader}}\n\n{{meanings}}\n\n## {{originHeader}}\n\n{{origin}}\n",
   "languageSpecificSubFolders": false
 }

@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Inbox/Terraform/Codex/_README.md"
+    },
+    {
+      "basename": "Version Upgrade Tests",
+      "path": "Inbox/Terraform/Codex/Tests/Version Upgrade Tests.md"
+    },
+    {
+      "basename": "Unit Tests",
+      "path": "Inbox/Terraform/Codex/Tests/Unit Tests.md"
+    },
+    {
+      "basename": "Testing Code",
+      "path": "Inbox/Terraform/Codex/Tests/Testing Code.md"
+    },
+    {
+      "basename": "End-to-End (e2e) Tests",
+      "path": "Inbox/Terraform/Codex/Tests/End-to-End (e2e) Tests.md"
+    },
+    {
+      "basename": "Logical Code of a Terraform Module",
+      "path": "Inbox/Terraform/Codex/Logic/Logical Code of a Terraform Module.md"
+    },
+    {
+      "basename": "Terraform Module Development",
+      "path": "Inbox/Terraform/Codex/Terraform Module Development.md"
+    },
+    {
+      "basename": "Including Examples for Terraform Modules",
+      "path": "Inbox/Terraform/Codex/Including Examples for Terraform Modules.md"
+    },
+    {
+      "basename": "Azure Terratest Terraform Fluent Extension",
+      "path": "Inbox/Terraform/Azure Terratest Terraform Fluent Extension.md"
+    },
+    {
+      "basename": "Azure Terraform Modules",
+      "path": "Inbox/Terraform/Azure Terraform Modules.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Inbox/Terraform/Untitled.md"
+    },
+    {
+      "basename": "Terraform - versions.tf",
+      "path": "Inbox/Terraform/Codex/Logic/Terraform - versions.tf.md"
+    },
+    {
+      "basename": "Terraform - variables.tf",
+      "path": "Inbox/Terraform/Codex/Logic/Terraform - variables.tf.md"
+    },
+    {
+      "basename": "Terraform Modules - Resources",
+      "path": "Inbox/Terraform/Codex/Logic/Terraform Modules - Resources.md"
+    },
+    {
+      "basename": "Terraform - outputs.tf",
+      "path": "Inbox/Terraform/Codex/Logic/Terraform - outputs.tf.md"
+    },
+    {
+      "basename": "Terraform - locals.tf",
+      "path": "Inbox/Terraform/Codex/Logic/Terraform - locals.tf.md"
+    },
+    {
+      "basename": "Idiomatic",
+      "path": "Definitions/Idiomatic.md"
+    },
+    {
+      "basename": "ps-menups-menu.psm1 at master · chrisserokaps-menu",
+      "path": "Inbox/ps-menups-menu.psm1 at master · chrisserokaps-menu.md"
+    },
+    {
+      "basename": "Links",
+      "path": "Inbox/Links.md"
+    },
+    {
+      "basename": "Obsidian Browser Extensions",
+      "path": "Inbox/Obsidian Browser Extensions.md"
+    },
+    {
+      "basename": "Setting up R and RStudio on Ubuntu",
+      "path": "Inbox/Setting up R and RStudio on Ubuntu.md"
+    },
+    {
       "basename": "2023-05-20",
       "path": "Daily/2023-05-20.md"
     },
@@ -13,16 +97,8 @@
       "path": "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md"
     },
     {
-      "basename": "ps-menups-menu.psm1 at master · chrisserokaps-menu",
-      "path": "ps-menups-menu.psm1 at master · chrisserokaps-menu.md"
-    },
-    {
       "basename": "Obsidian Clipper",
       "path": "Inbox/Clips/Obsidian Clipper.md"
-    },
-    {
-      "basename": "Obsidian Browser Extensions",
-      "path": "Obsidian Browser Extensions.md"
     },
     {
       "basename": "2023-05-19",
@@ -35,10 +111,6 @@
     {
       "basename": "2023-05-17",
       "path": "Daily/2023-05-17.md"
-    },
-    {
-      "basename": "Links",
-      "path": "Links.md"
     },
     {
       "basename": "CHANGELOG",
@@ -127,78 +199,6 @@
     {
       "basename": "Template-Code-YAML",
       "path": "Templates/Code-Templates/Template-Code-YAML.md"
-    },
-    {
-      "basename": "Template-Code-CSS",
-      "path": "Templates/Code-Templates/Template-Code-CSS.md"
-    },
-    {
-      "basename": "Template-Code-HTML",
-      "path": "Templates/Code-Templates/Template-Code-HTML.md"
-    },
-    {
-      "basename": "Template-Code-JavaScript",
-      "path": "Templates/Code-Templates/Template-Code-JavaScript.md"
-    },
-    {
-      "basename": "Template-Code-Bash",
-      "path": "Templates/Code-Templates/Template-Code-Bash.md"
-    },
-    {
-      "basename": "Template-Code-VBA",
-      "path": "Templates/Code-Templates/Template-Code-VBA.md"
-    },
-    {
-      "basename": "Template-Code-SQL",
-      "path": "Templates/Code-Templates/Template-Code-SQL.md"
-    },
-    {
-      "basename": "Template-Code-Registry",
-      "path": "Templates/Code-Templates/Template-Code-Registry.md"
-    },
-    {
-      "basename": "Template-Code-R",
-      "path": "Templates/Code-Templates/Template-Code-R.md"
-    },
-    {
-      "basename": "Template-Code-Python",
-      "path": "Templates/Code-Templates/Template-Code-Python.md"
-    },
-    {
-      "basename": "Template-Code-GHA",
-      "path": "Templates/Code-Templates/Template-Code-GHA.md"
-    },
-    {
-      "basename": "Template-Code-CMD",
-      "path": "Templates/Code-Templates/Template-Code-CMD.md"
-    },
-    {
-      "basename": "Template-Meta",
-      "path": "Templates/Template-Meta.md"
-    },
-    {
-      "basename": "Template-Person",
-      "path": "Templates/Template-Person.md"
-    },
-    {
-      "basename": "Template-Agenda",
-      "path": "Templates/Template-Agenda.md"
-    },
-    {
-      "basename": "Template-Tool",
-      "path": "Templates/Template-Tool.md"
-    },
-    {
-      "basename": "Template-MOC",
-      "path": "Templates/Template-MOC.md"
-    },
-    {
-      "basename": "Template-Development",
-      "path": "Templates/Template-Development.md"
-    },
-    {
-      "basename": "Template-Default",
-      "path": "Templates/Template-Default.md"
     }
   ],
   "omittedPaths": [],

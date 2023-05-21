@@ -58,12 +58,24 @@
             }
           },
           {
+            "id": "bb1021f031d9dbe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Terraform/Codex/_README.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            }
+          },
+          {
             "id": "70401ff95eb29ca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-20.md",
+                "file": "Inbox/Terraform/Azure Terratest Terraform Fluent Extension.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-20.md"
+                "file": "Inbox/Terraform/Codex/_README.md"
               }
             }
           },
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-20.md",
+                "file": "Inbox/Terraform/Codex/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,14 +194,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-20.md",
+                "file": "Inbox/Terraform/Codex/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "68a4def191935582",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "1ac3153552315a07",
@@ -242,44 +262,44 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "70401ff95eb29ca8",
+  "active": "bb1021f031d9dbe4",
   "lastOpenFiles": [
+    "Inbox/Terraform/Codex/Tests/Version Upgrade Tests.md",
+    "Inbox/Terraform/Codex/_README.md",
+    "Inbox/Terraform/Codex/Tests/Unit Tests.md",
+    "Inbox/Terraform/Codex/Tests/Testing Code.md",
+    "Inbox/Terraform/Codex/Tests/End-to-End (e2e) Tests.md",
+    "Inbox/Terraform/Codex/Logic/Logical Code of a Terraform Module.md",
+    "Inbox/Terraform/Codex/Terraform Module Development.md",
+    "Inbox/Terraform/Codex/Including Examples for Terraform Modules.md",
+    "Inbox/Terraform/Codex/Tests",
+    "Inbox/Terraform/Codex/Logic",
+    "Inbox/Terraform/Azure Terratest Terraform Fluent Extension.md",
+    "Inbox/Terraform/Codex",
+    "Inbox/Terraform/Azure Terraform Modules.md",
+    "Inbox/Terraform/Untitled.md",
+    "Inbox/Terraform/Codex/Logic/Terraform - versions.tf.md",
+    "Inbox/Terraform/Codex/Logic/Terraform - variables.tf.md",
+    "Inbox/Terraform/Codex/Logic/Terraform Modules - Resources.md",
+    "Inbox/Terraform/Codex/Logic/Terraform - outputs.tf.md",
+    "Inbox/Terraform/Codex/Logic/Terraform - locals.tf.md",
+    "Inbox/Terraform",
+    "Definitions/Idiomatic.md",
+    "Definitions",
+    "Inbox/ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
+    "Inbox/Links.md",
+    "Inbox/Obsidian Browser Extensions.md",
+    "Inbox/Setting up R and RStudio on Ubuntu.md",
     "Daily/2023-05-20.md",
     "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md",
-    "ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
     "Omnivore/2023-05-19/Getting Started with Omnivore.md",
     "Omnivore/2023-05-19/The Secret Power of ‘Read It Later’ Apps.md",
     "Omnivore/2023-05-19/Organize your Omnivore library with labels.md",
     "Omnivore/2023-05-19",
     "Omnivore",
-    "Inbox/Clips/Obsidian Clipper.md",
-    "Obsidian Browser Extensions.md",
     "Inbox/Clips",
-    "Daily/2023-05-19.md",
-    "Templates/Template-Daily-Note.md",
-    "Daily/2023-05-17.md",
-    "Links.md",
-    "CHANGELOG.md",
-    "Inbox/PowerShell Functions List.md",
-    "HOME.md",
-    "Code/PowerShell/PowerShell - ConvertTo-NuSpec.md",
-    "Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
-    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Code/PowerShell/_README.md",
-    "Templates/Code-Templates/Template-Code-PowerShell.md",
     "Tools",
-    "Templates/Fragment-Templates/Template-Footer.md",
-    "Templates/Fragment-Templates/Template-Frontmatter.md",
-    "Templates/Template-Folder-README.md",
     "Code/Git",
-    "Code/VBA",
-    "Code/PowerQuery",
-    "Code/_README.md",
-    "Code/YAML",
-    "Code/Registry",
-    "Code/CMD",
-    "Daily/2023/05-May/2023-05-17.md",
-    "Daily/_README.md",
     "Assets/Banners/programming.gif"
   ]
 }
