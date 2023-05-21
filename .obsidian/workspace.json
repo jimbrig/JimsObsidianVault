@@ -46,43 +46,19 @@
             }
           },
           {
-            "id": "2a2bbacfa3bb4b38",
+            "id": "1f338370082e54f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "bb1021f031d9dbe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
+                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
                 "mode": "preview",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "70401ff95eb29ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Terraform/Azure Terraform Modules/Azure Terratest Terraform Fluent Extension.md",
-                "mode": "source",
                 "backlinks": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,6 +125,7 @@
       {
         "id": "e6115b598c980f64",
         "type": "tabs",
+        "dimension": 45.90818363273453,
         "children": [
           {
             "id": "c241af3ac9a6dc5a",
@@ -167,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md"
+                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md"
               }
             }
           },
@@ -177,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
+                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
+                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +191,43 @@
       {
         "id": "1ac3153552315a07",
         "type": "tabs",
+        "dimension": 54.091816367265466,
         "children": [
+          {
+            "id": "c4e8022167a0d807",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.1846232622585813,
+                  "close": true
+                }
+              }
+            }
+          },
           {
             "id": "f0056ce105b3d8a0",
             "type": "leaf",
@@ -235,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,12 +275,20 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "bb1021f031d9dbe4",
+  "active": "1f338370082e54f0",
   "lastOpenFiles": [
+    "Inbox/Flask/_README.md",
+    "Inbox/Flask/Python Flask - Application Factory Pattern.md",
+    "Inbox/Flask/Python Flask - Modular Applications with Blueprints.md",
+    "Inbox/Flask/Python Flask - Using a Dedicated Blueprints Module Folder.md",
+    "Inbox/Clips/Modular Applications with Blueprints — Flask Documentation (2.3.x).md",
+    "Inbox/Flask/Flask Application Factory Pattern.md",
+    "Daily/2023-05-21.md",
+    "Inbox/Clips/Obsidian Clipper.md",
+    "Omnivore/2023-05-19/Organize your Omnivore library with labels.md",
+    "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
     "CHANGELOG.md",
     "HOME.md",
-    "Inbox/Flask/Flask Application Factory Pattern.md",
-    "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
     "Inbox/Terraform/DAPR and Terraform.md",
     "Inbox/Flask",
     "Inbox/DAPR.md",
@@ -289,16 +310,8 @@
     "Inbox/Terraform/Codex/Logic",
     "Inbox/Terraform/Codex",
     "Inbox/Terraform/Untitled.md",
-    "Inbox/Terraform/Codex/Logic/Terraform - versions.tf.md",
-    "Inbox/Terraform/Codex/Logic/Terraform - variables.tf.md",
-    "Inbox/Terraform/Codex/Logic/Terraform Modules - Resources.md",
-    "Inbox/Terraform/Codex/Logic/Terraform - outputs.tf.md",
-    "Inbox/Terraform/Codex/Logic/Terraform - locals.tf.md",
     "Inbox/Terraform",
-    "Definitions/Idiomatic.md",
     "Definitions",
-    "Inbox/ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
-    "Inbox/Links.md",
     "Omnivore/2023-05-19",
     "Assets/Banners/programming.gif"
   ]

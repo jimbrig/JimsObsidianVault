@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Application Factories — Flask Documentation (2.0.x)",
-      "path": "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md"
+      "basename": "Python Flask - Application Factory Pattern",
+      "path": "Inbox/Flask/Python Flask - Application Factory Pattern.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Inbox/Flask/_README.md"
+    },
+    {
+      "basename": "Python Flask - Modular Applications with Blueprints",
+      "path": "Inbox/Flask/Python Flask - Modular Applications with Blueprints.md"
+    },
+    {
+      "basename": "Python Flask - Using a Dedicated Blueprints Module Folder",
+      "path": "Inbox/Flask/Python Flask - Using a Dedicated Blueprints Module Folder.md"
+    },
+    {
+      "basename": "2023-05-21",
+      "path": "Daily/2023-05-21.md"
+    },
+    {
+      "basename": "Obsidian Clipper",
+      "path": "Inbox/Clips/Obsidian Clipper.md"
+    },
+    {
+      "basename": "Organize your Omnivore library with labels",
+      "path": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md"
     },
     {
       "basename": "CHANGELOG",
@@ -11,10 +35,6 @@
     {
       "basename": "HOME",
       "path": "HOME.md"
-    },
-    {
-      "basename": "Flask Application Factory Pattern",
-      "path": "Inbox/Flask/Flask Application Factory Pattern.md"
     },
     {
       "basename": "DAPR and Terraform",
@@ -117,16 +137,8 @@
       "path": "Daily/2023-05-20.md"
     },
     {
-      "basename": "Organize your Omnivore library with labels",
-      "path": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md"
-    },
-    {
       "basename": "notes-01-poisson.md at main · actuarialopensource-notes · GitHub",
       "path": "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md"
-    },
-    {
-      "basename": "Obsidian Clipper",
-      "path": "Inbox/Clips/Obsidian Clipper.md"
     },
     {
       "basename": "2023-05-19",
@@ -187,18 +199,6 @@
     {
       "basename": "_README",
       "path": "Daily/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "MOCs/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Inbox/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Projects/_README.md"
     }
   ],
   "omittedPaths": [],
