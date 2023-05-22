@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Code-Templates/Template-Code.md",
+                "file": "Inbox/Software for the Digital Life.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Code-Templates/Template-Code.md"
+                "file": "Inbox/Software for the Digital Life.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Code-Templates/Template-Code.md",
+                "file": "Inbox/Software for the Digital Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Code-Templates/Template-Code.md",
+                "file": "Inbox/Software for the Digital Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Code-Templates/Template-Code.md",
+                "file": "Inbox/Software for the Digital Life.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,6 +278,20 @@
   },
   "active": "1f338370082e54f0",
   "lastOpenFiles": [
+    "MOCs/MOC - Microsoft.md",
+    "Inbox/Software for the Digital Life.md",
+    "MOCs/MOC - PowerShell.md",
+    "MOCs/MOC - R.md",
+    "MOCs/MOC - Python.md",
+    "MOCs/MOC - Cloud Architecture.md",
+    "MOCs/MOC - Data Engineering.md",
+    "MOCs/MOC - Science - Physics.md",
+    "MOCs/MOC - Math and Statistics.md",
+    "MOCs/MOC - Technology.md",
+    "MOCs/MOC - PKM.md",
+    "MOCs/MOC - Productivity.md",
+    "MOCs/MOC - Software.md",
+    "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-PowerShell.md",
     "Templates/Code-Templates/Template-Code-Python.md",
     "Templates/Code-Templates/Template-Code-JavaScript.md",
@@ -286,25 +300,11 @@
     "Templates/Code-Templates/Template-Code-CSS.md",
     "Templates/Code-Templates/Template-Code-CMD.md",
     "Templates/Code-Templates/Template-Code-Bash.md",
-    "Templates/Code-Templates/Template-Code.md",
     "MOCs/MOC - Development.md",
     "Daily/2023-05-22.md",
     "Inbox/Flask/Python Flask - Application Factory Pattern.md",
     "Inbox/Flask/_README.md",
-    "Inbox/Flask/Python Flask - Modular Applications with Blueprints.md",
-    "Inbox/Flask/Python Flask - Using a Dedicated Blueprints Module Folder.md",
-    "Inbox/Clips/Modular Applications with Blueprints — Flask Documentation (2.3.x).md",
-    "Inbox/Flask/Flask Application Factory Pattern.md",
-    "Daily/2023-05-21.md",
-    "Inbox/Clips/Obsidian Clipper.md",
-    "Omnivore/2023-05-19/Organize your Omnivore library with labels.md",
-    "Inbox/Clips/Application Factories — Flask Documentation (2.0.x).md",
-    "CHANGELOG.md",
-    "HOME.md",
-    "Inbox/Terraform/DAPR and Terraform.md",
     "Inbox/Flask",
-    "Inbox/DAPR.md",
-    "Inbox/Terraform/Azure Terraform Modules/Container Apps Module/_README.md",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
     "Inbox/Terraform/Azure Terraform Modules",

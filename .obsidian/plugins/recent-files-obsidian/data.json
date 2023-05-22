@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Software for the Digital Life",
+      "path": "Inbox/Software for the Digital Life.md"
+    },
+    {
+      "basename": "MOC - Microsoft",
+      "path": "MOCs/MOC - Microsoft.md"
+    },
+    {
+      "basename": "MOC - PowerShell",
+      "path": "MOCs/MOC - PowerShell.md"
+    },
+    {
+      "basename": "MOC - R",
+      "path": "MOCs/MOC - R.md"
+    },
+    {
+      "basename": "MOC - Python",
+      "path": "MOCs/MOC - Python.md"
+    },
+    {
+      "basename": "MOC - Cloud Architecture",
+      "path": "MOCs/MOC - Cloud Architecture.md"
+    },
+    {
+      "basename": "MOC - Data Engineering",
+      "path": "MOCs/MOC - Data Engineering.md"
+    },
+    {
+      "basename": "MOC - Science - Physics",
+      "path": "MOCs/MOC - Science - Physics.md"
+    },
+    {
+      "basename": "MOC - Math and Statistics",
+      "path": "MOCs/MOC - Math and Statistics.md"
+    },
+    {
+      "basename": "MOC - Technology",
+      "path": "MOCs/MOC - Technology.md"
+    },
+    {
+      "basename": "MOC - PKM",
+      "path": "MOCs/MOC - PKM.md"
+    },
+    {
+      "basename": "MOC - Productivity",
+      "path": "MOCs/MOC - Productivity.md"
+    },
+    {
+      "basename": "MOC - Software",
+      "path": "MOCs/MOC - Software.md"
+    },
+    {
       "basename": "Template-Code",
       "path": "Templates/Code-Templates/Template-Code.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Terraform Modules - Resources",
       "path": "Inbox/Terraform/Codex/Logic/Terraform Modules - Resources.md"
-    },
-    {
-      "basename": "Terraform - outputs.tf",
-      "path": "Inbox/Terraform/Codex/Logic/Terraform - outputs.tf.md"
-    },
-    {
-      "basename": "Terraform - locals.tf",
-      "path": "Inbox/Terraform/Codex/Logic/Terraform - locals.tf.md"
-    },
-    {
-      "basename": "Idiomatic",
-      "path": "Definitions/Idiomatic.md"
-    },
-    {
-      "basename": "ps-menups-menu.psm1 at master · chrisserokaps-menu",
-      "path": "Inbox/ps-menups-menu.psm1 at master · chrisserokaps-menu.md"
-    },
-    {
-      "basename": "Links",
-      "path": "Inbox/Links.md"
-    },
-    {
-      "basename": "Obsidian Browser Extensions",
-      "path": "Inbox/Obsidian Browser Extensions.md"
-    },
-    {
-      "basename": "Setting up R and RStudio on Ubuntu",
-      "path": "Inbox/Setting up R and RStudio on Ubuntu.md"
-    },
-    {
-      "basename": "2023-05-20",
-      "path": "Daily/2023-05-20.md"
-    },
-    {
-      "basename": "notes-01-poisson.md at main · actuarialopensource-notes · GitHub",
-      "path": "Omnivore/2023-05-19/notes-01-poisson.md at main · actuarialopensource-notes · GitHub.md"
-    },
-    {
-      "basename": "2023-05-19",
-      "path": "Daily/2023-05-19.md"
-    },
-    {
-      "basename": "Template-Daily-Note",
-      "path": "Templates/Template-Daily-Note.md"
-    },
-    {
-      "basename": "2023-05-17",
-      "path": "Daily/2023-05-17.md"
-    },
-    {
-      "basename": "PowerShell Functions List",
-      "path": "Inbox/PowerShell Functions List.md"
     }
   ],
   "omittedPaths": [],
