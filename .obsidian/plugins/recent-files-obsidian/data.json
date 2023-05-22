@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-22",
+      "path": "Daily/2023-05-22.md"
+    },
+    {
       "basename": "Python Flask - Application Factory Pattern",
       "path": "Inbox/Flask/Python Flask - Application Factory Pattern.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-05-17",
       "path": "Daily/2023/05-May/2023-05-17.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Daily/_README.md"
     }
   ],
   "omittedPaths": [],

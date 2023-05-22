@@ -51,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
-                "mode": "preview",
+                "file": "Daily/2023-05-22.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 271.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md"
+                "file": "Daily/2023-05-22.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
+                "file": "Daily/2023-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
+                "file": "Daily/2023-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Flask/Python Flask - Application Factory Pattern.md",
+                "file": "Daily/2023-05-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 484.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,8 +278,9 @@
   },
   "active": "1f338370082e54f0",
   "lastOpenFiles": [
-    "Inbox/Flask/_README.md",
+    "Daily/2023-05-22.md",
     "Inbox/Flask/Python Flask - Application Factory Pattern.md",
+    "Inbox/Flask/_README.md",
     "Inbox/Flask/Python Flask - Modular Applications with Blueprints.md",
     "Inbox/Flask/Python Flask - Using a Dedicated Blueprints Module Folder.md",
     "Inbox/Clips/Modular Applications with Blueprints — Flask Documentation (2.3.x).md",
@@ -309,7 +311,6 @@
     "Inbox/Terraform/Codex/Tests",
     "Inbox/Terraform/Codex/Logic",
     "Inbox/Terraform/Codex",
-    "Inbox/Terraform/Untitled.md",
     "Inbox/Terraform",
     "Definitions",
     "Omnivore/2023-05-19",
