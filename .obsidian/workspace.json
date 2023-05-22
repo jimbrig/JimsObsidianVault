@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-22.md",
+                "file": "Templates/Code-Templates/Template-Code.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-22.md"
+                "file": "Templates/Code-Templates/Template-Code.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-22.md",
+                "file": "Templates/Code-Templates/Template-Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-22.md",
+                "file": "Templates/Code-Templates/Template-Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-05-22.md",
+                "file": "Templates/Code-Templates/Template-Code.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,6 +278,16 @@
   },
   "active": "1f338370082e54f0",
   "lastOpenFiles": [
+    "Templates/Code-Templates/Template-Code-PowerShell.md",
+    "Templates/Code-Templates/Template-Code-Python.md",
+    "Templates/Code-Templates/Template-Code-JavaScript.md",
+    "Templates/Code-Templates/Template-Code-HTML.md",
+    "Templates/Code-Templates/Template-Code-GHA.md",
+    "Templates/Code-Templates/Template-Code-CSS.md",
+    "Templates/Code-Templates/Template-Code-CMD.md",
+    "Templates/Code-Templates/Template-Code-Bash.md",
+    "Templates/Code-Templates/Template-Code.md",
+    "MOCs/MOC - Development.md",
     "Daily/2023-05-22.md",
     "Inbox/Flask/Python Flask - Application Factory Pattern.md",
     "Inbox/Flask/_README.md",
@@ -295,19 +305,9 @@
     "Inbox/Flask",
     "Inbox/DAPR.md",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module/_README.md",
-    "Inbox/Terraform/Azure Terraform Modules/Azure Terratest Terraform Fluent Extension.md",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
-    "Inbox/Terraform/Azure Terraform Modules/Azure Terraform Modules.md",
-    "Inbox/Terraform/Codex/_README.md",
     "Inbox/Terraform/Azure Terraform Modules",
-    "Inbox/Terraform/Codex/Tests/Version Upgrade Tests.md",
-    "Inbox/Terraform/Codex/Tests/Unit Tests.md",
-    "Inbox/Terraform/Codex/Tests/Testing Code.md",
-    "Inbox/Terraform/Codex/Tests/End-to-End (e2e) Tests.md",
-    "Inbox/Terraform/Codex/Logic/Logical Code of a Terraform Module.md",
-    "Inbox/Terraform/Codex/Terraform Module Development.md",
-    "Inbox/Terraform/Codex/Including Examples for Terraform Modules.md",
     "Inbox/Terraform/Codex/Tests",
     "Inbox/Terraform/Codex/Logic",
     "Inbox/Terraform/Codex",

@@ -1,3 +1,5 @@
+- 2023-05-22 at 01h00 · [[Template-Code]]
+- 2023-05-22 at 00h59 · [[MOC - Development]]
 - 2023-05-22 at 00h59 · [[2023-05-22]]
 - 2023-05-21 at 15h13 · [[_README]]
 - 2023-05-21 at 15h10 · [[Python Flask - Modular Applications with Blueprints]]
@@ -46,5 +48,3 @@
 - 2023-05-17 at 20h11 · [[Template-Code-PowerShell]]
 - 2023-05-17 at 20h09 · [[Template-Footer]]
 - 2023-05-17 at 20h05 · [[_README]]
-- 2023-05-17 at 19h58 · [[_README]]
-- 2023-05-17 at 19h55 · [[_README]]
