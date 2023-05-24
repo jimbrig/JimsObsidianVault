@@ -1,3 +1,4 @@
+- 2023-05-23 at 20h05 · [[2023-05-23]]
 - 2023-05-22 at 01h15 · [[Software for the Digital Life]]
 - 2023-05-22 at 01h06 · [[MOC - Microsoft]]
 - 2023-05-22 at 01h06 · [[MOC - PowerShell]]
@@ -47,4 +48,3 @@
 - 2023-05-19 at 22h28 · [[The Secret Power of ‘Read It Later’ Apps]]
 - 2023-05-19 at 22h28 · [[Organize your Omnivore library with labels]]
 - 2023-05-19 at 22h10 · [[ps-menups-menu.psm1 at master · chrisserokaps-menu]]
-- 2023-05-19 at 22h06 · [[Obsidian Clipper]]

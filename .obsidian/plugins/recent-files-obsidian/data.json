@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-23",
+      "path": "Daily/2023-05-23.md"
+    },
+    {
       "basename": "Software for the Digital Life",
       "path": "Inbox/Software for the Digital Life.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Terraform - variables.tf",
       "path": "Inbox/Terraform/Codex/Logic/Terraform - variables.tf.md"
-    },
-    {
-      "basename": "Terraform Modules - Resources",
-      "path": "Inbox/Terraform/Codex/Logic/Terraform Modules - Resources.md"
     }
   ],
   "omittedPaths": [],

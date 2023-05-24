@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Software for the Digital Life.md",
+                "file": "Daily/2023-05-23.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Software for the Digital Life.md"
+                "file": "Daily/2023-05-23.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Software for the Digital Life.md",
+                "file": "Daily/2023-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Software for the Digital Life.md",
+                "file": "Daily/2023-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Software for the Digital Life.md",
+                "file": "Daily/2023-05-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,8 +278,9 @@
   },
   "active": "1f338370082e54f0",
   "lastOpenFiles": [
-    "MOCs/MOC - Microsoft.md",
     "Inbox/Software for the Digital Life.md",
+    "Daily/2023-05-23.md",
+    "MOCs/MOC - Microsoft.md",
     "MOCs/MOC - PowerShell.md",
     "MOCs/MOC - R.md",
     "MOCs/MOC - Python.md",
@@ -303,7 +304,6 @@
     "MOCs/MOC - Development.md",
     "Daily/2023-05-22.md",
     "Inbox/Flask/Python Flask - Application Factory Pattern.md",
-    "Inbox/Flask/_README.md",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
