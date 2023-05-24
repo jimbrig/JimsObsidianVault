@@ -1,3 +1,4 @@
+- 2023-05-23 at 20h33 · [[Github]]
 - 2023-05-23 at 20h15 · [[PowerShell Desired State Configuration]]
 - 2023-05-23 at 20h05 · [[2023-05-23]]
 - 2023-05-22 at 01h15 · [[Software for the Digital Life]]
@@ -47,4 +48,3 @@
 - 2023-05-19 at 22h28 · [[notes-01-poisson.md at main · actuarialopensource-notes · GitHub]]
 - 2023-05-19 at 22h28 · [[Getting Started with Omnivore]]
 - 2023-05-19 at 22h28 · [[The Secret Power of ‘Read It Later’ Apps]]
-- 2023-05-19 at 22h28 · [[Organize your Omnivore library with labels]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Github",
+      "path": "Github.md"
+    },
+    {
       "basename": "PowerShell Desired State Configuration",
       "path": "Inbox/PowerShell Desired State Configuration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Inbox/Terraform/Untitled.md"
-    },
-    {
-      "basename": "Terraform - versions.tf",
-      "path": "Inbox/Terraform/Codex/Logic/Terraform - versions.tf.md"
     }
   ],
   "omittedPaths": [],

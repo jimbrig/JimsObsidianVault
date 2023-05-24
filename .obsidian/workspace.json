@@ -56,9 +56,21 @@
                 "backlinks": true
               }
             }
+          },
+          {
+            "id": "8d508ca66f410287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/PowerShell Desired State Configuration.md"
+                "file": "Github.md"
               }
             }
           },
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/PowerShell Desired State Configuration.md",
+                "file": "Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/PowerShell Desired State Configuration.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/PowerShell Desired State Configuration.md",
+                "file": "Github.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,10 +288,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "1f338370082e54f0",
+  "active": "8d508ca66f410287",
   "lastOpenFiles": [
-    "Daily/2023-05-23.md",
     "Inbox/PowerShell Desired State Configuration.md",
+    "Github.md",
+    "Daily/2023-05-23.md",
     "Inbox/Software for the Digital Life.md",
     "MOCs/MOC - Microsoft.md",
     "MOCs/MOC - PowerShell.md",
@@ -303,7 +316,6 @@
     "Templates/Code-Templates/Template-Code-CMD.md",
     "Templates/Code-Templates/Template-Code-Bash.md",
     "MOCs/MOC - Development.md",
-    "Daily/2023-05-22.md",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
