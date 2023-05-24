@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/PowerShell Desired State Configuration.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Inbox/PowerShell Desired State Configuration.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/PowerShell Desired State Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/PowerShell Desired State Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/PowerShell Desired State Configuration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,7 @@
   "active": "1f338370082e54f0",
   "lastOpenFiles": [
     "Daily/2023-05-23.md",
-    "Inbox/Untitled.md",
+    "Inbox/PowerShell Desired State Configuration.md",
     "Inbox/Software for the Digital Life.md",
     "MOCs/MOC - Microsoft.md",
     "MOCs/MOC - PowerShell.md",
