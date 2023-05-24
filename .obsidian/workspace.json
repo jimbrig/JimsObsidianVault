@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-23.md",
+                "file": "Inbox/Untitled.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-23.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-23.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-23.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-05-23.md",
+                "file": "Inbox/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,8 +278,9 @@
   },
   "active": "1f338370082e54f0",
   "lastOpenFiles": [
-    "Inbox/Software for the Digital Life.md",
     "Daily/2023-05-23.md",
+    "Inbox/Untitled.md",
+    "Inbox/Software for the Digital Life.md",
     "MOCs/MOC - Microsoft.md",
     "MOCs/MOC - PowerShell.md",
     "MOCs/MOC - R.md",
@@ -303,7 +304,6 @@
     "Templates/Code-Templates/Template-Code-Bash.md",
     "MOCs/MOC - Development.md",
     "Daily/2023-05-22.md",
-    "Inbox/Flask/Python Flask - Application Factory Pattern.md",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
