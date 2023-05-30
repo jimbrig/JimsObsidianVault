@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell-Profile",
+      "path": "Projects/PowerShell-Profile.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Projects/_README.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "2023-05-30",
       "path": "Daily/2023-05-30.md"
     },
@@ -149,10 +161,6 @@
       "path": "CHANGELOG.md"
     },
     {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
       "basename": "DAPR and Terraform",
       "path": "Inbox/Terraform/DAPR and Terraform.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "End-to-End (e2e) Tests",
       "path": "Inbox/Terraform/Codex/Tests/End-to-End (e2e) Tests.md"
-    },
-    {
-      "basename": "Logical Code of a Terraform Module",
-      "path": "Inbox/Terraform/Codex/Logic/Logical Code of a Terraform Module.md"
-    },
-    {
-      "basename": "Terraform Module Development",
-      "path": "Inbox/Terraform/Codex/Terraform Module Development.md"
     }
   ],
   "omittedPaths": [],

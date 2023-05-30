@@ -83,8 +83,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-30.md",
-                "mode": "source",
+                "file": "Projects/PowerShell-Profile.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-30.md"
+                "file": "Projects/PowerShell-Profile.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-30.md",
+                "file": "Projects/PowerShell-Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-30.md",
+                "file": "Projects/PowerShell-Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-05-30.md",
+                "file": "Projects/PowerShell-Profile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,6 +310,8 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Projects/_README.md",
+    "HOME.md",
     "Daily/2023-05-30.md",
     "Daily/2023-05-28.md",
     "Inbox/PowerShell Desired State Configuration.md",
@@ -334,8 +336,6 @@
     "Templates/Code-Templates/Template-Code-JavaScript.md",
     "Templates/Code-Templates/Template-Code-HTML.md",
     "Templates/Code-Templates/Template-Code-GHA.md",
-    "Templates/Code-Templates/Template-Code-CSS.md",
-    "Templates/Code-Templates/Template-Code-CMD.md",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
