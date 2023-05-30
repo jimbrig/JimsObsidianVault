@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-30",
+      "path": "Daily/2023-05-30.md"
+    },
+    {
       "basename": "2023-05-28",
       "path": "Daily/2023-05-28.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Terraform Module Development",
       "path": "Inbox/Terraform/Codex/Terraform Module Development.md"
-    },
-    {
-      "basename": "Including Examples for Terraform Modules",
-      "path": "Inbox/Terraform/Codex/Including Examples for Terraform Modules.md"
     }
   ],
   "omittedPaths": [],
