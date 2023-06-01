@@ -83,8 +83,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
-                "mode": "source",
+                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md"
+                "file": "Code/CMD/Cmd - Create Network Performance Report.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
+                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
+                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
+                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,16 +310,17 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Code/Bash/Bash - Git Auto Commit.md",
+    "Code/CMD/Cmd - Create Network Performance Report.md",
+    "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
     "Code/Bash/_README.md",
     "Code/Bash/Install Scripts/Bash - Install Zsh and oh-my-zsh.md",
     "Code/Bash/Install Scripts/Bash - Install WSLU.md",
     "Code/Bash/Install Scripts/Bash - Install NVM Node and NPM.md",
     "Code/Bash/Bash - WSL Sample Setup Script.md",
     "Code/Bash/Bash - WSL Use SSH Keys from Windows Host.md",
-    "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
     "Code/Bash/Install Scripts/Bash - Install HomeBrew.md",
     "Code/Bash/Install Scripts",
-    "Code/Bash/Bash - Git-Auto.md",
     "Code/PowerShell/PowerShell - GitHub Downloads.md",
     "Code/PowerShell/PowerShell - ConvertTo-NuSpec.md",
     "Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
@@ -336,7 +337,6 @@
     "Templates/Code-Templates/Template-Code-YAML.md",
     "Templates/Code-Templates/Template-Code-VBA.md",
     "Templates/Code-Templates/Template-Code-Terraform.md",
-    "Templates/Code-Templates/Template-Code-SQL.md",
     "Assets/Banners/programming.gif",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",

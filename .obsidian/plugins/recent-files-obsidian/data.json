@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Cmd - Create Network Performance Report",
+      "path": "Code/CMD/Cmd - Create Network Performance Report.md"
+    },
+    {
+      "basename": "Bash - Git Auto Commit",
+      "path": "Code/Bash/Bash - Git Auto Commit.md"
+    },
+    {
       "basename": "Bash - WSL Set Default Browser to Windows Host",
       "path": "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Bash - Install HomeBrew",
       "path": "Code/Bash/Install Scripts/Bash - Install HomeBrew.md"
-    },
-    {
-      "basename": "Bash - Git-Auto",
-      "path": "Code/Bash/Bash - Git-Auto.md"
     },
     {
       "basename": "PowerShell - GitHub Downloads",
@@ -195,10 +199,6 @@
     {
       "basename": "MOC - Python",
       "path": "MOCs/MOC - Python.md"
-    },
-    {
-      "basename": "MOC - Cloud Architecture",
-      "path": "MOCs/MOC - Cloud Architecture.md"
     }
   ],
   "omittedPaths": [],
