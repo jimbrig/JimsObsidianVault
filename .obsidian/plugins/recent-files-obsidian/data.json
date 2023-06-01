@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - Reset Windows Update Components",
+      "path": "Code/PowerShell/PowerShell - Reset Windows Update Components.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Code/CMD/Untitled.md"
+    },
+    {
+      "basename": "Cmd - Flush DNS",
+      "path": "Code/CMD/Cmd - Flush DNS.md"
+    },
+    {
+      "basename": "Cmd - DISKPART",
+      "path": "Code/CMD/Cmd - DISKPART.md"
+    },
+    {
+      "basename": "Cmd - Troubleshooters",
+      "path": "Code/CMD/Cmd - Troubleshooters.md"
+    },
+    {
+      "basename": "Cmd - Run WinSAT Diagnostics",
+      "path": "Code/CMD/Cmd - Run WinSAT Diagnostics.md"
+    },
+    {
+      "basename": "Cmd - Run Hardware Diagnostics Troubleshooter",
+      "path": "Code/CMD/Cmd - Run Hardware Diagnostics Troubleshooter.md"
+    },
+    {
+      "basename": "Cmd - Retrieve Windows Credential Manager Stored Secrets",
+      "path": "Code/CMD/Cmd - Retrieve Windows Credential Manager Stored Secrets.md"
+    },
+    {
+      "basename": "Cmd - Retrieve WiFi Passwords",
+      "path": "Code/CMD/Cmd - Retrieve WiFi Passwords.md"
+    },
+    {
+      "basename": "Cmd - Restart Explorer and Start Menu",
+      "path": "Code/CMD/Cmd - Restart Explorer and Start Menu.md"
+    },
+    {
+      "basename": "Cmd - Memory Diagnostic",
+      "path": "Code/CMD/Cmd - Memory Diagnostic.md"
+    },
+    {
+      "basename": "Cmd - Extended Disk Cleanup",
+      "path": "Code/CMD/Cmd - Extended Disk Cleanup.md"
+    },
+    {
+      "basename": "Cmd - DISM",
+      "path": "Code/CMD/Cmd - DISM.md"
+    },
+    {
       "basename": "Cmd - Create Network Performance Report",
       "path": "Code/CMD/Cmd - Create Network Performance Report.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "programming",
       "path": "Assets/Banners/programming.gif"
-    },
-    {
-      "basename": "Obsidian Setup",
-      "path": "Inbox/Obsidian Setup.md"
-    },
-    {
-      "basename": "2023-05-31",
-      "path": "Daily/2023-05-31.md"
-    },
-    {
-      "basename": "PowerShell-Profile",
-      "path": "Projects/PowerShell-Profile.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Projects/_README.md"
-    },
-    {
-      "basename": "2023-05-30",
-      "path": "Daily/2023-05-30.md"
-    },
-    {
-      "basename": "2023-05-28",
-      "path": "Daily/2023-05-28.md"
-    },
-    {
-      "basename": "Github",
-      "path": "Github.md"
-    },
-    {
-      "basename": "PowerShell Desired State Configuration",
-      "path": "Inbox/PowerShell Desired State Configuration.md"
-    },
-    {
-      "basename": "2023-05-23",
-      "path": "Daily/2023-05-23.md"
-    },
-    {
-      "basename": "Software for the Digital Life",
-      "path": "Inbox/Software for the Digital Life.md"
-    },
-    {
-      "basename": "MOC - Microsoft",
-      "path": "MOCs/MOC - Microsoft.md"
-    },
-    {
-      "basename": "MOC - PowerShell",
-      "path": "MOCs/MOC - PowerShell.md"
-    },
-    {
-      "basename": "MOC - R",
-      "path": "MOCs/MOC - R.md"
     }
   ],
   "omittedPaths": [],

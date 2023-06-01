@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
+                "file": "Code/PowerShell/PowerShell - Reset Windows Update Components.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/CMD/Cmd - Create Network Performance Report.md"
+                "file": "Code/PowerShell/PowerShell - Reset Windows Update Components.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
+                "file": "Code/PowerShell/PowerShell - Reset Windows Update Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
+                "file": "Code/PowerShell/PowerShell - Reset Windows Update Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/CMD/Cmd - Create Network Performance Report.md",
+                "file": "Code/PowerShell/PowerShell - Reset Windows Update Components.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,10 +308,23 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "c37eecb9471a9646",
   "lastOpenFiles": [
-    "Assets/Reports/wlan-report.md",
+    "Code/CMD/Untitled.md",
+    "Code/PowerShell/PowerShell - Reset Windows Update Components.md",
+    "Code/CMD/Cmd - Flush DNS.md",
+    "Code/CMD/Cmd - DISKPART.md",
+    "Code/CMD/Cmd - Troubleshooters.md",
+    "Code/CMD/Cmd - Run WinSAT Diagnostics.md",
+    "Code/CMD/Cmd - Run Hardware Diagnostics Troubleshooter.md",
+    "Code/CMD/Cmd - Retrieve Windows Credential Manager Stored Secrets.md",
+    "Code/CMD/Cmd - Retrieve WiFi Passwords.md",
+    "Code/CMD/Cmd - Restart Explorer and Start Menu.md",
+    "Code/CMD/Cmd - Memory Diagnostic.md",
+    "Code/CMD/Cmd - Extended Disk Cleanup.md",
+    "Code/CMD/Cmd - DISM.md",
     "Code/CMD/Cmd - Create Network Performance Report.md",
+    "Assets/Reports/wlan-report.md",
     "Assets/Reports",
     "Code/CMD/Untitled",
     "Assets/Reports/wlan-report.html",
@@ -327,19 +340,6 @@
     "Code/Bash/Install Scripts",
     "Code/PowerShell/PowerShell - GitHub Downloads.md",
     "Code/PowerShell/PowerShell - ConvertTo-NuSpec.md",
-    "Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
-    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Code/PowerShell/_README.md",
-    "Code/Bash/Bash - GitHub Downloads.md",
-    "Windows Command Line.md",
-    "Templates/Template-Default.md",
-    "Templates/Code-Templates/Template-Code-CMD.md",
-    "Templates/Code-Templates/Template-Code-Bash.md",
-    "Templates/Code-Templates/Template-Code-HTML.md",
-    "Templates/Code-Templates/Template-Code-GHA.md",
-    "Templates/Code-Templates/Template-Code-CSS.md",
-    "Templates/Code-Templates/Template-Code-YAML.md",
-    "Templates/Code-Templates/Template-Code-VBA.md",
     "Assets/Banners/programming.gif",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",

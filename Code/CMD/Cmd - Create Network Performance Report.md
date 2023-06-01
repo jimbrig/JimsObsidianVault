@@ -18,7 +18,14 @@ Alias: [ "Create Network Performance Report" ]
 
 ## Contents
 
-[TOC]
+- [Code](#code)
+- [Output](#output)
+	- [Full Report](#full-report)
+- [Appendix: Links and References](#appendix-links-and-references)
+	- [Internal Linked Notes](#internal-linked-notes)
+	- [External References](#external-references)
+		- [Backlinks](#backlinks)
+
 
 ## Code
 
@@ -34,18 +41,11 @@ netsh wlan show wlanreport
 
 Resulting file should be created under `C:/ProgramData/Microsoft/Windows/WlanReport/`:
 
-<iframe src="https://codebeautify.org/htmlviewer/y23cad734" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+- [[wlan-report.html]]:
 
-![[wlan-report.html]]
+### Full Report
 
-
-## Details
-
-
-> [!NOTE]
-> Details about what the code does.
-
-
+![](https://i.imgur.com/K8OAF3c.jpg)
 
 ***
 
