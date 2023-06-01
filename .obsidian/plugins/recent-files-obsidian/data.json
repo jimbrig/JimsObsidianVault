@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Setup",
+      "path": "Inbox/Obsidian Setup.md"
+    },
+    {
       "basename": "2023-05-31",
       "path": "Daily/2023-05-31.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Unit Tests",
       "path": "Inbox/Terraform/Codex/Tests/Unit Tests.md"
-    },
-    {
-      "basename": "Testing Code",
-      "path": "Inbox/Terraform/Codex/Tests/Testing Code.md"
     }
   ],
   "omittedPaths": [],

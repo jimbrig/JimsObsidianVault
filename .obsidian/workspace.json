@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-31.md",
+                "file": "Inbox/Obsidian Setup.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-31.md"
+                "file": "Inbox/Obsidian Setup.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-31.md",
+                "file": "Inbox/Obsidian Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-31.md",
+                "file": "Inbox/Obsidian Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-05-31.md",
+                "file": "Inbox/Obsidian Setup.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,8 +310,9 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
-    "Projects/PowerShell-Profile.md",
     "Daily/2023-05-31.md",
+    "Inbox/Obsidian Setup.md",
+    "Projects/PowerShell-Profile.md",
     "Projects/_README.md",
     "HOME.md",
     "Daily/2023-05-30.md",
@@ -335,7 +336,6 @@
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-PowerShell.md",
     "Templates/Code-Templates/Template-Code-Python.md",
-    "Templates/Code-Templates/Template-Code-JavaScript.md",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
