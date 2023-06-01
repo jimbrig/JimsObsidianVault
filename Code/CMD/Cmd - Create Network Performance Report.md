@@ -28,6 +28,17 @@ Alias: [ "Create Network Performance Report" ]
 netsh wlan show wlanreport
 ```
 
+## Output
+
+![](https://i.imgur.com/y5rjT7P.png)
+
+Resulting file should be created under `C:/ProgramData/Microsoft/Windows/WlanReport/`:
+
+<iframe src="./../../Assets/Reports/wlan-report.html"></iframe>
+
+![[wlan-report.html]]
+
+
 ## Details
 
 

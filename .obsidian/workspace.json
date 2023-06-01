@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Code/CMD/Cmd - Create Network Performance Report.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -310,6 +310,9 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Assets/Reports",
+    "Code/CMD/Untitled",
+    "Assets/Reports/wlan-report.html",
     "Code/Bash/Bash - Git Auto Commit.md",
     "Code/CMD/Cmd - Create Network Performance Report.md",
     "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
@@ -336,7 +339,6 @@
     "Templates/Code-Templates/Template-Code-CSS.md",
     "Templates/Code-Templates/Template-Code-YAML.md",
     "Templates/Code-Templates/Template-Code-VBA.md",
-    "Templates/Code-Templates/Template-Code-Terraform.md",
     "Assets/Banners/programming.gif",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
@@ -344,8 +346,6 @@
     "Inbox/Terraform/Azure Terraform Modules",
     "Inbox/Terraform/Codex/Tests",
     "Inbox/Terraform/Codex/Logic",
-    "Inbox/Terraform/Codex",
-    "Inbox/Terraform",
-    "Definitions"
+    "Inbox/Terraform/Codex"
   ]
 }
