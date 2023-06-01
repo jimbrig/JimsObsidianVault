@@ -5,6 +5,10 @@
       "path": "Code/CMD/Cmd - Create Network Performance Report.md"
     },
     {
+      "basename": "wlan-report",
+      "path": "Assets/Reports/wlan-report.md"
+    },
+    {
       "basename": "Bash - Git Auto Commit",
       "path": "Code/Bash/Bash - Git Auto Commit.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MOC - R",
       "path": "MOCs/MOC - R.md"
-    },
-    {
-      "basename": "MOC - Python",
-      "path": "MOCs/MOC - Python.md"
     }
   ],
   "omittedPaths": [],

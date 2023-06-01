@@ -144,7 +144,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -310,11 +311,12 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Assets/Reports/wlan-report.md",
+    "Code/CMD/Cmd - Create Network Performance Report.md",
     "Assets/Reports",
     "Code/CMD/Untitled",
     "Assets/Reports/wlan-report.html",
     "Code/Bash/Bash - Git Auto Commit.md",
-    "Code/CMD/Cmd - Create Network Performance Report.md",
     "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
     "Code/Bash/_README.md",
     "Code/Bash/Install Scripts/Bash - Install Zsh and oh-my-zsh.md",
@@ -345,7 +347,6 @@
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
     "Inbox/Terraform/Azure Terraform Modules",
     "Inbox/Terraform/Codex/Tests",
-    "Inbox/Terraform/Codex/Logic",
-    "Inbox/Terraform/Codex"
+    "Inbox/Terraform/Codex/Logic"
   ]
 }
