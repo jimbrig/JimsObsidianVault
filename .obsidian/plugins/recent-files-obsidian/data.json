@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-31",
+      "path": "Daily/2023-05-31.md"
+    },
+    {
       "basename": "PowerShell-Profile",
       "path": "Projects/PowerShell-Profile.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Testing Code",
       "path": "Inbox/Terraform/Codex/Tests/Testing Code.md"
-    },
-    {
-      "basename": "End-to-End (e2e) Tests",
-      "path": "Inbox/Terraform/Codex/Tests/End-to-End (e2e) Tests.md"
     }
   ],
   "omittedPaths": [],

@@ -83,8 +83,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PowerShell-Profile.md",
-                "mode": "preview",
+                "file": "Daily/2023-05-31.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/PowerShell-Profile.md"
+                "file": "Daily/2023-05-31.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/PowerShell-Profile.md",
+                "file": "Daily/2023-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/PowerShell-Profile.md",
+                "file": "Daily/2023-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/PowerShell-Profile.md",
+                "file": "Daily/2023-05-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,6 +310,8 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Projects/PowerShell-Profile.md",
+    "Daily/2023-05-31.md",
     "Projects/_README.md",
     "HOME.md",
     "Daily/2023-05-30.md",
@@ -334,8 +336,6 @@
     "Templates/Code-Templates/Template-Code-PowerShell.md",
     "Templates/Code-Templates/Template-Code-Python.md",
     "Templates/Code-Templates/Template-Code-JavaScript.md",
-    "Templates/Code-Templates/Template-Code-HTML.md",
-    "Templates/Code-Templates/Template-Code-GHA.md",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
