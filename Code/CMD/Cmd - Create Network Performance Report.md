@@ -34,7 +34,7 @@ netsh wlan show wlanreport
 
 Resulting file should be created under `C:/ProgramData/Microsoft/Windows/WlanReport/`:
 
-<iframe src="./../../Assets/Reports/wlan-report.html"></iframe>
+<iframe src="https://codebeautify.org/htmlviewer/y23cad734" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ![[wlan-report.html]]
 

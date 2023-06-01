@@ -144,8 +144,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,7 +308,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "c37eecb9471a9646",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
     "Assets/Reports/wlan-report.md",
     "Code/CMD/Cmd - Create Network Performance Report.md",
