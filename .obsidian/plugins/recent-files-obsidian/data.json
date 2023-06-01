@@ -1,6 +1,134 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash - WSL Set Default Browser to Windows Host",
+      "path": "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/Bash/_README.md"
+    },
+    {
+      "basename": "Bash - Install Zsh and oh-my-zsh",
+      "path": "Code/Bash/Install Scripts/Bash - Install Zsh and oh-my-zsh.md"
+    },
+    {
+      "basename": "Bash - Install WSLU",
+      "path": "Code/Bash/Install Scripts/Bash - Install WSLU.md"
+    },
+    {
+      "basename": "Bash - Install NVM Node and NPM",
+      "path": "Code/Bash/Install Scripts/Bash - Install NVM Node and NPM.md"
+    },
+    {
+      "basename": "Bash - WSL Sample Setup Script",
+      "path": "Code/Bash/Bash - WSL Sample Setup Script.md"
+    },
+    {
+      "basename": "Bash - WSL Use SSH Keys from Windows Host",
+      "path": "Code/Bash/Bash - WSL Use SSH Keys from Windows Host.md"
+    },
+    {
+      "basename": "Bash - Install HomeBrew",
+      "path": "Code/Bash/Install Scripts/Bash - Install HomeBrew.md"
+    },
+    {
+      "basename": "Bash - Git-Auto",
+      "path": "Code/Bash/Bash - Git-Auto.md"
+    },
+    {
+      "basename": "PowerShell - GitHub Downloads",
+      "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
+    },
+    {
+      "basename": "PowerShell - ConvertTo-NuSpec",
+      "path": "Code/PowerShell/PowerShell - ConvertTo-NuSpec.md"
+    },
+    {
+      "basename": "PowerShell - ConvertTo-Markdown",
+      "path": "Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
+    },
+    {
+      "basename": "PowerShell - Add-GodModeShortcut",
+      "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/PowerShell/_README.md"
+    },
+    {
+      "basename": "Bash - GitHub Downloads",
+      "path": "Code/Bash/Bash - GitHub Downloads.md"
+    },
+    {
+      "basename": "Windows Command Line",
+      "path": "Windows Command Line.md"
+    },
+    {
+      "basename": "Template-Default",
+      "path": "Templates/Template-Default.md"
+    },
+    {
+      "basename": "Template-Code-CMD",
+      "path": "Templates/Code-Templates/Template-Code-CMD.md"
+    },
+    {
+      "basename": "Template-Code-Bash",
+      "path": "Templates/Code-Templates/Template-Code-Bash.md"
+    },
+    {
+      "basename": "Template-Code-HTML",
+      "path": "Templates/Code-Templates/Template-Code-HTML.md"
+    },
+    {
+      "basename": "Template-Code-GHA",
+      "path": "Templates/Code-Templates/Template-Code-GHA.md"
+    },
+    {
+      "basename": "Template-Code-CSS",
+      "path": "Templates/Code-Templates/Template-Code-CSS.md"
+    },
+    {
+      "basename": "Template-Code-YAML",
+      "path": "Templates/Code-Templates/Template-Code-YAML.md"
+    },
+    {
+      "basename": "Template-Code-VBA",
+      "path": "Templates/Code-Templates/Template-Code-VBA.md"
+    },
+    {
+      "basename": "Template-Code-Terraform",
+      "path": "Templates/Code-Templates/Template-Code-Terraform.md"
+    },
+    {
+      "basename": "Template-Code-SQL",
+      "path": "Templates/Code-Templates/Template-Code-SQL.md"
+    },
+    {
+      "basename": "Template-Code-Registry",
+      "path": "Templates/Code-Templates/Template-Code-Registry.md"
+    },
+    {
+      "basename": "Template-Code-R",
+      "path": "Templates/Code-Templates/Template-Code-R.md"
+    },
+    {
+      "basename": "Template-Code-Python",
+      "path": "Templates/Code-Templates/Template-Code-Python.md"
+    },
+    {
+      "basename": "Template-Code-PowerShell",
+      "path": "Templates/Code-Templates/Template-Code-PowerShell.md"
+    },
+    {
+      "basename": "Template-Code",
+      "path": "Templates/Code-Templates/Template-Code.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
+    },
+    {
       "basename": "2023-06-01",
       "path": "Daily/2023-06-01.md"
     },
@@ -71,134 +199,6 @@
     {
       "basename": "MOC - Cloud Architecture",
       "path": "MOCs/MOC - Cloud Architecture.md"
-    },
-    {
-      "basename": "MOC - Data Engineering",
-      "path": "MOCs/MOC - Data Engineering.md"
-    },
-    {
-      "basename": "MOC - Science - Physics",
-      "path": "MOCs/MOC - Science - Physics.md"
-    },
-    {
-      "basename": "MOC - Math and Statistics",
-      "path": "MOCs/MOC - Math and Statistics.md"
-    },
-    {
-      "basename": "MOC - Technology",
-      "path": "MOCs/MOC - Technology.md"
-    },
-    {
-      "basename": "MOC - PKM",
-      "path": "MOCs/MOC - PKM.md"
-    },
-    {
-      "basename": "MOC - Productivity",
-      "path": "MOCs/MOC - Productivity.md"
-    },
-    {
-      "basename": "MOC - Software",
-      "path": "MOCs/MOC - Software.md"
-    },
-    {
-      "basename": "Template-Code",
-      "path": "Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "Template-Code-PowerShell",
-      "path": "Templates/Code-Templates/Template-Code-PowerShell.md"
-    },
-    {
-      "basename": "Template-Code-Python",
-      "path": "Templates/Code-Templates/Template-Code-Python.md"
-    },
-    {
-      "basename": "Template-Code-JavaScript",
-      "path": "Templates/Code-Templates/Template-Code-JavaScript.md"
-    },
-    {
-      "basename": "Template-Code-HTML",
-      "path": "Templates/Code-Templates/Template-Code-HTML.md"
-    },
-    {
-      "basename": "Template-Code-GHA",
-      "path": "Templates/Code-Templates/Template-Code-GHA.md"
-    },
-    {
-      "basename": "Template-Code-CSS",
-      "path": "Templates/Code-Templates/Template-Code-CSS.md"
-    },
-    {
-      "basename": "Template-Code-CMD",
-      "path": "Templates/Code-Templates/Template-Code-CMD.md"
-    },
-    {
-      "basename": "Template-Code-Bash",
-      "path": "Templates/Code-Templates/Template-Code-Bash.md"
-    },
-    {
-      "basename": "MOC - Development",
-      "path": "MOCs/MOC - Development.md"
-    },
-    {
-      "basename": "2023-05-22",
-      "path": "Daily/2023-05-22.md"
-    },
-    {
-      "basename": "Python Flask - Application Factory Pattern",
-      "path": "Inbox/Flask/Python Flask - Application Factory Pattern.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Inbox/Flask/_README.md"
-    },
-    {
-      "basename": "Python Flask - Modular Applications with Blueprints",
-      "path": "Inbox/Flask/Python Flask - Modular Applications with Blueprints.md"
-    },
-    {
-      "basename": "Python Flask - Using a Dedicated Blueprints Module Folder",
-      "path": "Inbox/Flask/Python Flask - Using a Dedicated Blueprints Module Folder.md"
-    },
-    {
-      "basename": "2023-05-21",
-      "path": "Daily/2023-05-21.md"
-    },
-    {
-      "basename": "Obsidian Clipper",
-      "path": "Inbox/Clips/Obsidian Clipper.md"
-    },
-    {
-      "basename": "Organize your Omnivore library with labels",
-      "path": "Omnivore/2023-05-19/Organize your Omnivore library with labels.md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
-    },
-    {
-      "basename": "DAPR and Terraform",
-      "path": "Inbox/Terraform/DAPR and Terraform.md"
-    },
-    {
-      "basename": "DAPR",
-      "path": "Inbox/DAPR.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Inbox/Terraform/Azure Terraform Modules/Container Apps Module/_README.md"
-    },
-    {
-      "basename": "Azure Terratest Terraform Fluent Extension",
-      "path": "Inbox/Terraform/Azure Terraform Modules/Azure Terratest Terraform Fluent Extension.md"
-    },
-    {
-      "basename": "Azure Terraform Modules",
-      "path": "Inbox/Terraform/Azure Terraform Modules/Azure Terraform Modules.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Inbox/Terraform/Codex/_README.md"
     }
   ],
   "omittedPaths": [],

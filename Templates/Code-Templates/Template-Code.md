@@ -5,7 +5,7 @@ Tags: ["#Type/Code", "#Topic/Dev"]
 Alias: [ "<% (tp.file.title).replace("Code - ", "") %>" ]
 ---
 
-# <% (tp.file.title).replace("PowerShell - ", "") %>
+# <% (tp.file.title).replace("Code - ", "") %>
 
 > [!NOTE] About
 > <% tp.file.cursor(1) %>
@@ -18,7 +18,7 @@ Alias: [ "<% (tp.file.title).replace("Code - ", "") %>" ]
 
 *Link: <<% tp.file.cursor(2) %>>*
 
-```powershell
+```shell
 
 ```
 
@@ -35,15 +35,14 @@ Alias: [ "<% (tp.file.title).replace("Code - ", "") %>" ]
 
 ### Internal Linked Notes
 
-- [[PowerShell]]
 - [[Code/_README|Code Snippets]]
-- [[Code/PowerShell/_README|PowerShell Code Snippets]]
-- [[MOCs/Development|Development]]
-- [[MOCs/Technology|Technology]]
-- [[MOCs/Windows|Microsoft Windows]]
-- [[MOCs/Software Engineering|Software Engineering]]
+- [[MOC - Development|Development]]
+- [[MOCs/MOC - Technology|Technology]]
+- [[MOCs/MOC - Software|Software Engineering]]
 
 ### External References
+
+
 
 #### Backlinks
 
