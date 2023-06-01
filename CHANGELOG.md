@@ -1,3 +1,4 @@
+- 2023-06-01 at 09h53 · [[2023-06-01]]
 - 2023-05-31 at 23h03 · [[Obsidian Setup]]
 - 2023-05-31 at 22h49 · [[2023-05-31]]
 - 2023-05-30 at 01h40 · [[2023-05-30]]
@@ -47,4 +48,3 @@
 - 2023-05-20 at 22h13 · [[Idiomatic]]
 - 2023-05-20 at 22h11 · [[Azure Terratest Terraform Fluent Extension]]
 - 2023-05-20 at 22h06 · [[Setting up R and RStudio on Ubuntu]]
-- 2023-05-20 at 21h54 · [[2023-05-20]]

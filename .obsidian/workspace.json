@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Obsidian Setup.md",
+                "file": "Daily/2023-06-01.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Obsidian Setup.md"
+                "file": "Daily/2023-06-01.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Obsidian Setup.md",
+                "file": "Daily/2023-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Obsidian Setup.md",
+                "file": "Daily/2023-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Obsidian Setup.md",
+                "file": "Daily/2023-06-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,11 +310,13 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
-    "Daily/2023-05-31.md",
+    "HOME.md",
+    "Daily/2023-06-01.md",
+    "Assets/Banners/programming.gif",
     "Inbox/Obsidian Setup.md",
+    "Daily/2023-05-31.md",
     "Projects/PowerShell-Profile.md",
     "Projects/_README.md",
-    "HOME.md",
     "Daily/2023-05-30.md",
     "Daily/2023-05-28.md",
     "Inbox/PowerShell Desired State Configuration.md",
@@ -335,7 +337,6 @@
     "MOCs/MOC - Software.md",
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-PowerShell.md",
-    "Templates/Code-Templates/Template-Code-Python.md",
     "Inbox/Flask",
     "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
     "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
@@ -345,7 +346,6 @@
     "Inbox/Terraform/Codex",
     "Inbox/Terraform",
     "Definitions",
-    "Omnivore/2023-05-19",
-    "Assets/Banners/programming.gif"
+    "Omnivore/2023-05-19"
   ]
 }
