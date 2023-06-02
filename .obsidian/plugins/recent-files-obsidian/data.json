@@ -1,72 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Code/CMD/_README.md"
+    },
+    {
+      "basename": "Cmd - wureset Script",
+      "path": "Code/CMD/Windows Update/Cmd - wureset Script.md"
+    },
+    {
+      "basename": "Cmd - Windows Update Reference",
+      "path": "Code/CMD/Windows Update/Cmd - Windows Update Reference.md"
+    },
+    {
+      "basename": "Cmd - Reset Windows Update Components",
+      "path": "Code/CMD/Windows Update/Cmd - Reset Windows Update Components.md"
+    },
+    {
+      "basename": "Cmd - Troubleshooters",
+      "path": "Code/CMD/Troubleshooting/Cmd - Troubleshooters.md"
+    },
+    {
+      "basename": "Cmd - SFC",
+      "path": "Code/CMD/Troubleshooting/Cmd - SFC.md"
+    },
+    {
+      "basename": "Cmd - Run WinSAT Diagnostics",
+      "path": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md"
+    },
+    {
+      "basename": "Cmd - Run Hardware Diagnostics Troubleshooter",
+      "path": "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md"
+    },
+    {
+      "basename": "Cmd - Memory Diagnostic",
+      "path": "Code/CMD/Troubleshooting/Cmd - Memory Diagnostic.md"
+    },
+    {
+      "basename": "Cmd - Retrieve WiFi Passwords",
+      "path": "Code/CMD/Networking/Cmd - Retrieve WiFi Passwords.md"
+    },
+    {
+      "basename": "Cmd - Flush DNS",
+      "path": "Code/CMD/Networking/Cmd - Flush DNS.md"
+    },
+    {
+      "basename": "Cmd - Create Network Performance Report",
+      "path": "Code/CMD/Networking/Cmd - Create Network Performance Report.md"
+    },
+    {
+      "basename": "Cmd - Restart Explorer and Start Menu",
+      "path": "Code/CMD/Miscellaneous/Cmd - Restart Explorer and Start Menu.md"
+    },
+    {
+      "basename": "Cmd - Extended Disk Cleanup",
+      "path": "Code/CMD/Miscellaneous/Cmd - Extended Disk Cleanup.md"
+    },
+    {
+      "basename": "Cmd - Retrieve Windows Credential Manager Stored Secrets",
+      "path": "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md"
+    },
+    {
+      "basename": "Cmd - DISKPART",
+      "path": "Code/CMD/Disk Management/Cmd - DISKPART.md"
+    },
+    {
       "basename": "Cmd - DISM",
-      "path": "Code/CMD/Cmd - DISM.md"
+      "path": "Code/CMD/Imaging/Cmd - DISM.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
     },
     {
       "basename": "2023-06-01",
       "path": "Daily/2023-06-01.md"
     },
     {
-      "basename": "Cmd - SFC",
-      "path": "Code/CMD/Cmd - SFC.md"
-    },
-    {
-      "basename": "Cmd - Reset Windows Update Components",
-      "path": "Code/CMD/Cmd - Reset Windows Update Components.md"
-    },
-    {
       "basename": "PowerShell - Reset Windows Update Components",
       "path": "Code/PowerShell/PowerShell - Reset Windows Update Components.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Code/CMD/Untitled.md"
-    },
-    {
-      "basename": "Cmd - Flush DNS",
-      "path": "Code/CMD/Cmd - Flush DNS.md"
-    },
-    {
-      "basename": "Cmd - DISKPART",
-      "path": "Code/CMD/Cmd - DISKPART.md"
-    },
-    {
-      "basename": "Cmd - Troubleshooters",
-      "path": "Code/CMD/Cmd - Troubleshooters.md"
-    },
-    {
-      "basename": "Cmd - Run WinSAT Diagnostics",
-      "path": "Code/CMD/Cmd - Run WinSAT Diagnostics.md"
-    },
-    {
-      "basename": "Cmd - Run Hardware Diagnostics Troubleshooter",
-      "path": "Code/CMD/Cmd - Run Hardware Diagnostics Troubleshooter.md"
-    },
-    {
-      "basename": "Cmd - Retrieve Windows Credential Manager Stored Secrets",
-      "path": "Code/CMD/Cmd - Retrieve Windows Credential Manager Stored Secrets.md"
-    },
-    {
-      "basename": "Cmd - Retrieve WiFi Passwords",
-      "path": "Code/CMD/Cmd - Retrieve WiFi Passwords.md"
-    },
-    {
-      "basename": "Cmd - Restart Explorer and Start Menu",
-      "path": "Code/CMD/Cmd - Restart Explorer and Start Menu.md"
-    },
-    {
-      "basename": "Cmd - Memory Diagnostic",
-      "path": "Code/CMD/Cmd - Memory Diagnostic.md"
-    },
-    {
-      "basename": "Cmd - Extended Disk Cleanup",
-      "path": "Code/CMD/Cmd - Extended Disk Cleanup.md"
-    },
-    {
-      "basename": "Cmd - Create Network Performance Report",
-      "path": "Code/CMD/Cmd - Create Network Performance Report.md"
     },
     {
       "basename": "wlan-report",
@@ -187,18 +199,6 @@
     {
       "basename": "Template-Code-Python",
       "path": "Templates/Code-Templates/Template-Code-Python.md"
-    },
-    {
-      "basename": "Template-Code-PowerShell",
-      "path": "Templates/Code-Templates/Template-Code-PowerShell.md"
-    },
-    {
-      "basename": "Template-Code",
-      "path": "Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/_README.md"
     }
   ],
   "omittedPaths": [],

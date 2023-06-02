@@ -83,8 +83,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/CMD/Cmd - DISM.md",
-                "mode": "source",
+                "file": "Code/CMD/_README.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/CMD/Cmd - DISM.md"
+                "file": "Code/CMD/_README.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/CMD/Cmd - DISM.md",
+                "file": "Code/CMD/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/CMD/Cmd - DISM.md",
+                "file": "Code/CMD/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/CMD/Cmd - DISM.md",
+                "file": "Code/CMD/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,42 +320,42 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Code/CMD/Windows Update/Cmd - wureset Script.md",
+    "Code/CMD/Windows Update/Cmd - Windows Update Reference.md",
+    "Code/CMD/Windows Update/Cmd - Reset Windows Update Components.md",
+    "Code/CMD/Troubleshooting/Cmd - Troubleshooters.md",
+    "Code/CMD/Troubleshooting/Cmd - SFC.md",
+    "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md",
+    "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md",
+    "Code/CMD/Troubleshooting/Cmd - Memory Diagnostic.md",
+    "Code/CMD/Networking/Cmd - Retrieve WiFi Passwords.md",
+    "Code/CMD/Networking/Cmd - Flush DNS.md",
+    "Code/CMD/Networking/Cmd - Create Network Performance Report.md",
+    "Code/CMD/Miscellaneous/Cmd - Restart Explorer and Start Menu.md",
+    "Code/CMD/Miscellaneous/Cmd - Extended Disk Cleanup.md",
+    "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md",
+    "Code/CMD/Disk Management/Cmd - DISKPART.md",
+    "Code/CMD/Imaging/Cmd - DISM.md",
+    "Code/CMD/_README.md",
+    "Code/_README.md",
+    "Code/CMD/Imaging",
+    "Code/CMD/Disk Management",
+    "Code/CMD/Miscellaneous",
+    "Code/CMD/Credentials",
+    "Code/CMD/Networking",
+    "Code/CMD/Troubleshooting",
+    "Code/CMD/Windows Update",
     "Daily/2023-06-01.md",
-    "Code/CMD/Cmd - SFC.md",
-    "Code/CMD/Cmd - DISM.md",
-    "Code/CMD/Cmd - Reset Windows Update Components.md",
     "Code/PowerShell/PowerShell - Reset Windows Update Components.md",
-    "Code/CMD/Untitled.md",
-    "Code/CMD/Cmd - Flush DNS.md",
-    "Code/CMD/Cmd - DISKPART.md",
-    "Code/CMD/Cmd - Troubleshooters.md",
-    "Code/CMD/Cmd - Run WinSAT Diagnostics.md",
-    "Code/CMD/Cmd - Run Hardware Diagnostics Troubleshooter.md",
-    "Code/CMD/Cmd - Retrieve Windows Credential Manager Stored Secrets.md",
-    "Code/CMD/Cmd - Retrieve WiFi Passwords.md",
-    "Code/CMD/Cmd - Restart Explorer and Start Menu.md",
-    "Code/CMD/Cmd - Memory Diagnostic.md",
-    "Code/CMD/Cmd - Extended Disk Cleanup.md",
-    "Code/CMD/Cmd - Create Network Performance Report.md",
     "Assets/Reports/wlan-report.md",
     "Assets/Reports",
-    "Code/CMD/Untitled",
     "Assets/Reports/wlan-report.html",
     "Code/Bash/Bash - Git Auto Commit.md",
     "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
     "Code/Bash/_README.md",
     "Code/Bash/Install Scripts/Bash - Install Zsh and oh-my-zsh.md",
     "Code/Bash/Install Scripts/Bash - Install WSLU.md",
-    "Code/Bash/Install Scripts/Bash - Install NVM Node and NPM.md",
-    "Code/Bash/Bash - WSL Sample Setup Script.md",
-    "Code/Bash/Bash - WSL Use SSH Keys from Windows Host.md",
     "Code/Bash/Install Scripts",
-    "Assets/Banners/programming.gif",
-    "Inbox/Flask",
-    "Inbox/Terraform/Azure Terraform Modules/Linux WebApp Module",
-    "Inbox/Terraform/Azure Terraform Modules/Container Apps Module",
-    "Inbox/Terraform/Azure Terraform Modules",
-    "Inbox/Terraform/Codex/Tests",
-    "Inbox/Terraform/Codex/Logic"
+    "Assets/Banners/programming.gif"
   ]
 }
