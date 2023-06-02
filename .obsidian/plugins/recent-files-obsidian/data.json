@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-01",
+      "path": "Daily/2023-06-01.md"
+    },
+    {
       "basename": "_README",
       "path": "Daily/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bash - WSL Sample Setup Script",
       "path": "Code/Bash/Bash - WSL Sample Setup Script.md"
-    },
-    {
-      "basename": "Bash - WSL Use SSH Keys from Windows Host",
-      "path": "Code/Bash/Bash - WSL Use SSH Keys from Windows Host.md"
     }
   ],
   "omittedPaths": [],

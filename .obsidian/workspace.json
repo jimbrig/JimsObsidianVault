@@ -83,8 +83,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/_README.md",
-                "mode": "preview",
+                "file": "Daily/2023-06-01.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/_README.md"
+                "file": "Daily/2023-06-01.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/_README.md",
+                "file": "Daily/2023-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/_README.md",
+                "file": "Daily/2023-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/_README.md",
+                "file": "Daily/2023-06-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,6 +320,8 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Daily/_README.md",
+    "Daily/2023-06-01.md",
     "Daily/2023/05-May/2023-05-17.md",
     "Daily/2023/05-May/2023-05-19.md",
     "Daily/2023/05-May/2023-05-20.md",
@@ -330,7 +332,6 @@
     "Daily/2023/05-May/2023-05-30.md",
     "Daily/2023/05-May/2023-05-31.md",
     "Daily/2023/06-June/2023-06-01.md",
-    "Daily/_README.md",
     "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md",
     "Daily/2023-05-17.md",
     "README.md",
@@ -349,7 +350,6 @@
     "Tools/Shells and CLI Tools",
     "Tools/Obsidian Plugins and Tools",
     "Inbox/_README.md",
-    "Inbox/Terraform/Untitled.md",
     "Guides",
     "Code/CMD/Imaging",
     "Code/CMD/Disk Management",
