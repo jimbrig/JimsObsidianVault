@@ -227,7 +227,7 @@ Function Get-GitHubRelease {
 ## Details
 
 > [!NOTE] About
-> Uses the [[GitHub API]] to pull the latest release of any app, tool or utility hosted on [[GitHub]].
+> Uses the [[GitHub API]] to pull the latest release of any app, tool or utility hosted on [[Github]].
 
 
 ***

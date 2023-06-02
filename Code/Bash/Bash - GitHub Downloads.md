@@ -91,7 +91,7 @@ Usage: `gh-dl-release.sh [<version>|latest] [<path/to/output/file>]`
 
 Notes:
 
-- *[[GitHub]] Personal Access Token must be supplied*
+- *[[Github]] Personal Access Token must be supplied*
 - Must have [[curl]], [[wget]], and [[jq]] installed and on the system/user's `PATH` [[environment variable]].
 
 ***
@@ -109,7 +109,7 @@ Notes:
 - [[MOCs/MOC - Development|Development]]
 - [[MOCs/MOC - Technology|Technology]]
 - [[MOCs/MOC - Software|Software Engineering]]
-- [[GitHub]]
+- [[Github]]
 - [[Shell Scripting]]
 - [[GitHub CLI]]
 - [[Git]]

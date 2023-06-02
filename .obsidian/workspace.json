@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/PowerShell Desired State Configuration.md",
+                "file": "Guides/PowerShell Desired State Configuration.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "Tools/Version Control/Github.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/CMD/_README.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/CMD/_README.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/CMD/_README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/CMD/_README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/CMD/_README.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,6 +320,24 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "HOME.md",
+    "CHANGELOG.md",
+    "Tools/Shells and CLI Tools/Windows Command Line.md",
+    "Tools/Version Control/Github.md",
+    "Definitions/DAPR.md",
+    "Tools/Version Control",
+    "Guides/Obsidian Setup.md",
+    "Inbox/ps-menups-menu.psm1 at master · chrisserokaps-menu.md",
+    "Lists/Links.md",
+    "Lists/Software for the Digital Life.md",
+    "Lists",
+    "Tools/Obsidian Plugins and Tools/Obsidian Browser Extensions.md",
+    "Tools/Shells and CLI Tools",
+    "Tools/Obsidian Plugins and Tools",
+    "Inbox/_README.md",
+    "Inbox/Terraform/Untitled.md",
+    "Guides",
+    "Code/CMD/_README.md",
     "Code/CMD/Windows Update/Cmd - wureset Script.md",
     "Code/CMD/Windows Update/Cmd - Windows Update Reference.md",
     "Code/CMD/Windows Update/Cmd - Reset Windows Update Components.md",
@@ -333,29 +351,11 @@
     "Code/CMD/Networking/Cmd - Create Network Performance Report.md",
     "Code/CMD/Miscellaneous/Cmd - Restart Explorer and Start Menu.md",
     "Code/CMD/Miscellaneous/Cmd - Extended Disk Cleanup.md",
-    "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md",
-    "Code/CMD/Disk Management/Cmd - DISKPART.md",
-    "Code/CMD/Imaging/Cmd - DISM.md",
-    "Code/CMD/_README.md",
-    "Code/_README.md",
     "Code/CMD/Imaging",
     "Code/CMD/Disk Management",
     "Code/CMD/Miscellaneous",
     "Code/CMD/Credentials",
     "Code/CMD/Networking",
-    "Code/CMD/Troubleshooting",
-    "Code/CMD/Windows Update",
-    "Daily/2023-06-01.md",
-    "Code/PowerShell/PowerShell - Reset Windows Update Components.md",
-    "Assets/Reports/wlan-report.md",
-    "Assets/Reports",
-    "Assets/Reports/wlan-report.html",
-    "Code/Bash/Bash - Git Auto Commit.md",
-    "Code/Bash/Bash - WSL Set Default Browser to Windows Host.md",
-    "Code/Bash/_README.md",
-    "Code/Bash/Install Scripts/Bash - Install Zsh and oh-my-zsh.md",
-    "Code/Bash/Install Scripts/Bash - Install WSLU.md",
-    "Code/Bash/Install Scripts",
     "Assets/Banners/programming.gif"
   ]
 }
