@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-19.md",
+                "file": "Daily/2023/05-May/2023-05-19.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily/_README.md",
                 "mode": "preview",
                 "backlinks": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily/_README.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Daily/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,6 +320,20 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
+    "Daily/2023/05-May/2023-05-17.md",
+    "Daily/2023/05-May/2023-05-19.md",
+    "Daily/2023/05-May/2023-05-20.md",
+    "Daily/2023/05-May/2023-05-21.md",
+    "Daily/2023/05-May/2023-05-22.md",
+    "Daily/2023/05-May/2023-05-23.md",
+    "Daily/2023/05-May/2023-05-28.md",
+    "Daily/2023/05-May/2023-05-30.md",
+    "Daily/2023/05-May/2023-05-31.md",
+    "Daily/2023/06-June/2023-06-01.md",
+    "Daily/_README.md",
+    "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md",
+    "Daily/2023-05-17.md",
+    "README.md",
     "HOME.md",
     "CHANGELOG.md",
     "Tools/Shells and CLI Tools/Windows Command Line.md",
@@ -337,20 +351,6 @@
     "Inbox/_README.md",
     "Inbox/Terraform/Untitled.md",
     "Guides",
-    "Code/CMD/_README.md",
-    "Code/CMD/Windows Update/Cmd - wureset Script.md",
-    "Code/CMD/Windows Update/Cmd - Windows Update Reference.md",
-    "Code/CMD/Windows Update/Cmd - Reset Windows Update Components.md",
-    "Code/CMD/Troubleshooting/Cmd - Troubleshooters.md",
-    "Code/CMD/Troubleshooting/Cmd - SFC.md",
-    "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md",
-    "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md",
-    "Code/CMD/Troubleshooting/Cmd - Memory Diagnostic.md",
-    "Code/CMD/Networking/Cmd - Retrieve WiFi Passwords.md",
-    "Code/CMD/Networking/Cmd - Flush DNS.md",
-    "Code/CMD/Networking/Cmd - Create Network Performance Report.md",
-    "Code/CMD/Miscellaneous/Cmd - Restart Explorer and Start Menu.md",
-    "Code/CMD/Miscellaneous/Cmd - Extended Disk Cleanup.md",
     "Code/CMD/Imaging",
     "Code/CMD/Disk Management",
     "Code/CMD/Miscellaneous",

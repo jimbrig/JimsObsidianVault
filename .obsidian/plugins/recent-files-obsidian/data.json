@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Daily/_README.md"
+    },
+    {
+      "basename": "2023-05-17",
+      "path": "Daily/2023/05-May/2023-05-17.md"
+    },
+    {
+      "basename": "2023-05-19",
+      "path": "Daily/2023/05-May/2023-05-19.md"
+    },
+    {
+      "basename": "2023-05-20",
+      "path": "Daily/2023/05-May/2023-05-20.md"
+    },
+    {
+      "basename": "2023-05-21",
+      "path": "Daily/2023/05-May/2023-05-21.md"
+    },
+    {
+      "basename": "2023-05-22",
+      "path": "Daily/2023/05-May/2023-05-22.md"
+    },
+    {
+      "basename": "2023-05-23",
+      "path": "Daily/2023/05-May/2023-05-23.md"
+    },
+    {
+      "basename": "2023-05-28",
+      "path": "Daily/2023/05-May/2023-05-28.md"
+    },
+    {
+      "basename": "2023-05-30",
+      "path": "Daily/2023/05-May/2023-05-30.md"
+    },
+    {
+      "basename": "2023-05-31",
+      "path": "Daily/2023/05-May/2023-05-31.md"
+    },
+    {
+      "basename": "2023-06-01",
+      "path": "Daily/2023/06-June/2023-06-01.md"
+    },
+    {
+      "basename": "Cmd - Retrieve Windows Credential Manager Stored Secrets",
+      "path": "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -101,10 +149,6 @@
       "path": "Code/CMD/Miscellaneous/Cmd - Extended Disk Cleanup.md"
     },
     {
-      "basename": "Cmd - Retrieve Windows Credential Manager Stored Secrets",
-      "path": "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md"
-    },
-    {
       "basename": "Cmd - DISKPART",
       "path": "Code/CMD/Disk Management/Cmd - DISKPART.md"
     },
@@ -115,10 +159,6 @@
     {
       "basename": "_README",
       "path": "Code/_README.md"
-    },
-    {
-      "basename": "2023-06-01",
-      "path": "Daily/2023-06-01.md"
     },
     {
       "basename": "PowerShell - Reset Windows Update Components",
@@ -159,46 +199,6 @@
     {
       "basename": "Bash - WSL Use SSH Keys from Windows Host",
       "path": "Code/Bash/Bash - WSL Use SSH Keys from Windows Host.md"
-    },
-    {
-      "basename": "Bash - Install HomeBrew",
-      "path": "Code/Bash/Install Scripts/Bash - Install HomeBrew.md"
-    },
-    {
-      "basename": "PowerShell - GitHub Downloads",
-      "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
-    },
-    {
-      "basename": "PowerShell - ConvertTo-NuSpec",
-      "path": "Code/PowerShell/PowerShell - ConvertTo-NuSpec.md"
-    },
-    {
-      "basename": "PowerShell - ConvertTo-Markdown",
-      "path": "Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
-    },
-    {
-      "basename": "PowerShell - Add-GodModeShortcut",
-      "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/PowerShell/_README.md"
-    },
-    {
-      "basename": "Bash - GitHub Downloads",
-      "path": "Code/Bash/Bash - GitHub Downloads.md"
-    },
-    {
-      "basename": "Template-Default",
-      "path": "Templates/Template-Default.md"
-    },
-    {
-      "basename": "Template-Code-CMD",
-      "path": "Templates/Code-Templates/Template-Code-CMD.md"
-    },
-    {
-      "basename": "Template-Code-Bash",
-      "path": "Templates/Code-Templates/Template-Code-Bash.md"
     }
   ],
   "omittedPaths": [],
