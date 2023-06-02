@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Cmd - DISM",
+      "path": "Code/CMD/Cmd - DISM.md"
+    },
+    {
+      "basename": "2023-06-01",
+      "path": "Daily/2023-06-01.md"
+    },
+    {
+      "basename": "Cmd - SFC",
+      "path": "Code/CMD/Cmd - SFC.md"
+    },
+    {
+      "basename": "Cmd - Reset Windows Update Components",
+      "path": "Code/CMD/Cmd - Reset Windows Update Components.md"
+    },
+    {
       "basename": "PowerShell - Reset Windows Update Components",
       "path": "Code/PowerShell/PowerShell - Reset Windows Update Components.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "Cmd - Extended Disk Cleanup",
       "path": "Code/CMD/Cmd - Extended Disk Cleanup.md"
-    },
-    {
-      "basename": "Cmd - DISM",
-      "path": "Code/CMD/Cmd - DISM.md"
     },
     {
       "basename": "Cmd - Create Network Performance Report",
@@ -187,18 +199,6 @@
     {
       "basename": "_README",
       "path": "Code/_README.md"
-    },
-    {
-      "basename": "2023-06-01",
-      "path": "Daily/2023-06-01.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
-      "basename": "programming",
-      "path": "Assets/Banners/programming.gif"
     }
   ],
   "omittedPaths": [],
