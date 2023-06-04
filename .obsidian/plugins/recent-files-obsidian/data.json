@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC - Development",
+      "path": "MOCs/MOC - Development.md"
+    },
+    {
+      "basename": "Template-MOC",
+      "path": "Templates/Template-MOC.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "2023-06-04",
       "path": "Daily/2023-06-04.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "CHANGELOG",
@@ -191,14 +199,6 @@
     {
       "basename": "Bash - Install Zsh and oh-my-zsh",
       "path": "Code/Bash/Install Scripts/Bash - Install Zsh and oh-my-zsh.md"
-    },
-    {
-      "basename": "Bash - Install WSLU",
-      "path": "Code/Bash/Install Scripts/Bash - Install WSLU.md"
-    },
-    {
-      "basename": "Bash - Install NVM Node and NPM",
-      "path": "Code/Bash/Install Scripts/Bash - Install NVM Node and NPM.md"
     }
   ],
   "omittedPaths": [],

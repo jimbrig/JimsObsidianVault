@@ -13,8 +13,10 @@
   "endpoint": "https://api-prod.omnivore.app/api/graphql",
   "filename": "{{{title}}}",
   "attachmentFolder": "Omnivore/attachments",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "isSingleFile": false,
   "frequency": 0,
-  "intervalId": 0
+  "intervalId": 0,
+  "frontMatterVariables": [],
+  "frontMatterTemplate": ""
 }

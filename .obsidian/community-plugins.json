@@ -20,7 +20,6 @@
   "settings-search",
   "heatmap-calendar",
   "obsidian-read-it-later",
-  "google-calendar",
   "obsidian-plugin-update-tracker",
   "obsidian-vault-statistics-plugin",
   "obsidian-shellcommands",
@@ -42,5 +41,6 @@
   "obsidian-snippet-downloader",
   "obsidian-local-rest-api",
   "obsidian-omnivore",
-  "obsidian-wakatime"
+  "obsidian-wakatime",
+  "breadcrumbs"
 ]

@@ -15928,6 +15928,7 @@ var MacroChoiceBuilder = class extends ChoiceBuilder {
     if (!targetMacro)
       return;
     this.choice.macroId = targetMacro.id;
+    settingsStore.setMacro(targetMacro.id, targetMacro);
   }
 };
 
@@ -17975,7 +17976,7 @@ var CaptureChoiceEngine = class extends QuickAddChoiceEngine {
     const filesWithTag = getMarkdownFilesWithTag(tagWithHash);
     invariant(filesWithTag.length > 0, `No files with tag ${tag}.`);
     const filePaths = filesWithTag.map((f) => f.path);
-    const targetFilePath = await GenericSuggester.Suggest(
+    const targetFilePath = await InputSuggester.Suggest(
       app,
       filePaths,
       filePaths

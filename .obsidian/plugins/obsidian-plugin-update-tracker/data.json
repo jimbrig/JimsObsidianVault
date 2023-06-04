@@ -4,5 +4,7 @@
   "showIconOnMobile": true,
   "excludeBetaVersions": false,
   "excludeDisabledPlugins": false,
+  "minUpdateCountToShowIcon": 0,
+  "hoursBetweenCheckingForUpdates": 0.5,
   "hideIconIfNoUpdatesAvailable": false
 }
