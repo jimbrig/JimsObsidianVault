@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-01.md",
+                "file": "Daily/2023-06-04.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-01.md"
+                "file": "Daily/2023-06-04.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-01.md",
+                "file": "Daily/2023-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-01.md",
+                "file": "Daily/2023-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-01.md",
+                "file": "Daily/2023-06-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,8 +320,9 @@
   },
   "active": "c37eecb9471a9646",
   "lastOpenFiles": [
-    "Daily/_README.md",
     "Daily/2023-06-01.md",
+    "Daily/2023-06-04.md",
+    "Daily/_README.md",
     "Daily/2023/05-May/2023-05-17.md",
     "Daily/2023/05-May/2023-05-19.md",
     "Daily/2023/05-May/2023-05-20.md",
@@ -349,7 +350,6 @@
     "Tools/Obsidian Plugins and Tools/Obsidian Browser Extensions.md",
     "Tools/Shells and CLI Tools",
     "Tools/Obsidian Plugins and Tools",
-    "Inbox/_README.md",
     "Guides",
     "Code/CMD/Imaging",
     "Code/CMD/Disk Management",

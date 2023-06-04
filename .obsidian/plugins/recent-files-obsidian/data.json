@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-04",
+      "path": "Daily/2023-06-04.md"
+    },
+    {
       "basename": "2023-06-01",
       "path": "Daily/2023-06-01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bash - Install NVM Node and NPM",
       "path": "Code/Bash/Install Scripts/Bash - Install NVM Node and NPM.md"
-    },
-    {
-      "basename": "Bash - WSL Sample Setup Script",
-      "path": "Code/Bash/Bash - WSL Sample Setup Script.md"
     }
   ],
   "omittedPaths": [],
