@@ -29,6 +29,12 @@ banner_icon: 💻
 >> [[Vim mode shortcuts]]  
 >
 
+## 🗺️ Maps of Content
+
+```dataview
+LIST FROM "MOCs" AND -"CHANGELOG" AND -"MOCs/_README"
+```
+
 ## Latest Modified Files
 
 > [!NOTE] Latest 10 Modified Files in the Vault.
