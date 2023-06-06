@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "PKM System Evolution",
+      "path": "Inbox/PKM System Evolution.md"
+    },
+    {
+      "basename": "Digital Systems Overhaul",
+      "path": "Inbox/Digital Systems Overhaul.md"
+    },
+    {
+      "basename": "MOC - PKM",
+      "path": "MOCs/MOC - PKM.md"
+    },
+    {
       "basename": "MOC - Development",
       "path": "MOCs/MOC - Development.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Personal Knowledge Management Overview",
       "path": "Personal Knowledge Management Overview.md"
-    },
-    {
-      "basename": "MOC - PKM",
-      "path": "MOCs/MOC - PKM.md"
     },
     {
       "basename": "HOME",
@@ -191,14 +199,6 @@
     {
       "basename": "Cmd - Flush DNS",
       "path": "Code/CMD/Networking/Cmd - Flush DNS.md"
-    },
-    {
-      "basename": "Cmd - Create Network Performance Report",
-      "path": "Code/CMD/Networking/Cmd - Create Network Performance Report.md"
-    },
-    {
-      "basename": "Cmd - Restart Explorer and Start Menu",
-      "path": "Code/CMD/Miscellaneous/Cmd - Restart Explorer and Start Menu.md"
     }
   ],
   "omittedPaths": [],

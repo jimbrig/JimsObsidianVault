@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/MOC - PKM.md",
+                "file": "Inbox/PKM System Evolution.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/MOC - Development.md"
+                "file": "Inbox/PKM System Evolution.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/MOC - Development.md",
+                "file": "Inbox/PKM System Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/MOC - Development.md",
+                "file": "Inbox/PKM System Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/MOC - Development.md",
+                "file": "Inbox/PKM System Evolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +238,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792594,
+                  "scale": 0.3628873693012121,
                   "close": true
                 }
               }
@@ -292,17 +292,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "124e0a9102dd28d5",
+  "active": "fe4e6b60ad40b296",
   "lastOpenFiles": [
+    "Inbox/Digital Systems Overhaul.md",
+    "Inbox/PKM System Evolution.md",
+    "MOCs/MOC - PKM.md",
+    "MOCs/MOC - Development.md",
     "Code/Bash/_README.md",
     "Code/CMD/_README.md",
-    "MOCs/MOC - Development.md",
     "Templates/Code-Templates/Template-Code.md",
     "MOCs/MOC - Productivity.md",
     "Templates/Template-MOC.md",
     "Templates/Fragment-Templates/Template-Footer.md",
     "Personal Knowledge Management Overview.md",
-    "MOCs/MOC - PKM.md",
     "HOME.md",
     "MOCs/_README.md",
     "Guides/Obsidian/Maps of Content.md",
@@ -319,8 +321,6 @@
     "Daily/2023/05-May/2023-05-21.md",
     "Daily/2023/05-May/2023-05-22.md",
     "Daily/2023/05-May/2023-05-23.md",
-    "Daily/2023/05-May/2023-05-28.md",
-    "Daily/2023/05-May/2023-05-30.md",
     "Tools/Version Control",
     "Lists",
     "Tools/Shells and CLI Tools",
