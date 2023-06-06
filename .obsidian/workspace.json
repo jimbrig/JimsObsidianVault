@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "fe4e6b60ad40b296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/PKM System Evolution.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
             "id": "124e0a9102dd28d5",
             "type": "leaf",
             "state": {
@@ -57,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "tag:#FFFFF0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/PKM System Evolution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/PKM System Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/PKM System Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +199,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/PKM System Evolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 484.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,10 +276,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fe4e6b60ad40b296",
+  "active": "665582f2fb073909",
   "lastOpenFiles": [
-    "Inbox/Digital Systems Overhaul.md",
     "Inbox/PKM System Evolution.md",
+    "Inbox/PKM Tools.md",
+    "Inbox/Digital Systems Overhaul.md",
     "MOCs/MOC - PKM.md",
     "MOCs/MOC - Development.md",
     "Code/Bash/_README.md",
@@ -320,7 +305,6 @@
     "Daily/2023/05-May/2023-05-20.md",
     "Daily/2023/05-May/2023-05-21.md",
     "Daily/2023/05-May/2023-05-22.md",
-    "Daily/2023/05-May/2023-05-23.md",
     "Tools/Version Control",
     "Lists",
     "Tools/Shells and CLI Tools",

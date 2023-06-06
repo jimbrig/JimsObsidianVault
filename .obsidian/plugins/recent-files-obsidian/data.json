@@ -5,6 +5,10 @@
       "path": "Inbox/PKM System Evolution.md"
     },
     {
+      "basename": "PKM Tools",
+      "path": "Inbox/PKM Tools.md"
+    },
+    {
       "basename": "Digital Systems Overhaul",
       "path": "Inbox/Digital Systems Overhaul.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cmd - Retrieve WiFi Passwords",
       "path": "Code/CMD/Networking/Cmd - Retrieve WiFi Passwords.md"
-    },
-    {
-      "basename": "Cmd - Flush DNS",
-      "path": "Code/CMD/Networking/Cmd - Flush DNS.md"
     }
   ],
   "omittedPaths": [],
