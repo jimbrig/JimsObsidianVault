@@ -2,7 +2,7 @@
 Date: 2023-06-01
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "CMD", "Command Line" ]
+Alias: [ "CMD", "Command Line", "Command Line Code Snippets" ]
 ---
 
 # Command Line Code Snippets (`CMD`)

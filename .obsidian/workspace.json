@@ -4,70 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "db68ebab4d8296ce",
-        "type": "split",
+        "id": "f198a9697c509e4d",
+        "type": "tabs",
         "children": [
           {
-            "id": "f198a9697c509e4d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6a5a38faaad36488",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HOME.md",
-                    "mode": "preview",
-                    "backlinks": true
-                  },
-                  "pinned": true
-                }
+            "id": "6a5a38faaad36488",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "preview",
+                "backlinks": true
               },
-              {
-                "id": "fe4e6b60ad40b296",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MOCs/MOC - PKM.md",
-                    "mode": "source",
-                    "backlinks": true
-                  }
-                }
-              },
-              {
-                "id": "124e0a9102dd28d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personal Knowledge Management Overview.md",
-                    "mode": "source",
-                    "backlinks": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
+              "pinned": true
+            }
           },
           {
-            "id": "2a86dce861045537",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4fd903b135d6ed28",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "fe4e6b60ad40b296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOCs/MOC - PKM.md",
+                "mode": "source",
+                "backlinks": true
               }
-            ]
+            }
+          },
+          {
+            "id": "124e0a9102dd28d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOCs/MOC - Development.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "d1cbefbf74139205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Bash/_README.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Management Overview.md"
+                "file": "MOCs/MOC - Development.md"
               }
             }
           },
@@ -163,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Management Overview.md",
+                "file": "MOCs/MOC - Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Knowledge Management Overview.md",
+                "file": "MOCs/MOC - Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal Knowledge Management Overview.md",
+                "file": "MOCs/MOC - Development.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +238,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1846232622585813,
+                  "scale": 0.5087618855792594,
                   "close": true
                 }
               }
@@ -273,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5,
-    "collapsed": true
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,8 +294,15 @@
   },
   "active": "124e0a9102dd28d5",
   "lastOpenFiles": [
-    "MOCs/MOC - PKM.md",
+    "Code/Bash/_README.md",
+    "Code/CMD/_README.md",
+    "MOCs/MOC - Development.md",
+    "Templates/Code-Templates/Template-Code.md",
+    "MOCs/MOC - Productivity.md",
+    "Templates/Template-MOC.md",
+    "Templates/Fragment-Templates/Template-Footer.md",
     "Personal Knowledge Management Overview.md",
+    "MOCs/MOC - PKM.md",
     "HOME.md",
     "MOCs/_README.md",
     "Guides/Obsidian/Maps of Content.md",
@@ -313,8 +310,6 @@
     "Guides/Obsidian/Obsidian Setup.md",
     "Guides/Obsidian",
     "Templates/Template-Default.md",
-    "MOCs/MOC - Development.md",
-    "Templates/Template-MOC.md",
     "Daily/2023-06-04.md",
     "Daily/2023-06-01.md",
     "Daily/_README.md",
@@ -326,11 +321,6 @@
     "Daily/2023/05-May/2023-05-23.md",
     "Daily/2023/05-May/2023-05-28.md",
     "Daily/2023/05-May/2023-05-30.md",
-    "Daily/2023/05-May/2023-05-31.md",
-    "Daily/2023/06-June/2023-06-01.md",
-    "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md",
-    "Daily/2023-05-17.md",
-    "README.md",
     "Tools/Version Control",
     "Lists",
     "Tools/Shells and CLI Tools",
