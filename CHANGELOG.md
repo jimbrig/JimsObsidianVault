@@ -1,3 +1,4 @@
+- 2023-06-05 at 22h03 · [[List of Services I Use]]
 - 2023-06-05 at 21h03 · [[PKM Tools]]
 - 2023-06-05 at 20h58 · [[PKM System Evolution]]
 - 2023-06-05 at 20h39 · [[Digital Systems Overhaul]]
@@ -47,4 +48,3 @@
 - 2023-06-01 at 18h51 · [[Bash - Git Auto Commit]]
 - 2023-06-01 at 18h47 · [[Bash - WSL Set Default Browser to Windows Host]]
 - 2023-06-01 at 18h45 · [[Bash - Install Zsh and oh-my-zsh]]
-- 2023-06-01 at 18h44 · [[Bash - Install WSLU]]

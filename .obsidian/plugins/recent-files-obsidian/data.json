@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "List of Services I Use",
+      "path": "Inbox/List of Services I Use.md"
+    },
+    {
+      "basename": "MOC - Development",
+      "path": "MOCs/MOC - Development.md"
+    },
+    {
       "basename": "PKM System Evolution",
       "path": "Inbox/PKM System Evolution.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "MOC - PKM",
       "path": "MOCs/MOC - PKM.md"
-    },
-    {
-      "basename": "MOC - Development",
-      "path": "MOCs/MOC - Development.md"
     },
     {
       "basename": "_README",
@@ -195,10 +199,6 @@
     {
       "basename": "Cmd - Memory Diagnostic",
       "path": "Code/CMD/Troubleshooting/Cmd - Memory Diagnostic.md"
-    },
-    {
-      "basename": "Cmd - Retrieve WiFi Passwords",
-      "path": "Code/CMD/Networking/Cmd - Retrieve WiFi Passwords.md"
     }
   ],
   "omittedPaths": [],

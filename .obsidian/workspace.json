@@ -44,8 +44,21 @@
                 "backlinks": true
               }
             }
+          },
+          {
+            "id": "caf125c52a670ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/List of Services I Use.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/List of Services I Use.md"
+              }
             }
           },
           {
@@ -140,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/List of Services I Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/List of Services I Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,6 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/List of Services I Use.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,13 +293,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "665582f2fb073909",
+  "active": "caf125c52a670ad9",
   "lastOpenFiles": [
+    "MOCs/MOC - Development.md",
+    "Inbox/List of Services I Use.md",
     "Inbox/PKM System Evolution.md",
     "Inbox/PKM Tools.md",
     "Inbox/Digital Systems Overhaul.md",
     "MOCs/MOC - PKM.md",
-    "MOCs/MOC - Development.md",
     "Code/Bash/_README.md",
     "Code/CMD/_README.md",
     "Templates/Code-Templates/Template-Code.md",
@@ -304,7 +322,6 @@
     "Daily/2023/05-May/2023-05-19.md",
     "Daily/2023/05-May/2023-05-20.md",
     "Daily/2023/05-May/2023-05-21.md",
-    "Daily/2023/05-May/2023-05-22.md",
     "Tools/Version Control",
     "Lists",
     "Tools/Shells and CLI Tools",
