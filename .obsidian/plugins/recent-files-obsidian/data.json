@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-07",
+      "path": "Daily/2023-06-07.md"
+    },
+    {
       "basename": "List of Services I Use",
       "path": "Inbox/List of Services I Use.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cmd - Run Hardware Diagnostics Troubleshooter",
       "path": "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md"
-    },
-    {
-      "basename": "Cmd - Memory Diagnostic",
-      "path": "Code/CMD/Troubleshooting/Cmd - Memory Diagnostic.md"
     }
   ],
   "omittedPaths": [],

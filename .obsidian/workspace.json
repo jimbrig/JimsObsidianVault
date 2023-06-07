@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/List of Services I Use.md",
+                "file": "Daily/2023-06-07.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/List of Services I Use.md"
+                "file": "Daily/2023-06-07.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/List of Services I Use.md",
+                "file": "Daily/2023-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/List of Services I Use.md",
+                "file": "Daily/2023-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/List of Services I Use.md",
+                "file": "Daily/2023-06-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,8 +295,9 @@
   },
   "active": "caf125c52a670ad9",
   "lastOpenFiles": [
-    "MOCs/MOC - Development.md",
     "Inbox/List of Services I Use.md",
+    "Daily/2023-06-07.md",
+    "MOCs/MOC - Development.md",
     "Inbox/PKM System Evolution.md",
     "Inbox/PKM Tools.md",
     "Inbox/Digital Systems Overhaul.md",
@@ -321,7 +322,6 @@
     "Daily/2023/05-May/2023-05-17.md",
     "Daily/2023/05-May/2023-05-19.md",
     "Daily/2023/05-May/2023-05-20.md",
-    "Daily/2023/05-May/2023-05-21.md",
     "Tools/Version Control",
     "Lists",
     "Tools/Shells and CLI Tools",
