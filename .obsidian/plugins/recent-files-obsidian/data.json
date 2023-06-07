@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Terraform Project Structure",
+      "path": "Terraform Project Structure.md"
+    },
+    {
+      "basename": "Terraform",
+      "path": "Terraform.md"
+    },
+    {
+      "basename": "Terraform Testing Strategies",
+      "path": "Terraform Testing Strategies.md"
+    },
+    {
+      "basename": "Managing Secrets with Docker and Docker Compose",
+      "path": "Managing Secrets with Docker and Docker Compose.md"
+    },
+    {
+      "basename": "Docker Compose",
+      "path": "Docker Compose.md"
+    },
+    {
+      "basename": "List of Terraform Related Tools",
+      "path": "List of Terraform Related Tools.md"
+    },
+    {
+      "basename": "Terraform Remote State",
+      "path": "Terraform Remote State.md"
+    },
+    {
       "basename": "2023-06-07",
       "path": "Daily/2023-06-07.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "_README",
       "path": "Inbox/_README.md"
-    },
-    {
-      "basename": "Cmd - wureset Script",
-      "path": "Code/CMD/Windows Update/Cmd - wureset Script.md"
-    },
-    {
-      "basename": "Cmd - Windows Update Reference",
-      "path": "Code/CMD/Windows Update/Cmd - Windows Update Reference.md"
-    },
-    {
-      "basename": "Cmd - Reset Windows Update Components",
-      "path": "Code/CMD/Windows Update/Cmd - Reset Windows Update Components.md"
-    },
-    {
-      "basename": "Cmd - Troubleshooters",
-      "path": "Code/CMD/Troubleshooting/Cmd - Troubleshooters.md"
-    },
-    {
-      "basename": "Cmd - SFC",
-      "path": "Code/CMD/Troubleshooting/Cmd - SFC.md"
-    },
-    {
-      "basename": "Cmd - Run WinSAT Diagnostics",
-      "path": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md"
-    },
-    {
-      "basename": "Cmd - Run Hardware Diagnostics Troubleshooter",
-      "path": "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,1 @@
+[[Managing Secrets with Docker and Docker Compose]]
