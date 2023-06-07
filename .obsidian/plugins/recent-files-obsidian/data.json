@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-07",
+      "path": "Daily/2023-06-07.md"
+    },
+    {
       "basename": "Terraform Project Structure",
       "path": "Terraform Project Structure.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Terraform Remote State",
       "path": "Terraform Remote State.md"
-    },
-    {
-      "basename": "2023-06-07",
-      "path": "Daily/2023-06-07.md"
     },
     {
       "basename": "List of Services I Use",
