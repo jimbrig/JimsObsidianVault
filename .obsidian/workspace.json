@@ -49,12 +49,8 @@
             "id": "caf125c52a670ad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Azure Tools.md",
-                "mode": "source",
-                "backlinks": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -124,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "List of Azure Tools.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Azure Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Azure Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +219,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "List of Azure Tools.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,17 +298,17 @@
   },
   "active": "caf125c52a670ad9",
   "lastOpenFiles": [
-    "Azure Naming Tool.md",
-    "List of Azure Tools.md",
-    "Daily/2023-06-07.md",
     "Untitled.md",
-    "List of Terraform Related Tools.md",
-    "Terraform.md",
-    "Terraform Project Structure.md",
-    "Terraform Testing Strategies.md",
-    "Managing Secrets with Docker and Docker Compose.md",
-    "Docker Compose.md",
-    "Terraform Remote State.md",
+    "Inbox/List of Azure Tools.md",
+    "Inbox/Azure Naming Tool.md",
+    "Daily/2023-06-07.md",
+    "Inbox/List of Terraform Related Tools.md",
+    "Inbox/Terraform.md",
+    "Inbox/Terraform Project Structure.md",
+    "Inbox/Terraform Testing Strategies.md",
+    "Inbox/Managing Secrets with Docker and Docker Compose.md",
+    "Inbox/Docker Compose.md",
+    "Inbox/Terraform Remote State.md",
     "Inbox/List of Services I Use.md",
     "MOCs/MOC - Development.md",
     "Inbox/PKM System Evolution.md",
@@ -331,7 +321,7 @@
     "MOCs/MOC - Productivity.md",
     "Templates/Template-MOC.md",
     "Templates/Fragment-Templates/Template-Footer.md",
-    "Personal Knowledge Management Overview.md",
+    "Inbox/Personal Knowledge Management Overview.md",
     "HOME.md",
     "MOCs/_README.md",
     "Guides/Obsidian",

@@ -1,6 +1,5 @@
 - 2023-06-07 at 20h03 · [[List of Azure Tools]]
 - 2023-06-07 at 20h01 · [[Azure Naming Tool]]
-- 2023-06-07 at 19h56 · [[Untitled]]
 - 2023-06-07 at 19h55 · [[2023-06-07]]
 - 2023-06-07 at 12h31 · [[Terraform Project Structure]]
 - 2023-06-07 at 12h30 · [[Terraform]]
@@ -48,3 +47,4 @@
 - 2023-06-01 at 20h27 · [[Cmd - Memory Diagnostic]]
 - 2023-06-01 at 20h27 · [[Cmd - Retrieve WiFi Passwords]]
 - 2023-06-01 at 20h27 · [[Cmd - Flush DNS]]
+- 2023-06-01 at 20h27 · [[Cmd - Create Network Performance Report]]
