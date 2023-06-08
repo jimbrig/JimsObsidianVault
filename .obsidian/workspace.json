@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Terraform Related Tools.md",
+                "file": "List of Azure Tools.md",
                 "mode": "source",
                 "backlinks": true
               }
             }
           },
           {
-            "id": "e1a3990dc259ccfb",
+            "id": "cddfe147295bb79b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-07.md"
+                "file": "List of Azure Tools.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-07.md",
+                "file": "List of Azure Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-07.md",
+                "file": "List of Azure Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-07.md",
+                "file": "List of Azure Tools.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,16 +306,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e1a3990dc259ccfb",
+  "active": "caf125c52a670ad9",
   "lastOpenFiles": [
+    "Azure Naming Tool.md",
+    "List of Azure Tools.md",
+    "Daily/2023-06-07.md",
+    "Untitled.md",
+    "List of Terraform Related Tools.md",
     "Terraform.md",
     "Terraform Project Structure.md",
     "Terraform Testing Strategies.md",
     "Managing Secrets with Docker and Docker Compose.md",
     "Docker Compose.md",
-    "List of Terraform Related Tools.md",
     "Terraform Remote State.md",
-    "Daily/2023-06-07.md",
     "Inbox/List of Services I Use.md",
     "MOCs/MOC - Development.md",
     "Inbox/PKM System Evolution.md",
@@ -330,9 +334,6 @@
     "Personal Knowledge Management Overview.md",
     "HOME.md",
     "MOCs/_README.md",
-    "Guides/Obsidian/Maps of Content.md",
-    "Guides/Obsidian/Obsidian Plugins.md",
-    "Guides/Obsidian/Obsidian Setup.md",
     "Guides/Obsidian",
     "Tools/Version Control",
     "Lists",

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "List of Azure Tools",
+      "path": "List of Azure Tools.md"
+    },
+    {
+      "basename": "Azure Naming Tool",
+      "path": "Azure Naming Tool.md"
+    },
+    {
       "basename": "2023-06-07",
       "path": "Daily/2023-06-07.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "List of Terraform Related Tools",
+      "path": "List of Terraform Related Tools.md"
     },
     {
       "basename": "Terraform Project Structure",
@@ -23,10 +39,6 @@
     {
       "basename": "Docker Compose",
       "path": "Docker Compose.md"
-    },
-    {
-      "basename": "List of Terraform Related Tools",
-      "path": "List of Terraform Related Tools.md"
     },
     {
       "basename": "Terraform Remote State",
@@ -187,18 +199,6 @@
     {
       "basename": "Links",
       "path": "Lists/Links.md"
-    },
-    {
-      "basename": "Software for the Digital Life",
-      "path": "Lists/Software for the Digital Life.md"
-    },
-    {
-      "basename": "Obsidian Browser Extensions",
-      "path": "Tools/Obsidian Plugins and Tools/Obsidian Browser Extensions.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Inbox/_README.md"
     }
   ],
   "omittedPaths": [],
