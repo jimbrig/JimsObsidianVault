@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "VBA - Excel Styles Management",
+      "path": "Code/VBA/VBA - Excel Styles Management.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/VBA/_README.md"
+    },
+    {
+      "basename": "Template-Code-VBA",
+      "path": "Templates/Code-Templates/Template-Code-VBA.md"
+    },
+    {
+      "basename": "Template-Code-YAML",
+      "path": "Templates/Code-Templates/Template-Code-YAML.md"
+    },
+    {
+      "basename": "Template-Code",
+      "path": "Templates/Code-Templates/Template-Code.md"
+    },
+    {
+      "basename": "Template-Code-Bash",
+      "path": "Templates/Code-Templates/Template-Code-Bash.md"
+    },
+    {
+      "basename": "Template-Code-CMD",
+      "path": "Templates/Code-Templates/Template-Code-CMD.md"
+    },
+    {
+      "basename": "Template-Code-CSS",
+      "path": "Templates/Code-Templates/Template-Code-CSS.md"
+    },
+    {
+      "basename": "Template-Code-GHA",
+      "path": "Templates/Code-Templates/Template-Code-GHA.md"
+    },
+    {
+      "basename": "Template-Code-HTML",
+      "path": "Templates/Code-Templates/Template-Code-HTML.md"
+    },
+    {
+      "basename": "Template-Code-JavaScript",
+      "path": "Templates/Code-Templates/Template-Code-JavaScript.md"
+    },
+    {
+      "basename": "Template-Code-PowerShell",
+      "path": "Templates/Code-Templates/Template-Code-PowerShell.md"
+    },
+    {
+      "basename": "Template-Code-Python",
+      "path": "Templates/Code-Templates/Template-Code-Python.md"
+    },
+    {
+      "basename": "Template-Code-R",
+      "path": "Templates/Code-Templates/Template-Code-R.md"
+    },
+    {
+      "basename": "Template-Code-Registry",
+      "path": "Templates/Code-Templates/Template-Code-Registry.md"
+    },
+    {
+      "basename": "Template-Code-SQL",
+      "path": "Templates/Code-Templates/Template-Code-SQL.md"
+    },
+    {
+      "basename": "Template-Code-Terraform",
+      "path": "Templates/Code-Templates/Template-Code-Terraform.md"
+    },
+    {
       "basename": "Obsidian Chat",
       "path": "AI/chats/Obsidian Chat.md"
     },
@@ -93,10 +161,6 @@
       "path": "Code/CMD/_README.md"
     },
     {
-      "basename": "Template-Code",
-      "path": "Templates/Code-Templates/Template-Code.md"
-    },
-    {
       "basename": "MOC - Productivity",
       "path": "MOCs/MOC - Productivity.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Template-Default",
       "path": "Templates/Template-Default.md"
-    },
-    {
-      "basename": "2023-06-04",
-      "path": "Daily/2023-06-04.md"
-    },
-    {
-      "basename": "2023-06-01",
-      "path": "Daily/2023-06-01.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Daily/_README.md"
-    },
-    {
-      "basename": "2023-05-17",
-      "path": "Daily/2023/05-May/2023-05-17.md"
-    },
-    {
-      "basename": "2023-05-19",
-      "path": "Daily/2023/05-May/2023-05-19.md"
-    },
-    {
-      "basename": "2023-05-20",
-      "path": "Daily/2023/05-May/2023-05-20.md"
-    },
-    {
-      "basename": "2023-05-21",
-      "path": "Daily/2023/05-May/2023-05-21.md"
-    },
-    {
-      "basename": "2023-05-22",
-      "path": "Daily/2023/05-May/2023-05-22.md"
-    },
-    {
-      "basename": "2023-05-23",
-      "path": "Daily/2023/05-May/2023-05-23.md"
-    },
-    {
-      "basename": "2023-05-28",
-      "path": "Daily/2023/05-May/2023-05-28.md"
-    },
-    {
-      "basename": "2023-05-30",
-      "path": "Daily/2023/05-May/2023-05-30.md"
-    },
-    {
-      "basename": "2023-05-31",
-      "path": "Daily/2023/05-May/2023-05-31.md"
-    },
-    {
-      "basename": "2023-06-01",
-      "path": "Daily/2023/06-June/2023-06-01.md"
-    },
-    {
-      "basename": "Cmd - Retrieve Windows Credential Manager Stored Secrets",
-      "path": "Code/CMD/Credentials/Cmd - Retrieve Windows Credential Manager Stored Secrets.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
     }
   ],
   "omittedPaths": [],

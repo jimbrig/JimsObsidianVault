@@ -1,25 +1,25 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2023-06-10
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/VBA", "#Topic/Dev/VBA", "#Topic/Dev/Windows"]
-Alias: [ "<% (tp.file.title).replace("VBA - ", "") %>" ]
+Alias: [ "Excel Styles Management" ]
 ---
 
 
 
-# <% (tp.file.title).replace("VBA - ", "") %>
+# Excel Styles Management
 
 > [!source] Sources
-> - *<% tp.file.cursor(2) %>*
+> - **
 
 <!-- TOC -->
 
 ## Code
 
-*Link: <% tp.file.cursor(3) %>*
+*Link: *
 
 ```vba
-<% tp.file.cursor(1) %>
+
 ```
 
 ## Details
@@ -33,7 +33,7 @@ Alias: [ "<% (tp.file.title).replace("VBA - ", "") %>" ]
 
 ## Appendix: Links and References
 
-*Note created on [[<% tp.file.creation_date("YYYY-MM-DD") %>]] and last modified on [[<% tp.file.last_modified_date("YYYY-MM-DD") %>]].*
+*Note created on [[2023-06-10]] and last modified on [[2023-06-10]].*
 
 ### Internal Linked Notes
 
@@ -49,11 +49,11 @@ Alias: [ "<% (tp.file.title).replace("VBA - ", "") %>" ]
 #### Backlinks
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"CHANGELOG" AND -"<% tp.file.folder(true) %>/<% tp.file.title %>"
+list from [[VBA - Excel Styles Management]] AND -"CHANGELOG" AND -"Code/VBA/VBA - Excel Styles Management"
 ```
 
 
 ***
 
-Jimmy Briggs <jimmy.briggs@jimbrig.com> | <% tp.date.now("YYYY") %>
+Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2023
 
