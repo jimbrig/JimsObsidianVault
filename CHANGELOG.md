@@ -1,3 +1,4 @@
+- 2023-06-09 at 22h17 · [[2023-06-09]]
 - 2023-06-07 at 20h03 · [[List of Azure Tools]]
 - 2023-06-07 at 20h01 · [[Azure Naming Tool]]
 - 2023-06-07 at 19h55 · [[2023-06-07]]
@@ -47,4 +48,3 @@
 - 2023-06-01 at 20h27 · [[Cmd - Memory Diagnostic]]
 - 2023-06-01 at 20h27 · [[Cmd - Retrieve WiFi Passwords]]
 - 2023-06-01 at 20h27 · [[Cmd - Flush DNS]]
-- 2023-06-01 at 20h27 · [[Cmd - Create Network Performance Report]]

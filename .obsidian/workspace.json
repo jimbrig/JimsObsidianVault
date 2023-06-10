@@ -49,8 +49,12 @@
             "id": "caf125c52a670ad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-06-09.md",
+                "mode": "source",
+                "backlinks": true
+              }
             }
           },
           {
@@ -151,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2023-06-09.md"
+              }
             }
           },
           {
@@ -160,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2023-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2023-06-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,6 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Daily/2023-06-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,6 +307,7 @@
   },
   "active": "caf125c52a670ad9",
   "lastOpenFiles": [
+    "Daily/2023-06-09.md",
     "Untitled.md",
     "Inbox/List of Azure Tools.md",
     "Inbox/Azure Naming Tool.md",
@@ -323,7 +333,6 @@
     "Templates/Fragment-Templates/Template-Footer.md",
     "Inbox/Personal Knowledge Management Overview.md",
     "HOME.md",
-    "MOCs/_README.md",
     "Guides/Obsidian",
     "Tools/Version Control",
     "Lists",
