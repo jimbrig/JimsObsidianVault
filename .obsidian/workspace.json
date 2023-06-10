@@ -70,6 +70,18 @@
             }
           },
           {
+            "id": "e20373eb25387c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excel Spreadsheet Document API.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
             "id": "4bc926f9d8e0b04c",
             "type": "leaf",
             "state": {
@@ -82,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is DotNet.md"
+                "file": "Excel Spreadsheet Document API.md"
               }
             }
           },
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is DotNet.md",
+                "file": "Excel Spreadsheet Document API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is DotNet.md",
+                "file": "Excel Spreadsheet Document API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "What is DotNet.md",
+                "file": "Excel Spreadsheet Document API.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,10 +329,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f486ceed58179673",
+  "active": "e20373eb25387c28",
   "lastOpenFiles": [
-    "DotNet SDK.md",
     "What is DotNet.md",
+    "Excel Spreadsheet Document API.md",
+    "DotNet SDK.md",
     "Daily/2023-06-10.md",
     "Code/VBA/_README.md",
     "Code/VBA/VBA - Excel Global Functions.md",
@@ -347,7 +360,6 @@
     "AI/chats",
     "AI",
     "Templates/AI",
-    "Daily/2023-06-08.md",
     "Guides/Obsidian",
     "Tools/Version Control",
     "Lists",
