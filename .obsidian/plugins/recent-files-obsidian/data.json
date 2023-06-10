@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-07",
+      "path": "Daily/2023-06-07.md"
+    },
+    {
+      "basename": "2023-06-08",
+      "path": "Daily/2023-06-08.md"
+    },
+    {
       "basename": "2023-06-09",
       "path": "Daily/2023-06-09.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Azure Naming Tool",
       "path": "Inbox/Azure Naming Tool.md"
-    },
-    {
-      "basename": "2023-06-07",
-      "path": "Daily/2023-06-07.md"
     },
     {
       "basename": "List of Terraform Related Tools",
@@ -195,10 +199,6 @@
     {
       "basename": "DAPR",
       "path": "Definitions/DAPR.md"
-    },
-    {
-      "basename": "Links",
-      "path": "Lists/Links.md"
     }
   ],
   "omittedPaths": [],
