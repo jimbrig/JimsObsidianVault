@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-10",
+      "path": "Daily/2023-06-10.md"
+    },
+    {
       "basename": "_README",
       "path": "Code/VBA/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian Plugins",
       "path": "Guides/Obsidian/Obsidian Plugins.md"
-    },
-    {
-      "basename": "Obsidian Setup",
-      "path": "Guides/Obsidian/Obsidian Setup.md"
     }
   ],
   "omittedPaths": [],
