@@ -26,6 +26,9 @@ LIST FROM "Code/VBA" AND -"CHANGELOG" AND -"Code/VBA/_README"
 
 ### Internal Linked Notes
 
+- [[VBA - Excel Global Functions]]
+- [[VBA - Excel Styles Management]]
+
 ### External References
 
 #Status/Todo - Add Link(s) to VBA References (Microsoft Docs, etc.)

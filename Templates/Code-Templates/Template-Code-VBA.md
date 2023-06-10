@@ -39,10 +39,10 @@ Alias: [ "<% (tp.file.title).replace("VBA - ", "") %>" ]
 
 - [[Code/_README|Code Snippets]]
 - [[Code/VBA/_README|VBA Code Snippets]]
-- [[MOCs/Development|Development]]
-- [[MOCs/Technology|Technology]]
-- [[MOCs/Windows|Microsoft Windows]]
-- [[MOCs/Software Engineering|Software Engineering]]
+- [[MOC - Development|Development]]
+- [[MOC - Technology|Technology]]
+- [[MOC - Microsoft|Microsoft Windows]]
+- [[MOC - Software|Software Engineering]]
 
 ### External References
 

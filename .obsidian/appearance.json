@@ -4,5 +4,6 @@
   "showViewHeader": false,
   "enabledCssSnippets": [
     "MCL Multi Column"
-  ]
+  ],
+  "baseFontSize": 15
 }

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "VBA - Excel Styles Management",
-      "path": "Code/VBA/VBA - Excel Styles Management.md"
-    },
-    {
       "basename": "_README",
       "path": "Code/VBA/_README.md"
+    },
+    {
+      "basename": "VBA - Excel Global Functions",
+      "path": "Code/VBA/VBA - Excel Global Functions.md"
+    },
+    {
+      "basename": "VBA - Excel Styles Management",
+      "path": "Code/VBA/VBA - Excel Styles Management.md"
     },
     {
       "basename": "Template-Code-VBA",
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian Setup",
       "path": "Guides/Obsidian/Obsidian Setup.md"
-    },
-    {
-      "basename": "Template-Default",
-      "path": "Templates/Template-Default.md"
     }
   ],
   "omittedPaths": [],

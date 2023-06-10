@@ -63,8 +63,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/VBA/VBA - Excel Styles Management.md",
-                "mode": "source",
+                "file": "Code/VBA/_README.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/VBA/VBA - Excel Styles Management.md"
+                "file": "Code/VBA/_README.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/VBA/VBA - Excel Styles Management.md",
+                "file": "Code/VBA/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/VBA/VBA - Excel Styles Management.md",
+                "file": "Code/VBA/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/VBA/VBA - Excel Styles Management.md",
+                "file": "Code/VBA/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,8 +319,10 @@
   },
   "active": "f486ceed58179673",
   "lastOpenFiles": [
-    "Code/VBA/_README.md",
+    "Code/VBA/VBA - Excel Global Functions.md",
+    "Code/VBA/VBA - Excel Styles Management.md",
     "Templates/Code-Templates/Template-Code-VBA.md",
+    "Code/VBA/_README.md",
     "Templates/Code-Templates/Template-Code-YAML.md",
     "Templates/Code-Templates/Template-Code.md",
     "Templates/Code-Templates/Template-Code-Bash.md",
@@ -335,7 +337,6 @@
     "Templates/Code-Templates/Template-Code-Registry.md",
     "Templates/Code-Templates/Template-Code-SQL.md",
     "Templates/Code-Templates/Template-Code-Terraform.md",
-    "Code/VBA/VBA - Excel Styles Management.md",
     "AI/chats/Obsidian Chat.md",
     "Inbox/Artificial Intelligence Concepts.md",
     "Definitions/GPT.md",
@@ -347,7 +348,6 @@
     "Daily/2023-06-09.md",
     "Inbox/List of Azure Tools.md",
     "Inbox/Azure Naming Tool.md",
-    "Inbox/List of Terraform Related Tools.md",
     "Guides/Obsidian",
     "Tools/Version Control",
     "Lists",
