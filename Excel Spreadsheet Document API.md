@@ -10,10 +10,18 @@ Alias: [ ]
 ## Components of a Spreadsheet
 
 - Workbook
-- Worksheets and Worksheet
+- Worksheets and ChartSheets:
+	- Workbook consists of one or more worksheets stored in the Workbook's Worksheets collection.
+	- Workbooks can also contain Chart Sheets which use the Workbook's ChartSheets collection.
+	- The `Workbook.Sheets` collection includes all sheets (Worksheets + ChartSheets) in the workbook. 
+- Defined Names:
+	- The `Workbook.DefinedNames` collection includes global defined names (named ranges) that are available in any of the current workbook's worksheets.
+- Built-In and Custom Functions:
+	-  
 - Cells, Ranges, Rows, and Columns
 - Values and Formulas
-- Formatting Components:
+- Styling:
+- Styling and Formatting Components:
 	- Document/Workbook Theme:
 		- Fonts
 		- Colors
@@ -27,7 +35,8 @@ Alias: [ ]
 			- **Font**: Name, Color, Size, and Style(s) (Bold, Italic, Underline, Strikethrough, etc.)
 			- **Number Format**: Cell's Number Format
 			- **Protection**: Cell protection options (Locked and Hidden)
-	
+	- Table and Pivot Table Styles:
+	- Conditional Formatting
 - Named Ranges (Defined Names)
 - Shapes and Pictures
 - Charts and Sparklines
@@ -36,6 +45,13 @@ Alias: [ ]
 - Document Properties (Custom and BuiltIn/Default)
 - Comments
 - Hyperlinks
+- Custom XML Parts
+- Custom Lists
+- Data Validation
+
+### Workbook Themes
+
+- `*.thmx` files
 - 
 
 ## Classes and Interfaces
