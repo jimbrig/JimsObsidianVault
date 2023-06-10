@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Chat",
+      "path": "AI/chats/Obsidian Chat.md"
+    },
+    {
+      "basename": "Artificial Intelligence Concepts",
+      "path": "Inbox/Artificial Intelligence Concepts.md"
+    },
+    {
+      "basename": "GPT",
+      "path": "Definitions/GPT.md"
+    },
+    {
       "basename": "2023-06-07",
       "path": "Daily/2023-06-07.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "CHANGELOG",
       "path": "CHANGELOG.md"
-    },
-    {
-      "basename": "Windows Command Line",
-      "path": "Tools/Shells and CLI Tools/Windows Command Line.md"
-    },
-    {
-      "basename": "Github",
-      "path": "Tools/Version Control/Github.md"
-    },
-    {
-      "basename": "DAPR",
-      "path": "Definitions/DAPR.md"
     }
   ],
   "omittedPaths": [],

@@ -51,14 +51,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-07.md",
+                "file": "Inbox/Artificial Intelligence Concepts.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "f486ceed58179673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/chats/Obsidian Chat.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "4bc926f9d8e0b04c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/GPT.md",
                 "mode": "preview",
                 "backlinks": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-07.md"
+                "file": "AI/chats/Obsidian Chat.md"
               }
             }
           },
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-07.md",
+                "file": "AI/chats/Obsidian Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-07.md",
+                "file": "AI/chats/Obsidian Chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-07.md",
+                "file": "AI/chats/Obsidian Chat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,18 +313,23 @@
       "open-vscode:VSCode": false,
       "smart-random-note:Open Random Note from Search": false,
       "homepage:Open homepage": false,
-      "obsidian-omnivore:Omnivore": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "cddfe147295bb79b",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "Inbox/Artificial Intelligence Concepts.md",
+    "AI/chats/Obsidian Chat.md",
+    "Definitions/GPT.md",
+    "Daily/2023-06-07.md",
+    "AI/chats",
+    "AI",
+    "Templates/AI",
     "Daily/2023-06-08.md",
     "Daily/2023-06-09.md",
-    "Untitled.md",
     "Inbox/List of Azure Tools.md",
     "Inbox/Azure Naming Tool.md",
-    "Daily/2023-06-07.md",
     "Inbox/List of Terraform Related Tools.md",
     "Inbox/Terraform.md",
     "Inbox/Terraform Project Structure.md",
@@ -319,8 +348,6 @@
     "Templates/Code-Templates/Template-Code.md",
     "MOCs/MOC - Productivity.md",
     "Templates/Template-MOC.md",
-    "Templates/Fragment-Templates/Template-Footer.md",
-    "Inbox/Personal Knowledge Management Overview.md",
     "Guides/Obsidian",
     "Tools/Version Control",
     "Lists",
@@ -328,9 +355,6 @@
     "Tools/Obsidian Plugins and Tools",
     "Guides",
     "Code/CMD/Imaging",
-    "Code/CMD/Disk Management",
-    "Code/CMD/Miscellaneous",
-    "Code/CMD/Credentials",
     "Assets/Banners/programming.gif"
   ]
 }

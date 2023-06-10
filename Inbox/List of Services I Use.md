@@ -37,7 +37,7 @@
 ## Productivity & PKM
 
 - [[Todoist]]
-- [[Obsidian]]
+- [[Obsidian Chat]]
 - [[Raindrop.io]]
 - [[Medium]]
 - [[Feedly]]

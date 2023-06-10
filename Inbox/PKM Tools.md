@@ -13,7 +13,7 @@ Here are the apps I use, along with some alternatives:
 
 1. [[Task Management]] &  [[Project Management]]: **[[Todoist]]**
 2. [[File Management]]: **[[OneDrive]]**
-3. [[Knowledge Management]]: **[[Obsidian]]**
+3. [[Knowledge Management]]: **[[Obsidian Chat]]**
 4. [[Reference Management]]: **[[Zotero]]**
 5. [[Media Management]]: ?
 
