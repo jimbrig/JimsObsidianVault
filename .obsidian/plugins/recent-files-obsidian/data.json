@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "What is DotNet",
+      "path": "What is DotNet.md"
+    },
+    {
+      "basename": "DotNet SDK",
+      "path": "DotNet SDK.md"
+    },
+    {
       "basename": "2023-06-10",
       "path": "Daily/2023-06-10.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_README",
       "path": "MOCs/_README.md"
-    },
-    {
-      "basename": "Maps of Content",
-      "path": "Guides/Obsidian/Maps of Content.md"
-    },
-    {
-      "basename": "Obsidian Plugins",
-      "path": "Guides/Obsidian/Obsidian Plugins.md"
     }
   ],
   "omittedPaths": [],

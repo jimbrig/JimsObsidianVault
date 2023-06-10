@@ -63,8 +63,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-10.md",
-                "mode": "source",
+                "file": "What is DotNet.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-10.md"
+                "file": "What is DotNet.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-10.md",
+                "file": "What is DotNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-10.md",
+                "file": "What is DotNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-10.md",
+                "file": "What is DotNet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,8 +319,10 @@
   },
   "active": "f486ceed58179673",
   "lastOpenFiles": [
-    "Code/VBA/_README.md",
+    "DotNet SDK.md",
+    "What is DotNet.md",
     "Daily/2023-06-10.md",
+    "Code/VBA/_README.md",
     "Code/VBA/VBA - Excel Global Functions.md",
     "Code/VBA/VBA - Excel Styles Management.md",
     "Templates/Code-Templates/Template-Code-VBA.md",
@@ -346,8 +348,6 @@
     "AI",
     "Templates/AI",
     "Daily/2023-06-08.md",
-    "Daily/2023-06-09.md",
-    "Inbox/List of Azure Tools.md",
     "Guides/Obsidian",
     "Tools/Version Control",
     "Lists",
