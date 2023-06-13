@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-13",
+      "path": "Daily/2023-06-13.md"
+    },
+    {
       "basename": "2023-06-12",
       "path": "Daily/2023-06-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Footer",
       "path": "Templates/Fragment-Templates/Template-Footer.md"
-    },
-    {
-      "basename": "Personal Knowledge Management Overview",
-      "path": "Inbox/Personal Knowledge Management Overview.md"
     }
   ],
   "omittedPaths": [],
