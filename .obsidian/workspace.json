@@ -75,8 +75,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-13.md",
+                "file": "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
                 "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "9c925f389c1e4b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tupac Quotes.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -87,14 +99,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/GPT.md",
+                "file": "People/Tupac Shakir.md",
                 "mode": "preview",
                 "backlinks": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
+      },
+      {
+        "id": "45f10482e73410bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f13b9d151e969a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FFFFF0",
+                "query": "Tupac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-13.md"
+                "file": "People/Tupac Shakir.md"
               }
             }
           },
@@ -190,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-13.md",
+                "file": "People/Tupac Shakir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-13.md",
+                "file": "People/Tupac Shakir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-13.md",
+                "file": "People/Tupac Shakir.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,44 +359,44 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e20373eb25387c28",
+  "active": "4bc926f9d8e0b04c",
   "lastOpenFiles": [
-    "Daily/2023-06-12.md",
+    "Definitions/GPT.md",
+    "Tupac Quotes.md",
+    "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
+    "People/Tupac Shakir.md",
+    "People",
     "Daily/2023-06-13.md",
-    "Excel Spreadsheet Document API.md",
-    "What is DotNet.md",
-    "DotNet SDK.md",
-    "Daily/2023-06-10.md",
-    "Code/VBA/_README.md",
-    "Code/VBA/VBA - Excel Global Functions.md",
-    "Code/VBA/VBA - Excel Styles Management.md",
-    "Templates/Code-Templates/Template-Code-VBA.md",
-    "Templates/Code-Templates/Template-Code-YAML.md",
-    "Templates/Code-Templates/Template-Code.md",
-    "Templates/Code-Templates/Template-Code-Bash.md",
-    "Templates/Code-Templates/Template-Code-CMD.md",
-    "Templates/Code-Templates/Template-Code-CSS.md",
-    "Templates/Code-Templates/Template-Code-GHA.md",
-    "Templates/Code-Templates/Template-Code-HTML.md",
-    "Templates/Code-Templates/Template-Code-JavaScript.md",
-    "Templates/Code-Templates/Template-Code-PowerShell.md",
-    "Templates/Code-Templates/Template-Code-Python.md",
-    "Templates/Code-Templates/Template-Code-R.md",
-    "Templates/Code-Templates/Template-Code-Registry.md",
-    "Templates/Code-Templates/Template-Code-SQL.md",
-    "Templates/Code-Templates/Template-Code-Terraform.md",
-    "AI/chats/Obsidian Chat.md",
-    "Inbox/Artificial Intelligence Concepts.md",
+    "Readwise/Readwise Syncs.md",
+    "Readwise/Articles/Running Pester Against Terraform State.md",
+    "Readwise/Articles/13 Tips and Techniques for Modern Flask Apps.md",
+    "Readwise/Articles/Why All Software Engineers Need a Second Brain.md",
+    "Readwise/Articles/Developer Console.md",
+    "Readwise/Articles/Manuals and Specifications.md",
+    "Readwise/Articles/An Introduction to JavaScript.md",
+    "Readwise/Articles/Final Thoughts How to Start a Programming Blog.md",
+    "Readwise/Articles/Why You Should Consider Working on a Dockerized Development Environment.md",
+    "Readwise/Articles/Declaring and Using Variables in VBA.md",
+    "Readwise/Articles/Data-Oriented Programming With Python.md",
+    "Readwise/Articles/VBA to R and Back Again Running R From VBA Pt 2.md",
+    "Readwise/Articles/VBA to R and Back Again Running R From VBA.md",
+    "Readwise/Articles/Why Should Developers Write a Daily Diary.md",
+    "Readwise/Articles/Continuous Learning for Developers.md",
+    "Readwise/Articles/Agile Development 101 for Developers.md",
+    "Readwise/Articles/How Developers Can Level Up by Creating Content.md",
+    "Readwise/Articles/What Is SATA Mode in BIOS.md",
+    "Readwise/Articles/A Guide for Using WSL for Development.md",
+    "Readwise/Articles/Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain.md",
+    "Readwise/Articles/An Opinionated Python Boilerplate.md",
+    "Readwise/Tweets",
+    "Readwise/Articles",
+    "Readwise",
     "AI/chats",
     "AI",
     "Templates/AI",
     "Guides/Obsidian",
     "Tools/Version Control",
     "Lists",
-    "Tools/Shells and CLI Tools",
-    "Tools/Obsidian Plugins and Tools",
-    "Guides",
-    "Code/CMD/Imaging",
     "Assets/Banners/programming.gif"
   ]
 }

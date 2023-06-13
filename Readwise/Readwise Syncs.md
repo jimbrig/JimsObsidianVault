@@ -1,0 +1,109 @@
+- [[2023-06-13]] 12:41 PM — Synced 1351 highlights from 107 documents.
+    - 16 highlights from Have We Got NEWS.md for You
+    - 8 highlights from R Quarto Tutorial – How to Create Interactive Markdown Documents
+    - 9 highlights from How to Assess the Strength of Claims in Your Zettelkasten
+    - 31 highlights from What I Learned From the Bullet Journal Method
+    - 4 highlights from Navigating Complexity
+    - 1 highlights from Digital Forest of Notes & Without Their Permission
+    - 9 highlights from Python Is Superior to R for Writing Quality Codes
+    - 6 highlights from Surprising Things You Can Do With R
+    - 1 highlights from Organizing Chaos With PSWorkItems and PowerShell
+    - 1 highlights from Case Study: Modularizing a Package
+    - 4 highlights from You Don't Need to Watch Videos or Lessons to Learn Something
+    - 2 highlights from Incremental Improvement and Progress – Do It Now
+    - 5 highlights from Professional Shiny App UI and Layouts With Imola and shiny.fluent
+    - 6 highlights from Logical Communication
+    - 4 highlights from 🌲 Don't Minimize Difficulty
+    - 1 highlights from Getting Familiar With the R Studio Source Pane
+    - 1 highlights from Lessons Learned – A Better Life
+    - 2 highlights from Minimum R Version Dependency in R Packages
+    - 2 highlights from R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better
+    - 4 highlights from API as a Package: Structure
+    - 1 highlights from A Note on Shiny Reactivity
+    - 1 highlights from Goin' to Carolina in My Mind
+    - 5 highlights from API as a Package: Testing
+    - 15 highlights from 🌲The Konik Method for Making Useful Notes
+    - 3 highlights from How to Deal With Annoying Medium Sized Data Inside a Shiny App
+    - 1 highlights from Automating Dockerfile Creation for Shiny Apps
+    - 4 highlights from Purrr 1.0.0
+    - 12 highlights from Using Partitioning to Optimize Performance During Data Ingestion
+    - 13 highlights from Spreadsheet Documentation (using only Excel's inbuilt tools)
+    - 1 highlights from Building Your Connected Data Catalog
+    - 1 highlights from A Testing Pattern: Adding Switches to Your Code
+    - 1 highlights from Extract Icon From .EXE Powershell
+    - 15 highlights from VBA Class Modules: Gateway to SOLID Code
+    - 4 highlights from Excel Automation Explained: VBA Code + Sample Workbooks
+    - 14 highlights from Getting Started With Reader
+    - 10 highlights from ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks
+    - 24 highlights from SQL Best Practices
+    - 1 highlights from Modernize Your ETL Processes to Unleash Better Business Intelligence
+    - 13 highlights from My Productivity Workflow. Part 1: Principles
+    - 12 highlights from Have We Got NEWS.md for You
+    - 69 highlights from Advanced Financial Modeling Best Practices: Hacks for Intelligent, Error-Free Modeling
+    - 4 highlights from Deploying Web App for Containers With CI/CD Pipelines
+    - 4 highlights from How to Organize Your (Chaotic) Life
+    - 11 highlights from No. 149: FASLR – Import Wizard
+    - 1 highlights from No. 151: FASLR – Exhibit Builder
+    - 29 highlights from Azure CLI vs PowerShell vs ARM vs Bicep
+    - 5 highlights from Terraform With Azure DevOps Pipeline
+    - 9 highlights from Using Saved Credentials Securely in PowerShell Scripts
+    - 22 highlights from Azure DevOps Best Practices: Process and Overview
+    - 26 highlights from Revamping Git Practices for Improved Development Workflow: Using Feature-Based Development
+    - 1 highlights from Don’t Use Git Flow in 2023, Move to Trunk-Based Development Instead!
+    - 8 highlights from Git Branching Strategy for Dynamic Production Releases
+    - 3 highlights from Choose the Right Git Branching Strategy
+    - 8 highlights from How to Configure NGINX for a Flask Web Application
+    - 13 highlights from The Landscape of R Packages for Automated Exploratory Data Analysis by Mateusz Staniak and Przemysław Biecek
+    - 17 highlights from Setting Up a Flask Application in Visual Studio Code
+    - 17 highlights from Docker Best Practices for Python Developers
+    - 30 highlights from Web Components: Everything You Need to Know
+    - 26 highlights from Overview
+    - 22 highlights from Deploying a Containerized Flask App to Azure Container Apps
+    - 29 highlights from Configuration
+    - 24 highlights from How to Split a Large OpenAPI Document Into Multiple Files
+    - 36 highlights from Mastering Python Development: Essential Guidelines and Best Practices.
+    - 14 highlights from Best Practices for Flask API Development
+    - 1 highlights from Introduction
+    - 2 highlights from Office Visual Basic for Applications (VBA) reference
+    - 1 highlights from Liked Tweets
+    - 28 highlights from The Quantum Well
+    - 1 highlights from Tweets From Massimo
+    - 1 highlights from Considerations and limitations for SQL queries in Amazon Athena
+    - 1 highlights from Considerations and Limitations for SQL Queries in Amazon Athena
+    - 23 highlights from Querying AWS Glue Data Catalog
+    - 27 highlights from Best Practices for Outlook - Microsoft Support
+    - 62 highlights from About_Functions_Advanced_Methods
+    - 5 highlights from PowerShell-Technique: Trapping
+    - 65 highlights from Health Check Response Format for HTTP APIs
+    - 1 highlights from An Academic Workflow: Zotero & Obsidian
+    - 1 highlights from The Map of Mathematics
+    - 1 highlights from What Is Quantum Interference and How It Works? – TechTarget Definition
+    - 4 highlights from Using Ledger in Azure SQL Database
+    - 3 highlights from Reading Remote Data Files
+    - 16 highlights from 27 Awesome CSS Snippets for Customizing Obsidian
+    - 3 highlights from Lightweight MVVM in VBA
+    - 2 highlights from Introducing the Weighted pickerInput Module for Shiny
+    - 42 highlights from Most Important Web Development Trends in 2023
+    - 3 highlights from Why You Should Learn System Design ASAP
+    - 26 highlights from An Opinionated Python Boilerplate
+    - 6 highlights from Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain
+    - 13 highlights from A Guide for Using WSL for Development
+    - 18 highlights from What Is SATA Mode in BIOS?
+    - 32 highlights from How Developers Can "Level Up" by Creating Content
+    - 23 highlights from Agile Development 101 for Developers
+    - 8 highlights from Continuous Learning for Developers
+    - 32 highlights from Why Should Developers Write a Daily Diary
+    - 10 highlights from VBA to R and Back Again: Running R From VBA
+    - 12 highlights from VBA to R and Back Again: Running R From VBA Pt 2
+    - 10 highlights from Data-Oriented Programming With Python
+    - 18 highlights from Declaring and Using Variables in VBA
+    - 6 highlights from Why You Should Consider Working on a Dockerized Development Environment
+    - 14 highlights from Final Thoughts: How to Start a Programming Blog
+    - 35 highlights from An Introduction to JavaScript
+    - 9 highlights from Manuals and Specifications
+    - 2 highlights from Developer Console
+    - 1 highlights from Why All Software Engineers Need a Second Brain
+    - 46 highlights from 13 Tips and Techniques for Modern Flask Apps
+    - 5 highlights from Running Pester Against Terraform State
+    - 36 highlights from 31 Powerful Tupac Quotes and Lyrics to Inspire You
+

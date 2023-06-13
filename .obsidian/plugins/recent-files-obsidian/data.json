@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Tupac Shakir",
+      "path": "People/Tupac Shakir.md"
+    },
+    {
+      "basename": "GPT",
+      "path": "Definitions/GPT.md"
+    },
+    {
+      "basename": "Tupac Quotes",
+      "path": "Tupac Quotes.md"
+    },
+    {
+      "basename": "31 Powerful Tupac Quotes and Lyrics to Inspire You",
+      "path": "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md"
+    },
+    {
       "basename": "2023-06-13",
       "path": "Daily/2023-06-13.md"
     },
@@ -105,10 +121,6 @@
       "path": "Inbox/Artificial Intelligence Concepts.md"
     },
     {
-      "basename": "GPT",
-      "path": "Definitions/GPT.md"
-    },
-    {
       "basename": "2023-06-07",
       "path": "Daily/2023-06-07.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_README",
       "path": "Code/CMD/_README.md"
-    },
-    {
-      "basename": "MOC - Productivity",
-      "path": "MOCs/MOC - Productivity.md"
-    },
-    {
-      "basename": "Template-MOC",
-      "path": "Templates/Template-MOC.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "Templates/Fragment-Templates/Template-Footer.md"
     }
   ],
   "omittedPaths": [],
