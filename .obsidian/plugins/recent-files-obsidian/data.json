@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-12",
+      "path": "Daily/2023-06-12.md"
+    },
+    {
       "basename": "Excel Spreadsheet Document API",
       "path": "Excel Spreadsheet Document API.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Personal Knowledge Management Overview",
       "path": "Inbox/Personal Knowledge Management Overview.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     }
   ],
   "omittedPaths": [],

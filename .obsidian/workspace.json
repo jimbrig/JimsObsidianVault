@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel Spreadsheet Document API.md",
+                "file": "Daily/2023-06-12.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel Spreadsheet Document API.md"
+                "file": "Daily/2023-06-12.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel Spreadsheet Document API.md",
+                "file": "Daily/2023-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel Spreadsheet Document API.md",
+                "file": "Daily/2023-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excel Spreadsheet Document API.md",
+                "file": "Daily/2023-06-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,8 +331,9 @@
   },
   "active": "e20373eb25387c28",
   "lastOpenFiles": [
-    "What is DotNet.md",
     "Excel Spreadsheet Document API.md",
+    "Daily/2023-06-12.md",
+    "What is DotNet.md",
     "DotNet SDK.md",
     "Daily/2023-06-10.md",
     "Code/VBA/_README.md",
@@ -356,7 +357,6 @@
     "AI/chats/Obsidian Chat.md",
     "Inbox/Artificial Intelligence Concepts.md",
     "Definitions/GPT.md",
-    "Daily/2023-06-07.md",
     "AI/chats",
     "AI",
     "Templates/AI",
