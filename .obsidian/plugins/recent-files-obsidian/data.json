@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "as",
+      "path": "as.md"
+    },
+    {
       "basename": "Tupac Shakir",
       "path": "People/Tupac Shakir.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "Code/Bash/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/CMD/_README.md"
     }
   ],
   "omittedPaths": [],

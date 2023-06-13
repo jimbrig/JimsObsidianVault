@@ -1,3 +1,4 @@
+- 2023-06-13 at 16h10 · [[as]]
 - 2023-06-13 at 12h53 · [[Tupac Shakir]]
 - 2023-06-13 at 12h52 · [[Tupac Quotes]]
 - 2023-06-13 at 12h42 · [[Readwise Syncs]]
@@ -47,4 +48,3 @@
 - 2023-06-13 at 12h42 · [[Mastering Python Development Essential Guidelines and Best Practices.]]
 - 2023-06-13 at 12h42 · [[How to Split a Large OpenAPI Document Into Multiple Files]]
 - 2023-06-13 at 12h42 · [[Configuration]]
-- 2023-06-13 at 12h42 · [[Deploying a Containerized Flask App to Azure Container Apps]]

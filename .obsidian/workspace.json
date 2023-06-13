@@ -104,9 +104,21 @@
                 "backlinks": true
               }
             }
+          },
+          {
+            "id": "49e08d69e67dc5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "as.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "45f10482e73410bb",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Tupac Shakir.md"
+                "file": "as.md"
               }
             }
           },
@@ -220,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Tupac Shakir.md",
+                "file": "as.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Tupac Shakir.md",
+                "file": "as.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Tupac Shakir.md",
+                "file": "as.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -359,12 +371,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4bc926f9d8e0b04c",
+  "active": "49e08d69e67dc5af",
   "lastOpenFiles": [
+    "People/Tupac Shakir.md",
+    "as.md",
     "Definitions/GPT.md",
     "Tupac Quotes.md",
     "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
-    "People/Tupac Shakir.md",
     "People",
     "Daily/2023-06-13.md",
     "Readwise/Readwise Syncs.md",
@@ -387,7 +400,6 @@
     "Readwise/Articles/What Is SATA Mode in BIOS.md",
     "Readwise/Articles/A Guide for Using WSL for Development.md",
     "Readwise/Articles/Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain.md",
-    "Readwise/Articles/An Opinionated Python Boilerplate.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise",
