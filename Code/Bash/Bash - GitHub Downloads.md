@@ -98,7 +98,7 @@ Notes:
 
 ## Appendix: Links and References
 
-*Note created on [[2023-06-01]] and last modified on [[2023-06-01]].*
+*Note created on [[2023-06-01 1]] and last modified on [[2023-06-01 1]].*
 
 ### Internal Linked Notes
 

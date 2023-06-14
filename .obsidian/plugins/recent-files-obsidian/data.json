@@ -1,24 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-14",
-      "path": "Daily/2023-06-14.md"
+      "basename": "Excel Spreadsheet Document API",
+      "path": "Inbox/Excel Spreadsheet Document API.md"
     },
     {
-      "basename": "as",
-      "path": "as.md"
+      "basename": "Template-Organization",
+      "path": "Templates/Utility-Templates/Template-Organization.md"
+    },
+    {
+      "basename": "Template-DailyCheckIn",
+      "path": "Templates/Utility-Templates/Template-DailyCheckIn.md"
     },
     {
       "basename": "Tupac Shakir",
       "path": "People/Tupac Shakir.md"
     },
     {
-      "basename": "GPT",
-      "path": "Definitions/GPT.md"
+      "basename": "Tupac Quotes",
+      "path": "Inbox/Tupac Quotes.md"
     },
     {
-      "basename": "Tupac Quotes",
-      "path": "Tupac Quotes.md"
+      "basename": "Template-Person",
+      "path": "Templates/Utility-Templates/Template-Person.md"
+    },
+    {
+      "basename": "Template-Default",
+      "path": "Templates/Core-Templates/Template-Default.md"
+    },
+    {
+      "basename": "Template-MOC",
+      "path": "Templates/Core-Templates/Template-MOC.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "Template-Tool",
+      "path": "Templates/Tool-Templates/Template-Tool.md"
+    },
+    {
+      "basename": "Template-Tool-Application",
+      "path": "Templates/Tool-Templates/Template-Tool-Application.md"
+    },
+    {
+      "basename": "Template-Folder-README",
+      "path": "Templates/Utility-Templates/Template-Folder-README.md"
+    },
+    {
+      "basename": "2023-06-14",
+      "path": "Daily/2023-06-14.md"
+    },
+    {
+      "basename": "Template-Frontmatter-Enhanced",
+      "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+    },
+    {
+      "basename": "Template-Development",
+      "path": "Templates/Core-Templates/Template-Development.md"
+    },
+    {
+      "basename": "Template-Daily-Note",
+      "path": "Templates/Core-Templates/Template-Daily-Note.md"
+    },
+    {
+      "basename": "Template-Code",
+      "path": "Templates/Code-Templates/Template-Code.md"
+    },
+    {
+      "basename": "GPT",
+      "path": "Definitions/GPT.md"
     },
     {
       "basename": "31 Powerful Tupac Quotes and Lyrics to Inspire You",
@@ -26,27 +82,23 @@
     },
     {
       "basename": "2023-06-13",
-      "path": "Daily/2023-06-13.md"
+      "path": "Daily/2023/06-June/2023-06-13.md"
     },
     {
       "basename": "2023-06-12",
-      "path": "Daily/2023-06-12.md"
-    },
-    {
-      "basename": "Excel Spreadsheet Document API",
-      "path": "Excel Spreadsheet Document API.md"
+      "path": "Daily/2023/06-June/2023-06-12.md"
     },
     {
       "basename": "What is DotNet",
-      "path": "What is DotNet.md"
+      "path": "Inbox/What is DotNet.md"
     },
     {
       "basename": "DotNet SDK",
-      "path": "DotNet SDK.md"
+      "path": "Inbox/DotNet SDK.md"
     },
     {
       "basename": "2023-06-10",
-      "path": "Daily/2023-06-10.md"
+      "path": "Daily/2023/06-June/2023-06-10.md"
     },
     {
       "basename": "_README",
@@ -67,10 +119,6 @@
     {
       "basename": "Template-Code-YAML",
       "path": "Templates/Code-Templates/Template-Code-YAML.md"
-    },
-    {
-      "basename": "Template-Code",
-      "path": "Templates/Code-Templates/Template-Code.md"
     },
     {
       "basename": "Template-Code-Bash",
@@ -130,15 +178,15 @@
     },
     {
       "basename": "2023-06-07",
-      "path": "Daily/2023-06-07.md"
+      "path": "Daily/2023/06-June/2023-06-07.md"
     },
     {
       "basename": "2023-06-08",
-      "path": "Daily/2023-06-08.md"
+      "path": "Daily/2023/06-June/2023-06-08.md"
     },
     {
       "basename": "2023-06-09",
-      "path": "Daily/2023-06-09.md"
+      "path": "Daily/2023/06-June/2023-06-09.md"
     },
     {
       "basename": "List of Azure Tools",
@@ -151,54 +199,6 @@
     {
       "basename": "List of Terraform Related Tools",
       "path": "Inbox/List of Terraform Related Tools.md"
-    },
-    {
-      "basename": "Terraform Project Structure",
-      "path": "Inbox/Terraform Project Structure.md"
-    },
-    {
-      "basename": "Terraform",
-      "path": "Inbox/Terraform.md"
-    },
-    {
-      "basename": "Terraform Testing Strategies",
-      "path": "Inbox/Terraform Testing Strategies.md"
-    },
-    {
-      "basename": "Managing Secrets with Docker and Docker Compose",
-      "path": "Inbox/Managing Secrets with Docker and Docker Compose.md"
-    },
-    {
-      "basename": "Docker Compose",
-      "path": "Inbox/Docker Compose.md"
-    },
-    {
-      "basename": "Terraform Remote State",
-      "path": "Inbox/Terraform Remote State.md"
-    },
-    {
-      "basename": "List of Services I Use",
-      "path": "Inbox/List of Services I Use.md"
-    },
-    {
-      "basename": "MOC - Development",
-      "path": "MOCs/MOC - Development.md"
-    },
-    {
-      "basename": "PKM System Evolution",
-      "path": "Inbox/PKM System Evolution.md"
-    },
-    {
-      "basename": "PKM Tools",
-      "path": "Inbox/PKM Tools.md"
-    },
-    {
-      "basename": "Digital Systems Overhaul",
-      "path": "Inbox/Digital Systems Overhaul.md"
-    },
-    {
-      "basename": "MOC - PKM",
-      "path": "MOCs/MOC - PKM.md"
     }
   ],
   "omittedPaths": [],

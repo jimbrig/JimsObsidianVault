@@ -7,6 +7,8 @@ Alias: [ ]
 
 # Tupac Quotes
 
+- [[Tupac Shakir|Tupac]]
+
 > [!SOURCE] Sources
 > - *[31 Powerful Tupac Quotes and Lyrics to Inspire You (epicquotes.com)](https://www.epicquotes.com/31-powerful-tupac-quotes-and-lyrics-to-inspire-you/)*
 
