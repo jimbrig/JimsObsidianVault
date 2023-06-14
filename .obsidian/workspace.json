@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Code/PowerShell/Untitled.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md"
+                "file": "Code/PowerShell/Untitled.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Code/PowerShell/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Code/PowerShell/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Code/PowerShell/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,6 +272,8 @@
   },
   "active": "d008810178b65fed",
   "lastOpenFiles": [
+    "Guides/PowerShell Development/PowerShell Profile/_README.md",
+    "Code/PowerShell/Untitled.md",
     "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
     "Guides/PowerShell Development/PowerShell Profile/Structure.md",
     "Guides/PowerShell Development/PowerShell Profile/13 Automation.md",
@@ -287,7 +289,6 @@
     "Guides/PowerShell Development/PowerShell Profile/03 Custom Code.md",
     "Guides/PowerShell Development/PowerShell Profile/02 Overview of Components.md",
     "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
-    "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Guides/_README.md",
     "Guides/PowerShell Development/_README.md",
     "Guides/PowerShell Development/PowerShell Scripting",
@@ -305,7 +306,6 @@
     "People/Tupac Shakir.md",
     "Inbox/Tupac Quotes.md",
     "Templates/Utility-Templates/Template-Person.md",
-    "Templates/Core-Templates/Template-Default.md",
     "Daily/2023/07-July",
     "Templates/Core-Templates",
     "Templates/Utility-Templates",

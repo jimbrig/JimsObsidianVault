@@ -12,6 +12,54 @@ Alias: [ "PowerShell Profile" ]
 
 ## Overview
 
+The [[PowerShell]] startup `$PROFILE` is an integral piece of a [[Windows]] Developer's Toolbox.
+
+The various components of the `$PROFILE` are initialized at startup for every PowerShell session.
+
+By default, on [[Windows]] the profile(s) are located at:
+
+- `~/Documents/PowerShell` for [[PowerShell Core]]
+- `~/Documents/WindowsPowerShell` for [[Windows PowerShell]]
+
+> [!warning] Warning:
+> If you are using the *backup* feature with [[OneDrive]] on your Documents folder the paths with change to `~/OneDrive/Documents/*`, respectively.
+
+## Backup and Version Control
+
+As a developer, you should keep your [[PowerShell]] profile(s) under [[Version Control]] along with your other System [[Dotfiles]].
+
+A good standard is to create a root-home-level `~/.dotfiles` directory that is tracked by [[Git]] and hosted on [[Github]] which contains the various [[Dotfiles]] on the machine for that user.
+
+For example, to add the [[PowerShell Core]] profile to your dotfiles you would run:
+
+```powershell
+# Move CurrentUserAllHosts Profile to dotfiles folder, keeping the home directory tree structure:
+Move-Item "$HOME\Documents\PowerShell\profile.ps1" "$HOME\.dotfiles\PowerShell\Documents\PowerShell\profile.ps1"
+
+# Add a symlink back to default location
+New-Item -Path "$HOME\Documents\PowerShell\profile.ps1" `
+	-ItemType SymbolicLink `
+	-Value (Get-Item "$HOME\.dotfiles\PowerShell\Documents\PowerShell\profile.ps1").FullName
+```
+
+to reload your profile simply dot-source it:
+
+```powershell
+. $PROFILE
+```
+
+## Setup
+
+```powershell
+#Requires -RunAsAdministrator
+
+# Execution Policy
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Machine -Force
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser -Force
+
+# Trust PSGallery
+Set-PSRepository -
+
 
 
 ## Contents

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Code/PowerShell/Untitled.md"
+    },
+    {
       "basename": "_README",
       "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Code-VBA",
       "path": "Templates/Code-Templates/Template-Code-VBA.md"
-    },
-    {
-      "basename": "Template-Code-YAML",
-      "path": "Templates/Code-Templates/Template-Code-YAML.md"
     }
   ],
   "omittedPaths": [],
