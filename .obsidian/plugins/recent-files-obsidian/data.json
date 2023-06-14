@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-14",
+      "path": "Daily/2023-06-14.md"
+    },
+    {
       "basename": "as",
       "path": "as.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MOC - PKM",
       "path": "MOCs/MOC - PKM.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/Bash/_README.md"
     }
   ],
   "omittedPaths": [],

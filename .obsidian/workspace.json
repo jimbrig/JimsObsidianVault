@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as.md",
+                "file": "Daily/2023-06-14.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "as.md"
+                "file": "Daily/2023-06-14.md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "as.md",
+                "file": "Daily/2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "as.md",
+                "file": "Daily/2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "as.md",
+                "file": "Daily/2023-06-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -373,8 +373,9 @@
   },
   "active": "49e08d69e67dc5af",
   "lastOpenFiles": [
-    "People/Tupac Shakir.md",
     "as.md",
+    "Daily/2023-06-14.md",
+    "People/Tupac Shakir.md",
     "Definitions/GPT.md",
     "Tupac Quotes.md",
     "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
@@ -399,7 +400,6 @@
     "Readwise/Articles/How Developers Can Level Up by Creating Content.md",
     "Readwise/Articles/What Is SATA Mode in BIOS.md",
     "Readwise/Articles/A Guide for Using WSL for Development.md",
-    "Readwise/Articles/Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain.md",
     "Readwise/Tweets",
     "Readwise/Articles",
     "Readwise",
