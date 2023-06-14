@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
+    },
+    {
+      "basename": "01 Getting Started",
+      "path": "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md"
+    },
+    {
+      "basename": "Structure",
+      "path": "Guides/PowerShell Development/PowerShell Profile/Structure.md"
+    },
+    {
+      "basename": "13 Automation",
+      "path": "Guides/PowerShell Development/PowerShell Profile/13 Automation.md"
+    },
+    {
+      "basename": "12 Logging",
+      "path": "Guides/PowerShell Development/PowerShell Profile/12 Logging.md"
+    },
+    {
+      "basename": "11 PSReadLine",
+      "path": "Guides/PowerShell Development/PowerShell Profile/11 PSReadLine.md"
+    },
+    {
+      "basename": "10 Prompt",
+      "path": "Guides/PowerShell Development/PowerShell Profile/10 Prompt.md"
+    },
+    {
+      "basename": "09 Options and Settings",
+      "path": "Guides/PowerShell Development/PowerShell Profile/09 Options and Settings.md"
+    },
+    {
+      "basename": "08 Completions",
+      "path": "Guides/PowerShell Development/PowerShell Profile/08 Completions.md"
+    },
+    {
+      "basename": "07 Aliases",
+      "path": "Guides/PowerShell Development/PowerShell Profile/07 Aliases.md"
+    },
+    {
+      "basename": "06 Functions",
+      "path": "Guides/PowerShell Development/PowerShell Profile/06 Functions.md"
+    },
+    {
+      "basename": "05 Scripts",
+      "path": "Guides/PowerShell Development/PowerShell Profile/05 Scripts.md"
+    },
+    {
+      "basename": "04 Modules",
+      "path": "Guides/PowerShell Development/PowerShell Profile/04 Modules.md"
+    },
+    {
+      "basename": "03 Custom Code",
+      "path": "Guides/PowerShell Development/PowerShell Profile/03 Custom Code.md"
+    },
+    {
+      "basename": "02 Overview of Components",
+      "path": "Guides/PowerShell Development/PowerShell Profile/02 Overview of Components.md"
+    },
+    {
+      "basename": "PowerShell Profile Setup and Best Practices",
+      "path": "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/PowerShell Development/_README.md"
+    },
+    {
+      "basename": "Canvas - PowerShell Profile MindMap",
+      "path": "Canvas/Canvas - PowerShell Profile MindMap.canvas"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/PowerShell/_README.md"
+    },
+    {
       "basename": "Excel Spreadsheet Document API",
       "path": "Inbox/Excel Spreadsheet Document API.md"
     },
@@ -119,86 +199,6 @@
     {
       "basename": "Template-Code-YAML",
       "path": "Templates/Code-Templates/Template-Code-YAML.md"
-    },
-    {
-      "basename": "Template-Code-Bash",
-      "path": "Templates/Code-Templates/Template-Code-Bash.md"
-    },
-    {
-      "basename": "Template-Code-CMD",
-      "path": "Templates/Code-Templates/Template-Code-CMD.md"
-    },
-    {
-      "basename": "Template-Code-CSS",
-      "path": "Templates/Code-Templates/Template-Code-CSS.md"
-    },
-    {
-      "basename": "Template-Code-GHA",
-      "path": "Templates/Code-Templates/Template-Code-GHA.md"
-    },
-    {
-      "basename": "Template-Code-HTML",
-      "path": "Templates/Code-Templates/Template-Code-HTML.md"
-    },
-    {
-      "basename": "Template-Code-JavaScript",
-      "path": "Templates/Code-Templates/Template-Code-JavaScript.md"
-    },
-    {
-      "basename": "Template-Code-PowerShell",
-      "path": "Templates/Code-Templates/Template-Code-PowerShell.md"
-    },
-    {
-      "basename": "Template-Code-Python",
-      "path": "Templates/Code-Templates/Template-Code-Python.md"
-    },
-    {
-      "basename": "Template-Code-R",
-      "path": "Templates/Code-Templates/Template-Code-R.md"
-    },
-    {
-      "basename": "Template-Code-Registry",
-      "path": "Templates/Code-Templates/Template-Code-Registry.md"
-    },
-    {
-      "basename": "Template-Code-SQL",
-      "path": "Templates/Code-Templates/Template-Code-SQL.md"
-    },
-    {
-      "basename": "Template-Code-Terraform",
-      "path": "Templates/Code-Templates/Template-Code-Terraform.md"
-    },
-    {
-      "basename": "Obsidian Chat",
-      "path": "AI/chats/Obsidian Chat.md"
-    },
-    {
-      "basename": "Artificial Intelligence Concepts",
-      "path": "Inbox/Artificial Intelligence Concepts.md"
-    },
-    {
-      "basename": "2023-06-07",
-      "path": "Daily/2023/06-June/2023-06-07.md"
-    },
-    {
-      "basename": "2023-06-08",
-      "path": "Daily/2023/06-June/2023-06-08.md"
-    },
-    {
-      "basename": "2023-06-09",
-      "path": "Daily/2023/06-June/2023-06-09.md"
-    },
-    {
-      "basename": "List of Azure Tools",
-      "path": "Inbox/List of Azure Tools.md"
-    },
-    {
-      "basename": "Azure Naming Tool",
-      "path": "Inbox/Azure Naming Tool.md"
-    },
-    {
-      "basename": "List of Terraform Related Tools",
-      "path": "Inbox/List of Terraform Related Tools.md"
     }
   ],
   "omittedPaths": [],

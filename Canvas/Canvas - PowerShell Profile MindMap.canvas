@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"text","text":"# PowerShell Profile","id":"6ae1236585117e0b","x":0,"y":-900,"width":460,"height":80,"color":"5"},
+		{"id":"125f61e4c9d31b14","x":600,"y":-670,"width":250,"height":60,"type":"text","text":"## Options"},
+		{"id":"34ad29c0746eb5b0","x":-440,"y":-440,"width":250,"height":60,"type":"text","text":"## Modules\n\n> "},
+		{"id":"b031d9bf0e1f1c35","x":-440,"y":-380,"width":250,"height":60,"type":"text","text":"## Scripts\n\n>"},
+		{"id":"8ba13824a2971401","x":-440,"y":-320,"width":250,"height":60,"type":"text","text":"## Functions\n\n> "},
+		{"id":"9ef65f049b493bcc","x":-440,"y":-260,"width":250,"height":60,"type":"text","text":"## Aliases\n\n> "},
+		{"id":"a0e543e4a24c1b27","x":-494,"y":-708,"width":250,"height":60,"type":"text","text":"## Code"},
+		{"id":"29911956a184fca6","x":-60,"y":-470,"width":250,"height":60,"type":"text","text":"## Completions\n\n\n"},
+		{"id":"907e6c8a7b81c2f5","x":260,"y":-470,"width":250,"height":60,"type":"text","text":"## Secrets"},
+		{"id":"274752378860283e","x":552,"y":-470,"width":250,"height":60,"type":"text","text":"## PSReadLine"},
+		{"id":"a1b6555c77149962","x":700,"y":-410,"width":250,"height":60,"type":"text","text":"## PSDefaultParams"},
+		{"id":"a7cca966f1d26acc","x":552,"y":-350,"width":250,"height":60,"type":"text","text":"## Logging"},
+		{"id":"3ae8d8f06838b0c4","x":700,"y":-530,"width":250,"height":60,"type":"text","text":"## Prompt"}
+	],
+	"edges":[
+		{"id":"6fabde9ab9f01eed","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"9ef65f049b493bcc","toSide":"top"},
+		{"id":"1fbb1de054560442","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"8ba13824a2971401","toSide":"top"},
+		{"id":"a22c8820fd622f2d","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"34ad29c0746eb5b0","toSide":"top"},
+		{"id":"28738565e9250169","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"29911956a184fca6","toSide":"top"},
+		{"id":"e877f4fcac611afc","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"907e6c8a7b81c2f5","toSide":"top"},
+		{"id":"3e9a3ea3e6c9ca1f","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"b031d9bf0e1f1c35","toSide":"top"},
+		{"id":"f5ef3c0b0c3bb61c","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"125f61e4c9d31b14","toSide":"top"},
+		{"id":"cecd8948e471a6a4","fromNode":"6ae1236585117e0b","fromSide":"bottom","toNode":"a0e543e4a24c1b27","toSide":"top"},
+		{"id":"01d0026cdfb6e8e1","fromNode":"a0e543e4a24c1b27","fromSide":"bottom","toNode":"34ad29c0746eb5b0","toSide":"left"},
+		{"id":"fc048ba6af7f44a8","fromNode":"a0e543e4a24c1b27","fromSide":"bottom","toNode":"b031d9bf0e1f1c35","toSide":"right"},
+		{"id":"f9dbc405b1b0cc94","fromNode":"a0e543e4a24c1b27","fromSide":"bottom","toNode":"8ba13824a2971401","toSide":"left"},
+		{"id":"fef448363c164576","fromNode":"a0e543e4a24c1b27","fromSide":"bottom","toNode":"9ef65f049b493bcc","toSide":"right"},
+		{"id":"677ea378a6da3617","fromNode":"125f61e4c9d31b14","fromSide":"bottom","toNode":"3ae8d8f06838b0c4","toSide":"top"},
+		{"id":"42c13187122884e1","fromNode":"125f61e4c9d31b14","fromSide":"bottom","toNode":"274752378860283e","toSide":"top"},
+		{"id":"cb7f53780489ba40","fromNode":"125f61e4c9d31b14","fromSide":"bottom","toNode":"a1b6555c77149962","toSide":"top"},
+		{"id":"a753195cdcc2f788","fromNode":"125f61e4c9d31b14","fromSide":"bottom","toNode":"a7cca966f1d26acc","toSide":"top"}
+	]
+}

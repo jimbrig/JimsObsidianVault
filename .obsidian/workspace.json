@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Excel Spreadsheet Document API.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 494.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Excel Spreadsheet Document API.md"
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Excel Spreadsheet Document API.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Excel Spreadsheet Document API.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "1ac3153552315a07",
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Excel Spreadsheet Document API.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +236,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,44 +270,45 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "d008810178b65fed",
   "lastOpenFiles": [
+    "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
+    "Guides/PowerShell Development/PowerShell Profile/Structure.md",
+    "Guides/PowerShell Development/PowerShell Profile/13 Automation.md",
+    "Guides/PowerShell Development/PowerShell Profile/12 Logging.md",
+    "Guides/PowerShell Development/PowerShell Profile/11 PSReadLine.md",
+    "Guides/PowerShell Development/PowerShell Profile/10 Prompt.md",
+    "Guides/PowerShell Development/PowerShell Profile/09 Options and Settings.md",
+    "Guides/PowerShell Development/PowerShell Profile/08 Completions.md",
+    "Guides/PowerShell Development/PowerShell Profile/07 Aliases.md",
+    "Guides/PowerShell Development/PowerShell Profile/06 Functions.md",
+    "Guides/PowerShell Development/PowerShell Profile/05 Scripts.md",
+    "Guides/PowerShell Development/PowerShell Profile/04 Modules.md",
+    "Guides/PowerShell Development/PowerShell Profile/03 Custom Code.md",
+    "Guides/PowerShell Development/PowerShell Profile/02 Overview of Components.md",
+    "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
+    "Guides/PowerShell Development/PowerShell Profile/_README.md",
+    "Guides/_README.md",
+    "Guides/PowerShell Development/_README.md",
+    "Guides/PowerShell Development/PowerShell Scripting",
+    "Guides/PowerShell Development/PowerShell Module Development",
+    "Guides/PowerShell Development/PowerShell DSC",
+    "Guides/PowerShell Development/PowerShell Profile",
+    "Canvas/Canvas - PowerShell Profile MindMap.canvas",
+    "Guides/R Development",
+    "Guides/PowerShell Development",
+    "Code/PowerShell/_README.md",
+    "Inbox/Excel Spreadsheet Document API.md",
+    "Canvas",
     "Templates/Utility-Templates/Template-Organization.md",
     "Templates/Utility-Templates/Template-DailyCheckIn.md",
     "People/Tupac Shakir.md",
     "Inbox/Tupac Quotes.md",
     "Templates/Utility-Templates/Template-Person.md",
     "Templates/Core-Templates/Template-Default.md",
-    "Templates/Core-Templates/Template-MOC.md",
-    "Templates/Fragment-Templates/Template-Frontmatter.md",
-    "Templates/Fragment-Templates/Template-Footer.md",
-    "Templates/Tool-Templates/Template-Tool.md",
-    "Templates/Tool-Templates/Template-Tool-Application.md",
-    "Templates/Utility-Templates/Template-Folder-README.md",
-    "Daily/2023-06-14.md",
     "Daily/2023/07-July",
-    "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
-    "Templates/Core-Templates/Template-Development.md",
-    "Templates/Core-Templates/Template-Daily-Note.md",
-    "Templates/Code-Templates/Template-Code.md",
     "Templates/Core-Templates",
     "Templates/Utility-Templates",
-    "as.md",
-    "Definitions/GPT.md",
-    "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
-    "People",
-    "Daily/2023/06-June/2023-06-13.md",
-    "Readwise/Readwise Syncs.md",
-    "Readwise/Articles/Running Pester Against Terraform State.md",
-    "Readwise/Articles/13 Tips and Techniques for Modern Flask Apps.md",
-    "Readwise/Articles/Why All Software Engineers Need a Second Brain.md",
-    "Readwise/Articles/Developer Console.md",
-    "Readwise/Tweets",
-    "Readwise/Articles",
-    "Readwise",
-    "AI/chats",
-    "AI",
-    "Templates/AI-Templates",
     "Assets/Banners/programming.gif"
   ]
 }
