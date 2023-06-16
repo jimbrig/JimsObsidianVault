@@ -19,6 +19,23 @@ Alias: [ ]
 > [!NOTE] About
 > *Description of note contents.*
 
+## Minimum Specifications
+
+- CPU: *Core i5* or *Ryzen 5*
+- Screen: *1920x1080 IPS*
+- RAM: *8GB*
+- Storage: Must be *SSD* and >= 512GB
+- Graphics: Must Support Discrete (not Integrated) Graphics Processor
+	- NVIDIA RTX 4050 or 4070
+	- AMD Radeon RX 7000
+- Battery Life: 9+ Hours
+- Screen: 12.5-14 inches
+
+## Optimal Specifications
+
+- CPU: *Intel 13th Gen Raptor Lake Processor*
+	- AMD Alternative: *AMD Ryzen 7000*
+
 ## Considerations
 
 
@@ -39,9 +56,13 @@ Alias: [ ]
 - Processing Power (CPU and Chipset):
 	- Don't skimp here
 	- Some important considerations are cache size, number of physical cores, frequency, and thermal design power.
+	- Lowest: AMD Ryzen 5000 Series or Intel 8th Gen i7 Processor
 	- Intel i7 or Ryzen 7 processor or higher with frequency >= 3GHz
+	- Intel Core i7-11800H/Core i9-11900H
 	- Best of class: Intel i13 or Ryzen 7000 Zen 4
 	- Note that more processing typically reduces battery life
+	- Cores:
+		- At least 6 physical cores
 	- Intel vs. AMD
 		- Intel:
 			- Core i3, i5, i7, i9
@@ -61,11 +82,16 @@ Alias: [ ]
 	- Ideally want 16GB with option to upgrade if necessary
 	- Avoid *soldered* RAM
 	- Best of Class: 32GB RAM with DDR4 (Double Date Rate), not DDR3
+	- 16GB, 32GB, 64GB
 	
 - Storage (SSD, HDD, RAID, ReFS):
 	- SSD is a must
 	- Minimum 512GB
 	- Optionally can have OS on 256GB SSD and use HDD for data
+	- 512GB, 1TB, 2TB
+	- PCIe x4 (NVME) Units are triple the spped of traditional SATA drives
+	- eMMC memory SSDs are not any better than HDDs
+	- 
 
 - Graphics:
 	- Dedicated vs Integrated:
@@ -75,6 +101,8 @@ Alias: [ ]
 			- Separate GPU
 			- Intel paired with NVIDIA/AMD GPU
 			- For NVIDIA, GeForce. For AMD, Radeon
+	- Nvidia GeForce RTX 3080
+	- Nvidia GeForce RTX 3050/3050 Ti
 			
 		- A dedicated (also known as discrete) graphics card isn’t very important for coding purposes. Save money by going with an integrated graphics card. Invest the money you save in an SSD or a better processor which will provide more value for the money.
 	
