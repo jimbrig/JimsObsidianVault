@@ -19,6 +19,41 @@ Alias: [ ]
 > [!NOTE] About
 > *Description of note contents.*
 
+## Processor CPU
+
+Most laptops will have an Intel Core Processor.
+
+- Entry Level: i3
+- General Purpose: i5
+	- 14-Core 20-Thread Intel Core i5 13600KF Processor:
+		- 14 Cores
+		- 20 Threads
+		- 3.5GHz Base Clock Speed
+		- 5.1GHz Boost Clock Speed
+		- 24MB Cache
+- High Power: i7
+- Best: Intel Core i9-13900KS 13th Gen. Processor
+	- 24 Cores
+	- 32 Threads
+	- 3.2 GHz Base Clock Sped
+	- 6 GHz Boost Clock Speed
+	- 68MB Cache
+	- iGPU Included
+- Intel Core i9 13900K Processor (13th Gen) with 24 Cores
+
+## Graphics Processor GPU
+
+- ASUS NVIDIA GeForce RTX 4070 Ti OC Edition
+	- Vapor Chamber Cooling Method
+	- 2310 MHz GPU Speed
+	- PCI-E 4.0 Iterface
+	- 12GB GDDR6 Memory
+
+- ASUS ROG Strix GeForce RTX 4090 OC Edition
+	- 
+
+
+
 ## Minimum Specifications
 
 - CPU: *Core i5* or *Ryzen 5*
