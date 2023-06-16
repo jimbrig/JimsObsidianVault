@@ -9,7 +9,18 @@ Alias: [ ]
 
 > [!SOURCE] Sources
 > - *[Link to Source]()*
+> 
+The ideal laptop specifications for a developer would depend on the type of development work they are doing. However, here are some general specifications that most developers prefer:
 
+Processor: At least an Intel Core i5 or higher processor, or equivalent AMD processor
+RAM: 8 GB or higher
+Storage: A solid-state drive (SSD) with at least 256 GB of storage
+Operating system: Windows, macOS or Linux
+Graphics card: Not a priority unless you are doing graphic-intensive work
+Display: A high-resolution display with at least 14 inches
+Battery life: At least 8 hours of battery life
+
+Some other features that could be useful for developers include a backlit keyboard, a comfortable touchpad, and ports such as USB-C, HDMI, and Ethernet.
 ## Contents
 
 [TOC]
