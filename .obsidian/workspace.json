@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Write Helpers.md",
+                "file": "Daily/2023-06-16.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Write Helpers.md"
+                "file": "Daily/2023-06-16.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Write Helpers.md",
+                "file": "Daily/2023-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Write Helpers.md",
+                "file": "Daily/2023-06-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Write Helpers.md",
+                "file": "Daily/2023-06-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,8 +272,9 @@
   },
   "active": "d008810178b65fed",
   "lastOpenFiles": [
-    "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Code/PowerShell/PowerShell - Write Helpers.md",
+    "Daily/2023-06-16.md",
+    "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
     "Guides/PowerShell Development/PowerShell Profile/Structure.md",
     "Guides/PowerShell Development/PowerShell Profile/13 Automation.md",
@@ -305,7 +306,6 @@
     "Templates/Utility-Templates/Template-DailyCheckIn.md",
     "People/Tupac Shakir.md",
     "Inbox/Tupac Quotes.md",
-    "Templates/Utility-Templates/Template-Person.md",
     "Daily/2023/07-July",
     "Templates/Core-Templates",
     "Templates/Utility-Templates",

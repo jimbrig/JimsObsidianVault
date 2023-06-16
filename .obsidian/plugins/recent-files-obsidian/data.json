@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-16",
+      "path": "Daily/2023-06-16.md"
+    },
+    {
       "basename": "PowerShell - Write Helpers",
       "path": "Code/PowerShell/PowerShell - Write Helpers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "VBA - Excel Styles Management",
       "path": "Code/VBA/VBA - Excel Styles Management.md"
-    },
-    {
-      "basename": "Template-Code-VBA",
-      "path": "Templates/Code-Templates/Template-Code-VBA.md"
     }
   ],
   "omittedPaths": [],
