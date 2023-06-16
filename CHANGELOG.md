@@ -1,4 +1,5 @@
-- 2023-06-16 at 11h36 · [[2023-06-16]]
+- 2023-06-16 at 17h05 · [[Laptop Purchasing Guide]]
+- 2023-06-16 at 16h38 · [[2023-06-16]]
 - 2023-06-14 at 19h11 · [[PowerShell - Write Helpers]]
 - 2023-06-14 at 19h06 · [[_README]]
 - 2023-06-14 at 18h49 · [[Structure]]
@@ -47,4 +48,3 @@
 - 2023-06-14 at 18h07 · [[Template-Frontmatter]]
 - 2023-06-13 at 12h42 · [[Readwise Syncs]]
 - 2023-06-13 at 12h42 · [[31 Powerful Tupac Quotes and Lyrics to Inspire You]]
-- 2023-06-13 at 12h42 · [[Running Pester Against Terraform State]]
