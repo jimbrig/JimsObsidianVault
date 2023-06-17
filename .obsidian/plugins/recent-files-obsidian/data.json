@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
+      "basename": "Testing Text Generator AI",
+      "path": "Testing Text Generator AI.md"
+    },
+    {
       "basename": "PowerShell - PSStyle",
       "path": "PowerShell - PSStyle.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2023-06-12",
       "path": "Daily/2023/06-June/2023-06-12.md"
-    },
-    {
-      "basename": "What is DotNet",
-      "path": "Inbox/What is DotNet.md"
-    },
-    {
-      "basename": "DotNet SDK",
-      "path": "Inbox/DotNet SDK.md"
-    },
-    {
-      "basename": "2023-06-10",
-      "path": "Daily/2023/06-June/2023-06-10.md"
     }
   ],
   "omittedPaths": [],
