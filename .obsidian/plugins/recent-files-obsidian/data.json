@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-17",
+      "path": "Daily/2023-06-17.md"
+    },
+    {
       "basename": "Laptop Purchasing Guide",
       "path": "Laptop Purchasing Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "Code/VBA/_README.md"
-    },
-    {
-      "basename": "VBA - Excel Global Functions",
-      "path": "Code/VBA/VBA - Excel Global Functions.md"
     }
   ],
   "omittedPaths": [],

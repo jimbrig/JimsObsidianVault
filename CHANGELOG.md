@@ -1,3 +1,4 @@
+- 2023-06-17 at 14h55 · [[2023-06-17]]
 - 2023-06-16 at 18h05 · [[Laptop Purchasing Guide]]
 - 2023-06-16 at 16h38 · [[2023-06-16]]
 - 2023-06-14 at 19h11 · [[PowerShell - Write Helpers]]
@@ -47,4 +48,3 @@
 - 2023-06-14 at 18h07 · [[Template-Frontmatter-Enhanced]]
 - 2023-06-14 at 18h07 · [[Template-Frontmatter]]
 - 2023-06-13 at 12h42 · [[Readwise Syncs]]
-- 2023-06-13 at 12h42 · [[31 Powerful Tupac Quotes and Lyrics to Inspire You]]
