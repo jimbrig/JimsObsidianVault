@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-17.md",
+                "file": "PowerShell - PSStyle.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-17.md"
+                "file": "PowerShell - PSStyle.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-17.md",
+                "file": "PowerShell - PSStyle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-17.md",
+                "file": "PowerShell - PSStyle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-17.md",
+                "file": "PowerShell - PSStyle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,8 +272,9 @@
   },
   "active": "d008810178b65fed",
   "lastOpenFiles": [
-    "Laptop Purchasing Guide.md",
     "Daily/2023-06-17.md",
+    "PowerShell - PSStyle.md",
+    "Laptop Purchasing Guide.md",
     "Daily/2023-06-16.md",
     "Code/PowerShell/PowerShell - Write Helpers.md",
     "Guides/PowerShell Development/PowerShell Profile/_README.md",
@@ -305,7 +306,6 @@
     "Inbox/Excel Spreadsheet Document API.md",
     "Canvas",
     "Templates/Utility-Templates/Template-Organization.md",
-    "Templates/Utility-Templates/Template-DailyCheckIn.md",
     "Daily/2023/07-July",
     "Templates/Core-Templates",
     "Templates/Utility-Templates",

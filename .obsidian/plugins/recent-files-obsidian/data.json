@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - PSStyle",
+      "path": "PowerShell - PSStyle.md"
+    },
+    {
       "basename": "2023-06-17",
       "path": "Daily/2023-06-17.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-06-10",
       "path": "Daily/2023/06-June/2023-06-10.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/VBA/_README.md"
     }
   ],
   "omittedPaths": [],
