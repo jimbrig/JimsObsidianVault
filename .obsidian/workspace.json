@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerShell - PSStyle.md",
+                "file": "Inbox/PowerShell - PSStyle.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -51,14 +51,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing Text Generator AI.md",
+                "file": "Inbox/Testing Text Generator AI.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "0ea06615cb75463e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/PowerShell - PSStyle.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "52d0771faaf889ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023/06-June/2023-06-14.md",
                 "mode": "source",
                 "backlinks": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing Text Generator AI.md"
+                "file": "Daily/2023/06-June/2023-06-14.md"
               }
             }
           },
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Text Generator AI.md",
+                "file": "Daily/2023/06-June/2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing Text Generator AI.md",
+                "file": "Daily/2023/06-June/2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Testing Text Generator AI.md",
+                "file": "Daily/2023/06-June/2023-06-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,15 +318,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fcaefbc48a0f1595",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "Daily/2023-06-17.md",
+    "AI/chats/Obsidian Chat.md",
+    "Inbox/Laptop Purchasing Guide.md",
+    "Inbox/PowerShell - PSStyle.md",
+    "Inbox/Testing Text Generator AI.md",
+    "Daily/2023/06-June/2023-06-17.md",
     "HOME.md",
     "CHANGELOG.md",
-    "Testing Text Generator AI.md",
-    "PowerShell - PSStyle.md",
-    "Laptop Purchasing Guide.md",
-    "Daily/2023-06-16.md",
+    "Daily/2023/06-June/2023-06-16.md",
     "Code/PowerShell/PowerShell - Write Helpers.md",
     "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
@@ -321,7 +346,6 @@
     "Guides/PowerShell Development/PowerShell Profile/02 Overview of Components.md",
     "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
     "Guides/_README.md",
-    "Guides/PowerShell Development/_README.md",
     "Guides/PowerShell Development/PowerShell Scripting",
     "Guides/PowerShell Development/PowerShell Module Development",
     "Guides/PowerShell Development/PowerShell DSC",

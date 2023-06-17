@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-14",
+      "path": "Daily/2023/06-June/2023-06-14.md"
+    },
+    {
+      "basename": "Obsidian Chat",
+      "path": "AI/chats/Obsidian Chat.md"
+    },
+    {
+      "basename": "Laptop Purchasing Guide",
+      "path": "Inbox/Laptop Purchasing Guide.md"
+    },
+    {
+      "basename": "PowerShell - PSStyle",
+      "path": "Inbox/PowerShell - PSStyle.md"
+    },
+    {
       "basename": "Testing Text Generator AI",
-      "path": "Testing Text Generator AI.md"
+      "path": "Inbox/Testing Text Generator AI.md"
     },
     {
       "basename": "2023-06-17",
-      "path": "Daily/2023-06-17.md"
+      "path": "Daily/2023/06-June/2023-06-17.md"
     },
     {
       "basename": "HOME",
@@ -17,16 +33,8 @@
       "path": "CHANGELOG.md"
     },
     {
-      "basename": "PowerShell - PSStyle",
-      "path": "PowerShell - PSStyle.md"
-    },
-    {
-      "basename": "Laptop Purchasing Guide",
-      "path": "Laptop Purchasing Guide.md"
-    },
-    {
       "basename": "2023-06-16",
-      "path": "Daily/2023-06-16.md"
+      "path": "Daily/2023/06-June/2023-06-16.md"
     },
     {
       "basename": "PowerShell - Write Helpers",
@@ -165,10 +173,6 @@
       "path": "Templates/Utility-Templates/Template-Folder-README.md"
     },
     {
-      "basename": "2023-06-14",
-      "path": "Daily/2023-06-14.md"
-    },
-    {
       "basename": "Template-Frontmatter-Enhanced",
       "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-06-13",
       "path": "Daily/2023/06-June/2023-06-13.md"
-    },
-    {
-      "basename": "2023-06-12",
-      "path": "Daily/2023/06-June/2023-06-12.md"
     }
   ],
   "omittedPaths": [],
