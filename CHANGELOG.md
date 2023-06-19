@@ -1,3 +1,4 @@
+- 2023-06-19 at 16h29 · [[How to Document Spreadsheets]]
 - 2023-06-19 at 16h17 · [[An Exploration of Data vs Metadata]]
 - 2023-06-19 at 16h15 · [[Key Differences Between Data and Metadata]]
 - 2023-06-19 at 16h15 · [[Readwise Syncs]]
@@ -47,4 +48,3 @@
 - 2023-06-14 at 18h18 · [[Cmd - DISM]]
 - 2023-06-14 at 18h18 · [[_README]]
 - 2023-06-14 at 18h18 · [[Bash - Install Zsh and oh-my-zsh]]
-- 2023-06-14 at 18h18 · [[Bash - Install WSLU]]

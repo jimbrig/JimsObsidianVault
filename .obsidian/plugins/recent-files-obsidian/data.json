@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "How to Document Spreadsheets",
+      "path": "Guides/Excel/How to Document Spreadsheets.md"
+    },
+    {
       "basename": "An Exploration of Data vs Metadata",
       "path": "Inbox/An Exploration of Data vs Metadata.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Daily-Note",
       "path": "Templates/Core-Templates/Template-Daily-Note.md"
-    },
-    {
-      "basename": "Template-Code",
-      "path": "Templates/Code-Templates/Template-Code.md"
     }
   ],
   "omittedPaths": [],
