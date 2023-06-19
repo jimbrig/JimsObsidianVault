@@ -107,3 +107,9 @@
     - 5 highlights from Running Pester Against Terraform State
     - 36 highlights from 31 Powerful Tupac Quotes and Lyrics to Inspire You
 
+- [[2023-06-19]] 4:08 PM — Synced 17 highlights from 1 document.
+    - 17 highlights from 1.3.10
+
+- [[2023-06-19]] 4:15 PM — Synced 49 highlights from 1 document.
+    - 49 highlights from Key Differences Between Data and Metadata
+

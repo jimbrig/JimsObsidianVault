@@ -75,8 +75,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-19.md",
-                "mode": "source",
+                "file": "Inbox/An Exploration of Data vs Metadata.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tupac",
+                "query": "metadata path:Readwise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-19.md"
+                "file": "Inbox/An Exploration of Data vs Metadata.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-19.md",
+                "file": "Inbox/An Exploration of Data vs Metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-19.md",
+                "file": "Inbox/An Exploration of Data vs Metadata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,9 +224,17 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "6787ac77a355e911",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "1ac3153552315a07",
@@ -239,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-19.md",
+                "file": "Inbox/An Exploration of Data vs Metadata.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,8 +328,12 @@
   },
   "active": "52d0771faaf889ad",
   "lastOpenFiles": [
-    "HOME.md",
+    "Readwise/Articles/🌲 Don't Minimize Difficulty.md",
+    "Readwise/Articles/Key Differences Between Data and Metadata.md",
+    "Inbox/An Exploration of Data vs Metadata.md",
+    "Readwise/Articles/1.3.10.md",
     "Daily/2023-06-19.md",
+    "HOME.md",
     "AI/chats/Obsidian Chat.md",
     "Inbox/Laptop Purchasing Guide.md",
     "Inbox/PowerShell - PSStyle.md",
@@ -342,10 +354,6 @@
     "Guides/PowerShell Development/PowerShell Profile/07 Aliases.md",
     "Guides/PowerShell Development/PowerShell Profile/06 Functions.md",
     "Guides/PowerShell Development/PowerShell Profile/05 Scripts.md",
-    "Guides/PowerShell Development/PowerShell Profile/04 Modules.md",
-    "Guides/PowerShell Development/PowerShell Profile/03 Custom Code.md",
-    "Guides/PowerShell Development/PowerShell Profile/02 Overview of Components.md",
-    "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
     "Guides/PowerShell Development/PowerShell Scripting",
     "Guides/PowerShell Development/PowerShell Module Development",
     "Guides/PowerShell Development/PowerShell DSC",

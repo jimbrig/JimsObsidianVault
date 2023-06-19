@@ -5,7 +5,7 @@
   "triggerOnLoad": false,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9118423,
+  "lastSavedStatusID": 9206199,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -116,7 +116,9 @@
     "Readwise/Articles/Why All Software Engineers Need a Second Brain.md": "27943094",
     "Readwise/Articles/13 Tips and Techniques for Modern Flask Apps.md": "28016403",
     "Readwise/Articles/Running Pester Against Terraform State.md": "28783767",
-    "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md": "28946594"
+    "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md": "28946594",
+    "Readwise/Articles/1.3.10.md": "29160702",
+    "Readwise/Articles/Key Differences Between Data and Metadata.md": "29196521"
   },
   "reimportShowConfirmation": true
 }

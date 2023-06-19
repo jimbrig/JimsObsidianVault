@@ -1,0 +1,123 @@
+---
+Date: 2023-06-19
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Note", "#Topic/Dev/Data"]
+Alias: [ "Data vs Metadata", "Exploration of Metadata" ]
+---
+
+# An Exploration of Data vs Metadata
+
+> [!SOURCE] Sources
+> - *[Understanding Data and Metadata - Role and Key Differences (devart.com)](https://blog.devart.com/data-vs-metadata.html)*
+
+
+## Contents
+
+- [Overview](#overview)
+- [What is Data?](#what-is-data)
+	- [Types of Data](#types-of-data)
+		- [Categorical Data](#categorical-data)
+			- [Nominal Data](#nominal-data)
+			- [Ordinal Data](#ordinal-data)
+		- [Numerical Data](#numerical-data)
+			- [Discrete Data](#discrete-data)
+			- [Continuous Data](#continuous-data)
+	- [Vital Role of Data](#vital-role-of-data)
+- [What is Metadata?](#what-is-metadata)
+	- [Types of Metadata](#types-of-metadata)
+		- [Descriptive Metadata](#descriptive-metadata)
+		- [Structural Metadata](#structural-metadata)
+		- [Administrative Metadata](#administrative-metadata)
+		- [Technical Metadata](#technical-metadata)
+	- [Summarizing Data vs. Metadata](#summarizing-data-vs-metadata)
+- [Appendix: Links and References](#appendix-links-and-references)
+	- [Internal Linked Notes](#internal-linked-notes)
+	- [External References](#external-references)
+		- [Backlinks](#backlinks)
+
+
+## Overview
+
+![](https://i.imgur.com/MSbeBlV.png)
+
+
+## What is Data?
+
+### Types of Data
+
+![](https://i.imgur.com/2ff4IMV.png)
+
+
+#### Categorical Data
+
+##### Nominal Data
+
+##### Ordinal Data
+
+#### Numerical Data
+
+##### Discrete Data
+
+##### Continuous Data
+
+### Vital Role of Data
+
+## What is Metadata?
+
+### Types of Metadata
+
+![](https://i.imgur.com/06ysBK8.png)
+
+
+#### Descriptive Metadata
+
+#### Structural Metadata
+
+#### Administrative Metadata
+
+#### Technical Metadata
+
+### Summarizing Data vs. Metadata
+
+Data and metadata are two distinct concepts that play integral roles in managing and understanding information. Understanding their key differences is essential for effective data management and interpretation. Here are the key distinctions between data and metadata:
+
+**Nature and Content:**
+
+- [[Data]] refers to the raw facts, measurements, observations, or representations collected or generated in various formats. It consists of the actual information being captured, such as numbers, text, images, or audio.
+
+- [[Metadata]], on the other hand, represents information about the data. It provides context, describes attributes, and adds meaning to the data. Metadata helps to understand the characteristics, structure, relationships, and other properties associated with the data.
+
+
+> [!NOTE] About
+> *Description of note contents.*
+
+
+***
+
+## Appendix: Links and References
+
+*Note created on [[2023-06-19]] and last modified on [[2023-06-19]].*
+
+### Internal Linked Notes
+
+- [[Key Differences Between Data and Metadata]]
+- [[Metadata]]
+- [[MOC - Data Engineering|Data Engineering]]
+- [[MOC - Development|Development]]
+- [[SQL Best Practices]]
+
+### External References
+
+
+
+#### Backlinks
+
+```dataview
+list from [[An Exploration of Data vs Metadata]] AND -"CHANGELOG" AND -"//An Exploration of Data vs Metadata"
+```
+
+
+***
+
+Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2023
+
