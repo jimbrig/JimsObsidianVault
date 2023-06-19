@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-19",
+      "path": "Daily/2023-06-19.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "2023-06-14",
       "path": "Daily/2023/06-June/2023-06-14.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "2023-06-17",
       "path": "Daily/2023/06-June/2023-06-17.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "CHANGELOG",
@@ -195,10 +199,6 @@
     {
       "basename": "31 Powerful Tupac Quotes and Lyrics to Inspire You",
       "path": "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md"
-    },
-    {
-      "basename": "2023-06-13",
-      "path": "Daily/2023/06-June/2023-06-13.md"
     }
   ],
   "omittedPaths": [],

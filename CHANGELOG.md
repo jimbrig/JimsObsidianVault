@@ -1,3 +1,4 @@
+- 2023-06-19 at 16h05 · [[2023-06-19]]
 - 2023-06-17 at 17h45 · [[Testing Text Generator AI]]
 - 2023-06-17 at 15h09 · [[PowerShell - PSStyle]]
 - 2023-06-17 at 14h55 · [[2023-06-17]]
@@ -47,4 +48,3 @@
 - 2023-06-14 at 18h18 · [[Bash - WSL Set Default Browser to Windows Host]]
 - 2023-06-14 at 18h18 · [[Bash - GitHub Downloads]]
 - 2023-06-14 at 18h18 · [[Bash - Git Auto Commit]]
-- 2023-06-14 at 18h07 · [[Template-Frontmatter-Enhanced]]
