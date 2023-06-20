@@ -87,8 +87,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md",
-                "mode": "source",
+                "file": "Code/GitHub Actions/GHA - Publish Blog Posts.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md"
+                "file": "Code/GitHub Actions/GHA - Publish Blog Posts.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md",
+                "file": "Code/GitHub Actions/GHA - Publish Blog Posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md",
+                "file": "Code/GitHub Actions/GHA - Publish Blog Posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md",
+                "file": "Code/GitHub Actions/GHA - Publish Blog Posts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -352,6 +352,16 @@
   },
   "active": "8e7298f93e7d634d",
   "lastOpenFiles": [
+    "Templates/Code-Templates/Template-Code-GHA.md",
+    "Code/GitHub Actions/GHA - Publish Blog Posts.md",
+    "Code/GitHub Actions/GHA - Automate Changelog.md",
+    "Code/GitHub Actions/GHA - Build R Package pkgdown Site.md",
+    "Code/GitHub Actions/GHA - Build R Package.md",
+    "Code/GitHub Actions/GHA - Publish PowerShell Module.md",
+    "Code/GitHub Actions/GHA - Build PowerShell Module.md",
+    "Code/GitHub Actions/GHA - GitHub Pages.md",
+    "Code/GitHub Actions/_README.md",
+    "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md",
     "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md",
     "Code/CMD/Networking/Cmd - netstat.md",
     "Code/CMD/Drivers/Cmd - DevCon.md",
@@ -371,16 +381,6 @@
     "Readwise/Articles/1.3.10.md",
     "Daily/2023-06-19.md",
     "HOME.md",
-    "AI/chats/Obsidian Chat.md",
-    "Inbox/Laptop Purchasing Guide.md",
-    "Inbox/PowerShell - PSStyle.md",
-    "Inbox/Testing Text Generator AI.md",
-    "Daily/2023/06-June/2023-06-17.md",
-    "CHANGELOG.md",
-    "Daily/2023/06-June/2023-06-16.md",
-    "Code/PowerShell/PowerShell - Write Helpers.md",
-    "Guides/PowerShell Development/PowerShell Profile/_README.md",
-    "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
     "Guides/PowerShell Development/PowerShell Scripting",
     "Guides/PowerShell Development/PowerShell Module Development",
     "Guides/PowerShell Development/PowerShell DSC",

@@ -1,11 +1,11 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: [ "<% (tp.file.title).replace("PowerShell - ", "") %>" ]
+Tags: ["#Type/Code/GitHub", "#Type/Code/YAML", "#Topic/Dev/DevOps"]
+Alias: [ "<% (tp.file.title).replace("GHA - ", "") %>" ]
 ---
 
-# <% (tp.file.title).replace("PowerShell - ", "") %>
+# <% (tp.file.title).replace("GHA - ", "") %>
 
 > [!NOTE] About
 > <% tp.file.cursor(1) %>
@@ -18,7 +18,7 @@ Alias: [ "<% (tp.file.title).replace("PowerShell - ", "") %>" ]
 
 *Link: <<% tp.file.cursor(2) %>>*
 
-```powershell
+```yaml
 
 ```
 
@@ -35,13 +35,11 @@ Alias: [ "<% (tp.file.title).replace("PowerShell - ", "") %>" ]
 
 ### Internal Linked Notes
 
-- [[PowerShell]]
 - [[Code/_README|Code Snippets]]
-- [[Code/PowerShell/_README|PowerShell Code Snippets]]
-- [[MOCs/Development|Development]]
-- [[MOCs/Technology|Technology]]
-- [[MOCs/Windows|Microsoft Windows]]
-- [[MOCs/Software Engineering|Software Engineering]]
+- [[Code/GitHub Actions/_README|GitHub Action Code Snippets]]
+- [[MOC - Development|Development]]
+- [[MOC - Technology|Technology]]
+- [[MOC - Software|Software Engineering]]
 
 ### External References
 
