@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Cmd - Run WinSAT Diagnostics",
+      "path": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md"
+    },
+    {
+      "basename": "Cmd - Run Hardware Diagnostics Troubleshooter",
+      "path": "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md"
+    },
+    {
+      "basename": "Cmd - netstat",
+      "path": "Code/CMD/Networking/Cmd - netstat.md"
+    },
+    {
+      "basename": "Cmd - DevCon",
+      "path": "Code/CMD/Drivers/Cmd - DevCon.md"
+    },
+    {
+      "basename": "Built-In Windows Command Line Tools List",
+      "path": "Lists/Built-In Windows Command Line Tools List.md"
+    },
+    {
+      "basename": "Cmd - Sxstrace",
+      "path": "Code/CMD/Troubleshooting/Cmd - Sxstrace.md"
+    },
+    {
+      "basename": "Cmd - FSUTIL",
+      "path": "Code/CMD/Disk Management/Cmd - FSUTIL.md"
+    },
+    {
+      "basename": "Cmd - DISKPART",
+      "path": "Code/CMD/Disk Management/Cmd - DISKPART.md"
+    },
+    {
+      "basename": "How To use DISKPART on Windows",
+      "path": "Guides/Windows/How To use DISKPART on Windows.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/Windows/_README.md"
+    },
+    {
       "basename": "How to Document Spreadsheets",
       "path": "Guides/Excel/How to Document Spreadsheets.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Template-Person",
       "path": "Templates/Utility-Templates/Template-Person.md"
-    },
-    {
-      "basename": "Template-Default",
-      "path": "Templates/Core-Templates/Template-Default.md"
-    },
-    {
-      "basename": "Template-MOC",
-      "path": "Templates/Core-Templates/Template-MOC.md"
-    },
-    {
-      "basename": "Template-Frontmatter",
-      "path": "Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "Templates/Fragment-Templates/Template-Footer.md"
-    },
-    {
-      "basename": "Template-Tool",
-      "path": "Templates/Tool-Templates/Template-Tool.md"
-    },
-    {
-      "basename": "Template-Tool-Application",
-      "path": "Templates/Tool-Templates/Template-Tool-Application.md"
-    },
-    {
-      "basename": "Template-Folder-README",
-      "path": "Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "Template-Frontmatter-Enhanced",
-      "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
-    },
-    {
-      "basename": "Template-Development",
-      "path": "Templates/Core-Templates/Template-Development.md"
-    },
-    {
-      "basename": "Template-Daily-Note",
-      "path": "Templates/Core-Templates/Template-Daily-Note.md"
     }
   ],
   "omittedPaths": [],

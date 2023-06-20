@@ -2,16 +2,17 @@
 Date: 2023-06-20
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/Cmd", "#Topic/Dev/Cmd"]
-Alias: [ "DISKPART" ]
+Alias: [ "FSUTIL" ]
 ---
 
-# DISKPART
+# FSUTIL
 
 > [!NOTE] About
-> 
+> Windows includes a [[command line]] tool for file, system, and disk management, called **Fsutil**. This utility helps you to change the short name of a file, find files by [SID’s (Security Identifier)](https://www.thewindowsclub.com/what-are-windows-security-identifiers-and-how-to-resolve-sids) and perform other complex tasks.
 
-> [!INFO]
-> See Also: [[How To use DISKPART on Windows|How to use DISKPART]]
+*See Also: [[Cmd - DISKPART|DISKPART]]*.
+
+[[FSUTIL]] and [[Cmd - DISKPART|DISKPART]] are powerful, but not for inexperienced [[Windows]] users.
 
 ## Contents
 
@@ -37,7 +38,7 @@ Alias: [ "DISKPART" ]
 
 ## Appendix: Links and References
 
-*Note created on [[2023-06-01]] and last modified on [[2023-06-20]].*
+*Note created on [[2023-06-20]] and last modified on [[2023-06-20]].*
 
 ### Internal Linked Notes
 
@@ -47,7 +48,6 @@ Alias: [ "DISKPART" ]
 - [[MOCs/MOC - Software|Software Engineering]]
 - [[MOC - Microsoft|Microsoft Windows]]
 - [[Windows Command Line]]
-- [[Code/CMD/_README|Command Line]]
 
 ### External References
 
@@ -56,7 +56,7 @@ Alias: [ "DISKPART" ]
 #### Backlinks
 
 ```dataview
-list from [[Cmd - DISKPART]] AND -"CHANGELOG" AND -"Code/CMD/Disk Management/Cmd - DISKPART"
+list from [[Cmd - FSUTIL]] AND -"CHANGELOG" AND -"Code/CMD/Disk Management/Cmd - FSUTIL"
 ```
 
 
