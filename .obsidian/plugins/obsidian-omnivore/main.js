@@ -627,9 +627,9 @@ var require_lodash = __commonJS({
         return reHasUnicodeWord.test(string);
       }
       function iteratorToArray(iterator) {
-        var data, result = [];
-        while (!(data = iterator.next()).done) {
-          result.push(data.value);
+        var data2, result = [];
+        while (!(data2 = iterator.next()).done) {
+          result.push(data2.value);
         }
         return result;
       }
@@ -836,7 +836,7 @@ var require_lodash = __commonJS({
               index += dir;
               var iterIndex = -1, value = array[index];
               while (++iterIndex < iterLength) {
-                var data = iteratees[iterIndex], iteratee2 = data.iteratee, type = data.type, computed = iteratee2(value);
+                var data2 = iteratees[iterIndex], iteratee2 = data2.iteratee, type = data2.type, computed = iteratee2(value);
                 if (type == LAZY_MAP_FLAG) {
                   value = computed;
                 } else if (!computed) {
@@ -871,21 +871,21 @@ var require_lodash = __commonJS({
           return result2;
         }
         function hashGet(key) {
-          var data = this.__data__;
+          var data2 = this.__data__;
           if (nativeCreate) {
-            var result2 = data[key];
+            var result2 = data2[key];
             return result2 === HASH_UNDEFINED ? undefined2 : result2;
           }
-          return hasOwnProperty2.call(data, key) ? data[key] : undefined2;
+          return hasOwnProperty2.call(data2, key) ? data2[key] : undefined2;
         }
         function hashHas(key) {
-          var data = this.__data__;
-          return nativeCreate ? data[key] !== undefined2 : hasOwnProperty2.call(data, key);
+          var data2 = this.__data__;
+          return nativeCreate ? data2[key] !== undefined2 : hasOwnProperty2.call(data2, key);
         }
         function hashSet(key, value) {
-          var data = this.__data__;
+          var data2 = this.__data__;
           this.size += this.has(key) ? 0 : 1;
-          data[key] = nativeCreate && value === undefined2 ? HASH_UNDEFINED : value;
+          data2[key] = nativeCreate && value === undefined2 ? HASH_UNDEFINED : value;
           return this;
         }
         Hash.prototype.clear = hashClear;
@@ -906,33 +906,33 @@ var require_lodash = __commonJS({
           this.size = 0;
         }
         function listCacheDelete(key) {
-          var data = this.__data__, index = assocIndexOf(data, key);
+          var data2 = this.__data__, index = assocIndexOf(data2, key);
           if (index < 0) {
             return false;
           }
-          var lastIndex = data.length - 1;
+          var lastIndex = data2.length - 1;
           if (index == lastIndex) {
-            data.pop();
+            data2.pop();
           } else {
-            splice.call(data, index, 1);
+            splice.call(data2, index, 1);
           }
           --this.size;
           return true;
         }
         function listCacheGet(key) {
-          var data = this.__data__, index = assocIndexOf(data, key);
-          return index < 0 ? undefined2 : data[index][1];
+          var data2 = this.__data__, index = assocIndexOf(data2, key);
+          return index < 0 ? undefined2 : data2[index][1];
         }
         function listCacheHas(key) {
           return assocIndexOf(this.__data__, key) > -1;
         }
         function listCacheSet(key, value) {
-          var data = this.__data__, index = assocIndexOf(data, key);
+          var data2 = this.__data__, index = assocIndexOf(data2, key);
           if (index < 0) {
             ++this.size;
-            data.push([key, value]);
+            data2.push([key, value]);
           } else {
-            data[index][1] = value;
+            data2[index][1] = value;
           }
           return this;
         }
@@ -969,9 +969,9 @@ var require_lodash = __commonJS({
           return getMapData(this, key).has(key);
         }
         function mapCacheSet(key, value) {
-          var data = getMapData(this, key), size2 = data.size;
-          data.set(key, value);
-          this.size += data.size == size2 ? 0 : 1;
+          var data2 = getMapData(this, key), size2 = data2.size;
+          data2.set(key, value);
+          this.size += data2.size == size2 ? 0 : 1;
           return this;
         }
         MapCache.prototype.clear = mapCacheClear;
@@ -996,16 +996,16 @@ var require_lodash = __commonJS({
         SetCache.prototype.add = SetCache.prototype.push = setCacheAdd;
         SetCache.prototype.has = setCacheHas;
         function Stack(entries) {
-          var data = this.__data__ = new ListCache(entries);
-          this.size = data.size;
+          var data2 = this.__data__ = new ListCache(entries);
+          this.size = data2.size;
         }
         function stackClear() {
           this.__data__ = new ListCache();
           this.size = 0;
         }
         function stackDelete(key) {
-          var data = this.__data__, result2 = data["delete"](key);
-          this.size = data.size;
+          var data2 = this.__data__, result2 = data2["delete"](key);
+          this.size = data2.size;
           return result2;
         }
         function stackGet(key) {
@@ -1015,18 +1015,18 @@ var require_lodash = __commonJS({
           return this.__data__.has(key);
         }
         function stackSet(key, value) {
-          var data = this.__data__;
-          if (data instanceof ListCache) {
-            var pairs = data.__data__;
+          var data2 = this.__data__;
+          if (data2 instanceof ListCache) {
+            var pairs = data2.__data__;
             if (!Map2 || pairs.length < LARGE_ARRAY_SIZE - 1) {
               pairs.push([key, value]);
-              this.size = ++data.size;
+              this.size = ++data2.size;
               return this;
             }
-            data = this.__data__ = new MapCache(pairs);
+            data2 = this.__data__ = new MapCache(pairs);
           }
-          data.set(key, value);
-          this.size = data.size;
+          data2.set(key, value);
+          this.size = data2.size;
           return this;
         }
         Stack.prototype.clear = stackClear;
@@ -1445,15 +1445,15 @@ var require_lodash = __commonJS({
           }
           object = Object2(object);
           while (index--) {
-            var data = matchData[index];
-            if (noCustomizer && data[2] ? data[1] !== object[data[0]] : !(data[0] in object)) {
+            var data2 = matchData[index];
+            if (noCustomizer && data2[2] ? data2[1] !== object[data2[0]] : !(data2[0] in object)) {
               return false;
             }
           }
           while (++index < length) {
-            data = matchData[index];
-            var key = data[0], objValue = object[key], srcValue = data[1];
-            if (noCustomizer && data[2]) {
+            data2 = matchData[index];
+            var key = data2[0], objValue = object[key], srcValue = data2[1];
+            if (noCustomizer && data2[2]) {
               if (objValue === undefined2 && !(key in object)) {
                 return false;
               }
@@ -1756,8 +1756,8 @@ var require_lodash = __commonJS({
           }
           return object;
         }
-        var baseSetData = !metaMap ? identity : function(func, data) {
-          metaMap.set(func, data);
+        var baseSetData = !metaMap ? identity : function(func, data2) {
+          metaMap.set(func, data2);
           return func;
         };
         var baseSetToString = !defineProperty ? identity : function(func, string) {
@@ -2250,9 +2250,9 @@ var require_lodash = __commonJS({
             index = wrapper ? index : length;
             while (++index < length) {
               func = funcs[index];
-              var funcName = getFuncName(func), data = funcName == "wrapper" ? getData(func) : undefined2;
-              if (data && isLaziable(data[0]) && data[1] == (WRAP_ARY_FLAG | WRAP_CURRY_FLAG | WRAP_PARTIAL_FLAG | WRAP_REARG_FLAG) && !data[4].length && data[9] == 1) {
-                wrapper = wrapper[getFuncName(data[0])].apply(wrapper, data[3]);
+              var funcName = getFuncName(func), data2 = funcName == "wrapper" ? getData(func) : undefined2;
+              if (data2 && isLaziable(data2[0]) && data2[1] == (WRAP_ARY_FLAG | WRAP_CURRY_FLAG | WRAP_PARTIAL_FLAG | WRAP_REARG_FLAG) && !data2[4].length && data2[9] == 1) {
+                wrapper = wrapper[getFuncName(data2[0])].apply(wrapper, data2[3]);
               } else {
                 wrapper = func.length == 1 && isLaziable(func) ? wrapper[funcName]() : wrapper.thru(func);
               }
@@ -2468,7 +2468,7 @@ var require_lodash = __commonJS({
             var partialsRight = partials, holdersRight = holders;
             partials = holders = undefined2;
           }
-          var data = isBindKey ? undefined2 : getData(func);
+          var data2 = isBindKey ? undefined2 : getData(func);
           var newData = [
             func,
             bitmask,
@@ -2481,8 +2481,8 @@ var require_lodash = __commonJS({
             ary2,
             arity
           ];
-          if (data) {
-            mergeData(newData, data);
+          if (data2) {
+            mergeData(newData, data2);
           }
           func = newData[0];
           bitmask = newData[1];
@@ -2502,7 +2502,7 @@ var require_lodash = __commonJS({
           } else {
             result2 = createHybrid.apply(undefined2, newData);
           }
-          var setter = data ? baseSetData : setData;
+          var setter = data2 ? baseSetData : setData;
           return setWrapToString(setter(result2, newData), func, bitmask);
         }
         function customDefaultsAssignIn(objValue, srcValue, key, object) {
@@ -2669,9 +2669,9 @@ var require_lodash = __commonJS({
         function getFuncName(func) {
           var result2 = func.name + "", array = realNames[result2], length = hasOwnProperty2.call(realNames, result2) ? array.length : 0;
           while (length--) {
-            var data = array[length], otherFunc = data.func;
+            var data2 = array[length], otherFunc = data2.func;
             if (otherFunc == null || otherFunc == func) {
-              return data.name;
+              return data2.name;
             }
           }
           return result2;
@@ -2686,8 +2686,8 @@ var require_lodash = __commonJS({
           return arguments.length ? result2(arguments[0], arguments[1]) : result2;
         }
         function getMapData(map2, key) {
-          var data = map2.__data__;
-          return isKeyable(key) ? data[typeof key == "string" ? "string" : "hash"] : data.map;
+          var data2 = map2.__data__;
+          return isKeyable(key) ? data2[typeof key == "string" ? "string" : "hash"] : data2.map;
         }
         function getMatchData(object) {
           var result2 = keys(object), length = result2.length;
@@ -2759,8 +2759,8 @@ var require_lodash = __commonJS({
         function getView(start2, end2, transforms) {
           var index = -1, length = transforms.length;
           while (++index < length) {
-            var data = transforms[index], size2 = data.size;
-            switch (data.type) {
+            var data2 = transforms[index], size2 = data2.size;
+            switch (data2.type) {
               case "drop":
                 start2 += size2;
                 break;
@@ -2778,8 +2778,8 @@ var require_lodash = __commonJS({
           return { "start": start2, "end": end2 };
         }
         function getWrapDetails(source) {
-          var match2 = source.match(reWrapDetails);
-          return match2 ? match2[1].split(reSplitDetails) : [];
+          var match3 = source.match(reWrapDetails);
+          return match3 ? match3[1].split(reSplitDetails) : [];
         }
         function hasPath(object, path, hasFunc) {
           path = castPath(path, object);
@@ -2891,8 +2891,8 @@ var require_lodash = __commonJS({
           if (func === other) {
             return true;
           }
-          var data = getData(other);
-          return !!data && func === data[0];
+          var data2 = getData(other);
+          return !!data2 && func === data2[0];
         }
         function isMasked(func) {
           return !!maskSrcKey && maskSrcKey in func;
@@ -2923,41 +2923,41 @@ var require_lodash = __commonJS({
           var cache = result2.cache;
           return result2;
         }
-        function mergeData(data, source) {
-          var bitmask = data[1], srcBitmask = source[1], newBitmask = bitmask | srcBitmask, isCommon = newBitmask < (WRAP_BIND_FLAG | WRAP_BIND_KEY_FLAG | WRAP_ARY_FLAG);
-          var isCombo = srcBitmask == WRAP_ARY_FLAG && bitmask == WRAP_CURRY_FLAG || srcBitmask == WRAP_ARY_FLAG && bitmask == WRAP_REARG_FLAG && data[7].length <= source[8] || srcBitmask == (WRAP_ARY_FLAG | WRAP_REARG_FLAG) && source[7].length <= source[8] && bitmask == WRAP_CURRY_FLAG;
+        function mergeData(data2, source) {
+          var bitmask = data2[1], srcBitmask = source[1], newBitmask = bitmask | srcBitmask, isCommon = newBitmask < (WRAP_BIND_FLAG | WRAP_BIND_KEY_FLAG | WRAP_ARY_FLAG);
+          var isCombo = srcBitmask == WRAP_ARY_FLAG && bitmask == WRAP_CURRY_FLAG || srcBitmask == WRAP_ARY_FLAG && bitmask == WRAP_REARG_FLAG && data2[7].length <= source[8] || srcBitmask == (WRAP_ARY_FLAG | WRAP_REARG_FLAG) && source[7].length <= source[8] && bitmask == WRAP_CURRY_FLAG;
           if (!(isCommon || isCombo)) {
-            return data;
+            return data2;
           }
           if (srcBitmask & WRAP_BIND_FLAG) {
-            data[2] = source[2];
+            data2[2] = source[2];
             newBitmask |= bitmask & WRAP_BIND_FLAG ? 0 : WRAP_CURRY_BOUND_FLAG;
           }
           var value = source[3];
           if (value) {
-            var partials = data[3];
-            data[3] = partials ? composeArgs(partials, value, source[4]) : value;
-            data[4] = partials ? replaceHolders(data[3], PLACEHOLDER) : source[4];
+            var partials = data2[3];
+            data2[3] = partials ? composeArgs(partials, value, source[4]) : value;
+            data2[4] = partials ? replaceHolders(data2[3], PLACEHOLDER) : source[4];
           }
           value = source[5];
           if (value) {
-            partials = data[5];
-            data[5] = partials ? composeArgsRight(partials, value, source[6]) : value;
-            data[6] = partials ? replaceHolders(data[5], PLACEHOLDER) : source[6];
+            partials = data2[5];
+            data2[5] = partials ? composeArgsRight(partials, value, source[6]) : value;
+            data2[6] = partials ? replaceHolders(data2[5], PLACEHOLDER) : source[6];
           }
           value = source[7];
           if (value) {
-            data[7] = value;
+            data2[7] = value;
           }
           if (srcBitmask & WRAP_ARY_FLAG) {
-            data[8] = data[8] == null ? source[8] : nativeMin(data[8], source[8]);
+            data2[8] = data2[8] == null ? source[8] : nativeMin(data2[8], source[8]);
           }
-          if (data[9] == null) {
-            data[9] = source[9];
+          if (data2[9] == null) {
+            data2[9] = source[9];
           }
-          data[0] = source[0];
-          data[1] = newBitmask;
-          return data;
+          data2[0] = source[0];
+          data2[1] = newBitmask;
+          return data2;
         }
         function nativeKeysIn(object) {
           var result2 = [];
@@ -3047,8 +3047,8 @@ var require_lodash = __commonJS({
           if (string.charCodeAt(0) === 46) {
             result2.push("");
           }
-          string.replace(rePropName, function(match2, number, quote, subString) {
-            result2.push(quote ? subString.replace(reEscapeChar, "$1") : number || match2);
+          string.replace(rePropName, function(match3, number, quote, subString) {
+            result2.push(quote ? subString.replace(reEscapeChar, "$1") : number || match3);
           });
           return result2;
         });
@@ -4567,7 +4567,7 @@ var require_lodash = __commonJS({
           }
           return baseRepeat(toString(string), n2);
         }
-        function replace() {
+        function replace2() {
           var args = arguments, string = toString(args[0]);
           return args.length < 3 ? string : string.replace(args[1], args[2]);
         }
@@ -4611,7 +4611,7 @@ var require_lodash = __commonJS({
           var isEscaping, isEvaluating, index = 0, interpolate = options.interpolate || reNoMatch, source = "__p += '";
           var reDelimiters = RegExp2((options.escape || reNoMatch).source + "|" + interpolate.source + "|" + (interpolate === reInterpolate ? reEsTemplate : reNoMatch).source + "|" + (options.evaluate || reNoMatch).source + "|$", "g");
           var sourceURL = "//# sourceURL=" + (hasOwnProperty2.call(options, "sourceURL") ? (options.sourceURL + "").replace(/\s/g, " ") : "lodash.templateSources[" + ++templateCounter + "]") + "\n";
-          string.replace(reDelimiters, function(match2, escapeValue, interpolateValue, esTemplateValue, evaluateValue, offset3) {
+          string.replace(reDelimiters, function(match3, escapeValue, interpolateValue, esTemplateValue, evaluateValue, offset3) {
             interpolateValue || (interpolateValue = esTemplateValue);
             source += string.slice(index, offset3).replace(reUnescapedString, escapeStringChar);
             if (escapeValue) {
@@ -4625,8 +4625,8 @@ var require_lodash = __commonJS({
             if (interpolateValue) {
               source += "' +\n((__t = (" + interpolateValue + ")) == null ? '' : __t) +\n'";
             }
-            index = offset3 + match2.length;
-            return match2;
+            index = offset3 + match3.length;
+            return match3;
           });
           source += "';\n";
           var variable = hasOwnProperty2.call(options, "variable") && options.variable;
@@ -4714,13 +4714,13 @@ var require_lodash = __commonJS({
           }
           if (isRegExp(separator)) {
             if (string.slice(end2).search(separator)) {
-              var match2, substring = result2;
+              var match3, substring = result2;
               if (!separator.global) {
                 separator = RegExp2(separator.source, toString(reFlags.exec(separator)) + "g");
               }
               separator.lastIndex = 0;
-              while (match2 = separator.exec(substring)) {
-                var newEnd = match2.index;
+              while (match3 = separator.exec(substring)) {
+                var newEnd = match3.index;
               }
               result2 = result2.slice(0, newEnd === undefined2 ? end2 : newEnd);
             }
@@ -5213,7 +5213,7 @@ var require_lodash = __commonJS({
         lodash.reduce = reduce;
         lodash.reduceRight = reduceRight;
         lodash.repeat = repeat;
-        lodash.replace = replace;
+        lodash.replace = replace2;
         lodash.result = result;
         lodash.round = round2;
         lodash.runInContext = runInContext2;
@@ -6187,8 +6187,8 @@ var require_diff_match_patch = __commonJS({
       var pattern_para = /\n/g;
       for (var x = 0; x < diffs.length; x++) {
         var op = diffs[x][0];
-        var data = diffs[x][1];
-        var text = data.replace(pattern_amp, "&amp;").replace(pattern_lt, "&lt;").replace(pattern_gt, "&gt;").replace(pattern_para, "&para;<br>");
+        var data2 = diffs[x][1];
+        var text = data2.replace(pattern_amp, "&amp;").replace(pattern_lt, "&lt;").replace(pattern_gt, "&gt;").replace(pattern_para, "&para;<br>");
         switch (op) {
           case DIFF_INSERT:
             html[x] = '<ins style="background:#e6ffe6;">' + text + "</ins>";
@@ -6227,13 +6227,13 @@ var require_diff_match_patch = __commonJS({
       var deletions = 0;
       for (var x = 0; x < diffs.length; x++) {
         var op = diffs[x][0];
-        var data = diffs[x][1];
+        var data2 = diffs[x][1];
         switch (op) {
           case DIFF_INSERT:
-            insertions += data.length;
+            insertions += data2.length;
             break;
           case DIFF_DELETE:
-            deletions += data.length;
+            deletions += data2.length;
             break;
           case DIFF_EQUAL:
             levenshtein += Math.max(insertions, deletions);
@@ -7050,7 +7050,7 @@ var Zone = class {
   offsetName(ts, opts) {
     throw new ZoneIsAbstractError();
   }
-  formatOffset(ts, format2) {
+  formatOffset(ts, format) {
     throw new ZoneIsAbstractError();
   }
   offset(ts) {
@@ -7082,11 +7082,11 @@ var SystemZone = class extends Zone {
   get isUniversal() {
     return false;
   }
-  offsetName(ts, { format: format2, locale }) {
-    return parseZoneInfo(ts, format2, locale);
+  offsetName(ts, { format, locale }) {
+    return parseZoneInfo(ts, format, locale);
   }
-  formatOffset(ts, format2) {
-    return formatOffset(this.offset(ts), format2);
+  formatOffset(ts, format) {
+    return formatOffset(this.offset(ts), format);
   }
   offset(ts) {
     return -new Date(ts).getTimezoneOffset();
@@ -7184,11 +7184,11 @@ var IANAZone = class extends Zone {
   get isUniversal() {
     return false;
   }
-  offsetName(ts, { format: format2, locale }) {
-    return parseZoneInfo(ts, format2, locale, this.name);
+  offsetName(ts, { format, locale }) {
+    return parseZoneInfo(ts, format, locale, this.name);
   }
-  formatOffset(ts, format2) {
-    return formatOffset(this.offset(ts), format2);
+  formatOffset(ts, format) {
+    return formatOffset(this.offset(ts), format);
   }
   offset(ts) {
     const date = new Date(ts);
@@ -7370,8 +7370,11 @@ var PolyNumberFormatter = class {
 var PolyDateFormatter = class {
   constructor(dt, intl, opts) {
     this.opts = opts;
+    this.originalZone = void 0;
     let z = void 0;
-    if (dt.zone.isUniversal) {
+    if (this.opts.timeZone) {
+      this.dt = dt;
+    } else if (dt.zone.type === "fixed") {
       const gmtOffset = -1 * (dt.offset / 60);
       const offsetZ = gmtOffset >= 0 ? `Etc/GMT+${gmtOffset}` : `Etc/GMT${gmtOffset}`;
       if (dt.offset !== 0 && IANAZone.create(offsetZ).valid) {
@@ -7379,27 +7382,48 @@ var PolyDateFormatter = class {
         this.dt = dt;
       } else {
         z = "UTC";
-        if (opts.timeZoneName) {
-          this.dt = dt;
-        } else {
-          this.dt = dt.offset === 0 ? dt : DateTime.fromMillis(dt.ts + dt.offset * 60 * 1e3);
-        }
+        this.dt = dt.offset === 0 ? dt : dt.setZone("UTC").plus({ minutes: dt.offset });
+        this.originalZone = dt.zone;
       }
     } else if (dt.zone.type === "system") {
       this.dt = dt;
-    } else {
+    } else if (dt.zone.type === "iana") {
       this.dt = dt;
       z = dt.zone.name;
+    } else {
+      z = "UTC";
+      this.dt = dt.setZone("UTC").plus({ minutes: dt.offset });
+      this.originalZone = dt.zone;
     }
     const intlOpts = { ...this.opts };
     intlOpts.timeZone = intlOpts.timeZone || z;
     this.dtf = getCachedDTF(intl, intlOpts);
   }
   format() {
+    if (this.originalZone) {
+      return this.formatToParts().map(({ value }) => value).join("");
+    }
     return this.dtf.format(this.dt.toJSDate());
   }
   formatToParts() {
-    return this.dtf.formatToParts(this.dt.toJSDate());
+    const parts = this.dtf.formatToParts(this.dt.toJSDate());
+    if (this.originalZone) {
+      return parts.map((part) => {
+        if (part.type === "timeZoneName") {
+          const offsetName = this.originalZone.offsetName(this.dt.ts, {
+            locale: this.dt.locale,
+            format: this.opts.timeZoneName
+          });
+          return {
+            ...part,
+            value: offsetName
+          };
+        } else {
+          return part;
+        }
+      });
+    }
+    return parts;
   }
   resolvedOptions() {
     return this.dtf.resolvedOptions();
@@ -7484,18 +7508,18 @@ var Locale = class {
   redefaultToSystem(alts = {}) {
     return this.clone({ ...alts, defaultToEN: false });
   }
-  months(length, format2 = false, defaultOK = true) {
+  months(length, format = false, defaultOK = true) {
     return listStuff(this, length, defaultOK, months, () => {
-      const intl = format2 ? { month: length, day: "numeric" } : { month: length }, formatStr = format2 ? "format" : "standalone";
+      const intl = format ? { month: length, day: "numeric" } : { month: length }, formatStr = format ? "format" : "standalone";
       if (!this.monthsCache[formatStr][length]) {
         this.monthsCache[formatStr][length] = mapMonths((dt) => this.extract(dt, intl, "month"));
       }
       return this.monthsCache[formatStr][length];
     });
   }
-  weekdays(length, format2 = false, defaultOK = true) {
+  weekdays(length, format = false, defaultOK = true) {
     return listStuff(this, length, defaultOK, weekdays, () => {
-      const intl = format2 ? { weekday: length, year: "numeric", month: "long", day: "numeric" } : { weekday: length }, formatStr = format2 ? "format" : "standalone";
+      const intl = format ? { weekday: length, year: "numeric", month: "long", day: "numeric" } : { weekday: length }, formatStr = format ? "format" : "standalone";
       if (!this.weekdaysCache[formatStr][length]) {
         this.weekdaysCache[formatStr][length] = mapWeekdays((dt) => this.extract(dt, intl, "weekday"));
       }
@@ -7585,8 +7609,8 @@ var FixedOffsetZone = class extends Zone {
   offsetName() {
     return this.name;
   }
-  formatOffset(ts, format2) {
-    return formatOffset(this.fixed, format2);
+  formatOffset(ts, format) {
+    return formatOffset(this.fixed, format);
   }
   get isUniversal() {
     return true;
@@ -7827,7 +7851,7 @@ function objToLocalTS(obj) {
   let d = Date.UTC(obj.year, obj.month - 1, obj.day, obj.hour, obj.minute, obj.second, obj.millisecond);
   if (obj.year < 100 && obj.year >= 0) {
     d = new Date(d);
-    d.setUTCFullYear(d.getUTCFullYear() - 1900);
+    d.setUTCFullYear(obj.year, obj.month - 1, obj.day);
   }
   return +d;
 }
@@ -7883,9 +7907,9 @@ function normalizeObject(obj, normalizer) {
   }
   return normalized;
 }
-function formatOffset(offset3, format2) {
+function formatOffset(offset3, format) {
   const hours = Math.trunc(Math.abs(offset3 / 60)), minutes = Math.trunc(Math.abs(offset3 % 60)), sign = offset3 >= 0 ? "+" : "-";
-  switch (format2) {
+  switch (format) {
     case "short":
       return `${sign}${padStart(hours, 2)}:${padStart(minutes, 2)}`;
     case "narrow":
@@ -7893,7 +7917,7 @@ function formatOffset(offset3, format2) {
     case "techie":
       return `${sign}${padStart(hours, 2)}${padStart(minutes, 2)}`;
     default:
-      throw new RangeError(`Value format ${format2} is out of range for property format`);
+      throw new RangeError(`Value format ${format} is out of range for property format`);
   }
 }
 function timeObject(obj) {
@@ -8072,7 +8096,7 @@ var Formatter = class {
       const c = fmt.charAt(i);
       if (c === "'") {
         if (currentFull.length > 0) {
-          splits.push({ literal: bracketed, val: currentFull });
+          splits.push({ literal: bracketed || /^\s+$/.test(currentFull), val: currentFull });
         }
         current = null;
         currentFull = "";
@@ -8083,14 +8107,14 @@ var Formatter = class {
         currentFull += c;
       } else {
         if (currentFull.length > 0) {
-          splits.push({ literal: false, val: currentFull });
+          splits.push({ literal: /^\s+$/.test(currentFull), val: currentFull });
         }
         currentFull = c;
         current = c;
       }
     }
     if (currentFull.length > 0) {
-      splits.push({ literal: bracketed, val: currentFull });
+      splits.push({ literal: bracketed || /^\s+$/.test(currentFull), val: currentFull });
     }
     return splits;
   }
@@ -8343,11 +8367,11 @@ function parse(s2, ...patterns) {
   return [null, null];
 }
 function simpleParse(...keys) {
-  return (match2, cursor) => {
+  return (match3, cursor) => {
     const ret = {};
     let i;
     for (i = 0; i < keys.length; i++) {
-      ret[keys[i]] = parseInteger(match2[cursor + i]);
+      ret[keys[i]] = parseInteger(match3[cursor + i]);
     }
     return [ret, null, cursor + i];
   };
@@ -8365,39 +8389,39 @@ var extractISOOrdinalData = simpleParse("year", "ordinal");
 var sqlYmdRegex = /(\d{4})-(\d\d)-(\d\d)/;
 var sqlTimeRegex = RegExp(`${isoTimeBaseRegex.source} ?(?:${offsetRegex.source}|(${ianaRegex.source}))?`);
 var sqlTimeExtensionRegex = RegExp(`(?: ${sqlTimeRegex.source})?`);
-function int(match2, pos, fallback) {
-  const m = match2[pos];
+function int(match3, pos, fallback) {
+  const m = match3[pos];
   return isUndefined(m) ? fallback : parseInteger(m);
 }
-function extractISOYmd(match2, cursor) {
+function extractISOYmd(match3, cursor) {
   const item = {
-    year: int(match2, cursor),
-    month: int(match2, cursor + 1, 1),
-    day: int(match2, cursor + 2, 1)
+    year: int(match3, cursor),
+    month: int(match3, cursor + 1, 1),
+    day: int(match3, cursor + 2, 1)
   };
   return [item, null, cursor + 3];
 }
-function extractISOTime(match2, cursor) {
+function extractISOTime(match3, cursor) {
   const item = {
-    hours: int(match2, cursor, 0),
-    minutes: int(match2, cursor + 1, 0),
-    seconds: int(match2, cursor + 2, 0),
-    milliseconds: parseMillis(match2[cursor + 3])
+    hours: int(match3, cursor, 0),
+    minutes: int(match3, cursor + 1, 0),
+    seconds: int(match3, cursor + 2, 0),
+    milliseconds: parseMillis(match3[cursor + 3])
   };
   return [item, null, cursor + 4];
 }
-function extractISOOffset(match2, cursor) {
-  const local = !match2[cursor] && !match2[cursor + 1], fullOffset = signedOffset(match2[cursor + 1], match2[cursor + 2]), zone = local ? null : FixedOffsetZone.instance(fullOffset);
+function extractISOOffset(match3, cursor) {
+  const local = !match3[cursor] && !match3[cursor + 1], fullOffset = signedOffset(match3[cursor + 1], match3[cursor + 2]), zone = local ? null : FixedOffsetZone.instance(fullOffset);
   return [{}, zone, cursor + 3];
 }
-function extractIANAZone(match2, cursor) {
-  const zone = match2[cursor] ? IANAZone.create(match2[cursor]) : null;
+function extractIANAZone(match3, cursor) {
+  const zone = match3[cursor] ? IANAZone.create(match3[cursor]) : null;
   return [{}, zone, cursor + 1];
 }
 var isoTimeOnly = RegExp(`^T?${isoTimeBaseRegex.source}$`);
 var isoDuration = /^-?P(?:(?:(-?\d{1,20}(?:\.\d{1,20})?)Y)?(?:(-?\d{1,20}(?:\.\d{1,20})?)M)?(?:(-?\d{1,20}(?:\.\d{1,20})?)W)?(?:(-?\d{1,20}(?:\.\d{1,20})?)D)?(?:T(?:(-?\d{1,20}(?:\.\d{1,20})?)H)?(?:(-?\d{1,20}(?:\.\d{1,20})?)M)?(?:(-?\d{1,20})(?:[.,](-?\d{1,20}))?S)?)?)$/;
-function extractISODuration(match2) {
-  const [s2, yearStr, monthStr, weekStr, dayStr, hourStr, minuteStr, secondStr, millisecondsStr] = match2;
+function extractISODuration(match3) {
+  const [s2, yearStr, monthStr, weekStr, dayStr, hourStr, minuteStr, secondStr, millisecondsStr] = match3;
   const hasNegativePrefix = s2[0] === "-";
   const negativeSeconds = secondStr && secondStr[0] === "-";
   const maybeNegate = (num, force = false) => num !== void 0 && (force || num && hasNegativePrefix) ? -num : num;
@@ -8441,7 +8465,7 @@ function fromStrings(weekdayStr, yearStr, monthStr, dayStr, hourStr, minuteStr, 
   return result;
 }
 var rfc2822 = /^(?:(Mon|Tue|Wed|Thu|Fri|Sat|Sun),\s)?(\d{1,2})\s(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s(\d{2,4})\s(\d\d):(\d\d)(?::(\d\d))?\s(?:(UT|GMT|[ECMP][SD]T)|([Zz])|(?:([+-]\d\d)(\d\d)))$/;
-function extractRFC2822(match2) {
+function extractRFC2822(match3) {
   const [
     ,
     weekdayStr,
@@ -8455,7 +8479,7 @@ function extractRFC2822(match2) {
     milOffset,
     offHourStr,
     offMinuteStr
-  ] = match2, result = fromStrings(weekdayStr, yearStr, monthStr, dayStr, hourStr, minuteStr, secondStr);
+  ] = match3, result = fromStrings(weekdayStr, yearStr, monthStr, dayStr, hourStr, minuteStr, secondStr);
   let offset3;
   if (obsOffset) {
     offset3 = obsOffsets[obsOffset];
@@ -8472,12 +8496,12 @@ function preprocessRFC2822(s2) {
 var rfc1123 = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun), (\d\d) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) (\d{4}) (\d\d):(\d\d):(\d\d) GMT$/;
 var rfc850 = /^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday), (\d\d)-(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)-(\d\d) (\d\d):(\d\d):(\d\d) GMT$/;
 var ascii = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) ( \d|\d\d) (\d\d):(\d\d):(\d\d) (\d{4})$/;
-function extractRFC1123Or850(match2) {
-  const [, weekdayStr, dayStr, monthStr, yearStr, hourStr, minuteStr, secondStr] = match2, result = fromStrings(weekdayStr, yearStr, monthStr, dayStr, hourStr, minuteStr, secondStr);
+function extractRFC1123Or850(match3) {
+  const [, weekdayStr, dayStr, monthStr, yearStr, hourStr, minuteStr, secondStr] = match3, result = fromStrings(weekdayStr, yearStr, monthStr, dayStr, hourStr, minuteStr, secondStr);
   return [result, FixedOffsetZone.utcInstance];
 }
-function extractASCII(match2) {
-  const [, weekdayStr, monthStr, dayStr, hourStr, minuteStr, secondStr, yearStr] = match2, result = fromStrings(weekdayStr, yearStr, monthStr, dayStr, hourStr, minuteStr, secondStr);
+function extractASCII(match3) {
+  const [, weekdayStr, monthStr, dayStr, hourStr, minuteStr, secondStr, yearStr] = match3, result = fromStrings(weekdayStr, yearStr, monthStr, dayStr, hourStr, minuteStr, secondStr);
   return [result, FixedOffsetZone.utcInstance];
 }
 var isoYmdWithTimeExtensionRegex = combineRegexes(isoYmdRegex, isoTimeExtensionRegex);
@@ -9104,7 +9128,7 @@ var Interval = class {
     if (!this.isValid)
       return NaN;
     const start2 = this.start.startOf(unit), end2 = this.end.startOf(unit);
-    return Math.floor(end2.diff(start2, unit).get(unit)) + 1;
+    return Math.floor(end2.diff(start2, unit).get(unit)) + (end2.valueOf() !== this.end.valueOf());
   }
   hasSame(unit) {
     return this.isValid ? this.isEmpty() || this.e.minus(1).hasSame(this.s, unit) : false;
@@ -9581,6 +9605,8 @@ function unitForToken(token, loc) {
         return offset(new RegExp(`([+-]${oneOrTwo.source})(${two.source})?`), 2);
       case "z":
         return simple(/[a-z_+-/]{1,256}?/i);
+      case " ":
+        return simple(/[^\S\n\r]/);
       default:
         return literal(t);
     }
@@ -9632,9 +9658,10 @@ var partTypeStyleToTokenVal = {
 function tokenForPart(part, formatOpts) {
   const { type, value } = part;
   if (type === "literal") {
+    const isSpace = /^\s+$/.test(value);
     return {
-      literal: true,
-      val: value
+      literal: !isSpace,
+      val: isSpace ? " " : value
     };
   }
   const style = formatOpts[type];
@@ -9764,8 +9791,8 @@ function maybeExpandMacroToken(token, locale) {
 function expandMacroTokens(tokens, locale) {
   return Array.prototype.concat(...tokens.map((t) => maybeExpandMacroToken(t, locale)));
 }
-function explainFromTokens(locale, input, format2) {
-  const tokens = expandMacroTokens(Formatter.parseFormat(format2), locale), units = tokens.map((t) => unitForToken(t, locale)), disqualifyingUnit = units.find((t) => t.invalidReason);
+function explainFromTokens(locale, input, format) {
+  const tokens = expandMacroTokens(Formatter.parseFormat(format), locale), units = tokens.map((t) => unitForToken(t, locale)), disqualifyingUnit = units.find((t) => t.invalidReason);
   if (disqualifyingUnit) {
     return { input, tokens, invalidReason: disqualifyingUnit.invalidReason };
   } else {
@@ -9776,8 +9803,8 @@ function explainFromTokens(locale, input, format2) {
     return { input, tokens, regex, rawMatches, matches, result, zone, specificOffset };
   }
 }
-function parseFromTokens(locale, input, format2) {
-  const { result, zone, specificOffset, invalidReason } = explainFromTokens(locale, input, format2);
+function parseFromTokens(locale, input, format) {
+  const { result, zone, specificOffset, invalidReason } = explainFromTokens(locale, input, format);
   return [result, zone, specificOffset, invalidReason];
 }
 function formatOptsToTokens(formatOpts, locale) {
@@ -9971,9 +9998,9 @@ function adjustTime(inst, dur) {
   }
   return { ts, o };
 }
-function parseDataToDateTime(parsed, parsedZone, opts, format2, text, specificOffset) {
+function parseDataToDateTime(parsed, parsedZone, opts, format, text, specificOffset) {
   const { setZone, zone } = opts;
-  if (parsed && Object.keys(parsed).length !== 0) {
+  if (parsed && Object.keys(parsed).length !== 0 || parsedZone) {
     const interpretationZone = parsedZone || zone, inst = DateTime.fromObject(parsed, {
       ...opts,
       zone: interpretationZone,
@@ -9981,14 +10008,14 @@ function parseDataToDateTime(parsed, parsedZone, opts, format2, text, specificOf
     });
     return setZone ? inst : inst.setZone(zone);
   } else {
-    return DateTime.invalid(new Invalid("unparsable", `the input "${text}" can't be parsed as ${format2}`));
+    return DateTime.invalid(new Invalid("unparsable", `the input "${text}" can't be parsed as ${format}`));
   }
 }
-function toTechFormat(dt, format2, allowZ = true) {
+function toTechFormat(dt, format, allowZ = true) {
   return dt.isValid ? Formatter.create(Locale.create("en-US"), {
     allowZ,
     forceSimple: true
-  }).formatDateTimeFromString(dt, format2) : null;
+  }).formatDateTimeFromString(dt, format) : null;
 }
 function toISODate(o, extended) {
   const longFormat = o.c.year > 9999 || o.c.year < 0;
@@ -10131,7 +10158,7 @@ function quickDT(obj, opts) {
   return new DateTime({ ts, zone, loc, o });
 }
 function diffRelative(start2, end2, opts) {
-  const round2 = isUndefined(opts.round) ? true : opts.round, format2 = (c, unit) => {
+  const round2 = isUndefined(opts.round) ? true : opts.round, format = (c, unit) => {
     c = roundTo(c, round2 || opts.calendary ? 0 : 2, true);
     const formatter = end2.loc.clone(opts).relFormatter(opts);
     return formatter.format(c, unit);
@@ -10146,15 +10173,15 @@ function diffRelative(start2, end2, opts) {
     }
   };
   if (opts.unit) {
-    return format2(differ(opts.unit), opts.unit);
+    return format(differ(opts.unit), opts.unit);
   }
   for (const unit of opts.units) {
     const count = differ(unit);
     if (Math.abs(count) >= 1) {
-      return format2(count, unit);
+      return format(count, unit);
     }
   }
-  return format2(start2 > end2 ? -0 : 0, opts.units[opts.units.length - 1]);
+  return format(start2 > end2 ? -0 : 0, opts.units[opts.units.length - 1]);
 }
 function lastOpts(argList) {
   let opts = {}, args;
@@ -10586,7 +10613,7 @@ var DateTime = class {
     return this.isValid ? Formatter.create(this.loc.clone(opts), opts).formatDateTimeParts(this) : [];
   }
   toISO({
-    format: format2 = "extended",
+    format = "extended",
     suppressSeconds = false,
     suppressMilliseconds = false,
     includeOffset = true,
@@ -10595,17 +10622,17 @@ var DateTime = class {
     if (!this.isValid) {
       return null;
     }
-    const ext = format2 === "extended";
+    const ext = format === "extended";
     let c = toISODate(this, ext);
     c += "T";
     c += toISOTime(this, ext, suppressSeconds, suppressMilliseconds, includeOffset, extendedZone);
     return c;
   }
-  toISODate({ format: format2 = "extended" } = {}) {
+  toISODate({ format = "extended" } = {}) {
     if (!this.isValid) {
       return null;
     }
-    return toISODate(this, format2 === "extended");
+    return toISODate(this, format === "extended");
   }
   toISOWeekDate() {
     return toTechFormat(this, "kkkk-'W'WW-c");
@@ -10616,13 +10643,13 @@ var DateTime = class {
     includeOffset = true,
     includePrefix = false,
     extendedZone = false,
-    format: format2 = "extended"
+    format = "extended"
   } = {}) {
     if (!this.isValid) {
       return null;
     }
     let c = includePrefix ? "T" : "";
-    return c + toISOTime(this, format2 === "extended", suppressSeconds, suppressMilliseconds, includeOffset, extendedZone);
+    return c + toISOTime(this, format === "extended", suppressSeconds, suppressMilliseconds, includeOffset, extendedZone);
   }
   toRFC2822() {
     return toTechFormat(this, "EEE, dd LLL yyyy HH:mm:ss ZZZ", false);
@@ -10854,7 +10881,7 @@ var requestHeaders = (apiKey) => ({
   authorization: apiKey,
   "X-OmnivoreClient": "obsidian-plugin"
 });
-var loadArticles = async (endpoint, apiKey, after = 0, first = 10, updatedAt = "", query = "", includeContent = false, format2 = "html") => {
+var loadArticles = async (endpoint, apiKey, after = 0, first = 10, updatedAt = "", query = "", includeContent = false, format = "html") => {
   const res = await (0, import_obsidian.requestUrl)({
     url: endpoint,
     headers: requestHeaders(apiKey),
@@ -10914,7 +10941,7 @@ var loadArticles = async (endpoint, apiKey, after = 0, first = 10, updatedAt = "
         first,
         query: `${updatedAt ? "updated:" + updatedAt : ""} sort:saved-asc ${query}`,
         includeContent,
-        format: format2
+        format
       }
     }),
     method: "POST"
@@ -11130,30 +11157,30 @@ Scanner.prototype.eos = function eos() {
   return this.tail === "";
 };
 Scanner.prototype.scan = function scan(re) {
-  var match2 = this.tail.match(re);
-  if (!match2 || match2.index !== 0)
+  var match3 = this.tail.match(re);
+  if (!match3 || match3.index !== 0)
     return "";
-  var string = match2[0];
+  var string = match3[0];
   this.tail = this.tail.substring(string.length);
   this.pos += string.length;
   return string;
 };
 Scanner.prototype.scanUntil = function scanUntil(re) {
-  var index = this.tail.search(re), match2;
+  var index = this.tail.search(re), match3;
   switch (index) {
     case -1:
-      match2 = this.tail;
+      match3 = this.tail;
       this.tail = "";
       break;
     case 0:
-      match2 = "";
+      match3 = "";
       break;
     default:
-      match2 = this.tail.substring(0, index);
+      match3 = this.tail.substring(0, index);
       this.tail = this.tail.substring(index);
   }
-  this.pos += match2.length;
-  return match2;
+  this.pos += match3.length;
+  return match3;
 };
 function Context(view, parentContext) {
   this.view = view;
@@ -11388,6 +11415,801 @@ var import_obsidian3 = require("obsidian");
 var import_diff_match_patch = __toESM(require_diff_match_patch());
 var import_markdown_escape = __toESM(require_markdown_escape());
 var import_obsidian2 = require("obsidian");
+
+// node_modules/out-of-character/builds/out-of-character.mjs
+var require$$0 = [
+  {
+    type: "Line Break",
+    name: "LINE FEED",
+    code: "U+000A",
+    escapeChar: "\\n",
+    aka: "LF",
+    actualUnicodeChar: "\n",
+    codeEscaped: "\\u000A",
+    url: "https://www.compart.com/en/unicode/U+000A"
+  },
+  {
+    type: "Separator",
+    name: "LINE TABULATION",
+    code: "U+000B",
+    escapeChar: "\\t",
+    aka: "TAB",
+    replaceWith: "	",
+    actualUnicodeChar: "\v",
+    codeEscaped: "\\u000B",
+    url: "https://www.compart.com/en/unicode/U+000B"
+  },
+  {
+    type: "Separator",
+    name: "FORM FEED",
+    code: "U+000C",
+    escapeChar: "\\f",
+    aka: "FF",
+    replaceWith: "",
+    actualUnicodeChar: "\f",
+    codeEscaped: "\\u000C",
+    url: "https://www.compart.com/en/unicode/U+000C"
+  },
+  {
+    type: "Line Break",
+    name: "CARRIAGE RETURN",
+    code: "U+000D",
+    escapeChar: "\\r",
+    aka: "CR",
+    actualUnicodeChar: "\r",
+    codeEscaped: "\\u000D",
+    url: "https://www.compart.com/en/unicode/U+000D"
+  },
+  {
+    type: "Separators",
+    name: "NEXT LINE",
+    code: "U+0085",
+    escapeChar: "",
+    aka: "NEL",
+    replaceWith: "",
+    actualUnicodeChar: "\x85",
+    codeEscaped: "\\u0085",
+    url: "https://www.compart.com/en/unicode/U+0085"
+  },
+  {
+    type: "Separators",
+    name: "LINE SEPARATOR",
+    code: "U+2028",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u2028",
+    codeEscaped: "\\u2028",
+    url: "https://www.compart.com/en/unicode/U+2028"
+  },
+  {
+    type: "Separators",
+    name: "PARAGRAPH SEPARATOR",
+    code: "U+2029",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u2029",
+    codeEscaped: "\\u2029",
+    url: "https://www.compart.com/en/unicode/U+2029"
+  },
+  {
+    type: "Whitespace",
+    name: "CHARACTER TABULATION",
+    code: "U+0009",
+    escapeChar: "",
+    actualUnicodeChar: "	",
+    codeEscaped: "\\u0009",
+    url: "https://www.compart.com/en/unicode/U+0009"
+  },
+  {
+    type: "Whitespace",
+    name: "SPACE",
+    code: "U+0020",
+    escapeChar: "",
+    actualUnicodeChar: " ",
+    codeEscaped: "\\u0020",
+    url: "https://www.compart.com/en/unicode/U+0020"
+  },
+  {
+    htmlentity: "&shy;",
+    htmlcode: "&#173;",
+    csscode: "\\00AD",
+    unicode: "U+00AD",
+    name: "SOFT HYPHEN",
+    type: "Invisible",
+    code: "U+00AD",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\xAD",
+    codeEscaped: "\\u00AD",
+    url: "https://www.compart.com/en/unicode/U+00AD"
+  },
+  {
+    type: "Invisible",
+    name: "COMBINING GRAPHEME JOINER",
+    code: "U+034F",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u034F",
+    codeEscaped: "\\u034F",
+    url: "https://www.compart.com/en/unicode/U+034F"
+  },
+  {
+    type: "Invisible",
+    name: "ARABIC LETTER MARK",
+    code: "U+061C",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u061C",
+    codeEscaped: "\\u061C",
+    url: "https://www.compart.com/en/unicode/U+061C"
+  },
+  {
+    type: "Visible",
+    name: "SYRIAC ABBREVIATION MARK",
+    code: "U+070F",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u070F",
+    codeEscaped: "\\u070F",
+    url: "https://www.compart.com/en/unicode/U+070F"
+  },
+  {
+    type: "Whitespace",
+    name: "HANGUL CHOSEONG FILLER",
+    code: "U+115F",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u115F",
+    codeEscaped: "\\u115F",
+    url: "https://www.compart.com/en/unicode/U+115F"
+  },
+  {
+    type: "Whitespace",
+    name: "HANGUL JUNGSEONG FILLER",
+    code: "U+1160",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u1160",
+    codeEscaped: "\\u1160",
+    url: "https://www.compart.com/en/unicode/U+1160"
+  },
+  {
+    type: "Visible",
+    name: "OGHAM SPACE MARK",
+    code: "U+1680",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u1680",
+    codeEscaped: "\\u1680",
+    url: "https://www.compart.com/en/unicode/U+1680"
+  },
+  {
+    type: "Invisible",
+    name: "KHMER VOWEL INHERENT AQ",
+    code: "U+17B4",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u17B4",
+    codeEscaped: "\\u17B4",
+    url: "https://www.compart.com/en/unicode/U+17B4"
+  },
+  {
+    type: "Invisible",
+    name: "KHMER VOWEL INHERENT AA",
+    code: "U+17B5",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u17B5",
+    codeEscaped: "\\u17B5",
+    url: "https://www.compart.com/en/unicode/U+17B5"
+  },
+  {
+    type: "Invisible",
+    name: "MONGOLIAN VOWEL SEPARATOR",
+    code: "U+180E",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u180E",
+    codeEscaped: "\\u180E",
+    url: "https://www.compart.com/en/unicode/U+180E"
+  },
+  {
+    type: "Whitespace",
+    name: "EN QUAD",
+    code: "U+2000",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2000",
+    codeEscaped: "\\u2000",
+    url: "https://www.compart.com/en/unicode/U+2000"
+  },
+  {
+    type: "Whitespace",
+    name: "EM QUAD",
+    code: "U+2001",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2001",
+    codeEscaped: "\\u2001",
+    url: "https://www.compart.com/en/unicode/U+2001"
+  },
+  {
+    htmlentity: "&ensp;",
+    htmlcode: "&#8194;",
+    csscode: "\\2002",
+    unicode: "U+2002",
+    name: "EN SPACE",
+    type: "Whitespace",
+    code: "U+2002",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2002",
+    codeEscaped: "\\u2002",
+    url: "https://www.compart.com/en/unicode/U+2002"
+  },
+  {
+    htmlentity: "&emsp;",
+    htmlcode: "&#8195;",
+    csscode: "\\2003",
+    unicode: "U+2003",
+    name: "EM SPACE",
+    type: "Whitespace",
+    code: "U+2003",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2003",
+    codeEscaped: "\\u2003",
+    url: "https://www.compart.com/en/unicode/U+2003"
+  },
+  {
+    type: "Whitespace",
+    name: "THREE-PER-EM SPACE",
+    code: "U+2004",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2004",
+    codeEscaped: "\\u2004",
+    url: "https://www.compart.com/en/unicode/U+2004"
+  },
+  {
+    type: "Whitespace",
+    name: "FOUR-PER-EM SPACE",
+    code: "U+2005",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2005",
+    codeEscaped: "\\u2005",
+    url: "https://www.compart.com/en/unicode/U+2005"
+  },
+  {
+    type: "Whitespace",
+    name: "SIX-PER-EM SPACE",
+    code: "U+2006",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2006",
+    codeEscaped: "\\u2006",
+    url: "https://www.compart.com/en/unicode/U+2006"
+  },
+  {
+    type: "Whitespace",
+    name: "FIGURE SPACE",
+    code: "U+2007",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2007",
+    codeEscaped: "\\u2007",
+    url: "https://www.compart.com/en/unicode/U+2007"
+  },
+  {
+    type: "Whitespace",
+    name: "PUNCTUATION SPACE",
+    code: "U+2008",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2008",
+    codeEscaped: "\\u2008",
+    url: "https://www.compart.com/en/unicode/U+2008"
+  },
+  {
+    htmlentity: "&thinsp;",
+    htmlcode: "&#8201;",
+    csscode: "\\2009",
+    unicode: "U+2009",
+    name: "THIN SPACE",
+    type: "Whitespace",
+    code: "U+2009",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2009",
+    codeEscaped: "\\u2009",
+    url: "https://www.compart.com/en/unicode/U+2009"
+  },
+  {
+    type: "Whitespace",
+    name: "HAIR SPACE",
+    code: "U+200A",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u200A",
+    codeEscaped: "\\u200A",
+    url: "https://www.compart.com/en/unicode/U+200A"
+  },
+  {
+    type: "Invisible",
+    name: "ZERO WIDTH SPACE",
+    code: "U+200B",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u200B",
+    codeEscaped: "\\u200B",
+    url: "https://www.compart.com/en/unicode/U+200B"
+  },
+  {
+    htmlentity: "&zwnj;",
+    htmlcode: "&#8204;",
+    csscode: "\\200C",
+    unicode: "U+200C",
+    name: "ZERO WIDTH NON-JOINER",
+    type: "Invisible",
+    code: "U+200C",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u200C",
+    codeEscaped: "\\u200C",
+    url: "https://www.compart.com/en/unicode/U+200C"
+  },
+  {
+    htmlentity: "&zwj;",
+    htmlcode: "&#8205;",
+    csscode: "\\200D",
+    unicode: "U+200D",
+    name: "ZERO WIDTH",
+    type: "Invisible",
+    code: "U+200D",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u200D",
+    codeEscaped: "\\u200D",
+    url: "https://www.compart.com/en/unicode/U+200D"
+  },
+  {
+    htmlentity: "&lrm;",
+    htmlcode: "&#8206;",
+    csscode: "\\200E",
+    unicode: "U+200E",
+    name: "LEFT-TO-RIGHT MARK",
+    type: "Invisible",
+    code: "U+200E",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u200E",
+    codeEscaped: "\\u200E",
+    url: "https://www.compart.com/en/unicode/U+200E"
+  },
+  {
+    htmlentity: "&rlm;",
+    htmlcode: "&#8207;",
+    csscode: "\\200F",
+    unicode: "U+200F",
+    name: "RIGHT-TO-LEFT MARK",
+    type: "Invisible",
+    code: "U+200F",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u200F",
+    codeEscaped: "\\u200F",
+    url: "https://www.compart.com/en/unicode/U+200F"
+  },
+  {
+    type: "Whitespace",
+    name: "NARROW NO-BREAK SPACE",
+    code: "U+202F",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u202F",
+    codeEscaped: "\\u202F",
+    url: "https://www.compart.com/en/unicode/U+202F"
+  },
+  {
+    type: "Whitespace",
+    name: "MEDIUM MATHEMATICAL SPACE",
+    code: "U+205F",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u205F",
+    codeEscaped: "\\u205F",
+    url: "https://www.compart.com/en/unicode/U+205F"
+  },
+  {
+    type: "Invisible",
+    name: "WORD JOINER",
+    code: "U+2060",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u2060",
+    codeEscaped: "\\u2060",
+    url: "https://www.compart.com/en/unicode/U+2060"
+  },
+  {
+    type: "Invisible",
+    name: "FUNCTION APPLICATION",
+    code: "U+2061",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u2061",
+    codeEscaped: "\\u2061",
+    url: "https://www.compart.com/en/unicode/U+2061"
+  },
+  {
+    type: "Invisible",
+    name: "INVISIBLE TIMES",
+    code: "U+2062",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u2062",
+    codeEscaped: "\\u2062",
+    url: "https://www.compart.com/en/unicode/U+2062"
+  },
+  {
+    type: "Invisible",
+    name: "INVISIBLE SEPARATOR",
+    code: "U+2063",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u2063",
+    codeEscaped: "\\u2063",
+    url: "https://www.compart.com/en/unicode/U+2063"
+  },
+  {
+    type: "Invisible",
+    name: "INVISIBLE PLUS",
+    code: "U+2064",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u2064",
+    codeEscaped: "\\u2064",
+    url: "https://www.compart.com/en/unicode/U+2064"
+  },
+  {
+    type: "Invisible",
+    name: "INHIBIT SYMMETRIC SWAPPING",
+    code: "U+206A",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u206A",
+    codeEscaped: "\\u206A",
+    url: "https://www.compart.com/en/unicode/U+206A"
+  },
+  {
+    type: "Invisible",
+    name: "ACTIVATE SYMMETRIC SWAPPING",
+    code: "U+206B",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u206B",
+    codeEscaped: "\\u206B",
+    url: "https://www.compart.com/en/unicode/U+206B"
+  },
+  {
+    type: "Invisible",
+    name: "INHIBIT ARABIC FORM SHAPING",
+    code: "U+206C",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u206C",
+    codeEscaped: "\\u206C",
+    url: "https://www.compart.com/en/unicode/U+206C"
+  },
+  {
+    type: "Invisible",
+    name: "ACTIVATE ARABIC FORM SHAPING",
+    code: "U+206D",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u206D",
+    codeEscaped: "\\u206D",
+    url: "https://www.compart.com/en/unicode/U+206D"
+  },
+  {
+    type: "Invisible",
+    name: "NATIONAL DIGIT SHAPES",
+    code: "U+206E",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u206E",
+    codeEscaped: "\\u206E",
+    url: "https://www.compart.com/en/unicode/U+206E"
+  },
+  {
+    type: "Invisible",
+    name: "NOMINAL DIGIT SHAPES",
+    code: "U+206F",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u206F",
+    codeEscaped: "\\u206F",
+    url: "https://www.compart.com/en/unicode/U+206F"
+  },
+  {
+    type: "Whitepace",
+    name: "IDEOGRAPHIC SPACE",
+    code: "U+3000",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u3000",
+    codeEscaped: "\\u3000",
+    url: "https://www.compart.com/en/unicode/U+3000"
+  },
+  {
+    type: "Whitepace",
+    name: "BRAILLE PATTERN BLANK",
+    code: "U+2800",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u2800",
+    codeEscaped: "\\u2800",
+    url: "https://www.compart.com/en/unicode/U+2800"
+  },
+  {
+    type: "Whitepace",
+    name: "HANGUL FILLER",
+    code: "U+3164",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\u3164",
+    codeEscaped: "\\u3164",
+    url: "https://www.compart.com/en/unicode/U+3164"
+  },
+  {
+    type: "Invisible",
+    name: "ZERO WIDTH NO-BREAK SPACE",
+    code: "U+FEFF",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\uFEFF",
+    codeEscaped: "\\uFEFF",
+    url: "https://www.compart.com/en/unicode/U+FEFF"
+  },
+  {
+    type: "Whitespace",
+    name: "HALFWIDTH HANGUL FILLER",
+    code: "U+FFA0",
+    escapeChar: "",
+    replaceWith: " ",
+    actualUnicodeChar: "\uFFA0",
+    codeEscaped: "\\uFFA0",
+    url: "https://www.compart.com/en/unicode/U+FFA0"
+  },
+  {
+    type: "Visible",
+    name: "KAITHI VOWEL SIGN I",
+    code: "U+110B1",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{110B1}",
+    codeEscaped: "\\u110B1",
+    url: "https://www.compart.com/en/unicode/U+110B1"
+  },
+  {
+    type: "Visible",
+    name: "SHORTHAND FORMAT LETTER OVERLAP",
+    code: "U+1BCA0",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1BCA0}",
+    codeEscaped: "\\u1BCA0",
+    url: "https://www.compart.com/en/unicode/U+1BCA0"
+  },
+  {
+    type: "Visible",
+    name: "SHORTHAND FORMAT CONTINUING OVERLAP",
+    code: "U+1BCA1",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1BCA1}",
+    codeEscaped: "\\u1BCA1",
+    url: "https://www.compart.com/en/unicode/U+1BCA1"
+  },
+  {
+    type: "Visible",
+    name: "SHORTHAND FORMAT DOWN STEP",
+    code: "U+1BCA2",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1BCA2}",
+    codeEscaped: "\\u1BCA2",
+    url: "https://www.compart.com/en/unicode/U+1BCA2"
+  },
+  {
+    type: "Visible",
+    name: "SHORTHAND FORMAT UP STEP",
+    code: "U+1BCA3",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1BCA3}",
+    codeEscaped: "\\u1BCA3",
+    url: "https://www.compart.com/en/unicode/U+1BCA3"
+  },
+  {
+    type: "Visible",
+    name: "MUSICAL SYMBOL NULL NOTEHEAD",
+    code: "U+1D159",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D159}",
+    codeEscaped: "\\u1D159",
+    url: "https://www.compart.com/en/unicode/U+1D159"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL BEGIN BEAM",
+    code: "U+1D173",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D173}",
+    codeEscaped: "\\u1D173",
+    url: "https://www.compart.com/en/unicode/U+1D173"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL END BEAM",
+    code: "U+1D174",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D174}",
+    codeEscaped: "\\u1D174",
+    url: "https://www.compart.com/en/unicode/U+1D174"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL BEGIN TIE",
+    code: "U+1D175",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D175}",
+    codeEscaped: "\\u1D175",
+    url: "https://www.compart.com/en/unicode/U+1D175"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL END TIE",
+    code: "U+1D176",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D176}",
+    codeEscaped: "\\u1D176",
+    url: "https://www.compart.com/en/unicode/U+1D176"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL BEGIN SLUR",
+    code: "U+1D177",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D177}",
+    codeEscaped: "\\u1D177",
+    url: "https://www.compart.com/en/unicode/U+1D177"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL END SLUR",
+    code: "U+1D178",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D178}",
+    codeEscaped: "\\u1D178",
+    url: "https://www.compart.com/en/unicode/U+1D178"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL BEGIN PHRASE",
+    code: "U+1D179",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D179}",
+    codeEscaped: "\\u1D179",
+    url: "https://www.compart.com/en/unicode/U+1D179"
+  },
+  {
+    type: "Invisible",
+    name: "MUSICAL SYMBOL END PHRASE",
+    code: "U+1D17A",
+    escapeChar: "",
+    replaceWith: "",
+    actualUnicodeChar: "\u{1D17A}",
+    codeEscaped: "\\u1D17A",
+    url: "https://www.compart.com/en/unicode/U+1D17A"
+  }
+];
+var isVariationSelector = function isVariationSelector2(num) {
+  return num >= 65024 && num <= 65039;
+};
+var isHighSurrogate = function isHighSurrogate2(num) {
+  return num >= 55296 && num <= 56319;
+};
+var isLowSurrogate = function isLowSurrogate2(num) {
+  return num >= 56320 && num <= 57343;
+};
+var isEmoji$1 = function isEmoji(text, i) {
+  if (text[i - 1]) {
+    var code = text.charCodeAt(i - 1);
+    if (isHighSurrogate(code) || isLowSurrogate(code) || isVariationSelector(code)) {
+      return true;
+    }
+  }
+  if (text[i + 1]) {
+    var _code = text.charCodeAt(i + 1);
+    if (isHighSurrogate(_code) || isLowSurrogate(_code) || isVariationSelector(_code)) {
+      return true;
+    }
+  }
+  return false;
+};
+var isEmoji_1 = isEmoji$1;
+var data = require$$0;
+var isEmoji2 = isEmoji_1;
+var padStr = function padStr2(str, width) {
+  while (str.length < width) {
+    str = "0" + str;
+  }
+  return str;
+};
+var byCode = data.reduce(function(h, obj) {
+  h[obj.code] = obj;
+  return h;
+}, {});
+var codes = data.filter(function(obj) {
+  return obj.replaceWith !== void 0;
+}).map(function(obj) {
+  return obj.code.replace(/^U\+/, "\\u");
+});
+var findAll$1 = function findAll(text) {
+  var regEx = new RegExp("(".concat(codes.join("|"), ")"), "g");
+  var matches = [];
+  text.replace(regEx, function(ch, _b, offset3) {
+    var code = ch.charCodeAt(0);
+    var hex = code.toString(16).toUpperCase();
+    hex = "U+" + padStr(hex, 4);
+    var found = byCode[hex] || {};
+    if (found.code === "U+200D") {
+      if (isEmoji2(text, offset3)) {
+        return ch;
+      }
+    }
+    matches.push({
+      name: found.name,
+      code: found.code,
+      offset: offset3,
+      replacement: found.replaceWith || ""
+    });
+    return ch;
+  });
+  return matches;
+};
+var match2 = findAll$1;
+var findAll2 = match2;
+var src = {
+  detect: function detect(text) {
+    var matches = findAll2(text);
+    if (matches.length > 0) {
+      return matches;
+    }
+    return null;
+  },
+  replace: function replace(text) {
+    var matches = findAll2(text);
+    matches.forEach(function(o) {
+      var code = o.code.replace(/^U\+/, "\\u");
+      var reg = new RegExp(code, "g");
+      text = text.replace(reg, o.replacement || "");
+    });
+    return text;
+  }
+};
+var out_of_character_default = src;
+
+// src/util.ts
 var DATE_FORMAT_W_OUT_SECONDS = "yyyy-MM-dd'T'HH:mm";
 var DATE_FORMAT = `${DATE_FORMAT_W_OUT_SECONDS}:ss`;
 var REPLACEMENT_CHAR = "-";
@@ -11423,13 +12245,13 @@ var wrapAround = (value, size) => {
   return (value % size + size) % size;
 };
 var replaceIllegalChars = (str) => {
-  return str.replace(ILLEGAL_CHAR_REGEX, REPLACEMENT_CHAR);
+  return removeInvisibleChars(str.replace(ILLEGAL_CHAR_REGEX, REPLACEMENT_CHAR));
 };
-function formatDate(date, format2) {
+function formatDate(date, format) {
   if (isNaN(Date.parse(date))) {
     throw new Error(`Invalid date: ${date}`);
   }
-  return DateTime.fromJSDate(new Date(date)).toFormat(format2);
+  return DateTime.fromJSDate(new Date(date)).toFormat(format);
 }
 var getQueryFromFilter = (filter, customQuery) => {
   switch (filter) {
@@ -11472,6 +12294,9 @@ var removeFrontMatterFromContent = (content) => {
   return content.replace(frontMatterRegex, "");
 };
 var snakeToCamelCase = (str) => str.replace(/(_[a-z])/g, (group) => group.toUpperCase().replace("_", ""));
+var removeInvisibleChars = (str) => {
+  return out_of_character_default.replace(str);
+};
 
 // src/settings/template.ts
 var DEFAULT_TEMPLATE = `# {{{title}}}
@@ -11484,7 +12309,7 @@ var DEFAULT_TEMPLATE = `# {{{title}}}
 ## Highlights
 
 {{#highlights}}
-> {{{text}}} [\u2934\uFE0F]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}}
+> {{{text}}} [\u2934\uFE0F]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}} ^{{{highlightID}}}
 {{#note}}
 
 {{{note}}}
@@ -11522,21 +12347,17 @@ var functionMap = {
   upperCase,
   upperCaseFirst
 };
-var renderFilename = (article, filename, folderDateFormat) => {
-  const date = formatDate(article.savedAt, folderDateFormat);
+var renderFilename = (article, filename, dateFormat) => {
+  const date = formatDate(article.savedAt, dateFormat);
+  const datePublished = article.publishedAt ? formatDate(article.publishedAt, dateFormat).trim() : void 0;
   const renderedFilename = mustache_default.render(filename, {
-    ...article,
-    date
+    title: article.title,
+    date,
+    dateSaved: date,
+    datePublished
   });
   return (0, import_lodash.truncate)(renderedFilename, {
     length: 100
-  });
-};
-var renderAttachmentFolder = (article, attachmentFolder, folderDateFormat) => {
-  const date = formatDate(article.savedAt, folderDateFormat);
-  return mustache_default.render(attachmentFolder, {
-    ...article,
-    date
   });
 };
 var renderLabels = (labels) => {
@@ -11567,7 +12388,7 @@ var renderArticleContnet = async (article, template, highlightOrder, dateHighlig
     return {
       text: formatHighlightQuote(highlight.quote, template),
       highlightUrl: `https://omnivore.app/me/${article.slug}#${highlight.id}`,
-      highlightID: highlight.id,
+      highlightID: highlight.id.slice(0, 8),
       dateHighlighted: formatDate(highlight.updatedAt, dateHighlightedFormat),
       note: highlight.annotation,
       labels: renderLabels(highlight.labels)
@@ -11576,9 +12397,9 @@ var renderArticleContnet = async (article, template, highlightOrder, dateHighlig
   const dateSaved = formatDate(article.savedAt, dateSavedFormat);
   const siteName = article.siteName || siteNameFromUrl(article.originalArticleUrl);
   const publishedAt = article.publishedAt;
-  const datePublished = publishedAt ? formatDate(publishedAt, dateSavedFormat) : void 0;
+  const datePublished = publishedAt ? formatDate(publishedAt, dateSavedFormat).trim() : void 0;
   const articleNote = (_b = article.highlights) == null ? void 0 : _b.find((h) => h.type === "NOTE" /* Note */);
-  const dateRead = article.readAt ? formatDate(article.readAt, dateSavedFormat) : void 0;
+  const dateRead = article.readAt ? formatDate(article.readAt, dateSavedFormat).trim() : void 0;
   const wordsCount = article.wordsCount;
   const readLength = wordsCount ? Math.round(Math.max(1, wordsCount / 235)) : void 0;
   const articleView = {
@@ -11655,9 +12476,13 @@ ${frontMatterYaml}---`;
 
 ${contentWithoutFrontMatter}`;
 };
-var renderFolderName = (folder, folderDate) => {
-  return mustache_default.render(folder, {
-    date: folderDate
+var renderFolderName = (article, template, dateFormat) => {
+  const date = formatDate(article.savedAt, dateFormat);
+  const datePublished = article.publishedAt ? formatDate(article.publishedAt, dateFormat).trim() : void 0;
+  return mustache_default.render(template, {
+    date,
+    dateSaved: date,
+    datePublished
   });
 };
 var preParseTemplate = (template) => {
@@ -11697,6 +12522,7 @@ var DEFAULT_SETTINGS = {
   folderDateFormat: "yyyy-MM-dd",
   endpoint: "https://api-prod.omnivore.app/api/graphql",
   filename: "{{{title}}}",
+  filenameDateFormat: "yyyy-MM-dd",
   attachmentFolder: "Omnivore/attachments",
   version: "0.0.0",
   isSingleFile: false,
@@ -11865,7 +12691,7 @@ var round = Math.round;
 // node_modules/@popperjs/core/lib/utils/userAgent.js
 function getUAString() {
   var uaData = navigator.userAgentData;
-  if (uaData != null && uaData.brands) {
+  if (uaData != null && uaData.brands && Array.isArray(uaData.brands)) {
     return uaData.brands.map(function(item) {
       return item.brand + "/" + item.version;
     }).join(" ");
@@ -12096,15 +12922,7 @@ function effect2(_ref2) {
       return;
     }
   }
-  if (true) {
-    if (!isHTMLElement(arrowElement)) {
-      console.error(['Popper: "arrow" element must be an HTMLElement (not an SVGElement).', "To use an SVG arrow, wrap it in an HTMLElement that will be used as", "the arrow."].join(" "));
-    }
-  }
   if (!contains(state.elements.popper, arrowElement)) {
-    if (true) {
-      console.error(['Popper: "arrow" modifier\'s `element` must be a child of the popper', "element."].join(" "));
-    }
     return;
   }
   state.elements.arrow = arrowElement;
@@ -12131,9 +12949,8 @@ var unsetSides = {
   bottom: "auto",
   left: "auto"
 };
-function roundOffsetsByDPR(_ref) {
+function roundOffsetsByDPR(_ref, win) {
   var x = _ref.x, y = _ref.y;
-  var win = window;
   var dpr = win.devicePixelRatio || 1;
   return {
     x: round(x * dpr) / dpr || 0,
@@ -12189,7 +13006,7 @@ function mapToStyles(_ref2) {
   var _ref4 = roundOffsets === true ? roundOffsetsByDPR({
     x,
     y
-  }) : {
+  }, getWindow(popper2)) : {
     x,
     y
   };
@@ -12204,14 +13021,6 @@ function mapToStyles(_ref2) {
 function computeStyles(_ref5) {
   var state = _ref5.state, options = _ref5.options;
   var _options$gpuAccelerat = options.gpuAcceleration, gpuAcceleration = _options$gpuAccelerat === void 0 ? true : _options$gpuAccelerat, _options$adaptive = options.adaptive, adaptive = _options$adaptive === void 0 ? true : _options$adaptive, _options$roundOffsets = options.roundOffsets, roundOffsets = _options$roundOffsets === void 0 ? true : _options$roundOffsets;
-  if (true) {
-    var transitionProperty = getComputedStyle(state.elements.popper).transitionProperty || "";
-    if (adaptive && ["transform", "top", "right", "bottom", "left"].some(function(property) {
-      return transitionProperty.indexOf(property) >= 0;
-    })) {
-      console.warn(["Popper: Detected CSS transitions on at least one of the following", 'CSS properties: "transform", "top", "right", "bottom", "left".', "\n\n", 'Disable the "computeStyles" modifier\'s `adaptive` option to allow', "for smooth transitions, or remove these properties from the CSS", "transition declaration on the popper element if only transitioning", "opacity or background-color for example.", "\n\n", "We recommend using the popper element as a wrapper around an inner", "element that can have any CSS property transitioned for animations."].join(" "));
-    }
-  }
   var commonStyles = {
     placement: getBasePlacement(state.placement),
     variation: getVariation(state.placement),
@@ -12568,9 +13377,6 @@ function computeAutoPlacement(state, options) {
   });
   if (allowedPlacements.length === 0) {
     allowedPlacements = placements2;
-    if (true) {
-      console.error(["Popper: The `allowedAutoPlacements` option did not allow any", "placements. Ensure the `placement` option matches the variation", "of the allowed placements.", 'For example, "auto" cannot be used to allow "bottom-start".', 'Use "auto-start" instead.'].join(" "));
-    }
   }
   var overflows = allowedPlacements.reduce(function(acc, placement2) {
     acc[placement2] = detectOverflow(state, {
@@ -12766,16 +13572,16 @@ function distanceAndSkiddingToXY(placement, rects, offset3) {
 function offset2(_ref2) {
   var state = _ref2.state, options = _ref2.options, name = _ref2.name;
   var _options$offset = options.offset, offset3 = _options$offset === void 0 ? [0, 0] : _options$offset;
-  var data = placements.reduce(function(acc, placement) {
+  var data2 = placements.reduce(function(acc, placement) {
     acc[placement] = distanceAndSkiddingToXY(placement, state.rects, offset3);
     return acc;
   }, {});
-  var _data$state$placement = data[state.placement], x = _data$state$placement.x, y = _data$state$placement.y;
+  var _data$state$placement = data2[state.placement], x = _data$state$placement.x, y = _data$state$placement.y;
   if (state.modifiersData.popperOffsets != null) {
     state.modifiersData.popperOffsets.x += x;
     state.modifiersData.popperOffsets.y += y;
   }
-  state.modifiersData[name] = data;
+  state.modifiersData[name] = data2;
 }
 var offset_default = {
   name: "offset",
@@ -12837,7 +13643,7 @@ function preventOverflow(_ref) {
     altAxis: 0
   }, tetherOffsetValue);
   var offsetModifierState = state.modifiersData.offset ? state.modifiersData.offset[state.placement] : null;
-  var data = {
+  var data2 = {
     x: 0,
     y: 0
   };
@@ -12873,7 +13679,7 @@ function preventOverflow(_ref) {
     var tetherMax = offset3 + maxOffset - offsetModifierValue;
     var preventedOffset = within(tether ? min(min2, tetherMin) : min2, offset3, tether ? max(max2, tetherMax) : max2);
     popperOffsets2[mainAxis] = preventedOffset;
-    data[mainAxis] = preventedOffset - offset3;
+    data2[mainAxis] = preventedOffset - offset3;
   }
   if (checkAltAxis) {
     var _offsetModifierState$2;
@@ -12889,9 +13695,9 @@ function preventOverflow(_ref) {
     var _tetherMax = isOriginSide ? _offset + referenceRect[_len] + popperRect[_len] - _offsetModifierValue - normalizedTetherOffsetValue.altAxis : _max;
     var _preventedOffset = tether && isOriginSide ? withinMaxClamp(_tetherMin, _offset, _tetherMax) : within(tether ? _tetherMin : _min, _offset, tether ? _tetherMax : _max);
     popperOffsets2[altAxis] = _preventedOffset;
-    data[altAxis] = _preventedOffset - _offset;
+    data2[altAxis] = _preventedOffset - _offset;
   }
-  state.modifiersData[name] = data;
+  state.modifiersData[name] = data2;
 }
 var preventOverflow_default = {
   name: "preventOverflow",
@@ -13014,92 +13820,6 @@ function debounce(fn2) {
   };
 }
 
-// node_modules/@popperjs/core/lib/utils/format.js
-function format(str) {
-  for (var _len = arguments.length, args = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
-    args[_key - 1] = arguments[_key];
-  }
-  return [].concat(args).reduce(function(p, c) {
-    return p.replace(/%s/, c);
-  }, str);
-}
-
-// node_modules/@popperjs/core/lib/utils/validateModifiers.js
-var INVALID_MODIFIER_ERROR = 'Popper: modifier "%s" provided an invalid %s property, expected %s but got %s';
-var MISSING_DEPENDENCY_ERROR = 'Popper: modifier "%s" requires "%s", but "%s" modifier is not available';
-var VALID_PROPERTIES = ["name", "enabled", "phase", "fn", "effect", "requires", "options"];
-function validateModifiers(modifiers) {
-  modifiers.forEach(function(modifier) {
-    [].concat(Object.keys(modifier), VALID_PROPERTIES).filter(function(value, index, self2) {
-      return self2.indexOf(value) === index;
-    }).forEach(function(key) {
-      switch (key) {
-        case "name":
-          if (typeof modifier.name !== "string") {
-            console.error(format(INVALID_MODIFIER_ERROR, String(modifier.name), '"name"', '"string"', '"' + String(modifier.name) + '"'));
-          }
-          break;
-        case "enabled":
-          if (typeof modifier.enabled !== "boolean") {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"enabled"', '"boolean"', '"' + String(modifier.enabled) + '"'));
-          }
-          break;
-        case "phase":
-          if (modifierPhases.indexOf(modifier.phase) < 0) {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"phase"', "either " + modifierPhases.join(", "), '"' + String(modifier.phase) + '"'));
-          }
-          break;
-        case "fn":
-          if (typeof modifier.fn !== "function") {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"fn"', '"function"', '"' + String(modifier.fn) + '"'));
-          }
-          break;
-        case "effect":
-          if (modifier.effect != null && typeof modifier.effect !== "function") {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"effect"', '"function"', '"' + String(modifier.fn) + '"'));
-          }
-          break;
-        case "requires":
-          if (modifier.requires != null && !Array.isArray(modifier.requires)) {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"requires"', '"array"', '"' + String(modifier.requires) + '"'));
-          }
-          break;
-        case "requiresIfExists":
-          if (!Array.isArray(modifier.requiresIfExists)) {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"requiresIfExists"', '"array"', '"' + String(modifier.requiresIfExists) + '"'));
-          }
-          break;
-        case "options":
-        case "data":
-          break;
-        default:
-          console.error('PopperJS: an invalid property has been provided to the "' + modifier.name + '" modifier, valid properties are ' + VALID_PROPERTIES.map(function(s2) {
-            return '"' + s2 + '"';
-          }).join(", ") + '; but "' + key + '" was provided.');
-      }
-      modifier.requires && modifier.requires.forEach(function(requirement) {
-        if (modifiers.find(function(mod) {
-          return mod.name === requirement;
-        }) == null) {
-          console.error(format(MISSING_DEPENDENCY_ERROR, String(modifier.name), requirement, requirement));
-        }
-      });
-    });
-  });
-}
-
-// node_modules/@popperjs/core/lib/utils/uniqueBy.js
-function uniqueBy(arr, fn2) {
-  var identifiers = /* @__PURE__ */ new Set();
-  return arr.filter(function(item) {
-    var identifier = fn2(item);
-    if (!identifiers.has(identifier)) {
-      identifiers.add(identifier);
-      return true;
-    }
-  });
-}
-
 // node_modules/@popperjs/core/lib/utils/mergeByName.js
 function mergeByName(modifiers) {
   var merged = modifiers.reduce(function(merged2, current) {
@@ -13116,8 +13836,6 @@ function mergeByName(modifiers) {
 }
 
 // node_modules/@popperjs/core/lib/createPopper.js
-var INVALID_ELEMENT_ERROR = "Popper: Invalid reference or popper argument provided. They must be either a DOM element or virtual element.";
-var INFINITE_LOOP_ERROR = "Popper: An infinite loop in the modifiers cycle has been detected! The cycle has been interrupted to prevent a browser crash.";
 var DEFAULT_OPTIONS = {
   placement: "bottom",
   modifiers: [],
@@ -13168,28 +13886,6 @@ function popperGenerator(generatorOptions) {
         state.orderedModifiers = orderedModifiers.filter(function(m) {
           return m.enabled;
         });
-        if (true) {
-          var modifiers = uniqueBy([].concat(orderedModifiers, state.options.modifiers), function(_ref) {
-            var name = _ref.name;
-            return name;
-          });
-          validateModifiers(modifiers);
-          if (getBasePlacement(state.options.placement) === auto) {
-            var flipModifier = state.orderedModifiers.find(function(_ref2) {
-              var name = _ref2.name;
-              return name === "flip";
-            });
-            if (!flipModifier) {
-              console.error(['Popper: "auto" placements require the "flip" modifier be', "present and enabled to work."].join(" "));
-            }
-          }
-          var _getComputedStyle = getComputedStyle(popper2), marginTop = _getComputedStyle.marginTop, marginRight = _getComputedStyle.marginRight, marginBottom = _getComputedStyle.marginBottom, marginLeft = _getComputedStyle.marginLeft;
-          if ([marginTop, marginRight, marginBottom, marginLeft].some(function(margin) {
-            return parseFloat(margin);
-          })) {
-            console.warn(['Popper: CSS "margin" styles cannot be used to apply padding', "between the popper and its reference element or boundary.", "To replicate margin, use the `offset` modifier, as well as", "the `padding` option in the `preventOverflow` and `flip`", "modifiers."].join(" "));
-          }
-        }
         runModifierEffects();
         return instance.update();
       },
@@ -13199,9 +13895,6 @@ function popperGenerator(generatorOptions) {
         }
         var _state$elements = state.elements, reference3 = _state$elements.reference, popper3 = _state$elements.popper;
         if (!areValidElements(reference3, popper3)) {
-          if (true) {
-            console.error(INVALID_ELEMENT_ERROR);
-          }
           return;
         }
         state.rects = {
@@ -13213,15 +13906,7 @@ function popperGenerator(generatorOptions) {
         state.orderedModifiers.forEach(function(modifier) {
           return state.modifiersData[modifier.name] = Object.assign({}, modifier.data);
         });
-        var __debug_loops__ = 0;
         for (var index = 0; index < state.orderedModifiers.length; index++) {
-          if (true) {
-            __debug_loops__ += 1;
-            if (__debug_loops__ > 100) {
-              console.error(INFINITE_LOOP_ERROR);
-              break;
-            }
-          }
           if (state.reset === true) {
             state.reset = false;
             index = -1;
@@ -13250,9 +13935,6 @@ function popperGenerator(generatorOptions) {
       }
     };
     if (!areValidElements(reference2, popper2)) {
-      if (true) {
-        console.error(INVALID_ELEMENT_ERROR);
-      }
       return instance;
     }
     instance.setOptions(options).then(function(state2) {
@@ -13261,8 +13943,8 @@ function popperGenerator(generatorOptions) {
       }
     });
     function runModifierEffects() {
-      state.orderedModifiers.forEach(function(_ref3) {
-        var name = _ref3.name, _ref3$options = _ref3.options, options2 = _ref3$options === void 0 ? {} : _ref3$options, effect4 = _ref3.effect;
+      state.orderedModifiers.forEach(function(_ref) {
+        var name = _ref.name, _ref$options = _ref.options, options2 = _ref$options === void 0 ? {} : _ref$options, effect4 = _ref.effect;
         if (typeof effect4 === "function") {
           var cleanupFn = effect4({
             state,
@@ -13510,7 +14192,7 @@ var OmnivorePlugin = class extends import_obsidian6.Plugin {
       url,
       contentType: "application/pdf"
     });
-    const folderName = (0, import_obsidian6.normalizePath)(renderAttachmentFolder(article, this.settings.attachmentFolder, this.settings.folderDateFormat));
+    const folderName = (0, import_obsidian6.normalizePath)(renderFolderName(article, this.settings.attachmentFolder, this.settings.folderDateFormat));
     const folder = app.vault.getAbstractFileByPath(folderName);
     if (!(folder instanceof import_obsidian6.TFolder)) {
       await app.vault.createFolder(folderName);
@@ -13534,7 +14216,6 @@ var OmnivorePlugin = class extends import_obsidian6.Plugin {
       template,
       folder,
       filename,
-      folderDateFormat,
       isSingleFile,
       frontMatterVariables,
       frontMatterTemplate
@@ -13558,17 +14239,16 @@ var OmnivorePlugin = class extends import_obsidian6.Plugin {
       const includeFileAttachment = templateSpans.some((templateSpan) => templateSpan[1] === "fileAttachment");
       const size = 50;
       for (let hasNextPage = true, articles = [], after = 0; hasNextPage; after += size) {
-        [articles, hasNextPage] = await loadArticles(this.settings.endpoint, apiKey, after, size, parseDateTime(syncAt).toISO(), getQueryFromFilter(filter, customQuery), includeContent, "highlightedMarkdown");
+        [articles, hasNextPage] = await loadArticles(this.settings.endpoint, apiKey, after, size, parseDateTime(syncAt).toISO() || void 0, getQueryFromFilter(filter, customQuery), includeContent, "highlightedMarkdown");
         for (const article of articles) {
-          const folderDate = formatDate(article.savedAt, this.settings.folderDateFormat);
-          const folderName = (0, import_obsidian6.normalizePath)(renderFolderName(folder, folderDate));
+          const folderName = (0, import_obsidian6.normalizePath)(renderFolderName(article, folder, this.settings.folderDateFormat));
           const omnivoreFolder = this.app.vault.getAbstractFileByPath(folderName);
           if (!(omnivoreFolder instanceof import_obsidian6.TFolder)) {
             await this.app.vault.createFolder(folderName);
           }
           const fileAttachment = article.pageType === "FILE" /* File */ && includeFileAttachment ? await this.downloadFileAsAttachment(article) : void 0;
           const content = await renderArticleContnet(article, template, highlightOrder, this.settings.dateHighlightedFormat, this.settings.dateSavedFormat, isSingleFile, frontMatterVariables, frontMatterTemplate, fileAttachment);
-          const customFilename = replaceIllegalChars(renderFilename(article, filename, folderDateFormat));
+          const customFilename = replaceIllegalChars(renderFilename(article, filename, this.settings.filenameDateFormat));
           const pageName = `${folderName}/${customFilename}.md`;
           const normalizedPath = (0, import_obsidian6.normalizePath)(pageName);
           const omnivoreFile = this.app.vault.getAbstractFileByPath(normalizedPath);
@@ -13736,14 +14416,14 @@ var OmnivoreSettingTab = class extends import_obsidian6.PluginSettingTab {
       await this.plugin.saveSettings();
       this.plugin.scheduleSync();
     }));
-    new import_obsidian6.Setting(containerEl).setName("Folder").setDesc("Enter the folder where the data will be stored. {{{date}}} could be used in the folder name").addSearch((search) => {
+    new import_obsidian6.Setting(containerEl).setName("Folder").setDesc("Enter the folder where the data will be stored. {{{title}}}, {{{dateSaved}}} and {{{datePublished}}} could be used in the folder name").addSearch((search) => {
       new FolderSuggest(this.app, search.inputEl);
       search.setPlaceholder("Enter the folder").setValue(this.plugin.settings.folder).onChange(async (value) => {
         this.plugin.settings.folder = value;
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian6.Setting(containerEl).setName("Attachment Folder").setDesc("Enter the folder where the attachment will be downloaded to. {{{date}}} could be used in the folder name").addSearch((search) => {
+    new import_obsidian6.Setting(containerEl).setName("Attachment Folder").setDesc("Enter the folder where the attachment will be downloaded to. {{{title}}}, {{{dateSaved}}} and {{{datePublished}}} could be used in the folder name").addSearch((search) => {
       new FolderSuggest(this.app, search.inputEl);
       search.setPlaceholder("Enter the attachment folder").setValue(this.plugin.settings.attachmentFolder).onChange(async (value) => {
         this.plugin.settings.attachmentFolder = value;
@@ -13754,12 +14434,21 @@ var OmnivoreSettingTab = class extends import_obsidian6.PluginSettingTab {
       this.plugin.settings.isSingleFile = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian6.Setting(containerEl).setName("Filename").setDesc("Enter the filename where the data will be stored. {{{title}}} and {{{date}}} could be used in the filename").addText((text) => text.setPlaceholder("Enter the filename").setValue(this.plugin.settings.filename).onChange(async (value) => {
+    new import_obsidian6.Setting(containerEl).setName("Filename").setDesc("Enter the filename where the data will be stored. {{{title}}}, {{{dateSaved}}} and {{{datePublished}}} could be used in the filename").addText((text) => text.setPlaceholder("Enter the filename").setValue(this.plugin.settings.filename).onChange(async (value) => {
       this.plugin.settings.filename = value;
       await this.plugin.saveSettings();
     }));
+    new import_obsidian6.Setting(containerEl).setName("Filename Date Format").setDesc(createFragment((fragment) => {
+      fragment.append("Enter the format date for use in rendered filename. Format ", fragment.createEl("a", {
+        text: "reference",
+        href: "https://moment.github.io/luxon/#/formatting?id=table-of-tokens"
+      }));
+    })).addText((text) => text.setPlaceholder("yyyy-MM-dd").setValue(this.plugin.settings.filenameDateFormat).onChange(async (value) => {
+      this.plugin.settings.filenameDateFormat = value;
+      await this.plugin.saveSettings();
+    }));
     new import_obsidian6.Setting(containerEl).setName("Folder Date Format").setDesc(createFragment((fragment) => {
-      fragment.append("Enter the format date for use in rendered template. Format ", fragment.createEl("a", {
+      fragment.append("Enter the format date for use in rendered folder name. Format ", fragment.createEl("a", {
         text: "reference",
         href: "https://moment.github.io/luxon/#/formatting?id=table-of-tokens"
       }));

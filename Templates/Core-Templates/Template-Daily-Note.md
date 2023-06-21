@@ -11,17 +11,7 @@ Alias: [ "<% tp.date.now("YYYY-MM-DD") %>" ]
 
 ## Tasks
 
-<details>
-<summary>View</summary>
-```todoist
-name: Highest Priority & Date
-filter: "today | overdue"
-sorting: 
-   - date
-   - priority
-group: true
-```
-</details>
+
 
 
 ## Journal

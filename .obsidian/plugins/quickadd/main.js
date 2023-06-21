@@ -147,10 +147,10 @@ __export(main_exports, {
   default: () => QuickAdd
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian37 = require("obsidian");
+var import_obsidian40 = require("obsidian");
 
 // src/quickAddSettingsTab.ts
-var import_obsidian31 = require("obsidian");
+var import_obsidian33 = require("obsidian");
 
 // node_modules/.pnpm/svelte@3.59.1/node_modules/svelte/internal/index.mjs
 function noop() {
@@ -10458,7 +10458,7 @@ var TemplateChoiceBuilder = class extends ChoiceBuilder {
 };
 
 // src/gui/ChoiceBuilder/captureChoiceBuilder.ts
-var import_obsidian23 = require("obsidian");
+var import_obsidian25 = require("obsidian");
 
 // src/engine/QuickAddEngine.ts
 var import_obsidian10 = require("obsidian");
@@ -10672,7 +10672,7 @@ var GenericCheckboxPrompt = class extends import_obsidian13.Modal {
 };
 
 // src/quickAddApi.ts
-var import_obsidian15 = require("obsidian");
+var import_obsidian18 = require("obsidian");
 
 // src/gui/GenericWideInputPrompt/GenericWideInputPrompt.ts
 var import_obsidian14 = require("obsidian");
@@ -10785,291 +10785,6 @@ var GenericWideInputPrompt = class extends import_obsidian14.Modal {
     this.removeInputListener();
   }
 };
-
-// src/quickAddApi.ts
-var QuickAddApi = class {
-  static GetApi(app2, plugin, choiceExecutor) {
-    return {
-      inputPrompt: (header, placeholder, value) => {
-        return this.inputPrompt(app2, header, placeholder, value);
-      },
-      wideInputPrompt: (header, placeholder, value) => {
-        return this.wideInputPrompt(app2, header, placeholder, value);
-      },
-      yesNoPrompt: (header, text2) => {
-        return this.yesNoPrompt(app2, header, text2);
-      },
-      infoDialog: (header, text2) => {
-        return this.infoDialog(app2, header, text2);
-      },
-      suggester: (displayItems, actualItems) => {
-        return this.suggester(app2, displayItems, actualItems);
-      },
-      checkboxPrompt: (items, selectedItems) => {
-        return this.checkboxPrompt(app2, items, selectedItems);
-      },
-      executeChoice: async (choiceName, variables) => {
-        const choice = plugin.getChoiceByName(choiceName);
-        if (!choice)
-          log.logError(`choice named '${choiceName}' not found`);
-        if (variables) {
-          Object.keys(variables).forEach((key) => {
-            choiceExecutor.variables.set(key, variables[key]);
-          });
-        }
-        await choiceExecutor.execute(choice);
-        choiceExecutor.variables.clear();
-      },
-      format: async (input, variables, shouldClearVariables = true) => {
-        if (variables) {
-          Object.keys(variables).forEach((key) => {
-            choiceExecutor.variables.set(key, variables[key]);
-          });
-        }
-        const output = await new CompleteFormatter(
-          app2,
-          plugin,
-          choiceExecutor
-        ).formatFileContent(input);
-        if (shouldClearVariables) {
-          choiceExecutor.variables.clear();
-        }
-        return output;
-      },
-      utility: {
-        getClipboard: async () => {
-          return await navigator.clipboard.readText();
-        },
-        setClipboard: async (text2) => {
-          return await navigator.clipboard.writeText(text2);
-        },
-        getSelectedText: () => {
-          const activeView = app2.workspace.getActiveViewOfType(import_obsidian15.MarkdownView);
-          if (!activeView) {
-            log.logError(
-              "no active view - could not get selected text."
-            );
-            return;
-          }
-          if (!activeView.editor.somethingSelected()) {
-            log.logError("no text selected.");
-            return;
-          }
-          return activeView.editor.getSelection();
-        }
-      },
-      date: {
-        now: (format3, offset2) => {
-          return getDate({ format: format3, offset: offset2 });
-        },
-        tomorrow: (format3) => {
-          return getDate({ format: format3, offset: 1 });
-        },
-        yesterday: (format3) => {
-          return getDate({ format: format3, offset: -1 });
-        }
-      }
-    };
-  }
-  static async inputPrompt(app2, header, placeholder, value) {
-    try {
-      return await GenericInputPrompt.Prompt(
-        app2,
-        header,
-        placeholder,
-        value
-      );
-    } catch {
-      return void 0;
-    }
-  }
-  static async wideInputPrompt(app2, header, placeholder, value) {
-    try {
-      return await GenericWideInputPrompt.Prompt(
-        app2,
-        header,
-        placeholder,
-        value
-      );
-    } catch {
-      return void 0;
-    }
-  }
-  static async yesNoPrompt(app2, header, text2) {
-    try {
-      return await GenericYesNoPrompt.Prompt(app2, header, text2);
-    } catch {
-      return void 0;
-    }
-  }
-  static async infoDialog(app2, header, text2) {
-    try {
-      return await GenericInfoDialog.Show(app2, header, text2);
-    } catch {
-      return void 0;
-    }
-  }
-  static async suggester(app2, displayItems, actualItems) {
-    try {
-      let displayedItems;
-      if (typeof displayItems === "function") {
-        displayedItems = actualItems.map(displayItems);
-      } else {
-        displayedItems = displayItems;
-      }
-      return await GenericSuggester.Suggest(
-        app2,
-        displayedItems,
-        actualItems
-      );
-    } catch {
-      return void 0;
-    }
-  }
-  static async checkboxPrompt(app2, items, selectedItems) {
-    try {
-      return await GenericCheckboxPrompt.Open(app2, items, selectedItems);
-    } catch {
-      return void 0;
-    }
-  }
-};
-
-// src/engine/QuickAddChoiceEngine.ts
-var QuickAddChoiceEngine = class extends QuickAddEngine {
-};
-
-// src/types/macros/Command.ts
-var Command = class {
-  constructor(name, type) {
-    this.name = name;
-    this.type = type;
-    this.id = v4_default();
-  }
-};
-
-// src/types/macros/EditorCommands/EditorCommand.ts
-var import_obsidian16 = require("obsidian");
-var EditorCommand = class extends Command {
-  constructor(type) {
-    super(type, "EditorCommand" /* EditorCommand */);
-    this.editorCommandType = type;
-  }
-  static getSelectedText(app2) {
-    return this.getActiveMarkdownView(app2).editor.getSelection();
-  }
-  static getActiveMarkdownView(app2) {
-    const activeView = app2.workspace.getActiveViewOfType(import_obsidian16.MarkdownView);
-    if (!activeView) {
-      log.logError("no active markdown view.");
-      throw new Error("no active markdown view.");
-    }
-    return activeView;
-  }
-};
-
-// src/types/macros/EditorCommands/CutCommand.ts
-var CutCommand = class extends EditorCommand {
-  constructor() {
-    super("Cut" /* Cut */);
-  }
-  static async run(app2) {
-    const selectedText = EditorCommand.getSelectedText(app2);
-    const activeView = EditorCommand.getActiveMarkdownView(app2);
-    if (!selectedText) {
-      log.logError("nothing selected.");
-      return;
-    }
-    await navigator.clipboard.writeText(selectedText);
-    activeView.editor.replaceSelection("");
-  }
-};
-
-// src/types/macros/EditorCommands/CopyCommand.ts
-var CopyCommand = class extends EditorCommand {
-  constructor() {
-    super("Copy" /* Copy */);
-  }
-  static async run(app2) {
-    const selectedText = EditorCommand.getSelectedText(app2);
-    await navigator.clipboard.writeText(selectedText);
-  }
-};
-
-// src/types/macros/EditorCommands/PasteCommand.ts
-var PasteCommand = class extends EditorCommand {
-  constructor() {
-    super("Paste" /* Paste */);
-  }
-  static async run(app2) {
-    const clipboard = await navigator.clipboard.readText();
-    const activeView = EditorCommand.getActiveMarkdownView(app2);
-    if (!activeView) {
-      log.logError("no active markdown view.");
-      return;
-    }
-    activeView.editor.replaceSelection(clipboard);
-  }
-};
-
-// src/types/macros/EditorCommands/SelectActiveLineCommand.ts
-var SelectActiveLineCommand = class extends EditorCommand {
-  constructor() {
-    super("Select active line" /* SelectActiveLine */);
-  }
-  static run(app2) {
-    const activeView = EditorCommand.getActiveMarkdownView(app2);
-    const { line: lineNumber } = activeView.editor.getCursor();
-    const line = activeView.editor.getLine(lineNumber);
-    const lineLength = line.length;
-    activeView.editor.setSelection(
-      { line: lineNumber, ch: 0 },
-      { line: lineNumber, ch: lineLength }
-    );
-  }
-};
-
-// src/types/macros/EditorCommands/SelectLinkOnActiveLineCommand.ts
-var SelectLinkOnActiveLineCommand = class extends EditorCommand {
-  constructor() {
-    super("Select link on active line" /* SelectLinkOnActiveLine */);
-  }
-  static run(app2) {
-    const activeView = EditorCommand.getActiveMarkdownView(app2);
-    const { line: lineNumber } = activeView.editor.getCursor();
-    const line = activeView.editor.getLine(lineNumber);
-    const match = WIKI_LINK_REGEX.exec(line);
-    if (!match) {
-      log.logError(`no internal link found on line ${lineNumber}.`);
-      return;
-    }
-    const matchStart = match.index;
-    const matchEnd = match[0].length + matchStart;
-    activeView.editor.setSelection(
-      { line: lineNumber, ch: matchStart },
-      { line: lineNumber, ch: matchEnd }
-    );
-  }
-};
-
-// src/utility.ts
-function waitFor(ms) {
-  return new Promise((res) => setTimeout(res, ms));
-}
-function getLinesInString(input) {
-  const lines = [];
-  let tempString = input;
-  while (tempString.includes("\n")) {
-    const lineEndIndex = tempString.indexOf("\n");
-    lines.push(tempString.slice(0, lineEndIndex));
-    tempString = tempString.slice(lineEndIndex + 1);
-  }
-  lines.push(tempString);
-  return lines;
-}
-function escapeRegExp(text2) {
-  return text2.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
-}
 
 // src/ai/AIAssistant.ts
 var import_obsidian17 = require("obsidian");
@@ -11416,13 +11131,96 @@ function encodingForModel(model, extendSpecialTokens) {
   return getEncoding(getEncodingNameForModel(model), extendSpecialTokens);
 }
 
-// src/ai/AIAssistant.ts
-var getTokenCount = (text2) => {
-  return encodingForModel("gpt-4").encode(text2).length;
-};
+// src/ai/OpenAIRequest.ts
+var import_obsidian15 = require("obsidian");
+
+// src/ai/getModelMaxTokens.ts
+function getModelMaxTokens(model) {
+  switch (model) {
+    case "text-davinci-003":
+      return 4096;
+    case "gpt-3.5-turbo":
+      return 4096;
+    case "gpt-4":
+      return 8192;
+    case "gpt-3.5-turbo-16k":
+      return 16384;
+    case "gpt-4-32k":
+      return 32768;
+  }
+}
+
+// src/ai/OpenAIRequest.ts
+function OpenAIRequest(apiKey, model, systemPrompt, modelParams = {}) {
+  return async function makeRequest(prompt) {
+    if (settingsStore.getState().disableOnlineFeatures) {
+      throw new Error(
+        "Blocking request to OpenAI: Online features are disabled in settings."
+      );
+    }
+    const tokenCount = getTokenCount(prompt, model) + getTokenCount(systemPrompt, model);
+    const maxTokens = getModelMaxTokens(model);
+    if (tokenCount > maxTokens) {
+      throw new Error(
+        `The ${model} API has a token limit of ${maxTokens}. Your prompt has ${tokenCount} tokens.`
+      );
+    }
+    try {
+      const response = await (0, import_obsidian15.requestUrl)({
+        url: `https://api.openai.com/v1/chat/completions`,
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${apiKey}`
+        },
+        body: JSON.stringify({
+          model,
+          ...modelParams,
+          messages: [
+            { role: "system", content: systemPrompt },
+            { role: "user", content: prompt }
+          ]
+        })
+      });
+      return response.json;
+    } catch (error) {
+      console.log(error);
+      throw new Error(
+        `Error while making request to OpenAI API: ${error.message}`
+      );
+    }
+  };
+}
+
+// src/ai/makeNoticeHandler.ts
+var import_obsidian16 = require("obsidian");
 var noticeMsg = (task, message) => `Assistant is ${task}.${message ? `
 
 ${message}` : ""}`;
+function makeNoticeHandler(showMessages) {
+  if (showMessages) {
+    const n = new import_obsidian16.Notice(noticeMsg("starting", ""), 1e6);
+    return {
+      setMessage: (status, msg) => {
+        n.setMessage(noticeMsg(status, msg));
+      },
+      hide: () => n.hide()
+    };
+  }
+  return {
+    setMessage: (status, msg) => {
+      log.logMessage(`(${status}) ${msg}`);
+    },
+    hide: () => {
+    }
+  };
+}
+
+// src/ai/AIAssistant.ts
+var getTokenCount = (text2, model) => {
+  const m = model === "gpt-3.5-turbo-16k" ? "gpt-3.5-turbo" : model;
+  return encodingForModel(m).encode(text2).length;
+};
 async function repeatUntilResolved(callback, promise, interval) {
   if (typeof callback !== "function") {
     throw new TypeError("Callback must be a function.");
@@ -11469,9 +11267,7 @@ async function runAIAssistant(settings, formatter) {
       "Blocking request to OpenAI: Online features are disabled in settings."
     );
   }
-  const notice = settings.showAssistantMessages ? new import_obsidian17.Notice(noticeMsg("starting", ""), 1e6) : { setMessage: () => {
-  }, hide: () => {
-  } };
+  const notice = makeNoticeHandler(settings.showAssistantMessages);
   try {
     const {
       apiKey,
@@ -11487,14 +11283,15 @@ async function runAIAssistant(settings, formatter) {
       promptTemplates
     );
     notice.setMessage(
-      noticeMsg("waiting", "QuickAdd is formatting the prompt template.")
+      "waiting",
+      "QuickAdd is formatting the prompt template."
     );
     const formattedPrompt = await formatter(targetPrompt);
     const promptingMsg = [
       "prompting",
       `Using prompt template "${targetKey}".`
     ];
-    notice.setMessage(noticeMsg(promptingMsg[0], promptingMsg[1]));
+    notice.setMessage(promptingMsg[0], promptingMsg[1]);
     const makeRequest = OpenAIRequest(
       apiKey,
       model,
@@ -11502,23 +11299,21 @@ async function runAIAssistant(settings, formatter) {
       settings.modelOptions
     );
     const res = makeRequest(formattedPrompt);
-    const time_start = Date.now();
-    await repeatUntilResolved(
-      () => {
+    const result = await timePromise(
+      res,
+      100,
+      (time) => {
         notice.setMessage(
-          noticeMsg(
-            promptingMsg[0],
-            `${promptingMsg[1]} (${((Date.now() - time_start) / 1e3).toFixed(2)}s)`
-          )
+          promptingMsg[0],
+          `${promptingMsg[1]} (${(time / 1e3).toFixed(2)}s)`
         );
       },
-      res,
-      100
-    );
-    const result = await res;
-    const time_end = Date.now();
-    notice.setMessage(
-      noticeMsg(`finished`, `Took ${(time_end - time_start) / 1e3}s.`)
+      (time) => {
+        notice.setMessage(
+          "finished",
+          `Took ${(time / 1e3).toFixed(2)}s.`
+        );
+      }
     );
     const output = result.choices[0].message.content;
     const outputInMarkdownBlockQuote = ("> " + output).replace(
@@ -11533,70 +11328,621 @@ async function runAIAssistant(settings, formatter) {
     setTimeout(() => notice.hide(), 5e3);
     return variables;
   } catch (error) {
-    notice.setMessage(
-      noticeMsg("dead", error.message)
-    );
+    notice.setMessage("dead", error.message);
     setTimeout(() => notice.hide(), 5e3);
   }
 }
-function getModelMaxTokens(model) {
-  switch (model) {
-    case "text-davinci-003":
-      return 4096;
-    case "gpt-3.5-turbo":
-      return 4096;
-    case "gpt-4":
-      return 8192;
-    case "gpt-3.5-turbo-16k":
-      return 16384;
-    case "gpt-4-32k":
-      return 32768;
+async function timePromise(promise, interval, tick2, onFinish) {
+  const time_start = Date.now();
+  await repeatUntilResolved(
+    () => tick2(Date.now() - time_start),
+    promise,
+    interval
+  );
+  onFinish(Date.now() - time_start);
+  return await promise;
+}
+async function Prompt(settings, formatter) {
+  if (settingsStore.getState().disableOnlineFeatures) {
+    throw new Error(
+      "Blocking request to OpenAI: Online features are disabled in settings."
+    );
+  }
+  const notice = makeNoticeHandler(settings.showAssistantMessages);
+  try {
+    const {
+      apiKey,
+      model,
+      outputVariableName: outputVariable,
+      systemPrompt,
+      prompt,
+      modelOptions
+    } = settings;
+    notice.setMessage(
+      "waiting",
+      "QuickAdd is formatting the prompt template."
+    );
+    const formattedPrompt = await formatter(prompt);
+    const promptingMsg = ["prompting", `Using custom prompt.`];
+    notice.setMessage(promptingMsg[0], promptingMsg[1]);
+    const makeRequest = OpenAIRequest(
+      apiKey,
+      model,
+      systemPrompt,
+      modelOptions
+    );
+    const res = makeRequest(formattedPrompt);
+    const result = await timePromise(
+      res,
+      100,
+      (time) => {
+        notice.setMessage(
+          promptingMsg[0],
+          `${promptingMsg[1]} (${(time / 1e3).toFixed(2)}s)`
+        );
+      },
+      (time) => {
+        notice.setMessage(
+          "finished",
+          `Took ${(time / 1e3).toFixed(2)}s.`
+        );
+      }
+    );
+    const output = result.choices[0].message.content;
+    const outputInMarkdownBlockQuote = ("> " + output).replace(
+      /\n/g,
+      "\n> "
+    );
+    const variables = {
+      [outputVariable]: output,
+      // For people that want the output in callouts or quote blocks.
+      [`${outputVariable}-quoted`]: outputInMarkdownBlockQuote
+    };
+    setTimeout(() => notice.hide(), 5e3);
+    return variables;
+  } catch (error) {
+    notice.setMessage("dead", error.message);
+    setTimeout(() => notice.hide(), 5e3);
   }
 }
-function OpenAIRequest(apiKey, model, systemPrompt, modelParams = {}) {
-  return async function makeRequest(prompt) {
-    if (settingsStore.getState().disableOnlineFeatures) {
-      throw new Error(
-        "Blocking request to OpenAI: Online features are disabled in settings."
-      );
-    }
-    const tokenCount = getTokenCount(prompt) + getTokenCount(systemPrompt);
-    const maxTokens = getModelMaxTokens(model);
-    if (tokenCount > maxTokens) {
-      throw new Error(
-        `The ${model} API has a token limit of ${maxTokens}. Your prompt has ${tokenCount} tokens.`
-      );
-    }
-    try {
-      const response = await (0, import_obsidian17.requestUrl)({
-        url: `https://api.openai.com/v1/chat/completions`,
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${apiKey}`
-        },
-        body: JSON.stringify({
-          model,
-          ...modelParams,
-          messages: [
-            { role: "system", content: systemPrompt },
-            { role: "user", content: prompt }
-          ]
-        })
+var RateLimiter = class {
+  constructor(maxRequests, intervalMs) {
+    this.maxRequests = maxRequests;
+    this.intervalMs = intervalMs;
+    this.queue = [];
+    this.pendingPromises = [];
+  }
+  add(promiseFactory) {
+    return new Promise((resolve, reject) => {
+      this.queue.push(async () => {
+        try {
+          resolve(await promiseFactory());
+        } catch (err) {
+          reject(err);
+        }
       });
-      return response.json;
-    } catch (error) {
-      console.log(error);
-      throw new Error(
-        `Error while making request to OpenAI API: ${error.message}`
-      );
+      this.schedule();
+    });
+  }
+  schedule() {
+    if (this.queue.length === 0 || this.pendingPromises.length >= this.maxRequests) {
+      return;
     }
-  };
+    const promiseFactory = this.queue.shift();
+    if (!promiseFactory) {
+      return;
+    }
+    const promise = promiseFactory();
+    this.pendingPromises.push(promise);
+    promise.finally(() => {
+      this.pendingPromises = this.pendingPromises.filter(
+        (p) => p !== promise
+      );
+      this.schedule();
+    });
+    setTimeout(() => this.schedule(), this.intervalMs);
+  }
+};
+async function ChunkedPrompt(settings, formatter) {
+  if (settingsStore.getState().disableOnlineFeatures) {
+    throw new Error(
+      "Blocking request to OpenAI: Online features are disabled in settings."
+    );
+  }
+  const notice = makeNoticeHandler(settings.showAssistantMessages);
+  try {
+    const {
+      apiKey,
+      model,
+      outputVariableName: outputVariable,
+      systemPrompt,
+      promptTemplate,
+      text: text2,
+      modelOptions
+    } = settings;
+    notice.setMessage(
+      "chunking",
+      "Creating prompt chunks with text and prompt template"
+    );
+    const chunkSeparator = settings.chunkSeparator || /\n/g;
+    const chunks = text2.split(chunkSeparator);
+    const systemPromptLength = getTokenCount(systemPrompt, model);
+    const renderedPromptTemplate = await formatter(promptTemplate, {
+      chunk: ""
+    });
+    const promptTemplateTokenCount = getTokenCount(
+      renderedPromptTemplate,
+      model
+    );
+    const maxChunkTokenSize = getModelMaxTokens(model) / 2 - systemPromptLength;
+    const shouldMerge = true;
+    const chunkedPrompts = [];
+    const maxCombinedChunkSize = maxChunkTokenSize - promptTemplateTokenCount;
+    if (shouldMerge) {
+      const output2 = [];
+      let combinedChunk = "";
+      let combinedChunkSize = 0;
+      for (const chunk of chunks) {
+        const strSize = getTokenCount(chunk, model) + 1;
+        if (strSize > maxCombinedChunkSize) {
+          throw new Error(
+            `The chunk "${chunk.slice(0, 25)}..." is too large to fit in a single prompt.`
+          );
+        }
+        if (combinedChunkSize + strSize < maxCombinedChunkSize) {
+          combinedChunk += chunk;
+          combinedChunkSize += strSize;
+        } else {
+          output2.push(combinedChunk);
+          combinedChunk = chunk;
+          combinedChunkSize = strSize;
+        }
+      }
+      if (combinedChunk !== "") {
+        output2.push(combinedChunk);
+      }
+      for (const chunk of output2) {
+        const prompt = await formatter(promptTemplate, { chunk });
+        chunkedPrompts.push(prompt);
+      }
+    } else {
+      for (const chunk of chunks) {
+        const tokenCount = getTokenCount(chunk, model);
+        if (tokenCount > maxChunkTokenSize) {
+          throw new Error(
+            `Chunk size (${tokenCount}) is larger than the maximum chunk size (${maxChunkTokenSize}). Please check your chunk separator.`
+          );
+        }
+        const prompt = await formatter(promptTemplate, { chunk });
+        chunkedPrompts.push(prompt);
+      }
+    }
+    const makeRequest = OpenAIRequest(
+      apiKey,
+      model,
+      systemPrompt,
+      modelOptions
+    );
+    const promptingMsg = [
+      "prompting",
+      `${chunkedPrompts.length} prompts being sent.`
+    ];
+    notice.setMessage(promptingMsg[0], promptingMsg[1]);
+    const rateLimiter = new RateLimiter(5, 1e3);
+    const results = Promise.all(
+      chunkedPrompts.map(
+        (prompt) => rateLimiter.add(() => makeRequest(prompt))
+      )
+    );
+    const result = await timePromise(
+      results,
+      100,
+      (time) => {
+        notice.setMessage(
+          promptingMsg[0],
+          `${promptingMsg[1]} (${(time / 1e3).toFixed(2)}s)`
+        );
+      },
+      (time) => {
+        notice.setMessage(
+          "finished",
+          `Took ${(time / 1e3).toFixed(2)}s.`
+        );
+      }
+    );
+    const outputs = result.map((r) => r.choices[0].message.content);
+    const output = outputs.join(settings.resultJoiner);
+    const outputInMarkdownBlockQuote = ("> " + output).replace(
+      /\n/g,
+      "\n> "
+    );
+    const variables = {
+      [outputVariable]: output,
+      // For people that want the output in callouts or quote blocks.
+      [`${outputVariable}-quoted`]: outputInMarkdownBlockQuote
+    };
+    setTimeout(() => notice.hide(), 5e3);
+    return variables;
+  } catch (error) {
+    notice.setMessage("dead", error.message);
+    setTimeout(() => notice.hide(), 5e3);
+  }
 }
 
 // src/ai/models.ts
 var models = ["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4", "gpt-4-32k", "text-davinci-003"];
 var models_and_ask_me = [...models, "Ask me"];
+
+// src/quickAddApi.ts
+var QuickAddApi = class {
+  static GetApi(app2, plugin, choiceExecutor) {
+    return {
+      inputPrompt: (header, placeholder, value) => {
+        return this.inputPrompt(app2, header, placeholder, value);
+      },
+      wideInputPrompt: (header, placeholder, value) => {
+        return this.wideInputPrompt(app2, header, placeholder, value);
+      },
+      yesNoPrompt: (header, text2) => {
+        return this.yesNoPrompt(app2, header, text2);
+      },
+      infoDialog: (header, text2) => {
+        return this.infoDialog(app2, header, text2);
+      },
+      suggester: (displayItems, actualItems) => {
+        return this.suggester(app2, displayItems, actualItems);
+      },
+      checkboxPrompt: (items, selectedItems) => {
+        return this.checkboxPrompt(app2, items, selectedItems);
+      },
+      executeChoice: async (choiceName, variables) => {
+        const choice = plugin.getChoiceByName(choiceName);
+        if (!choice)
+          log.logError(`choice named '${choiceName}' not found`);
+        if (variables) {
+          Object.keys(variables).forEach((key) => {
+            choiceExecutor.variables.set(key, variables[key]);
+          });
+        }
+        await choiceExecutor.execute(choice);
+        choiceExecutor.variables.clear();
+      },
+      format: async (input, variables, shouldClearVariables = true) => {
+        if (variables) {
+          Object.keys(variables).forEach((key) => {
+            choiceExecutor.variables.set(key, variables[key]);
+          });
+        }
+        const output = await new CompleteFormatter(
+          app2,
+          plugin,
+          choiceExecutor
+        ).formatFileContent(input);
+        if (shouldClearVariables) {
+          choiceExecutor.variables.clear();
+        }
+        return output;
+      },
+      ai: {
+        prompt: async (prompt, model, settings) => {
+          const pluginSettings = settingsStore.getState();
+          const AISettings = pluginSettings.ai;
+          if (pluginSettings.disableOnlineFeatures) {
+            throw new Error(
+              "Rejecting request to `prompt` via API AI module. Online features are disabled in settings."
+            );
+          }
+          const formatter = this.GetApi(
+            app2,
+            plugin,
+            choiceExecutor
+          ).format;
+          const assistantRes = await Prompt(
+            {
+              model,
+              prompt,
+              apiKey: AISettings.OpenAIApiKey,
+              modelOptions: settings?.modelOptions ?? {},
+              outputVariableName: settings?.variableName ?? "output",
+              showAssistantMessages: settings?.showAssistantMessages ?? true,
+              systemPrompt: settings?.systemPrompt ?? AISettings.defaultSystemPrompt
+            },
+            (txt, variables) => {
+              return formatter(txt, variables, false);
+            }
+          );
+          if (!assistantRes) {
+            log.logError("AI Assistant returned null");
+            return {};
+          }
+          if (settings?.shouldAssignVariables) {
+            Object.assign(choiceExecutor.variables, assistantRes);
+          }
+          return assistantRes;
+        },
+        chunkedPrompt: async (text2, promptTemplate, model, settings) => {
+          const pluginSettings = settingsStore.getState();
+          const AISettings = pluginSettings.ai;
+          if (pluginSettings.disableOnlineFeatures) {
+            throw new Error(
+              "Rejecting request to `prompt` via API AI module. Online features are disabled in settings."
+            );
+          }
+          const formatter = this.GetApi(
+            app2,
+            plugin,
+            choiceExecutor
+          ).format;
+          const assistantRes = await ChunkedPrompt(
+            {
+              model,
+              text: text2,
+              promptTemplate,
+              chunkSeparator: settings?.chunkSeparator ?? /\n/,
+              apiKey: AISettings.OpenAIApiKey,
+              modelOptions: settings?.modelOptions ?? {},
+              outputVariableName: settings?.variableName ?? "output",
+              showAssistantMessages: settings?.showAssistantMessages ?? true,
+              systemPrompt: settings?.systemPrompt ?? AISettings.defaultSystemPrompt,
+              resultJoiner: settings?.chunkJoiner ?? "\n"
+            },
+            (txt, variables) => {
+              return formatter(txt, variables, false);
+            }
+          );
+          if (!assistantRes) {
+            log.logError("AI Assistant returned null");
+            return {};
+          }
+          if (settings?.shouldAssignVariables) {
+            Object.assign(choiceExecutor.variables, assistantRes);
+          }
+          return assistantRes;
+        },
+        getModels: () => {
+          return models;
+        },
+        getMaxTokens: (model) => {
+          return getModelMaxTokens(model);
+        },
+        countTokens(text2, model) {
+          return getTokenCount(text2, model);
+        }
+      },
+      utility: {
+        getClipboard: async () => {
+          return await navigator.clipboard.readText();
+        },
+        setClipboard: async (text2) => {
+          return await navigator.clipboard.writeText(text2);
+        },
+        getSelectedText: () => {
+          const activeView = app2.workspace.getActiveViewOfType(import_obsidian18.MarkdownView);
+          if (!activeView) {
+            log.logError(
+              "no active view - could not get selected text."
+            );
+            return;
+          }
+          if (!activeView.editor.somethingSelected()) {
+            log.logError("no text selected.");
+            return;
+          }
+          return activeView.editor.getSelection();
+        }
+      },
+      date: {
+        now: (format3, offset2) => {
+          return getDate({ format: format3, offset: offset2 });
+        },
+        tomorrow: (format3) => {
+          return getDate({ format: format3, offset: 1 });
+        },
+        yesterday: (format3) => {
+          return getDate({ format: format3, offset: -1 });
+        }
+      }
+    };
+  }
+  static async inputPrompt(app2, header, placeholder, value) {
+    try {
+      return await GenericInputPrompt.Prompt(
+        app2,
+        header,
+        placeholder,
+        value
+      );
+    } catch {
+      return void 0;
+    }
+  }
+  static async wideInputPrompt(app2, header, placeholder, value) {
+    try {
+      return await GenericWideInputPrompt.Prompt(
+        app2,
+        header,
+        placeholder,
+        value
+      );
+    } catch {
+      return void 0;
+    }
+  }
+  static async yesNoPrompt(app2, header, text2) {
+    try {
+      return await GenericYesNoPrompt.Prompt(app2, header, text2);
+    } catch {
+      return void 0;
+    }
+  }
+  static async infoDialog(app2, header, text2) {
+    try {
+      return await GenericInfoDialog.Show(app2, header, text2);
+    } catch {
+      return void 0;
+    }
+  }
+  static async suggester(app2, displayItems, actualItems) {
+    try {
+      let displayedItems;
+      if (typeof displayItems === "function") {
+        displayedItems = actualItems.map(displayItems);
+      } else {
+        displayedItems = displayItems;
+      }
+      return await GenericSuggester.Suggest(
+        app2,
+        displayedItems,
+        actualItems
+      );
+    } catch {
+      return void 0;
+    }
+  }
+  static async checkboxPrompt(app2, items, selectedItems) {
+    try {
+      return await GenericCheckboxPrompt.Open(app2, items, selectedItems);
+    } catch {
+      return void 0;
+    }
+  }
+};
+
+// src/engine/QuickAddChoiceEngine.ts
+var QuickAddChoiceEngine = class extends QuickAddEngine {
+};
+
+// src/types/macros/Command.ts
+var Command = class {
+  constructor(name, type) {
+    this.name = name;
+    this.type = type;
+    this.id = v4_default();
+  }
+};
+
+// src/types/macros/EditorCommands/EditorCommand.ts
+var import_obsidian19 = require("obsidian");
+var EditorCommand = class extends Command {
+  constructor(type) {
+    super(type, "EditorCommand" /* EditorCommand */);
+    this.editorCommandType = type;
+  }
+  static getSelectedText(app2) {
+    return this.getActiveMarkdownView(app2).editor.getSelection();
+  }
+  static getActiveMarkdownView(app2) {
+    const activeView = app2.workspace.getActiveViewOfType(import_obsidian19.MarkdownView);
+    if (!activeView) {
+      log.logError("no active markdown view.");
+      throw new Error("no active markdown view.");
+    }
+    return activeView;
+  }
+};
+
+// src/types/macros/EditorCommands/CutCommand.ts
+var CutCommand = class extends EditorCommand {
+  constructor() {
+    super("Cut" /* Cut */);
+  }
+  static async run(app2) {
+    const selectedText = EditorCommand.getSelectedText(app2);
+    const activeView = EditorCommand.getActiveMarkdownView(app2);
+    if (!selectedText) {
+      log.logError("nothing selected.");
+      return;
+    }
+    await navigator.clipboard.writeText(selectedText);
+    activeView.editor.replaceSelection("");
+  }
+};
+
+// src/types/macros/EditorCommands/CopyCommand.ts
+var CopyCommand = class extends EditorCommand {
+  constructor() {
+    super("Copy" /* Copy */);
+  }
+  static async run(app2) {
+    const selectedText = EditorCommand.getSelectedText(app2);
+    await navigator.clipboard.writeText(selectedText);
+  }
+};
+
+// src/types/macros/EditorCommands/PasteCommand.ts
+var PasteCommand = class extends EditorCommand {
+  constructor() {
+    super("Paste" /* Paste */);
+  }
+  static async run(app2) {
+    const clipboard = await navigator.clipboard.readText();
+    const activeView = EditorCommand.getActiveMarkdownView(app2);
+    if (!activeView) {
+      log.logError("no active markdown view.");
+      return;
+    }
+    activeView.editor.replaceSelection(clipboard);
+  }
+};
+
+// src/types/macros/EditorCommands/SelectActiveLineCommand.ts
+var SelectActiveLineCommand = class extends EditorCommand {
+  constructor() {
+    super("Select active line" /* SelectActiveLine */);
+  }
+  static run(app2) {
+    const activeView = EditorCommand.getActiveMarkdownView(app2);
+    const { line: lineNumber } = activeView.editor.getCursor();
+    const line = activeView.editor.getLine(lineNumber);
+    const lineLength = line.length;
+    activeView.editor.setSelection(
+      { line: lineNumber, ch: 0 },
+      { line: lineNumber, ch: lineLength }
+    );
+  }
+};
+
+// src/types/macros/EditorCommands/SelectLinkOnActiveLineCommand.ts
+var SelectLinkOnActiveLineCommand = class extends EditorCommand {
+  constructor() {
+    super("Select link on active line" /* SelectLinkOnActiveLine */);
+  }
+  static run(app2) {
+    const activeView = EditorCommand.getActiveMarkdownView(app2);
+    const { line: lineNumber } = activeView.editor.getCursor();
+    const line = activeView.editor.getLine(lineNumber);
+    const match = WIKI_LINK_REGEX.exec(line);
+    if (!match) {
+      log.logError(`no internal link found on line ${lineNumber}.`);
+      return;
+    }
+    const matchStart = match.index;
+    const matchEnd = match[0].length + matchStart;
+    activeView.editor.setSelection(
+      { line: lineNumber, ch: matchStart },
+      { line: lineNumber, ch: matchEnd }
+    );
+  }
+};
+
+// src/utility.ts
+function waitFor(ms) {
+  return new Promise((res) => setTimeout(res, ms));
+}
+function getLinesInString(input) {
+  const lines = [];
+  let tempString = input;
+  while (tempString.includes("\n")) {
+    const lineEndIndex = tempString.indexOf("\n");
+    lines.push(tempString.slice(0, lineEndIndex));
+    tempString = tempString.slice(lineEndIndex + 1);
+  }
+  lines.push(tempString);
+  return lines;
+}
+function escapeRegExp(text2) {
+  return text2.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
+}
 
 // src/engine/MacroChoiceEngine.ts
 var MacroChoiceEngine = class extends QuickAddChoiceEngine {
@@ -11853,7 +12199,7 @@ var SingleMacroEngine = class extends MacroChoiceEngine {
 };
 
 // src/formatters/completeFormatter.ts
-var import_obsidian21 = require("obsidian");
+var import_obsidian23 = require("obsidian");
 
 // src/engine/SingleInlineScriptEngine.ts
 var SingleInlineScriptEngine = class extends MacroChoiceEngine {
@@ -11872,7 +12218,7 @@ var SingleInlineScriptEngine = class extends MacroChoiceEngine {
 };
 
 // src/gui/MathModal.ts
-var import_obsidian19 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 
 // src/LaTeXSymbols.ts
 var LATEX_CURSOR_MOVE_HERE = "\u261A";
@@ -12646,7 +12992,7 @@ ${LATEX_CURSOR_MOVE_HERE}
 var LaTeXSymbols = [...commands, ...environments.map(beginEndGen)];
 
 // src/gui/suggesters/LaTeXSuggester.ts
-var import_obsidian18 = require("obsidian");
+var import_obsidian20 = require("obsidian");
 var LATEX_REGEX = new RegExp(/\\([a-z{}A-Z0-9]*)$/);
 var LaTeXSuggester = class extends TextInputSuggest {
   constructor(inputEl) {
@@ -12656,7 +13002,7 @@ var LaTeXSuggester = class extends TextInputSuggest {
     this.symbols = Object.assign([], LaTeXSymbols);
     this.elementsRendered = this.symbols.reduce((elements, symbol) => {
       try {
-        elements[symbol.toString()] = (0, import_obsidian18.renderMath)(symbol, true);
+        elements[symbol.toString()] = (0, import_obsidian20.renderMath)(symbol, true);
       } catch {
       }
       return elements;
@@ -12729,7 +13075,7 @@ var LaTeXSuggester = class extends TextInputSuggest {
 };
 
 // src/gui/MathModal.ts
-var MathModal = class extends import_obsidian19.Modal {
+var MathModal = class extends import_obsidian21.Modal {
   constructor() {
     super(QuickAdd.instance.app);
     this.didSubmit = false;
@@ -12762,12 +13108,12 @@ var MathModal = class extends import_obsidian19.Modal {
     this.contentEl.empty();
     const mathDiv = this.contentEl.createDiv();
     mathDiv.className = "math math-block is-loaded";
-    const tc = new import_obsidian19.TextAreaComponent(this.contentEl);
+    const tc = new import_obsidian21.TextAreaComponent(this.contentEl);
     tc.inputEl.style.width = "100%";
     tc.inputEl.style.height = "10rem";
     this.inputEl = tc.inputEl;
     tc.onChange(
-      (0, import_obsidian19.debounce)(
+      (0, import_obsidian21.debounce)(
         async (value) => await this.mathjaxLoop(mathDiv, value),
         50
       )
@@ -12777,11 +13123,11 @@ var MathModal = class extends import_obsidian19.Modal {
   }
   async onOpen() {
     super.onOpen();
-    await (0, import_obsidian19.loadMathJax)();
+    await (0, import_obsidian21.loadMathJax)();
   }
   async mathjaxLoop(container, value) {
-    const html = (0, import_obsidian19.renderMath)(value, true);
-    await (0, import_obsidian19.finishRenderMath)();
+    const html = (0, import_obsidian21.renderMath)(value, true);
+    await (0, import_obsidian21.finishRenderMath)();
     container.empty();
     container.append(html);
   }
@@ -12798,7 +13144,7 @@ var MathModal = class extends import_obsidian19.Modal {
     }
   }
   createButton(container, text2, callback) {
-    const btn = new import_obsidian19.ButtonComponent(container);
+    const btn = new import_obsidian21.ButtonComponent(container);
     btn.setButtonText(text2).onClick(callback);
     return btn;
   }
@@ -12855,8 +13201,8 @@ var InputPrompt = class {
 };
 
 // src/gui/InputSuggester/inputSuggester.ts
-var import_obsidian20 = require("obsidian");
-var InputSuggester = class extends import_obsidian20.FuzzySuggestModal {
+var import_obsidian22 = require("obsidian");
+var InputSuggester = class extends import_obsidian22.FuzzySuggestModal {
   constructor(app2, displayItems, items, options = {}) {
     super(app2);
     this.displayItems = displayItems;
@@ -13037,7 +13383,7 @@ var CompleteFormatter = class extends Formatter {
   }
   // eslint-disable-next-line @typescript-eslint/require-await
   async getSelectedText() {
-    const activeView = this.app.workspace.getActiveViewOfType(import_obsidian21.MarkdownView);
+    const activeView = this.app.workspace.getActiveViewOfType(import_obsidian23.MarkdownView);
     if (!activeView)
       return "";
     return activeView.editor.getSelection();
@@ -13067,7 +13413,7 @@ var CompleteFormatter = class extends Formatter {
 };
 
 // src/engine/TemplateEngine.ts
-var import_obsidian22 = require("obsidian");
+var import_obsidian24 = require("obsidian");
 var TemplateEngine = class extends QuickAddEngine {
   constructor(app2, plugin, choiceFormatter) {
     super(app2);
@@ -13180,7 +13526,7 @@ ${formattedTemplateContent}`;
     if (!MARKDOWN_FILE_EXTENSION_REGEX.test(templatePath))
       correctTemplatePath += ".md";
     const templateFile = this.app.vault.getAbstractFileByPath(correctTemplatePath);
-    if (!(templateFile instanceof import_obsidian22.TFile))
+    if (!(templateFile instanceof import_obsidian24.TFile))
       throw new Error(
         `Template file not found at path "${correctTemplatePath}".`
       );
@@ -13306,12 +13652,12 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
   }
   addCapturedToSetting() {
     let textField;
-    new import_obsidian23.Setting(this.contentEl).setName("Capture To").setDesc("File to capture to. Supports some format syntax.");
+    new import_obsidian25.Setting(this.contentEl).setName("Capture To").setDesc("File to capture to. Supports some format syntax.");
     const captureToContainer = this.contentEl.createDiv("captureToContainer");
     const captureToActiveFileContainer = captureToContainer.createDiv("captureToActiveFileContainer");
     const captureToActiveFileText = captureToActiveFileContainer.createEl("span");
     captureToActiveFileText.textContent = "Capture to active file";
-    const captureToActiveFileToggle = new import_obsidian23.ToggleComponent(
+    const captureToActiveFileToggle = new import_obsidian25.ToggleComponent(
       captureToActiveFileContainer
     );
     captureToActiveFileToggle.setValue(this.choice?.captureToActiveFile);
@@ -13326,7 +13672,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
       void (async () => formatDisplay.textContent = await displayFormatter.format(
         this.choice.captureTo
       ))();
-      const formatInput = new import_obsidian23.TextComponent(captureToFileContainer);
+      const formatInput = new import_obsidian25.TextComponent(captureToFileContainer);
       formatInput.setPlaceholder("File name format");
       textField = formatInput;
       formatInput.inputEl.style.width = "100%";
@@ -13350,7 +13696,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
     }
   }
   addPrependSetting() {
-    const prependSetting = new import_obsidian23.Setting(this.contentEl);
+    const prependSetting = new import_obsidian25.Setting(this.contentEl);
     prependSetting.setName("Write to bottom of file").setDesc(
       `Put value at the bottom of the file - otherwise at the ${this.choice?.captureToActiveFile ? "active cursor location" : "top"}.`
     ).addToggle((toggle) => {
@@ -13365,14 +13711,14 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
     });
   }
   addTaskSetting() {
-    const taskSetting = new import_obsidian23.Setting(this.contentEl);
+    const taskSetting = new import_obsidian25.Setting(this.contentEl);
     taskSetting.setName("Task").setDesc("Formats the value as a task.").addToggle((toggle) => {
       toggle.setValue(this.choice.task);
       toggle.onChange((value) => this.choice.task = value);
     });
   }
   addAppendLinkSetting() {
-    const appendLinkSetting = new import_obsidian23.Setting(this.contentEl);
+    const appendLinkSetting = new import_obsidian25.Setting(this.contentEl);
     appendLinkSetting.setName("Append link").setDesc(
       "Add a link on your current cursor position, linking to the file you're capturing to."
     ).addToggle((toggle) => {
@@ -13382,7 +13728,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
   }
   addInsertAfterSetting() {
     let insertAfterInput;
-    const insertAfterSetting = new import_obsidian23.Setting(this.contentEl);
+    const insertAfterSetting = new import_obsidian25.Setting(this.contentEl);
     insertAfterSetting.setName("Insert after").setDesc(
       "Insert capture after specified line. Accepts format syntax."
     ).addToggle((toggle) => {
@@ -13401,7 +13747,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
     void (async () => insertAfterFormatDisplay.innerText = await displayFormatter.format(
       this.choice.insertAfter.after
     ))();
-    insertAfterInput = new import_obsidian23.TextComponent(this.contentEl);
+    insertAfterInput = new import_obsidian25.TextComponent(this.contentEl);
     insertAfterInput.setPlaceholder("Insert after");
     insertAfterInput.inputEl.style.width = "100%";
     insertAfterInput.inputEl.style.marginBottom = "8px";
@@ -13415,7 +13761,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
       this.plugin
     );
     if (this.choice.insertAfter.enabled) {
-      const insertAtEndSetting = new import_obsidian23.Setting(this.contentEl);
+      const insertAtEndSetting = new import_obsidian25.Setting(this.contentEl);
       insertAtEndSetting.setName("Insert at end of section").setDesc(
         "Insert the text at the end of the section, rather than at the top."
       ).addToggle(
@@ -13423,7 +13769,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
           (value) => this.choice.insertAfter.insertAtEnd = value
         )
       );
-      const considerSubsectionsSetting = new import_obsidian23.Setting(
+      const considerSubsectionsSetting = new import_obsidian25.Setting(
         this.contentEl
       );
       considerSubsectionsSetting.setName("Consider subsections").setDesc(
@@ -13446,7 +13792,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
           }
         })
       );
-      const createLineIfNotFound = new import_obsidian23.Setting(this.contentEl);
+      const createLineIfNotFound = new import_obsidian25.Setting(this.contentEl);
       createLineIfNotFound.setName("Create line if not found").setDesc("Creates the 'insert after' line if it is not found.").addToggle((toggle) => {
         if (!this.choice.insertAfter?.createIfNotFound)
           this.choice.insertAfter.createIfNotFound = false;
@@ -13466,14 +13812,14 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
   }
   addFormatSetting() {
     let textField;
-    const enableSetting = new import_obsidian23.Setting(this.contentEl);
+    const enableSetting = new import_obsidian25.Setting(this.contentEl);
     enableSetting.setName("Capture format").setDesc("Set the format of the capture.").addToggle((toggleComponent) => {
       toggleComponent.setValue(this.choice.format.enabled).onChange((value) => {
         this.choice.format.enabled = value;
         textField.setDisabled(!value);
       });
     });
-    const formatInput = new import_obsidian23.TextAreaComponent(this.contentEl);
+    const formatInput = new import_obsidian25.TextAreaComponent(this.contentEl);
     formatInput.setPlaceholder("Format");
     textField = formatInput;
     formatInput.inputEl.style.width = "100%";
@@ -13498,7 +13844,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
         createWithTemplate: false,
         template: ""
       };
-    const createFileIfItDoesntExist = new import_obsidian23.Setting(this.contentEl);
+    const createFileIfItDoesntExist = new import_obsidian25.Setting(this.contentEl);
     createFileIfItDoesntExist.setName("Create file if it doesn't exist").addToggle(
       (toggle) => toggle.setValue(this.choice?.createFileIfItDoesntExist?.enabled).setTooltip("Create file if it doesn't exist").onChange((value) => {
         this.choice.createFileIfItDoesntExist.enabled = value;
@@ -13508,7 +13854,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
   }
   addCreateWithTemplateSetting() {
     let templateSelector;
-    const createWithTemplateSetting = new import_obsidian23.Setting(this.contentEl);
+    const createWithTemplateSetting = new import_obsidian25.Setting(this.contentEl);
     createWithTemplateSetting.setName("Create file with given template.").addToggle(
       (toggle) => toggle.setValue(
         this.choice.createFileIfItDoesntExist?.createWithTemplate
@@ -13517,7 +13863,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
         templateSelector.setDisabled(!value);
       })
     );
-    templateSelector = new import_obsidian23.TextComponent(this.contentEl);
+    templateSelector = new import_obsidian25.TextComponent(this.contentEl);
     templateSelector.setValue(this.choice?.createFileIfItDoesntExist?.template ?? "").setPlaceholder("Template path").setDisabled(
       !this.choice?.createFileIfItDoesntExist?.createWithTemplate
     );
@@ -13535,7 +13881,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
     });
   }
   addOpenFileSetting() {
-    const noOpenSetting = new import_obsidian23.Setting(this.contentEl);
+    const noOpenSetting = new import_obsidian25.Setting(this.contentEl);
     noOpenSetting.setName("Open").setDesc("Open the file that is captured to.").addToggle((toggle) => {
       toggle.setValue(this.choice.openFile);
       toggle.onChange((value) => {
@@ -13552,7 +13898,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
     });
   }
   addOpenFileInNewTabSetting() {
-    const newTabSetting = new import_obsidian23.Setting(this.contentEl);
+    const newTabSetting = new import_obsidian25.Setting(this.contentEl);
     newTabSetting.setName("New Tab").setDesc("Open the file that is captured to in a new tab.").addToggle((toggle) => {
       toggle.setValue(this.choice?.openFileInNewTab?.enabled);
       toggle.onChange(
@@ -13574,7 +13920,7 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
         (value) => this.choice.openFileInNewTab.direction = value
       );
     });
-    new import_obsidian23.Setting(this.contentEl).setName("Focus new pane").setDesc("Focus the opened tab immediately").addToggle(
+    new import_obsidian25.Setting(this.contentEl).setName("Focus new pane").setDesc("Focus the opened tab immediately").addToggle(
       (toggle) => toggle.setValue(this.choice.openFileInNewTab.focus).onChange(
         (value) => this.choice.openFileInNewTab.focus = value
       )
@@ -13583,11 +13929,11 @@ var CaptureChoiceBuilder = class extends ChoiceBuilder {
 };
 
 // src/gui/ChoiceBuilder/macroChoiceBuilder.ts
-var import_obsidian27 = require("obsidian");
-var import_obsidian28 = require("obsidian");
+var import_obsidian29 = require("obsidian");
+var import_obsidian30 = require("obsidian");
 
 // src/gui/MacroGUIs/MacroBuilder.ts
-var import_obsidian26 = require("obsidian");
+var import_obsidian28 = require("obsidian");
 
 // src/types/macros/UserScript.ts
 var UserScript = class extends Command {
@@ -14369,7 +14715,7 @@ var UserScriptCommand = class extends SvelteComponent {
 var UserScriptCommand_default = UserScriptCommand;
 
 // src/gui/MacroGUIs/UserScriptSettingsModal.ts
-var import_obsidian24 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 
 // src/utils/setPasswordOnBlur.ts
 function setPasswordOnBlur(el) {
@@ -14383,7 +14729,7 @@ function setPasswordOnBlur(el) {
 }
 
 // src/gui/MacroGUIs/UserScriptSettingsModal.ts
-var UserScriptSettingsModal = class extends import_obsidian24.Modal {
+var UserScriptSettingsModal = class extends import_obsidian26.Modal {
   constructor(app2, command, settings) {
     super(app2);
     this.command = command;
@@ -14436,7 +14782,7 @@ var UserScriptSettingsModal = class extends import_obsidian24.Modal {
     }
   }
   addInputBox(name, value, placeholder, passwordOnBlur) {
-    new import_obsidian24.Setting(this.contentEl).setName(name).addText((input) => {
+    new import_obsidian26.Setting(this.contentEl).setName(name).addText((input) => {
       input.setValue(value).onChange((value2) => this.command.settings[name] = value2).setPlaceholder(placeholder ?? "");
       if (passwordOnBlur) {
         setPasswordOnBlur(input.inputEl);
@@ -14444,21 +14790,21 @@ var UserScriptSettingsModal = class extends import_obsidian24.Modal {
     });
   }
   addToggle(name, value) {
-    new import_obsidian24.Setting(this.contentEl).setName(name).addToggle(
+    new import_obsidian26.Setting(this.contentEl).setName(name).addToggle(
       (toggle) => toggle.setValue(value).onChange((value2) => this.command.settings[name] = value2)
     );
   }
   addDropdown(name, options, value) {
-    new import_obsidian24.Setting(this.contentEl).setName(name).addDropdown((dropdown) => {
+    new import_obsidian26.Setting(this.contentEl).setName(name).addDropdown((dropdown) => {
       options.forEach((item) => void dropdown.addOption(item, item));
       dropdown.setValue(value);
       dropdown.onChange((value2) => this.command.settings[name] = value2);
     });
   }
   addFormatInput(name, value, placeholder) {
-    new import_obsidian24.Setting(this.contentEl).setName(name);
+    new import_obsidian26.Setting(this.contentEl).setName(name);
     const formatDisplay = this.contentEl.createEl("span");
-    const input = new import_obsidian24.TextAreaComponent(this.contentEl);
+    const input = new import_obsidian26.TextAreaComponent(this.contentEl);
     new FormatSyntaxSuggester(this.app, input.inputEl, QuickAdd.instance);
     const displayFormatter = new FormatDisplayFormatter(
       this.app,
@@ -14659,7 +15005,7 @@ var AIAssistantCommand = class extends SvelteComponent {
 var AIAssistantCommand_default = AIAssistantCommand;
 
 // src/gui/MacroGUIs/AIAssistantCommandSettingsModal.ts
-var import_obsidian25 = require("obsidian");
+var import_obsidian27 = require("obsidian");
 
 // src/ai/OpenAIModelParameters.ts
 var DEFAULT_TOP_P = 1;
@@ -14668,7 +15014,7 @@ var DEFAULT_FREQUENCY_PENALTY = 0;
 var DEFAULT_PRESENCE_PENALTY = 0;
 
 // src/gui/MacroGUIs/AIAssistantCommandSettingsModal.ts
-var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
+var AIAssistantCommandSettingsModal = class extends import_obsidian27.Modal {
   constructor(settings) {
     super(app);
     this.showAdvancedSettings = false;
@@ -14681,6 +15027,11 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     );
     this.open();
     this.display();
+  }
+  get systemPromptTokenLength() {
+    if (this.settings.model === "Ask me")
+      return Number.POSITIVE_INFINITY;
+    return getTokenCount(this.settings.systemPrompt, this.settings.model);
   }
   display() {
     const header = this.contentEl.createEl("h2", {
@@ -14727,7 +15078,7 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     const promptTemplateFiles = getMarkdownFilesInFolder(
       promptTemplatesFolder
     ).map((f) => f.name);
-    new import_obsidian25.Setting(container).setName("Prompt Template").setDesc(
+    new import_obsidian27.Setting(container).setName("Prompt Template").setDesc(
       "Enabling this will have the assistant use the prompt template you specify. If disable, the assistant will ask you for a prompt template to use."
     ).addToggle((toggle) => {
       toggle.setValue(this.settings.promptTemplate.enable);
@@ -14748,18 +15099,19 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     });
   }
   addModelSetting(container) {
-    new import_obsidian25.Setting(container).setName("Model").setDesc("The model the AI Assistant will use").addDropdown((dropdown) => {
+    new import_obsidian27.Setting(container).setName("Model").setDesc("The model the AI Assistant will use").addDropdown((dropdown) => {
       for (const model of models_and_ask_me) {
         dropdown.addOption(model, model);
       }
       dropdown.setValue(this.settings.model);
       dropdown.onChange((value) => {
         this.settings.model = value;
+        this.reload();
       });
     });
   }
   addOutputVariableNameSetting(container) {
-    new import_obsidian25.Setting(container).setName("Output variable name").setDesc(
+    new import_obsidian27.Setting(container).setName("Output variable name").setDesc(
       "The name of the variable used to store the AI Assistant output, i.e. {{value:output}}."
     ).addText((text2) => {
       text2.setValue(this.settings.outputVariableName).onChange(
@@ -14770,11 +15122,16 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     });
   }
   addSystemPromptSetting(contentEl) {
-    new import_obsidian25.Setting(contentEl).setName("System Prompt").setDesc("The system prompt for the AI Assistant");
-    const textAreaComponent = new import_obsidian25.TextAreaComponent(contentEl);
+    new import_obsidian27.Setting(contentEl).setName("System Prompt").setDesc("The system prompt for the AI Assistant");
+    const container = this.contentEl.createEl("div");
+    const tokenCount = container.createEl("span");
+    tokenCount.style.color = "var(--text-muted-color)";
+    container.appendChild(tokenCount);
+    const textAreaComponent = new import_obsidian27.TextAreaComponent(contentEl);
     textAreaComponent.setValue(this.settings.systemPrompt).onChange(async (value) => {
       this.settings.systemPrompt = value;
       formatDisplay.innerText = await displayFormatter.format(value);
+      updateTokenCount();
     });
     new FormatSyntaxSuggester(
       this.app,
@@ -14790,12 +15147,16 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     textAreaComponent.inputEl.style.minHeight = "100px";
     textAreaComponent.inputEl.style.marginBottom = "1em";
     const formatDisplay = this.contentEl.createEl("span");
+    const updateTokenCount = (0, import_obsidian27.debounce)(() => {
+      tokenCount.innerText = `Token count: ${this.systemPromptTokenLength !== Number.POSITIVE_INFINITY ? this.systemPromptTokenLength : "select a model to calculate"}`;
+    }, 50);
+    updateTokenCount();
     void (async () => formatDisplay.innerText = await displayFormatter.format(
       this.settings.systemPrompt ?? ""
     ))();
   }
   addShowAdvancedSettingsToggle(container) {
-    new import_obsidian25.Setting(container).setName("Show advanced settings").setDesc(
+    new import_obsidian27.Setting(container).setName("Show advanced settings").setDesc(
       "Show advanced settings such as temperature, top p, and frequency penalty."
     ).addToggle((toggle) => {
       toggle.setValue(this.showAdvancedSettings);
@@ -14806,7 +15167,7 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     });
   }
   addTemperatureSetting(container) {
-    new import_obsidian25.Setting(container).setName("Temperature").setDesc(
+    new import_obsidian27.Setting(container).setName("Temperature").setDesc(
       "Sampling temperature. Higher values like 0.8 makes the output more random, whereas lower values like 0.2 will make it more focused and deterministic. The default is 1."
     ).addSlider((slider) => {
       slider.setLimits(0, 1, 0.1);
@@ -14820,7 +15181,7 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     });
   }
   addTopPSetting(container) {
-    new import_obsidian25.Setting(container).setName("Top P").setDesc(
+    new import_obsidian27.Setting(container).setName("Top P").setDesc(
       "Nucleus sampling - consider this an alternative to temperature. The model considers the results of the tokens with top_p probability mass. 0.1 means only tokens compromising the top 10% probability mass are considered. The default is 1."
     ).addSlider((slider) => {
       slider.setLimits(0, 1, 0.1);
@@ -14834,7 +15195,7 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     });
   }
   addFrequencyPenaltySetting(container) {
-    new import_obsidian25.Setting(container).setName("Frequency Penalty").setDesc(
+    new import_obsidian27.Setting(container).setName("Frequency Penalty").setDesc(
       "Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model's likelihood to repeat the same line verbatim. The default is 0."
     ).addSlider((slider) => {
       slider.setLimits(0, 2, 0.1);
@@ -14848,7 +15209,7 @@ var AIAssistantCommandSettingsModal = class extends import_obsidian25.Modal {
     });
   }
   addPresencePenaltySetting(container) {
-    new import_obsidian25.Setting(container).setName("Presence Penalty").setDesc(
+    new import_obsidian27.Setting(container).setName("Presence Penalty").setDesc(
       "Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics. The default is 0."
     ).addSlider((slider) => {
       slider.setLimits(0, 2, 0.1);
@@ -15924,7 +16285,7 @@ function getChoicesAsList(nestedChoices) {
   recursive(nestedChoices);
   return arr;
 }
-var MacroBuilder = class extends import_obsidian26.Modal {
+var MacroBuilder = class extends import_obsidian28.Modal {
   constructor(app2, plugin, macro, choices) {
     super(app2);
     this.commands = [];
@@ -16000,7 +16361,7 @@ var MacroBuilder = class extends import_obsidian26.Modal {
       this.addCommandToMacro(command);
       input.setValue("");
     };
-    new import_obsidian26.Setting(this.contentEl).setName("Obsidian command").setDesc("Add an Obsidian command").addText((textComponent) => {
+    new import_obsidian28.Setting(this.contentEl).setName("Obsidian command").setDesc("Add an Obsidian command").addText((textComponent) => {
       input = textComponent;
       textComponent.inputEl.style.marginRight = "1em";
       textComponent.setPlaceholder("Obsidian command");
@@ -16048,7 +16409,7 @@ var MacroBuilder = class extends import_obsidian26.Modal {
       }
       this.addCommandToMacro(command);
     };
-    new import_obsidian26.Setting(this.contentEl).setName("Editor commands").setDesc("Add editor command").addDropdown((dropdown) => {
+    new import_obsidian28.Setting(this.contentEl).setName("Editor commands").setDesc("Add editor command").addDropdown((dropdown) => {
       dropdownComponent = dropdown;
       dropdown.selectEl.style.marginRight = "1em";
       dropdown.addOption("Copy" /* Copy */, "Copy" /* Copy */).addOption("Cut" /* Cut */, "Cut" /* Cut */).addOption("Paste" /* Paste */, "Paste" /* Paste */).addOption(
@@ -16075,7 +16436,7 @@ var MacroBuilder = class extends import_obsidian26.Modal {
       this.addCommandToMacro(new UserScript(value, file.path));
       input.setValue("");
     };
-    new import_obsidian26.Setting(this.contentEl).setName("User Scripts").setDesc("Add user script").addText((textComponent) => {
+    new import_obsidian28.Setting(this.contentEl).setName("User Scripts").setDesc("Add user script").addText((textComponent) => {
       input = textComponent;
       textComponent.inputEl.style.marginRight = "1em";
       textComponent.setPlaceholder("User script");
@@ -16106,7 +16467,7 @@ var MacroBuilder = class extends import_obsidian26.Modal {
       this.addCommandToMacro(new ChoiceCommand(choice.name, choice.id));
       input.setValue("");
     };
-    new import_obsidian26.Setting(this.contentEl).setName("Choices").setDesc("Add existing choice").addText((textComponent) => {
+    new import_obsidian28.Setting(this.contentEl).setName("Choices").setDesc("Add existing choice").addText((textComponent) => {
       input = textComponent;
       textComponent.inputEl.style.marginRight = "1em";
       textComponent.setPlaceholder("Choice");
@@ -16183,7 +16544,7 @@ var MacroBuilder = class extends import_obsidian26.Modal {
     }
   }
   addAIAssistantCommandButton(quickCommandContainer) {
-    const button = new import_obsidian26.ButtonComponent(
+    const button = new import_obsidian28.ButtonComponent(
       quickCommandContainer
     );
     button.setIcon("bot").setTooltip("Add AI Assistant command").onClick(() => {
@@ -16191,7 +16552,7 @@ var MacroBuilder = class extends import_obsidian26.Modal {
     });
   }
   addAddWaitCommandButton(quickCommandContainer) {
-    const button = new import_obsidian26.ButtonComponent(
+    const button = new import_obsidian28.ButtonComponent(
       quickCommandContainer
     );
     button.setIcon("clock").setTooltip("Add wait command").onClick(() => {
@@ -16199,7 +16560,7 @@ var MacroBuilder = class extends import_obsidian26.Modal {
     });
   }
   newChoiceButton(container, typeName, type) {
-    const button = new import_obsidian26.ButtonComponent(container);
+    const button = new import_obsidian28.ButtonComponent(container);
     button.setButtonText(typeName).setTooltip(`Add ${typeName} Choice`).onClick(() => {
       const captureChoice = new type(
         `Untitled ${typeName} Choice`
@@ -16246,7 +16607,7 @@ var MacroChoiceBuilder = class extends ChoiceBuilder {
     if (hasOwnMacro)
       return;
     const createMacroButtonContainer = container.createDiv();
-    const createMacroButton = new import_obsidian27.ButtonComponent(
+    const createMacroButton = new import_obsidian29.ButtonComponent(
       createMacroButtonContainer
     );
     createMacroButton.setIcon("plus").setCta().setTooltip("Create Macro").onClick(() => {
@@ -16261,7 +16622,7 @@ var MacroChoiceBuilder = class extends ChoiceBuilder {
   }
   addConfigureMacroButton(container) {
     const configureMacroButtonContainer = container.createDiv();
-    const configureMacroButton = new import_obsidian27.ButtonComponent(
+    const configureMacroButton = new import_obsidian29.ButtonComponent(
       configureMacroButtonContainer
     );
     configureMacroButton.setIcon("cog").setTooltip("Configure Macro").onClick(async () => {
@@ -16282,7 +16643,7 @@ var MacroChoiceBuilder = class extends ChoiceBuilder {
   }
   addSelectMacroSearch(container) {
     const selectMacroDropdownContainer = container.createDiv("selectMacroDropdownContainer");
-    const dropdown = new import_obsidian28.DropdownComponent(
+    const dropdown = new import_obsidian30.DropdownComponent(
       selectMacroDropdownContainer
     );
     const macroOptions = {};
@@ -16315,8 +16676,8 @@ var MacroChoiceBuilder = class extends ChoiceBuilder {
 };
 
 // src/MacrosManager.ts
-var import_obsidian29 = require("obsidian");
-var MacrosManager = class extends import_obsidian29.Modal {
+var import_obsidian31 = require("obsidian");
+var MacrosManager = class extends import_obsidian31.Modal {
   constructor(app2, plugin, macros, choices) {
     super(app2);
     this.app = app2;
@@ -16359,14 +16720,14 @@ var MacrosManager = class extends import_obsidian29.Modal {
   }
   addMacroSetting(macro, container) {
     const configureMacroContainer = container.createDiv();
-    const macroSetting = new import_obsidian29.Setting(configureMacroContainer);
+    const macroSetting = new import_obsidian31.Setting(configureMacroContainer);
     macroSetting.setName(macro.name);
     macroSetting.infoEl.style.fontWeight = "bold";
     this.addMacroConfigurationItem(
       configureMacroContainer,
       (itemContainerEl) => {
         this.addSpanWithText(itemContainerEl, "Run on plugin load");
-        const toggle = new import_obsidian29.ToggleComponent(
+        const toggle = new import_obsidian31.ToggleComponent(
           itemContainerEl
         );
         toggle.setValue(macro.runOnStartup);
@@ -16380,7 +16741,7 @@ var MacrosManager = class extends import_obsidian29.Modal {
     this.addMacroConfigurationItem(
       configureMacroContainer,
       (itemContainerEl) => {
-        const deleteButton = new import_obsidian29.ButtonComponent(
+        const deleteButton = new import_obsidian31.ButtonComponent(
           itemContainerEl
         );
         deleteButton.setClass("mod-warning");
@@ -16391,7 +16752,7 @@ var MacrosManager = class extends import_obsidian29.Modal {
           this.reload();
           this.macroContainer.scrollTop = scroll;
         });
-        const configureButton = new import_obsidian29.ButtonComponent(
+        const configureButton = new import_obsidian31.ButtonComponent(
           itemContainerEl
         );
         configureButton.setClass("mod-cta");
@@ -16434,11 +16795,11 @@ var MacrosManager = class extends import_obsidian29.Modal {
   addAddMacroBar() {
     const addMacroBarContainer = this.contentEl.createDiv();
     addMacroBarContainer.addClass("addMacroBarContainer");
-    const nameInput = new import_obsidian29.TextComponent(
+    const nameInput = new import_obsidian31.TextComponent(
       addMacroBarContainer
     );
     nameInput.setPlaceholder("Macro name");
-    const addMacroButton = new import_obsidian29.ButtonComponent(
+    const addMacroButton = new import_obsidian31.ButtonComponent(
       addMacroBarContainer
     );
     addMacroButton.setButtonText("Add macro").setClass("mod-cta").onClick(() => {
@@ -16463,8 +16824,8 @@ var MacrosManager = class extends import_obsidian29.Modal {
 };
 
 // src/gui/AIAssistantSettingsModal.ts
-var import_obsidian30 = require("obsidian");
-var AIAssistantSettingsModal = class extends import_obsidian30.Modal {
+var import_obsidian32 = require("obsidian");
+var AIAssistantSettingsModal = class extends import_obsidian32.Modal {
   constructor(settings) {
     super(app);
     this.settings = settings;
@@ -16492,7 +16853,7 @@ var AIAssistantSettingsModal = class extends import_obsidian30.Modal {
     this.display();
   }
   addApiKeySetting(container) {
-    new import_obsidian30.Setting(container).setName("API Key").setDesc("The API Key for the AI Assistant").addText((text2) => {
+    new import_obsidian32.Setting(container).setName("API Key").setDesc("The API Key for the AI Assistant").addText((text2) => {
       setPasswordOnBlur(text2.inputEl);
       text2.setValue(this.settings.OpenAIApiKey).onChange((value) => {
         this.settings.OpenAIApiKey = value;
@@ -16501,7 +16862,7 @@ var AIAssistantSettingsModal = class extends import_obsidian30.Modal {
     });
   }
   addDefaultModelSetting(container) {
-    new import_obsidian30.Setting(container).setName("Default Model").setDesc("The default model for the AI Assistant").addDropdown((dropdown) => {
+    new import_obsidian32.Setting(container).setName("Default Model").setDesc("The default model for the AI Assistant").addDropdown((dropdown) => {
       for (const model of models_and_ask_me) {
         dropdown.addOption(model, model);
       }
@@ -16512,7 +16873,7 @@ var AIAssistantSettingsModal = class extends import_obsidian30.Modal {
     });
   }
   addPromptTemplateFolderPathSetting(container) {
-    new import_obsidian30.Setting(container).setName("Prompt Template Folder Path").setDesc("Path to your folder with prompt templates").addText((text2) => {
+    new import_obsidian32.Setting(container).setName("Prompt Template Folder Path").setDesc("Path to your folder with prompt templates").addText((text2) => {
       text2.setValue(this.settings.promptTemplatesFolderPath).onChange(
         (value) => {
           this.settings.promptTemplatesFolderPath = value;
@@ -16521,7 +16882,7 @@ var AIAssistantSettingsModal = class extends import_obsidian30.Modal {
     });
   }
   addShowAssistantSetting(container) {
-    new import_obsidian30.Setting(container).setName("Show Assistant").setDesc("Show status messages from the AI Assistant").addToggle((toggle) => {
+    new import_obsidian32.Setting(container).setName("Show Assistant").setDesc("Show status messages from the AI Assistant").addToggle((toggle) => {
       toggle.setValue(this.settings.showAssistant);
       toggle.onChange((value) => {
         this.settings.showAssistant = value;
@@ -16529,8 +16890,8 @@ var AIAssistantSettingsModal = class extends import_obsidian30.Modal {
     });
   }
   addDefaultSystemPromptSetting(contentEl) {
-    new import_obsidian30.Setting(contentEl).setName("Default System Prompt").setDesc("The default system prompt for the AI Assistant");
-    const textAreaComponent = new import_obsidian30.TextAreaComponent(contentEl);
+    new import_obsidian32.Setting(contentEl).setName("Default System Prompt").setDesc("The default system prompt for the AI Assistant");
+    const textAreaComponent = new import_obsidian32.TextAreaComponent(contentEl);
     textAreaComponent.setValue(this.settings.defaultSystemPrompt).onChange(async (value) => {
       this.settings.defaultSystemPrompt = value;
       formatDisplay.innerText = await displayFormatter.format(value);
@@ -16985,7 +17346,7 @@ var DEFAULT_SETTINGS = {
     setVersionAfterUpdateModalRelease: false
   }
 };
-var QuickAddSettingsTab = class extends import_obsidian31.PluginSettingTab {
+var QuickAddSettingsTab = class extends import_obsidian33.PluginSettingTab {
   constructor(app2, plugin) {
     super(app2, plugin);
     this.plugin = plugin;
@@ -17001,7 +17362,7 @@ var QuickAddSettingsTab = class extends import_obsidian31.PluginSettingTab {
     this.addDisableOnlineFeaturesSetting();
   }
   addAnnounceUpdatesSetting() {
-    const setting = new import_obsidian31.Setting(this.containerEl);
+    const setting = new import_obsidian33.Setting(this.containerEl);
     setting.setName("Announce Updates");
     setting.setDesc(
       "Display release notes when a new version is installed. This includes new features, demo videos, and bug fixes."
@@ -17018,7 +17379,7 @@ var QuickAddSettingsTab = class extends import_obsidian31.PluginSettingTab {
       this.choiceView.$destroy();
   }
   addChoicesSetting() {
-    const setting = new import_obsidian31.Setting(this.containerEl);
+    const setting = new import_obsidian33.Setting(this.containerEl);
     setting.infoEl.remove();
     setting.settingEl.style.display = "block";
     this.choiceView = new ChoiceView_default({
@@ -17038,7 +17399,7 @@ var QuickAddSettingsTab = class extends import_obsidian31.PluginSettingTab {
     });
   }
   addUseMultiLineInputPromptSetting() {
-    new import_obsidian31.Setting(this.containerEl).setName("Use Multi-line Input Prompt").setDesc(
+    new import_obsidian33.Setting(this.containerEl).setName("Use Multi-line Input Prompt").setDesc(
       "Use multi-line input prompt instead of single-line input prompt"
     ).addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.inputPrompt === "multi-line").setTooltip("Use multi-line input prompt").onChange((value) => {
@@ -17055,7 +17416,7 @@ var QuickAddSettingsTab = class extends import_obsidian31.PluginSettingTab {
     );
   }
   addTemplateFolderPathSetting() {
-    const setting = new import_obsidian31.Setting(this.containerEl);
+    const setting = new import_obsidian33.Setting(this.containerEl);
     setting.setName("Template Folder Path");
     setting.setDesc(
       "Path to the folder where templates are stored. Used to suggest template files when configuring QuickAdd."
@@ -17067,12 +17428,12 @@ var QuickAddSettingsTab = class extends import_obsidian31.PluginSettingTab {
       new GenericTextSuggester(
         app,
         text2.inputEl,
-        app.vault.getAllLoadedFiles().filter((f) => f instanceof import_obsidian31.TFolder && f.path !== "/").map((f) => f.path)
+        app.vault.getAllLoadedFiles().filter((f) => f instanceof import_obsidian33.TFolder && f.path !== "/").map((f) => f.path)
       );
     });
   }
   addDisableOnlineFeaturesSetting() {
-    new import_obsidian31.Setting(this.containerEl).setName("Disable AI & Online features").setDesc(
+    new import_obsidian33.Setting(this.containerEl).setName("Disable AI & Online features").setDesc(
       "This prevents the plugin from making requests to external providers like OpenAI. You can still use User Scripts to execute arbitrary code, inclulding contacting external providers. However, this setting disables plugin features like the AI Assistant from doing so. You need to disable this setting to use the AI Assistant."
     ).addToggle(
       (toggle) => toggle.setValue(settingsStore.getState().disableOnlineFeatures).onChange((value) => {
@@ -17122,7 +17483,7 @@ var ConsoleErrorLogger = class extends QuickAddLogger {
 };
 
 // src/logger/guiLogger.ts
-var import_obsidian32 = require("obsidian");
+var import_obsidian34 = require("obsidian");
 var GuiLogger = class extends QuickAddLogger {
   constructor(plugin) {
     super();
@@ -17130,11 +17491,11 @@ var GuiLogger = class extends QuickAddLogger {
   }
   logError(msg) {
     const error = this.getQuickAddError(msg, "ERROR" /* Error */);
-    new import_obsidian32.Notice(this.formatOutputString(error), 15e3);
+    new import_obsidian34.Notice(this.formatOutputString(error), 15e3);
   }
   logWarning(msg) {
     const warning = this.getQuickAddError(msg, "WARNING" /* Warning */);
-    new import_obsidian32.Notice(this.formatOutputString(warning));
+    new import_obsidian34.Notice(this.formatOutputString(warning));
   }
   logMessage(msg) {
   }
@@ -17156,7 +17517,7 @@ var StartupMacroEngine = class extends MacroChoiceEngine {
 };
 
 // src/engine/TemplateChoiceEngine.ts
-var import_obsidian33 = require("obsidian");
+var import_obsidian35 = require("obsidian");
 var TemplateChoiceEngine = class extends TemplateEngine {
   constructor(app2, plugin, choice, choiceExecutor) {
     super(app2, plugin, choiceExecutor);
@@ -17190,7 +17551,7 @@ var TemplateChoiceEngine = class extends TemplateEngine {
       let createdFile;
       if (await this.app.vault.adapter.exists(filePath)) {
         const file = this.app.vault.getAbstractFileByPath(filePath);
-        if (!(file instanceof import_obsidian33.TFile) || file.extension !== "md") {
+        if (!(file instanceof import_obsidian35.TFile) || file.extension !== "md") {
           log.logError(
             `'${filePath}' already exists and is not a valid markdown file.`
           );
@@ -18436,8 +18797,8 @@ This is in order to prevent data loss.`
 };
 
 // src/gui/suggesters/choiceSuggester.ts
-var import_obsidian34 = require("obsidian");
-var ChoiceSuggester = class extends import_obsidian34.FuzzySuggestModal {
+var import_obsidian36 = require("obsidian");
+var ChoiceSuggester = class extends import_obsidian36.FuzzySuggestModal {
   constructor(plugin, choices, choiceExecutor) {
     super(plugin.app);
     this.plugin = plugin;
@@ -18454,7 +18815,7 @@ var ChoiceSuggester = class extends import_obsidian34.FuzzySuggestModal {
   }
   renderSuggestion(item, el) {
     el.empty();
-    void import_obsidian34.MarkdownRenderer.renderMarkdown(item.item.name, el, "", this.plugin);
+    void import_obsidian36.MarkdownRenderer.renderMarkdown(item.item.name, el, "", this.plugin);
     el.classList.add("quickadd-choice-suggestion");
   }
   getItemText(item) {
@@ -18779,8 +19140,8 @@ QuickAdd will now revert to backup.`
 var migrate_default = migrate;
 
 // src/gui/UpdateModal/UpdateModal.ts
-var import_obsidian35 = require("obsidian");
-var import_obsidian36 = require("obsidian");
+var import_obsidian37 = require("obsidian");
+var import_obsidian38 = require("obsidian");
 async function getReleaseNotesAfter(repoOwner, repoName, releaseTagName) {
   const response = await fetch(
     `https://api.github.com/repos/${repoOwner}/${repoName}/releases`
@@ -18808,7 +19169,7 @@ function addExtraHashToHeadings(markdownText, numHashes = 1) {
   }
   return lines.join("\n");
 }
-var UpdateModal = class extends import_obsidian36.Modal {
+var UpdateModal = class extends import_obsidian38.Modal {
   constructor(previousQAVersion) {
     super(app);
     this.previousVersion = previousQAVersion;
@@ -18863,17 +19224,253 @@ ${andNow}
 ${addExtraHashToHeadings(
       releaseNotes
     )}`;
-    void import_obsidian36.MarkdownRenderer.renderMarkdown(
+    void import_obsidian38.MarkdownRenderer.renderMarkdown(
       markdownStr,
       contentDiv,
       app.vault.getRoot().path,
-      new import_obsidian35.Component()
+      new import_obsidian37.Component()
     );
   }
 };
 
+// src/gui/MacroGUIs/AIAssistantInfiniteCommandSettingsModal.ts
+var import_obsidian39 = require("obsidian");
+var InfiniteAIAssistantCommandSettingsModal = class extends import_obsidian39.Modal {
+  constructor(settings) {
+    super(app);
+    this.showAdvancedSettings = false;
+    this.settings = settings;
+    this.waitForClose = new Promise(
+      (resolve, reject) => {
+        this.rejectPromise = reject;
+        this.resolvePromise = resolve;
+      }
+    );
+    this.open();
+    this.display();
+  }
+  get systemPromptTokenLength() {
+    return getTokenCount(this.settings.systemPrompt, this.settings.model);
+  }
+  display() {
+    this.contentEl.empty();
+    const header = this.contentEl.createEl("h2", {
+      text: `${this.settings.name} Settings`
+    });
+    header.style.textAlign = "center";
+    header.style.cursor = "pointer";
+    header.style.userSelect = "none";
+    header.addEventListener("click", async () => {
+      try {
+        const newName = await GenericInputPrompt.Prompt(
+          app,
+          "New name",
+          this.settings.name,
+          this.settings.name
+        );
+        if (newName && newName !== this.settings.name) {
+          this.settings.name = newName;
+          this.reload();
+        }
+      } catch (error) {
+      }
+    });
+    this.addResultJoinerSetting(this.contentEl);
+    this.addChunkSeparatorSetting(this.contentEl);
+    this.addMaxTokensSetting(this.contentEl);
+    this.addMergeChunksSetting(this.contentEl);
+    this.addModelSetting(this.contentEl);
+    this.addOutputVariableNameSetting(this.contentEl);
+    this.addShowAdvancedSettingsToggle(this.contentEl);
+    if (this.showAdvancedSettings) {
+      if (!this.settings.modelParameters)
+        this.settings.modelParameters = {};
+      this.addTemperatureSetting(this.contentEl);
+      this.addTopPSetting(this.contentEl);
+      this.addFrequencyPenaltySetting(this.contentEl);
+      this.addPresencePenaltySetting(this.contentEl);
+    }
+    this.addSystemPromptSetting(this.contentEl);
+  }
+  reload() {
+    this.contentEl.empty();
+    this.display();
+  }
+  addModelSetting(container) {
+    new import_obsidian39.Setting(container).setName("Model").setDesc("The model the AI Assistant will use").addDropdown((dropdown) => {
+      for (const model of models_and_ask_me) {
+        dropdown.addOption(model, model);
+      }
+      dropdown.setValue(this.settings.model);
+      dropdown.onChange((value) => {
+        this.settings.model = value;
+        this.reload();
+      });
+    });
+  }
+  addOutputVariableNameSetting(container) {
+    new import_obsidian39.Setting(container).setName("Output variable name").setDesc(
+      "The name of the variable used to store the AI Assistant output, i.e. {{value:output}}."
+    ).addText((text2) => {
+      text2.setValue(this.settings.outputVariableName).onChange(
+        (value) => {
+          this.settings.outputVariableName = value;
+        }
+      );
+    });
+  }
+  addSystemPromptSetting(contentEl) {
+    new import_obsidian39.Setting(contentEl).setName("System Prompt").setDesc("The system prompt for the AI Assistant");
+    const container = this.contentEl.createEl("div");
+    const tokenCount = container.createEl("span");
+    tokenCount.style.color = "var(--text-muted-color)";
+    container.appendChild(tokenCount);
+    const textAreaComponent = new import_obsidian39.TextAreaComponent(contentEl);
+    textAreaComponent.setValue(this.settings.systemPrompt).onChange(async (value) => {
+      this.settings.systemPrompt = value;
+      formatDisplay.innerText = await displayFormatter.format(value);
+      updateTokenCount();
+    });
+    new FormatSyntaxSuggester(
+      this.app,
+      textAreaComponent.inputEl,
+      QuickAdd.instance
+    );
+    const displayFormatter = new FormatDisplayFormatter(
+      this.app,
+      QuickAdd.instance
+    );
+    textAreaComponent.inputEl.style.width = "100%";
+    textAreaComponent.inputEl.style.height = "100px";
+    textAreaComponent.inputEl.style.minHeight = "100px";
+    textAreaComponent.inputEl.style.marginBottom = "1em";
+    const formatDisplay = this.contentEl.createEl("span");
+    const updateTokenCount = (0, import_obsidian39.debounce)(() => {
+      tokenCount.innerText = `Token count: ${this.systemPromptTokenLength}`;
+    }, 50);
+    updateTokenCount();
+    void (async () => formatDisplay.innerText = await displayFormatter.format(
+      this.settings.systemPrompt ?? ""
+    ))();
+  }
+  addShowAdvancedSettingsToggle(container) {
+    new import_obsidian39.Setting(container).setName("Show advanced settings").setDesc(
+      "Show advanced settings such as temperature, top p, and frequency penalty."
+    ).addToggle((toggle) => {
+      toggle.setValue(this.showAdvancedSettings);
+      toggle.onChange((value) => {
+        this.showAdvancedSettings = value;
+        this.reload();
+      });
+    });
+  }
+  addTemperatureSetting(container) {
+    new import_obsidian39.Setting(container).setName("Temperature").setDesc(
+      "Sampling temperature. Higher values like 0.8 makes the output more random, whereas lower values like 0.2 will make it more focused and deterministic. The default is 1."
+    ).addSlider((slider) => {
+      slider.setLimits(0, 1, 0.1);
+      slider.setDynamicTooltip();
+      slider.setValue(
+        this.settings.modelParameters.temperature ?? DEFAULT_TEMPERATURE
+      );
+      slider.onChange((value) => {
+        this.settings.modelParameters.temperature = value;
+      });
+    });
+  }
+  addTopPSetting(container) {
+    new import_obsidian39.Setting(container).setName("Top P").setDesc(
+      "Nucleus sampling - consider this an alternative to temperature. The model considers the results of the tokens with top_p probability mass. 0.1 means only tokens compromising the top 10% probability mass are considered. The default is 1."
+    ).addSlider((slider) => {
+      slider.setLimits(0, 1, 0.1);
+      slider.setDynamicTooltip();
+      slider.setValue(
+        this.settings.modelParameters.top_p ?? DEFAULT_TOP_P
+      );
+      slider.onChange((value) => {
+        this.settings.modelParameters.top_p = value;
+      });
+    });
+  }
+  addFrequencyPenaltySetting(container) {
+    new import_obsidian39.Setting(container).setName("Frequency Penalty").setDesc(
+      "Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model's likelihood to repeat the same line verbatim. The default is 0."
+    ).addSlider((slider) => {
+      slider.setLimits(0, 2, 0.1);
+      slider.setDynamicTooltip();
+      slider.setValue(
+        this.settings.modelParameters.frequency_penalty ?? DEFAULT_FREQUENCY_PENALTY
+      );
+      slider.onChange((value) => {
+        this.settings.modelParameters.frequency_penalty = value;
+      });
+    });
+  }
+  addPresencePenaltySetting(container) {
+    new import_obsidian39.Setting(container).setName("Presence Penalty").setDesc(
+      "Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics. The default is 0."
+    ).addSlider((slider) => {
+      slider.setLimits(0, 2, 0.1);
+      slider.setDynamicTooltip();
+      slider.setValue(
+        this.settings.modelParameters.presence_penalty ?? DEFAULT_PRESENCE_PENALTY
+      );
+      slider.onChange((value) => {
+        this.settings.modelParameters.presence_penalty = value;
+      });
+    });
+  }
+  addResultJoinerSetting(container) {
+    new import_obsidian39.Setting(container).setName("Result Joiner").setDesc(
+      "The string used to join multiple LLM responses together. The default is a newline."
+    ).addText((text2) => {
+      text2.setValue(this.settings.resultJoiner).onChange((value) => {
+        this.settings.resultJoiner = value;
+      });
+    });
+  }
+  addChunkSeparatorSetting(container) {
+    new import_obsidian39.Setting(container).setName("Chunk Separator").setDesc(
+      "The string used to separate chunks of text. The default is a newline."
+    ).addText((text2) => {
+      text2.setValue(this.settings.chunkSeparator).onChange(
+        (value) => {
+          this.settings.chunkSeparator = value;
+        }
+      );
+    });
+  }
+  addMaxTokensSetting(container) {
+    new import_obsidian39.Setting(container).setName("Max Chunk Tokens").setDesc(
+      "The maximum number of tokens in each chunk, calculated as the chunk token size + prompt template token size + system prompt token size. Make sure you leave room for the model to respond to the prompt."
+    ).addSlider((slider) => {
+      const modelMaxTokens = getModelMaxTokens(this.settings.model);
+      slider.setLimits(1, modelMaxTokens - this.systemPromptTokenLength, 1);
+      slider.setDynamicTooltip();
+      slider.setValue(this.settings.maxChunkTokens);
+      slider.onChange((value) => {
+        this.settings.maxChunkTokens = value;
+      });
+    });
+  }
+  addMergeChunksSetting(container) {
+    new import_obsidian39.Setting(container).setName("Merge Chunks").setDesc(
+      "Merge chunks together by putting them in the same prompt, until the max tokens limit is reached. Useful for sending fewer queries overall, but may result in less coherent responses."
+    ).addToggle((toggle) => {
+      toggle.setValue(this.settings.mergeChunks);
+      toggle.onChange((value) => {
+        this.settings.mergeChunks = value;
+      });
+    });
+  }
+  onClose() {
+    this.resolvePromise(this.settings);
+    super.onClose();
+  }
+};
+
 // src/main.ts
-var QuickAdd = class extends import_obsidian37.Plugin {
+var QuickAdd = class extends import_obsidian40.Plugin {
   get api() {
     return QuickAddApi.GetApi(app, this, new ChoiceExecutor(app, this));
   }
@@ -18913,7 +19510,19 @@ var QuickAdd = class extends import_obsidian37.Plugin {
         }
         console.log(`Test QuickAdd (dev)`);
         const fn2 = () => {
-          new UpdateModal("0.12.0").open();
+          new InfiniteAIAssistantCommandSettingsModal({
+            id: "test",
+            name: "Test",
+            model: "gpt-4",
+            modelParameters: {},
+            outputVariableName: "test",
+            systemPrompt: "test",
+            type: "AIAssistant" /* AIAssistant */,
+            resultJoiner: "\\n",
+            chunkSeparator: "\\n",
+            maxChunkTokens: 100,
+            mergeChunks: false
+          });
         };
         void fn2();
       }
