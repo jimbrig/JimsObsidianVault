@@ -13,6 +13,22 @@
         "icon": "calendar",
         "label": "Insert Date field"
       }
+    },
+    {
+      "name": "Tags",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesFromDVQuery",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": "dv.pages().file.tags.map(s => s.slice(1)).distinct()"
+      },
+      "id": "2",
+      "type": "Multi",
+      "command": {
+        "id": "insert__presetField__Tags",
+        "icon": "tags",
+        "label": "Insert Tags field"
+      }
     }
   ],
   "fileClassQueries": [],

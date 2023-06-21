@@ -8,7 +8,7 @@ Alias: [ "GitHub Downloads with Bash" ]
 # GitHub Downloads
 
 > [!SOURCE] Sources
-> - *[[gh-dl-release] Download Assets from Private GitHub Releases #script #bash #powershell #github #utility](https://gist.github.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a)*
+> - *[[gh-dl-release] Download Assets from Private GitHub Releases](https://gist.github.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a)*
 
 ## Contents
 

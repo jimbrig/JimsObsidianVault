@@ -8,7 +8,7 @@ Alias: [ "GitHub Downloads" ]
 # GitHub Downloads
 
 > [!SOURCE] Sources
-> - *[[gh-dl-release] Download Assets from Private GitHub Releases #script #bash #powershell #github #utility](https://gist.github.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a#file-get-githubrelease-ps1)*
+> - *[[gh-dl-release] Download Assets from Private GitHub Releases](https://gist.github.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a#file-get-githubrelease-ps1)*
 > - *[PSScripts/Get-GitHubRelease at main · jimbrig/PSScripts](https://github.com/jimbrig/PSScripts/tree/main/Get-GitHubRelease)*
 > - *[PowerShell Gallery | Get-GitHubRelease 1.0.1](https://www.powershellgallery.com/packages/Get-GitHubRelease/1.0.1)*
 
