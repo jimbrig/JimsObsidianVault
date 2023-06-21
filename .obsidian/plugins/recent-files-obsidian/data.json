@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Automate Automation Part 1 - Azure DevOps Terraform Provider",
+      "path": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md"
+    },
+    {
+      "basename": "Flowise is an open source no-code UI visual tool to build langchain applications",
+      "path": "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md"
+    },
+    {
+      "basename": "Geoffrey Hinton - Two Paths to Intelligence",
+      "path": "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md"
+    },
+    {
+      "basename": "Improving Your GTD Weekly Review",
+      "path": "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md"
+    },
+    {
+      "basename": "Keep Terraform up-to-date with Rennovate",
+      "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
+    },
+    {
+      "basename": "2023-06-20",
+      "path": "Daily/2023-06-20.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "PowerShell - PSStyle",
+      "path": "Inbox/PowerShell - PSStyle.md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
+      "basename": "Testing Text Generator AI",
+      "path": "Inbox/Testing Text Generator AI.md"
+    },
+    {
+      "basename": "How To use DISKPART on Windows",
+      "path": "Guides/Windows/How To use DISKPART on Windows.md"
+    },
+    {
       "basename": "GHA - Publish Blog Posts",
       "path": "Code/GitHub Actions/GHA - Publish Blog Posts.md"
     },
@@ -69,10 +113,6 @@
       "path": "Code/CMD/Disk Management/Cmd - DISKPART.md"
     },
     {
-      "basename": "How To use DISKPART on Windows",
-      "path": "Guides/Windows/How To use DISKPART on Windows.md"
-    },
-    {
       "basename": "_README",
       "path": "Guides/Windows/_README.md"
     },
@@ -93,10 +133,6 @@
       "path": "Daily/2023-06-19.md"
     },
     {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
       "basename": "2023-06-14",
       "path": "Daily/2023/06-June/2023-06-14.md"
     },
@@ -109,20 +145,8 @@
       "path": "Inbox/Laptop Purchasing Guide.md"
     },
     {
-      "basename": "PowerShell - PSStyle",
-      "path": "Inbox/PowerShell - PSStyle.md"
-    },
-    {
-      "basename": "Testing Text Generator AI",
-      "path": "Inbox/Testing Text Generator AI.md"
-    },
-    {
       "basename": "2023-06-17",
       "path": "Daily/2023/06-June/2023-06-17.md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
     },
     {
       "basename": "2023-06-16",
@@ -175,30 +199,6 @@
     {
       "basename": "06 Functions",
       "path": "Guides/PowerShell Development/PowerShell Profile/06 Functions.md"
-    },
-    {
-      "basename": "05 Scripts",
-      "path": "Guides/PowerShell Development/PowerShell Profile/05 Scripts.md"
-    },
-    {
-      "basename": "04 Modules",
-      "path": "Guides/PowerShell Development/PowerShell Profile/04 Modules.md"
-    },
-    {
-      "basename": "03 Custom Code",
-      "path": "Guides/PowerShell Development/PowerShell Profile/03 Custom Code.md"
-    },
-    {
-      "basename": "02 Overview of Components",
-      "path": "Guides/PowerShell Development/PowerShell Profile/02 Overview of Components.md"
-    },
-    {
-      "basename": "PowerShell Profile Setup and Best Practices",
-      "path": "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/_README.md"
     }
   ],
   "omittedPaths": [],
