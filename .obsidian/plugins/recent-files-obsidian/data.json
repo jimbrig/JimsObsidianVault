@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Template-Daily-Note",
+      "path": "Templates/Core-Templates/Template-Daily-Note.md"
+    },
+    {
+      "basename": "Todoist Test",
+      "path": "Archives/Todoist Test.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Meta/Ideas.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "Meta/Settings.md"
+    },
+    {
+      "basename": "References",
+      "path": "Meta/References.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Meta/_README.md"
+    },
+    {
+      "basename": "Sources",
+      "path": "Meta/Sources.md"
+    },
+    {
+      "basename": "Workflows",
+      "path": "Meta/Workflows.md"
+    },
+    {
+      "basename": "Folders",
+      "path": "Meta/Folders.md"
+    },
+    {
+      "basename": "Tags",
+      "path": "Meta/Tags.md"
+    },
+    {
+      "basename": "Community Plugins",
+      "path": "Meta/Community Plugins.md"
+    },
+    {
+      "basename": "Built-In Plugins",
+      "path": "Meta/Built-In Plugins.md"
+    },
+    {
       "basename": "2023-06-20",
       "path": "Daily/2023-06-20.md"
     },
@@ -23,10 +79,6 @@
     {
       "basename": "Keep Terraform up-to-date with Rennovate",
       "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "PowerShell - PSStyle",
@@ -147,58 +199,6 @@
     {
       "basename": "2023-06-17",
       "path": "Daily/2023/06-June/2023-06-17.md"
-    },
-    {
-      "basename": "2023-06-16",
-      "path": "Daily/2023/06-June/2023-06-16.md"
-    },
-    {
-      "basename": "PowerShell - Write Helpers",
-      "path": "Code/PowerShell/PowerShell - Write Helpers.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
-    },
-    {
-      "basename": "01 Getting Started",
-      "path": "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md"
-    },
-    {
-      "basename": "Structure",
-      "path": "Guides/PowerShell Development/PowerShell Profile/Structure.md"
-    },
-    {
-      "basename": "13 Automation",
-      "path": "Guides/PowerShell Development/PowerShell Profile/13 Automation.md"
-    },
-    {
-      "basename": "12 Logging",
-      "path": "Guides/PowerShell Development/PowerShell Profile/12 Logging.md"
-    },
-    {
-      "basename": "11 PSReadLine",
-      "path": "Guides/PowerShell Development/PowerShell Profile/11 PSReadLine.md"
-    },
-    {
-      "basename": "10 Prompt",
-      "path": "Guides/PowerShell Development/PowerShell Profile/10 Prompt.md"
-    },
-    {
-      "basename": "09 Options and Settings",
-      "path": "Guides/PowerShell Development/PowerShell Profile/09 Options and Settings.md"
-    },
-    {
-      "basename": "08 Completions",
-      "path": "Guides/PowerShell Development/PowerShell Profile/08 Completions.md"
-    },
-    {
-      "basename": "07 Aliases",
-      "path": "Guides/PowerShell Development/PowerShell Profile/07 Aliases.md"
-    },
-    {
-      "basename": "06 Functions",
-      "path": "Guides/PowerShell Development/PowerShell Profile/06 Functions.md"
     }
   ],
   "omittedPaths": [],

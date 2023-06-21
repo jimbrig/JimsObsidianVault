@@ -9,6 +9,21 @@ Alias: [ "<% tp.date.now("YYYY-MM-DD") %>" ]
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
+## Tasks
+
+<details>
+<summary>View</summary>
+```todoist
+name: Highest Priority & Date
+filter: "today | overdue"
+sorting: 
+   - date
+   - priority
+group: true
+```
+</details>
+
+
 ## Journal
 
 > Personalized daily activity logs
