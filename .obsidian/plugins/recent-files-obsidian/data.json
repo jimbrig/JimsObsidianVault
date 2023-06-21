@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-20",
+      "path": "Daily/2023-06-20.md"
+    },
+    {
       "basename": "Automate Automation Part 1 - Azure DevOps Terraform Provider",
       "path": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Keep Terraform up-to-date with Rennovate",
       "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
-    },
-    {
-      "basename": "2023-06-20",
-      "path": "Daily/2023-06-20.md"
     },
     {
       "basename": "HOME",
