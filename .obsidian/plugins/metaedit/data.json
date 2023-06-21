@@ -1,0 +1,32 @@
+{
+  "ProgressProperties": {
+    "enabled": true,
+    "properties": []
+  },
+  "IgnoredProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Author",
+        "choices": [
+          "Jimmy Briggs <jimmy.briggs@jimbrig.com>"
+        ]
+      }
+    ]
+  },
+  "EditMode": {
+    "mode": "All Single",
+    "properties": []
+  },
+  "KanbanHelper": {
+    "enabled": false,
+    "boards": []
+  },
+  "UIElements": {
+    "enabled": true
+  }
+}

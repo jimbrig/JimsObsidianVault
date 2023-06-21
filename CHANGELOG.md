@@ -1,4 +1,5 @@
-- 2023-06-21 at 17h09 · [[Template-Daily-Note]]
+- 2023-06-21 at 17h12 · [[2023-06-21]]
+- 2023-06-21 at 17h11 · [[Template-Daily-Note]]
 - 2023-06-21 at 17h02 · [[Todoist Test]]
 - 2023-06-21 at 16h55 · [[Ideas]]
 - 2023-06-21 at 16h54 · [[README]]
@@ -47,4 +48,3 @@
 - 2023-06-16 at 18h05 · [[Laptop Purchasing Guide]]
 - 2023-06-16 at 16h38 · [[2023-06-16]]
 - 2023-06-14 at 19h11 · [[PowerShell - Write Helpers]]
-- 2023-06-14 at 19h06 · [[_README]]

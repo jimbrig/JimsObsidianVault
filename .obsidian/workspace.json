@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Core-Templates/Template-Daily-Note.md",
+                "file": "Daily/2023-06-21.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Core-Templates/Template-Daily-Note.md"
+                "file": "Daily/2023-06-21.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Core-Templates/Template-Daily-Note.md",
+                "file": "Daily/2023-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Core-Templates/Template-Daily-Note.md",
+                "file": "Daily/2023-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Core-Templates/Template-Daily-Note.md",
+                "file": "Daily/2023-06-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -354,15 +354,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "open-vscode:VSCode": false,
       "smart-random-note:Open Random Note from Search": false,
-      "obsidian-omnivore:Omnivore": false,
       "homepage:Open homepage": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "c4c724f711ed438f",
   "lastOpenFiles": [
+    "Templates/Core-Templates/Template-Daily-Note.md",
+    "Daily/2023-06-21.md",
     "Archives/Todoist Test.md",
     "Archives",
     "Meta/Ideas.md",
@@ -391,7 +393,6 @@
     "Inbox/Testing Text Generator AI.md",
     "Guides/Windows/How To use DISKPART on Windows.md",
     "Code/GitHub Actions/GHA - Publish Blog Posts.md",
-    "Templates/Code-Templates/Template-Code-GHA.md",
     "Code/CMD/Drivers",
     "Guides/Windows",
     "Guides/Excel",

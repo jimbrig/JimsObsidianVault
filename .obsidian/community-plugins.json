@@ -45,5 +45,8 @@
   "breadcrumbs",
   "readwise-official",
   "obsidian-textgenerator-plugin",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "obsidian-linter",
+  "metaedit",
+  "metadata-menu"
 ]
