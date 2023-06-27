@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-21.md",
+                "file": "Code/+Technologies.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -170,12 +170,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 587.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-21.md"
+                "file": "Code/+Technologies.md"
               }
             }
           },
@@ -213,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-21.md",
+                "file": "Code/+Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-21.md",
+                "file": "Code/+Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-21.md",
+                "file": "Code/+Technologies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,7 +329,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 484.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,42 +362,42 @@
   },
   "active": "c56a81e84516ea8b",
   "lastOpenFiles": [
-    "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
-    "Meta/Ideas.md",
-    "Code/PowerShell/PowerShell - GitHub Downloads.md",
-    "Code/Bash/Bash - GitHub Downloads.md",
-    "Daily/2023-06-21.md",
-    "Assets/Reports/wlan-report.md",
-    "Templates/Core-Templates/Template-Daily-Note.md",
-    "Archives/Todoist Test.md",
-    "Archives",
-    "README.md",
-    "HOME.md",
-    "Meta/Settings.md",
-    "Meta/References.md",
-    "Meta/_README.md",
-    "Meta/Sources.md",
-    "Meta/Workflows.md",
-    "Meta/Folders.md",
-    "Meta/Tags.md",
-    "Meta/Community Plugins.md",
-    "Meta/Built-In Plugins.md",
-    "Meta",
-    "Daily/2023-06-20.md",
-    "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md",
-    "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md",
-    "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md",
-    "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
-    "Assets/YouTube/2023-06-20",
-    "Assets/YouTube",
-    "Inbox/PowerShell - PSStyle.md",
-    "CHANGELOG.md",
-    "Code/CMD/Drivers",
-    "Guides/Windows",
-    "Guides/Excel",
-    "Guides/PowerShell Development/PowerShell Scripting",
-    "Guides/PowerShell Development/PowerShell Module Development",
-    "Guides/PowerShell Development/PowerShell DSC",
+    "Assets/Reports/d2utmp3JQyhP",
+    "d2utmpzFbTKp",
+    "requirements.txt",
+    "Code/GitHub Actions/_README.md",
+    "Code/+Technologies.md",
+    "Code/VBA/_README.md",
+    "Code/PowerShell/_README.md",
+    "Code/CMD/_README.md",
+    "Code/_README.md",
+    "Code/+Technologies",
+    "Logs/Vault Changelog.md",
+    "Sources/Documentation",
+    "Sources/Communications",
+    "Sources/Projects",
+    "Sources/Repositories",
+    "Sources/Code Snippets",
+    "Sources/Whitepapers",
+    "Sources/Wikipedia",
+    "Logs/ADRs/005-Choose-Tools.md",
+    "Logs/ADRs/004-Use-Version-Control-via-Obsidian-Git.md",
+    "Logs/ADRs/003-Use-GitHub-Actions.md",
+    "Logs/ADRs/002-Choose-Hosting-Platform.md",
+    "Logs/ADRs/001-Choose-Publishing-Option.md",
+    "Logs/ADRs/000-Use-ADRs.md",
+    "Logs/ADRs/_README.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/Pandoc.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/Raindrop.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/Readwise Reader.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/Hypothesis.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/Matter.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/Omnivore.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/Readwise.md",
+    "Tools/Obsidian Plugins and Tools/Other Tools/obsidian-export.md",
+    "Tools/Obsidian Plugins and Tools/Plugins/Community Plugins.md",
+    "Meta/Workflows/Re-Structuring Vaults.md",
+    "Meta/Workflows/Best Practices.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

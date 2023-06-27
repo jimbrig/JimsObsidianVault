@@ -1,6 +1,142 @@
 {
   "recentFiles": [
     {
+      "basename": "+Technologies",
+      "path": "Code/+Technologies.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/GitHub Actions/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/VBA/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/PowerShell/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/CMD/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
+    },
+    {
+      "basename": "Vault Changelog",
+      "path": "Logs/Vault Changelog.md"
+    },
+    {
+      "basename": "005-Choose-Tools",
+      "path": "Logs/ADRs/005-Choose-Tools.md"
+    },
+    {
+      "basename": "004-Use-Version-Control-via-Obsidian-Git",
+      "path": "Logs/ADRs/004-Use-Version-Control-via-Obsidian-Git.md"
+    },
+    {
+      "basename": "003-Use-GitHub-Actions",
+      "path": "Logs/ADRs/003-Use-GitHub-Actions.md"
+    },
+    {
+      "basename": "002-Choose-Hosting-Platform",
+      "path": "Logs/ADRs/002-Choose-Hosting-Platform.md"
+    },
+    {
+      "basename": "001-Choose-Publishing-Option",
+      "path": "Logs/ADRs/001-Choose-Publishing-Option.md"
+    },
+    {
+      "basename": "000-Use-ADRs",
+      "path": "Logs/ADRs/000-Use-ADRs.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Logs/ADRs/_README.md"
+    },
+    {
+      "basename": "Pandoc",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Pandoc.md"
+    },
+    {
+      "basename": "Raindrop",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Raindrop.md"
+    },
+    {
+      "basename": "Readwise Reader",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Readwise Reader.md"
+    },
+    {
+      "basename": "Hypothesis",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Hypothesis.md"
+    },
+    {
+      "basename": "Matter",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Matter.md"
+    },
+    {
+      "basename": "Omnivore",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Omnivore.md"
+    },
+    {
+      "basename": "Readwise",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Readwise.md"
+    },
+    {
+      "basename": "obsidian-export",
+      "path": "Tools/Obsidian Plugins and Tools/Other Tools/obsidian-export.md"
+    },
+    {
+      "basename": "Community Plugins",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/Community Plugins.md"
+    },
+    {
+      "basename": "Re-Structuring Vaults",
+      "path": "Meta/Workflows/Re-Structuring Vaults.md"
+    },
+    {
+      "basename": "Best Practices",
+      "path": "Meta/Workflows/Best Practices.md"
+    },
+    {
+      "basename": "Built-In Plugins",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/Built-In Plugins.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Tools/Obsidian Plugins and Tools/_README.md"
+    },
+    {
+      "basename": "DataView Plugin",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView Plugin.md"
+    },
+    {
+      "basename": "DataView Inline DQL Examples",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView Inline DQL Examples.md"
+    },
+    {
+      "basename": "DataView DQL Examples",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView DQL Examples.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/_README.md"
+    },
+    {
+      "basename": "Dataview.js Inline JavaScript Examples",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/Dataview.js Inline JavaScript Examples.md"
+    },
+    {
+      "basename": "DataView.js JavaScript Examples",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView.js JavaScript Examples.md"
+    },
+    {
+      "basename": "Tags",
+      "path": "Meta/Tags.md"
+    },
+    {
       "basename": "2023-06-21",
       "path": "Daily/2023-06-21.md"
     },
@@ -54,151 +190,15 @@
     },
     {
       "basename": "Workflows",
-      "path": "Meta/Workflows.md"
+      "path": "Meta/Workflows/Workflows.md"
     },
     {
       "basename": "Folders",
       "path": "Meta/Folders.md"
     },
     {
-      "basename": "Tags",
-      "path": "Meta/Tags.md"
-    },
-    {
-      "basename": "Community Plugins",
-      "path": "Meta/Community Plugins.md"
-    },
-    {
-      "basename": "Built-In Plugins",
-      "path": "Meta/Built-In Plugins.md"
-    },
-    {
       "basename": "2023-06-20",
       "path": "Daily/2023-06-20.md"
-    },
-    {
-      "basename": "Flowise is an open source no-code UI visual tool to build langchain applications",
-      "path": "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md"
-    },
-    {
-      "basename": "Geoffrey Hinton - Two Paths to Intelligence",
-      "path": "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md"
-    },
-    {
-      "basename": "Improving Your GTD Weekly Review",
-      "path": "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md"
-    },
-    {
-      "basename": "Keep Terraform up-to-date with Rennovate",
-      "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
-    },
-    {
-      "basename": "PowerShell - PSStyle",
-      "path": "Inbox/PowerShell - PSStyle.md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
-    },
-    {
-      "basename": "Testing Text Generator AI",
-      "path": "Inbox/Testing Text Generator AI.md"
-    },
-    {
-      "basename": "How To use DISKPART on Windows",
-      "path": "Guides/Windows/How To use DISKPART on Windows.md"
-    },
-    {
-      "basename": "GHA - Publish Blog Posts",
-      "path": "Code/GitHub Actions/GHA - Publish Blog Posts.md"
-    },
-    {
-      "basename": "Template-Code-GHA",
-      "path": "Templates/Code-Templates/Template-Code-GHA.md"
-    },
-    {
-      "basename": "GHA - Automate Changelog",
-      "path": "Code/GitHub Actions/GHA - Automate Changelog.md"
-    },
-    {
-      "basename": "GHA - Build R Package pkgdown Site",
-      "path": "Code/GitHub Actions/GHA - Build R Package pkgdown Site.md"
-    },
-    {
-      "basename": "GHA - Build R Package",
-      "path": "Code/GitHub Actions/GHA - Build R Package.md"
-    },
-    {
-      "basename": "GHA - Publish PowerShell Module",
-      "path": "Code/GitHub Actions/GHA - Publish PowerShell Module.md"
-    },
-    {
-      "basename": "GHA - Build PowerShell Module",
-      "path": "Code/GitHub Actions/GHA - Build PowerShell Module.md"
-    },
-    {
-      "basename": "GHA - GitHub Pages",
-      "path": "Code/GitHub Actions/GHA - GitHub Pages.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/GitHub Actions/_README.md"
-    },
-    {
-      "basename": "Cmd - Run WinSAT Diagnostics",
-      "path": "Code/CMD/Troubleshooting/Cmd - Run WinSAT Diagnostics.md"
-    },
-    {
-      "basename": "Cmd - Run Hardware Diagnostics Troubleshooter",
-      "path": "Code/CMD/Troubleshooting/Cmd - Run Hardware Diagnostics Troubleshooter.md"
-    },
-    {
-      "basename": "Cmd - netstat",
-      "path": "Code/CMD/Networking/Cmd - netstat.md"
-    },
-    {
-      "basename": "Cmd - DevCon",
-      "path": "Code/CMD/Drivers/Cmd - DevCon.md"
-    },
-    {
-      "basename": "Built-In Windows Command Line Tools List",
-      "path": "Lists/Built-In Windows Command Line Tools List.md"
-    },
-    {
-      "basename": "Cmd - Sxstrace",
-      "path": "Code/CMD/Troubleshooting/Cmd - Sxstrace.md"
-    },
-    {
-      "basename": "Cmd - FSUTIL",
-      "path": "Code/CMD/Disk Management/Cmd - FSUTIL.md"
-    },
-    {
-      "basename": "Cmd - DISKPART",
-      "path": "Code/CMD/Disk Management/Cmd - DISKPART.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/Windows/_README.md"
-    },
-    {
-      "basename": "How to Document Spreadsheets",
-      "path": "Guides/Excel/How to Document Spreadsheets.md"
-    },
-    {
-      "basename": "An Exploration of Data vs Metadata",
-      "path": "Inbox/An Exploration of Data vs Metadata.md"
-    },
-    {
-      "basename": "🌲 Don't Minimize Difficulty",
-      "path": "Readwise/Articles/🌲 Don't Minimize Difficulty.md"
-    },
-    {
-      "basename": "2023-06-19",
-      "path": "Daily/2023-06-19.md"
-    },
-    {
-      "basename": "2023-06-14",
-      "path": "Daily/2023/06-June/2023-06-14.md"
     }
   ],
   "omittedPaths": [],

@@ -11,7 +11,7 @@
 	- Here is a link to the [official instructions](https://github.com/nhaouari/obsidian-textgenerator-plugin) for the Text Generator Plugin
 
 - [[MOCs/_README|Maps of Content]], or `MOCs`
-	- Utilize the [[Dataview Plugin]]
+	- Utilize the [[DataView Plugin]]
 
 ## Structure
 

@@ -18,6 +18,18 @@ Alias: [ "Code", "Code Snippets", "Scripts", "Code Folder" ]
 LIST FROM "Code" AND -"CHANGELOG" AND -"Code/_README"
 ```
 
+### Bash
+
+```dataview
+LIST FROM "Code/Bash" AND -"Code/Bash/_README" AND -"Code/_README"
+```
+
+```dataview
+TABLE
+join(file.tags, " ") as Tags
+FROM "Code/Bash" AND -"Code/Bash/_README" AND -"Code/_README"
+```
+
 ***
 
 ## Appendix: Links and References

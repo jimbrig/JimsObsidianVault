@@ -1,0 +1,21 @@
+pandas
+numpy
+python-dotenv
+plotly
+matplotlib
+python-dateutil
+
+autograph-obsidian
+obsidian-metadata
+
+openai
+transformers
+
+black
+flake8
+
+# git+https://github.com/khalednassar/obyde
+
+pyperclip
+pyyaml
+python-frontmatter

@@ -29,6 +29,18 @@
         "icon": "tags",
         "label": "Insert Tags field"
       }
+    },
+    {
+      "name": "Type",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesFromDVQuery",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": "dv.pages().file.tags.map(s => s.slice(1)).distinct()"
+      },
+      "id": "3",
+      "type": "Multi",
+      "display": "asArray"
     }
   ],
   "fileClassQueries": [],

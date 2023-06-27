@@ -1,0 +1,1 @@
+FROM linbreux/wikimd:latest
