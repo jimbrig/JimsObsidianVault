@@ -5,8 +5,24 @@
       "path": "Daily/2023-06-28.md"
     },
     {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "2023-06-27",
       "path": "Daily/2023-06-27.md"
+    },
+    {
+      "basename": "Checklist - Software Release",
+      "path": "Lists/Checklists/Checklist - Software Release.md"
+    },
+    {
+      "basename": "Tupac Quotes",
+      "path": "Inbox/Tupac Quotes.md"
+    },
+    {
+      "basename": "31 Powerful Tupac Quotes and Lyrics to Inspire You",
+      "path": "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md"
     },
     {
       "basename": "2023-06-26",
@@ -15,10 +31,6 @@
     {
       "basename": "_README",
       "path": "Lists/Checklists/_README.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "2023-06-20",
@@ -35,10 +47,6 @@
     {
       "basename": "Flowise is an open source no-code UI visual tool to build langchain applications",
       "path": "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md"
-    },
-    {
-      "basename": "Checklist - Software Release",
-      "path": "Lists/Checklists/Checklist - Software Release.md"
     },
     {
       "basename": "Template-Footer",
@@ -191,14 +199,6 @@
     {
       "basename": "Re-Structuring Vaults",
       "path": "Meta/Workflows/Re-Structuring Vaults.md"
-    },
-    {
-      "basename": "Best Practices",
-      "path": "Meta/Workflows/Best Practices.md"
-    },
-    {
-      "basename": "Built-In Plugins",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/Built-In Plugins.md"
     }
   ],
   "omittedPaths": [],
