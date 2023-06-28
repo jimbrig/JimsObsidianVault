@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-28",
+      "path": "Daily/2023-06-28.md"
+    },
+    {
+      "basename": "2023-06-27",
+      "path": "Daily/2023-06-27.md"
+    },
+    {
+      "basename": "2023-06-26",
+      "path": "2023-06-26.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Lists/Checklists/_README.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "2023-06-20",
+      "path": "Daily/2023-06-20.md"
+    },
+    {
+      "basename": "Template-Frontmatter-Enhanced",
+      "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+    },
+    {
+      "basename": "Keep Terraform up-to-date with Rennovate",
+      "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
+    },
+    {
+      "basename": "Flowise is an open source no-code UI visual tool to build langchain applications",
+      "path": "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md"
+    },
+    {
+      "basename": "Checklist - Software Release",
+      "path": "Lists/Checklists/Checklist - Software Release.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "Template-Checklist",
+      "path": "Templates/Utility-Templates/Template-Checklist.md"
+    },
+    {
+      "basename": "Template-MOC",
+      "path": "Templates/Core-Templates/Template-MOC.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Meta/Ideas.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "Template-Development",
+      "path": "Templates/Core-Templates/Template-Development.md"
+    },
+    {
+      "basename": "Template-Default",
+      "path": "Templates/Core-Templates/Template-Default.md"
+    },
+    {
+      "basename": "Template-Daily-Note",
+      "path": "Templates/Core-Templates/Template-Daily-Note.md"
+    },
+    {
+      "basename": "Template-List",
+      "path": "Templates/Utility-Templates/Template-List.md"
+    },
+    {
+      "basename": "PowerShell - GitHub Downloads",
+      "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
+    },
+    {
+      "basename": "Geoffrey Hinton - Two Paths to Intelligence",
+      "path": "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md"
+    },
+    {
+      "basename": "Checklist - Basic Project Completion",
+      "path": "Lists/Checklists/Checklist - Basic Project Completion.md"
+    },
+    {
+      "basename": "Checklist - Basic Project Initialization",
+      "path": "Lists/Checklists/Checklist - Basic Project Initialization.md"
+    },
+    {
+      "basename": "SysInternals",
+      "path": "Inbox/SysInternals.md"
+    },
+    {
       "basename": "+Technologies",
       "path": "Code/+Technologies.md"
     },
@@ -103,102 +199,6 @@
     {
       "basename": "Built-In Plugins",
       "path": "Tools/Obsidian Plugins and Tools/Plugins/Built-In Plugins.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Tools/Obsidian Plugins and Tools/_README.md"
-    },
-    {
-      "basename": "DataView Plugin",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView Plugin.md"
-    },
-    {
-      "basename": "DataView Inline DQL Examples",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView Inline DQL Examples.md"
-    },
-    {
-      "basename": "DataView DQL Examples",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView DQL Examples.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/_README.md"
-    },
-    {
-      "basename": "Dataview.js Inline JavaScript Examples",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/Dataview.js Inline JavaScript Examples.md"
-    },
-    {
-      "basename": "DataView.js JavaScript Examples",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/DataView/DataView.js JavaScript Examples.md"
-    },
-    {
-      "basename": "Tags",
-      "path": "Meta/Tags.md"
-    },
-    {
-      "basename": "2023-06-21",
-      "path": "Daily/2023-06-21.md"
-    },
-    {
-      "basename": "Automate Automation Part 1 - Azure DevOps Terraform Provider",
-      "path": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "Meta/Ideas.md"
-    },
-    {
-      "basename": "PowerShell - GitHub Downloads",
-      "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
-    },
-    {
-      "basename": "Bash - GitHub Downloads",
-      "path": "Code/Bash/Bash - GitHub Downloads.md"
-    },
-    {
-      "basename": "Template-Daily-Note",
-      "path": "Templates/Core-Templates/Template-Daily-Note.md"
-    },
-    {
-      "basename": "Todoist Test",
-      "path": "Archives/Todoist Test.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "Meta/Settings.md"
-    },
-    {
-      "basename": "References",
-      "path": "Meta/References.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Meta/_README.md"
-    },
-    {
-      "basename": "Sources",
-      "path": "Meta/Sources.md"
-    },
-    {
-      "basename": "Workflows",
-      "path": "Meta/Workflows/Workflows.md"
-    },
-    {
-      "basename": "Folders",
-      "path": "Meta/Folders.md"
-    },
-    {
-      "basename": "2023-06-20",
-      "path": "Daily/2023-06-20.md"
     }
   ],
   "omittedPaths": [],

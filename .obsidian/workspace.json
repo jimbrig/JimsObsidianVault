@@ -22,101 +22,45 @@
             }
           },
           {
-            "id": "434bf5f690cc7a46",
+            "id": "6960a1c2e5379bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-06-27.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "8199b4a49fdaf8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-06-28.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "d9f39ab117805727",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-20.md",
-                "mode": "preview",
+                "file": "Lists/Checklists/Checklist - Software Release.md",
+                "mode": "source",
                 "backlinks": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5a131505020e105f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "be0d019dec864945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "34759bd305992b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "9687f06eb2d599a7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c56a81e84516ea8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/+Technologies.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "8e139effd357a78b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Ideas.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "c4c724f711ed438f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/PowerShell/PowerShell - GitHub Downloads.md",
-                "mode": "preview",
-                "backlinks": true
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/+Technologies.md"
+                "file": "Daily/2023-06-28.md"
               }
             }
           },
@@ -212,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/+Technologies.md",
+                "file": "Daily/2023-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/+Technologies.md",
+                "file": "Daily/2023-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/+Technologies.md",
+                "file": "Daily/2023-06-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -356,48 +300,47 @@
       "homepage:Open homepage": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "c56a81e84516ea8b",
+  "active": "8199b4a49fdaf8a0",
   "lastOpenFiles": [
+    "Daily/2023-06-28.md",
+    "2023-06-26.md",
+    "Daily/2023-06-27.md",
+    "Lists/Checklists/_README.md",
+    "HOME.md",
+    "Daily/2023-06-20.md",
+    "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+    "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
+    "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md",
+    "Lists/Checklists/Checklist - Software Release.md",
+    "Templates/Fragment-Templates/Template-Footer.md",
+    "Templates/Utility-Templates/Template-Checklist.md",
+    "Templates/Core-Templates/Template-MOC.md",
+    "Meta/Ideas.md",
+    "Templates/Fragment-Templates/Template-Frontmatter.md",
+    "Templates/Core-Templates/Template-Development.md",
+    "Templates/Core-Templates/Template-Default.md",
+    "Templates/Core-Templates/Template-Daily-Note.md",
+    "Templates/Utility-Templates/Template-List.md",
+    "Code/PowerShell/PowerShell - GitHub Downloads.md",
+    "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md",
+    "Lists/Checklists/Checklist - Basic Project Completion.md",
+    "Lists/Checklists/Checklist - Basic Project Initialization.md",
+    "Inbox/SysInternals.md",
+    "Lists/Checklists",
+    "Code/+Technologies.md",
     "Assets/Reports/d2utmp3JQyhP",
     "d2utmpzFbTKp",
     "requirements.txt",
     "Code/GitHub Actions/_README.md",
-    "Code/+Technologies.md",
-    "Code/VBA/_README.md",
-    "Code/PowerShell/_README.md",
-    "Code/CMD/_README.md",
-    "Code/_README.md",
     "Code/+Technologies",
-    "Logs/Vault Changelog.md",
     "Sources/Documentation",
     "Sources/Communications",
     "Sources/Projects",
     "Sources/Repositories",
     "Sources/Code Snippets",
-    "Sources/Whitepapers",
-    "Sources/Wikipedia",
-    "Logs/ADRs/005-Choose-Tools.md",
-    "Logs/ADRs/004-Use-Version-Control-via-Obsidian-Git.md",
-    "Logs/ADRs/003-Use-GitHub-Actions.md",
-    "Logs/ADRs/002-Choose-Hosting-Platform.md",
-    "Logs/ADRs/001-Choose-Publishing-Option.md",
-    "Logs/ADRs/000-Use-ADRs.md",
-    "Logs/ADRs/_README.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/Pandoc.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/Raindrop.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/Readwise Reader.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/Hypothesis.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/Matter.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/Omnivore.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/Readwise.md",
-    "Tools/Obsidian Plugins and Tools/Other Tools/obsidian-export.md",
-    "Tools/Obsidian Plugins and Tools/Plugins/Community Plugins.md",
-    "Meta/Workflows/Re-Structuring Vaults.md",
-    "Meta/Workflows/Best Practices.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
