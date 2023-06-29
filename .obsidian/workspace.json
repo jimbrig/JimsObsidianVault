@@ -27,10 +27,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-29.md",
+                "file": "RSS Feeds.md",
                 "mode": "source",
                 "backlinks": true
               }
+            }
+          },
+          {
+            "id": "288d36e29ada066f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -120,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-29.md"
+                "file": "RSS Feeds.md"
               }
             }
           },
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-29.md",
+                "file": "RSS Feeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-29.md",
+                "file": "RSS Feeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-29.md",
+                "file": "RSS Feeds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,8 +288,9 @@
   },
   "active": "d981b9274982b958",
   "lastOpenFiles": [
-    "Daily/2023-06-28.md",
+    "RSS Feeds.md",
     "Daily/2023-06-29.md",
+    "Daily/2023-06-28.md",
     "HOME.md",
     "Daily/2023-06-27.md",
     "Lists/Checklists/Checklist - Software Release.md",
@@ -305,7 +314,6 @@
     "Code/PowerShell/PowerShell - GitHub Downloads.md",
     "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md",
     "Lists/Checklists/Checklist - Basic Project Completion.md",
-    "Lists/Checklists/Checklist - Basic Project Initialization.md",
     "Lists/Checklists",
     "Assets/Reports/d2utmp3JQyhP",
     "d2utmpzFbTKp",

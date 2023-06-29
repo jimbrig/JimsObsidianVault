@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RSS Feeds",
+      "path": "RSS Feeds.md"
+    },
+    {
       "basename": "2023-06-29",
       "path": "Daily/2023-06-29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "obsidian-export",
       "path": "Tools/Obsidian Plugins and Tools/Other Tools/obsidian-export.md"
-    },
-    {
-      "basename": "Community Plugins",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/Community Plugins.md"
     }
   ],
   "omittedPaths": [],
