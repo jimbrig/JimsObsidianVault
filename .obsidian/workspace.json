@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-06-28.md",
+                "file": "Daily/2023-06-29.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-28.md"
+                "file": "Daily/2023-06-29.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-28.md",
+                "file": "Daily/2023-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-28.md",
+                "file": "Daily/2023-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-06-28.md",
+                "file": "Daily/2023-06-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,12 +280,13 @@
   },
   "active": "d981b9274982b958",
   "lastOpenFiles": [
+    "Daily/2023-06-28.md",
+    "Daily/2023-06-29.md",
     "HOME.md",
     "Daily/2023-06-27.md",
     "Lists/Checklists/Checklist - Software Release.md",
     "Inbox/Tupac Quotes.md",
     "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
-    "Daily/2023-06-28.md",
     "2023-06-26.md",
     "Lists/Checklists/_README.md",
     "Daily/2023-06-20.md",
@@ -305,7 +306,6 @@
     "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md",
     "Lists/Checklists/Checklist - Basic Project Completion.md",
     "Lists/Checklists/Checklist - Basic Project Initialization.md",
-    "Inbox/SysInternals.md",
     "Lists/Checklists",
     "Assets/Reports/d2utmp3JQyhP",
     "d2utmpzFbTKp",

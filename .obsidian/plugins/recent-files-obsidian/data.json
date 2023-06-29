@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-29",
+      "path": "Daily/2023-06-29.md"
+    },
+    {
       "basename": "2023-06-28",
       "path": "Daily/2023-06-28.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Community Plugins",
       "path": "Tools/Obsidian Plugins and Tools/Plugins/Community Plugins.md"
-    },
-    {
-      "basename": "Re-Structuring Vaults",
-      "path": "Meta/Workflows/Re-Structuring Vaults.md"
     }
   ],
   "omittedPaths": [],
