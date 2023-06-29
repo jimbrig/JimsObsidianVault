@@ -8,4 +8,17 @@
 		- [Track Awesome Python (vinta/awesome-python) Updates Daily - Track Awesome List](https://www.trackawesomelist.com/vinta/awesome-python/)
 		- [Track Awesome Flask (mjhea0/awesome-flask) Updates Daily - Track Awesome List](https://www.trackawesomelist.com/mjhea0/awesome-flask/)
 		- [Track Awesome Db Tools (mgramin/awesome-db-tools) Updates Daily - Track Awesome List](https://www.trackawesomelist.com/mgramin/awesome-db-tools/)
-		- 
+
+
+Awesome R
+Awesome R-Shiny (2)
+Awesome SysAdmin
+Awesome PowerShell
+Developer First
+LangChain
+
+Alternative Internet
+
+Newsletters: [zudochkin/awesome-newsletters: A list of amazing Newsletters (github.com)](https://github.com/zudochkin/awesome-newsletters)
+
+[Last posts (unzip.dev)](https://unzip.dev/archive/)
