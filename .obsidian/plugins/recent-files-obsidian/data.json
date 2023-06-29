@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "RSS Feeds",
-      "path": "RSS Feeds.md"
+      "basename": "Bash Aliases",
+      "path": "Bash Aliases.md"
     },
     {
       "basename": "2023-06-29",
       "path": "Daily/2023-06-29.md"
+    },
+    {
+      "basename": "Command Line Productivity Tools",
+      "path": "Command Line Productivity Tools.md"
+    },
+    {
+      "basename": "Shells",
+      "path": "Shells.md"
+    },
+    {
+      "basename": "RSS Feeds",
+      "path": "RSS Feeds.md"
     },
     {
       "basename": "2023-06-28",
@@ -187,18 +199,6 @@
     {
       "basename": "Matter",
       "path": "Tools/Obsidian Plugins and Tools/Other Tools/Matter.md"
-    },
-    {
-      "basename": "Omnivore",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Omnivore.md"
-    },
-    {
-      "basename": "Readwise",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Readwise.md"
-    },
-    {
-      "basename": "obsidian-export",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/obsidian-export.md"
     }
   ],
   "omittedPaths": [],

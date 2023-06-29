@@ -16,6 +16,9 @@ Awesome SysAdmin
 Awesome PowerShell
 Developer First
 LangChain
+Shell
+Docker
+Terraform
 
 Alternative Internet
 
