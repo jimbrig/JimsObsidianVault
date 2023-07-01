@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Online Developer Tools Master List",
+      "path": "Lists/Online Developer Tools Master List.md"
+    },
+    {
+      "basename": "Software for the Digital Life",
+      "path": "Lists/Software for the Digital Life.md"
+    },
+    {
+      "basename": "PowerShell Functions List",
+      "path": "Lists/PowerShell Functions List.md"
+    },
+    {
+      "basename": "Links",
+      "path": "Lists/Links.md"
+    },
+    {
+      "basename": "Built-In Windows Command Line Tools List",
+      "path": "Lists/Built-In Windows Command Line Tools List.md"
+    },
+    {
+      "basename": "Command Line Productivity Tools",
+      "path": "Command Line Productivity Tools.md"
+    },
+    {
       "basename": "Bash Aliases",
       "path": "Bash Aliases.md"
     },
     {
       "basename": "2023-06-29",
       "path": "Daily/2023-06-29.md"
-    },
-    {
-      "basename": "Command Line Productivity Tools",
-      "path": "Command Line Productivity Tools.md"
     },
     {
       "basename": "Shells",
@@ -179,26 +199,6 @@
     {
       "basename": "_README",
       "path": "Logs/ADRs/_README.md"
-    },
-    {
-      "basename": "Pandoc",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Pandoc.md"
-    },
-    {
-      "basename": "Raindrop",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Raindrop.md"
-    },
-    {
-      "basename": "Readwise Reader",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Readwise Reader.md"
-    },
-    {
-      "basename": "Hypothesis",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Hypothesis.md"
-    },
-    {
-      "basename": "Matter",
-      "path": "Tools/Obsidian Plugins and Tools/Other Tools/Matter.md"
     }
   ],
   "omittedPaths": [],

@@ -53,26 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command Line Productivity Tools.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "0dce6e8c579697d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash Aliases.md",
-                "mode": "source",
+                "file": "Lists/Online Developer Tools Master List.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash Aliases.md"
+                "file": "Lists/Online Developer Tools Master List.md"
               }
             }
           },
@@ -168,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash Aliases.md",
+                "file": "Lists/Online Developer Tools Master List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash Aliases.md",
+                "file": "Lists/Online Developer Tools Master List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bash Aliases.md",
+                "file": "Lists/Online Developer Tools Master List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,11 +304,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0dce6e8c579697d7",
+  "active": "adb529edd42bd596",
   "lastOpenFiles": [
-    "Daily/2023-06-29.md",
-    "Bash Aliases.md",
+    "Lists/Software for the Digital Life.md",
+    "Lists/Online Developer Tools Master List.md",
+    "Lists/PowerShell Functions List.md",
+    "Lists/Links.md",
+    "Lists/Built-In Windows Command Line Tools List.md",
     "Command Line Productivity Tools.md",
+    "Bash Aliases.md",
+    "Daily/2023-06-29.md",
     "Shells.md",
     "RSS Feeds.md",
     "Daily/2023-06-28.md",
@@ -339,11 +332,6 @@
     "Templates/Utility-Templates/Template-Checklist.md",
     "Templates/Core-Templates/Template-MOC.md",
     "Meta/Ideas.md",
-    "Templates/Fragment-Templates/Template-Frontmatter.md",
-    "Templates/Core-Templates/Template-Development.md",
-    "Templates/Core-Templates/Template-Default.md",
-    "Templates/Core-Templates/Template-Daily-Note.md",
-    "Templates/Utility-Templates/Template-List.md",
     "Lists/Checklists",
     "Assets/Reports/d2utmp3JQyhP",
     "d2utmpzFbTKp",
