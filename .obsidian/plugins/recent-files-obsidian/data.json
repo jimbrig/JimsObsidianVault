@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
       "basename": "Online Developer Tools Master List",
       "path": "Lists/Online Developer Tools Master List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "000-Use-ADRs",
       "path": "Logs/ADRs/000-Use-ADRs.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Logs/ADRs/_README.md"
     }
   ],
   "omittedPaths": [],
