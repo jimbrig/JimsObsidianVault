@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shells.md",
+                "file": "Inbox/Shells.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-03.md",
+                "file": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-03.md"
+                "file": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-03.md",
+                "file": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-03.md",
+                "file": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-07-03.md",
+                "file": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,31 +319,33 @@
   "active": "028469d2012e40c5",
   "lastOpenFiles": [
     "test.md",
+    "Tools/Shells and CLI Tools/Command Line Productivity Tools.md",
+    "Daily/2023-06-26.md",
+    "Logs/TIL/_README.md",
+    "Logs/TIL/PowerShell/_README.md",
+    "Logs/TIL/PowerShell",
     "Daily/2023-07-03.md",
+    "Logs/TIL",
     "Lists/Online Developer Tools Master List.md",
     "Lists/Software for the Digital Life.md",
     "Lists/PowerShell Functions List.md",
     "Lists/Links.md",
     "Lists/Built-In Windows Command Line Tools List.md",
-    "Command Line Productivity Tools.md",
-    "Bash Aliases.md",
+    "Code/Bash/Bash - Bash Aliases.md",
     "Daily/2023-06-29.md",
-    "Shells.md",
-    "RSS Feeds.md",
+    "Inbox/Shells.md",
+    "Sources/RSS Feeds.md",
     "Daily/2023-06-28.md",
     "HOME.md",
     "Daily/2023-06-27.md",
     "Lists/Checklists/Checklist - Software Release.md",
     "Inbox/Tupac Quotes.md",
     "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
-    "2023-06-26.md",
     "Lists/Checklists/_README.md",
     "Daily/2023-06-20.md",
     "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
     "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
     "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md",
-    "Templates/Fragment-Templates/Template-Footer.md",
-    "Templates/Utility-Templates/Template-Checklist.md",
     "Lists/Checklists",
     "Assets/Reports/d2utmp3JQyhP",
     "d2utmpzFbTKp",
@@ -352,8 +354,6 @@
     "Sources/Documentation",
     "Sources/Communications",
     "Sources/Projects",
-    "Sources/Repositories",
-    "Sources/Code Snippets",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

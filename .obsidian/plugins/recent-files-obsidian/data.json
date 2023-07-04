@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-07-03",
-      "path": "Daily/2023-07-03.md"
+      "basename": "Command Line Productivity Tools",
+      "path": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md"
     },
     {
-      "basename": "test",
-      "path": "test.md"
+      "basename": "2023-06-26",
+      "path": "Daily/2023-06-26.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Logs/TIL/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Logs/TIL/PowerShell/_README.md"
+    },
+    {
+      "basename": "2023-07-03",
+      "path": "Daily/2023-07-03.md"
     },
     {
       "basename": "Online Developer Tools Master List",
@@ -29,12 +41,8 @@
       "path": "Lists/Built-In Windows Command Line Tools List.md"
     },
     {
-      "basename": "Command Line Productivity Tools",
-      "path": "Command Line Productivity Tools.md"
-    },
-    {
-      "basename": "Bash Aliases",
-      "path": "Bash Aliases.md"
+      "basename": "Bash - Bash Aliases",
+      "path": "Code/Bash/Bash - Bash Aliases.md"
     },
     {
       "basename": "2023-06-29",
@@ -42,11 +50,11 @@
     },
     {
       "basename": "Shells",
-      "path": "Shells.md"
+      "path": "Inbox/Shells.md"
     },
     {
       "basename": "RSS Feeds",
-      "path": "RSS Feeds.md"
+      "path": "Sources/RSS Feeds.md"
     },
     {
       "basename": "2023-06-28",
@@ -71,10 +79,6 @@
     {
       "basename": "31 Powerful Tupac Quotes and Lyrics to Inspire You",
       "path": "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md"
-    },
-    {
-      "basename": "2023-06-26",
-      "path": "2023-06-26.md"
     },
     {
       "basename": "_README",
@@ -191,14 +195,6 @@
     {
       "basename": "003-Use-GitHub-Actions",
       "path": "Logs/ADRs/003-Use-GitHub-Actions.md"
-    },
-    {
-      "basename": "002-Choose-Hosting-Platform",
-      "path": "Logs/ADRs/002-Choose-Hosting-Platform.md"
-    },
-    {
-      "basename": "001-Choose-Publishing-Option",
-      "path": "Logs/ADRs/001-Choose-Publishing-Option.md"
     }
   ],
   "omittedPaths": [],
