@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-07-03",
+      "path": "Daily/2023-07-03.md"
+    },
+    {
       "basename": "test",
       "path": "test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001-Choose-Publishing-Option",
       "path": "Logs/ADRs/001-Choose-Publishing-Option.md"
-    },
-    {
-      "basename": "000-Use-ADRs",
-      "path": "Logs/ADRs/000-Use-ADRs.md"
     }
   ],
   "omittedPaths": [],
