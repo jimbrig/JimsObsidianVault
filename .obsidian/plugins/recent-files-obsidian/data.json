@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Managing Dotfiles",
+      "path": "Inbox/Managing Dotfiles.md"
+    },
+    {
+      "basename": "Gitignore.io",
+      "path": "Tools/Tools - Online/Gitignore.io.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Tools/Tools - Dotfiles/_README.md"
+    },
+    {
+      "basename": "Tools - Chezmoi",
+      "path": "Tools/Tools - Dotfiles/Tools - Chezmoi.md"
+    },
+    {
+      "basename": "Tools - DFM",
+      "path": "Tools/Tools - Dotfiles/Tools - DFM.md"
+    },
+    {
+      "basename": "Tools - Kody",
+      "path": "Tools/Tools - Dotfiles/Tools - Kody.md"
+    },
+    {
+      "basename": "Tools - DotGit",
+      "path": "Tools/Tools - Dotfiles/Tools - DotGit.md"
+    },
+    {
+      "basename": "Tools - Dotfiler",
+      "path": "Tools/Tools - Dotfiles/Tools - Dotfiler.md"
+    },
+    {
+      "basename": "Tools - Homemaker",
+      "path": "Tools/Tools - Dotfiles/Tools - Homemaker.md"
+    },
+    {
+      "basename": "Tools - Comtrya",
+      "path": "Tools/Tools - Dotfiles/Tools - Comtrya.md"
+    },
+    {
+      "basename": "Tools - Ghar",
+      "path": "Tools/Tools - Dotfiles/Tools - Ghar.md"
+    },
+    {
+      "basename": "Tools - Ellipsis",
+      "path": "Tools/Tools - Dotfiles/Tools - Ellipsis.md"
+    },
+    {
+      "basename": "Tools - DotSync",
+      "path": "Tools/Tools - Dotfiles/Tools - DotSync.md"
+    },
+    {
+      "basename": "Tools - Shallow Backup",
+      "path": "Tools/Tools - Dotfiles/Tools - Shallow Backup.md"
+    },
+    {
+      "basename": "Tools - Fresh",
+      "path": "Tools/Tools - Dotfiles/Tools - Fresh.md"
+    },
+    {
+      "basename": "Tools - Dotter",
+      "path": "Tools/Tools - Dotfiles/Tools - Dotter.md"
+    },
+    {
+      "basename": "Tools - DotDrop",
+      "path": "Tools/Tools - Dotfiles/Tools - DotDrop.md"
+    },
+    {
+      "basename": "Tools - Homeshick",
+      "path": "Tools/Tools - Dotfiles/Tools - Homeshick.md"
+    },
+    {
+      "basename": "Tools - VCSH",
+      "path": "Tools/Tools - Dotfiles/Tools - VCSH.md"
+    },
+    {
+      "basename": "Tools - Homesick",
+      "path": "Tools/Tools - Dotfiles/Tools - Homesick.md"
+    },
+    {
+      "basename": "Tools - RCM",
+      "path": "Tools/Tools - Dotfiles/Tools - RCM.md"
+    },
+    {
+      "basename": "Tools - YADM",
+      "path": "Tools/Tools - Dotfiles/Tools - YADM.md"
+    },
+    {
+      "basename": "Tools - XDG Ninja",
+      "path": "Tools/Tools - Dotfiles/Tools - XDG Ninja.md"
+    },
+    {
+      "basename": "Tools - Home Manager",
+      "path": "Tools/Tools - Dotfiles/Tools - Home Manager.md"
+    },
+    {
+      "basename": "Tools - GNUStow",
+      "path": "Tools/Tools - Dotfiles/Tools - GNUStow.md"
+    },
+    {
+      "basename": "Tools - DotBot",
+      "path": "Tools/Tools - Dotfiles/Tools - DotBot.md"
+    },
+    {
       "basename": "Tools- Espanso",
       "path": "Tools/Tools - Productivity/Tools- Espanso.md"
     },
@@ -95,110 +199,6 @@
     {
       "basename": "Bash - Bash Aliases",
       "path": "Code/Bash/Bash - Bash Aliases.md"
-    },
-    {
-      "basename": "2023-06-29",
-      "path": "Daily/2023-06-29.md"
-    },
-    {
-      "basename": "Shells",
-      "path": "Inbox/Shells.md"
-    },
-    {
-      "basename": "RSS Feeds",
-      "path": "Sources/RSS Feeds.md"
-    },
-    {
-      "basename": "2023-06-28",
-      "path": "Daily/2023-06-28.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
-      "basename": "2023-06-27",
-      "path": "Daily/2023-06-27.md"
-    },
-    {
-      "basename": "Checklist - Software Release",
-      "path": "Lists/Checklists/Checklist - Software Release.md"
-    },
-    {
-      "basename": "Tupac Quotes",
-      "path": "Inbox/Tupac Quotes.md"
-    },
-    {
-      "basename": "31 Powerful Tupac Quotes and Lyrics to Inspire You",
-      "path": "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Lists/Checklists/_README.md"
-    },
-    {
-      "basename": "2023-06-20",
-      "path": "Daily/2023-06-20.md"
-    },
-    {
-      "basename": "Template-Frontmatter-Enhanced",
-      "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
-    },
-    {
-      "basename": "Keep Terraform up-to-date with Rennovate",
-      "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
-    },
-    {
-      "basename": "Flowise is an open source no-code UI visual tool to build langchain applications",
-      "path": "Assets/YouTube/2023-06-20/Flowise is an open source no-code UI visual tool to build langchain applications.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "Templates/Fragment-Templates/Template-Footer.md"
-    },
-    {
-      "basename": "Template-Checklist",
-      "path": "Templates/Utility-Templates/Template-Checklist.md"
-    },
-    {
-      "basename": "Template-MOC",
-      "path": "Templates/Core-Templates/Template-MOC.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "Meta/Ideas.md"
-    },
-    {
-      "basename": "Template-Frontmatter",
-      "path": "Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
-      "basename": "Template-Development",
-      "path": "Templates/Core-Templates/Template-Development.md"
-    },
-    {
-      "basename": "Template-Default",
-      "path": "Templates/Core-Templates/Template-Default.md"
-    },
-    {
-      "basename": "Template-Daily-Note",
-      "path": "Templates/Core-Templates/Template-Daily-Note.md"
-    },
-    {
-      "basename": "Template-List",
-      "path": "Templates/Utility-Templates/Template-List.md"
-    },
-    {
-      "basename": "PowerShell - GitHub Downloads",
-      "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
-    },
-    {
-      "basename": "Geoffrey Hinton - Two Paths to Intelligence",
-      "path": "Assets/YouTube/2023-06-20/Geoffrey Hinton - Two Paths to Intelligence.md"
-    },
-    {
-      "basename": "Checklist - Basic Project Completion",
-      "path": "Lists/Checklists/Checklist - Basic Project Completion.md"
     }
   ],
   "omittedPaths": [],

@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
+                "file": "Inbox/Managing Dotfiles.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Tools - Productivity/Tools- Espanso.md"
+                "file": "Inbox/Managing Dotfiles.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
+                "file": "Inbox/Managing Dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
+                "file": "Inbox/Managing Dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
+                "file": "Inbox/Managing Dotfiles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,42 +330,42 @@
   },
   "active": "945a8ccd0974f348",
   "lastOpenFiles": [
-    "Tools/Tools - Productivity/Tool - Todoist.md",
-    "Tools/Tools - Productivity/Tools- Espanso.md",
-    "Tools/Tools - Shells/Tool - PowerShell.md",
+    "Tools/Tools - Online/Gitignore.io.md",
+    "Inbox/Managing Dotfiles.md",
+    "Tools/Tools - Dotfiles/_README.md",
+    "Tools/Tools - Online",
+    "Tools/Tools - Dotfiles/Tools - Chezmoi.md",
+    "Tools/Tools - Dotfiles/Tools - DFM.md",
+    "Tools/Tools - Dotfiles/Tools - Kody.md",
+    "Tools/Tools - Dotfiles/Tools - DotGit.md",
+    "Tools/Tools - Dotfiles/Tools - Dotfiler.md",
+    "Tools/Tools - Dotfiles/Tools - Homemaker.md",
+    "Tools/Tools - Dotfiles/Tools - Comtrya.md",
+    "Tools/Tools - Dotfiles/Tools - Ghar.md",
+    "Tools/Tools - Dotfiles/Tools - Ellipsis.md",
+    "Tools/Tools - Dotfiles/Tools - DotSync.md",
+    "Tools/Tools - Dotfiles/Tools - Shallow Backup.md",
+    "Tools/Tools - Dotfiles/Tools - Fresh.md",
+    "Tools/Tools - Dotfiles/Tools - Dotter.md",
+    "Tools/Tools - Dotfiles/Tools - DotDrop.md",
+    "Tools/Tools - Dotfiles/Tools - Homeshick.md",
+    "Tools/Tools - Dotfiles/Tools - VCSH.md",
+    "Tools/Tools - Dotfiles/Tools - Homesick.md",
+    "Tools/Tools - Dotfiles/Tools - RCM.md",
+    "Tools/Tools - Dotfiles/Tools - YADM.md",
+    "Tools/Tools - Dotfiles/Tools - XDG Ninja.md",
+    "Tools/Tools - Dotfiles/Tools - Home Manager.md",
+    "Tools/Tools - Dotfiles/Tools - GNUStow.md",
+    "Tools/Tools - Dotfiles/Tools - DotBot.md",
+    "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",
-    "Tools/Tools - Obsidian/Obsidian Browser Extensions.md",
     "Tools/Tools - Shells",
-    "Tools/Tools - CLI/Tools - Command Line Productivity.md",
     "Tools/Tools - PKM",
-    "Tools/Tools - Version Control/GitHub CLI.md",
-    "Tools/Tools - Version Control/Git Extras.md",
-    "Tools/Tools - Version Control/Git.md",
-    "Tools/Tools - Obsidian/_README.md",
-    "Tools/Tools - Obsidian/Built-In Plugins.md",
     "Tools/Tools - Obsidian",
-    "Tools/Tools - PKM/Hypothesis.md",
-    "Templates/Tool-Templates/Tool - Obsidian Plugin.md",
-    "Tools/Tools - Obsidian/Obsidian - QuickAdd/Obsidian - QuickAdd Plugin.md",
-    "Tools/Tools - Obsidian/Obsidian - QuickAdd/_README.md",
     "Tools/Tools - Obsidian/Obsidian - Templater",
     "Tools/Tools - Obsidian/Obsidian - QuickAdd",
-    "test.md",
-    "Daily/2023-06-26.md",
-    "Logs/TIL/_README.md",
-    "Logs/TIL/PowerShell/_README.md",
     "Logs/TIL/PowerShell",
-    "Daily/2023-07-03.md",
-    "Logs/TIL",
-    "Lists/Online Developer Tools Master List.md",
-    "Lists/Software for the Digital Life.md",
-    "Lists/PowerShell Functions List.md",
-    "Lists/Links.md",
-    "Lists/Built-In Windows Command Line Tools List.md",
-    "Code/Bash/Bash - Bash Aliases.md",
-    "Daily/2023-06-29.md",
-    "Lists/Checklists",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
