@@ -5321,7 +5321,7 @@ var ChoiceList_default = ChoiceList;
 // src/gui/choiceList/AddChoiceBox.svelte
 var import_obsidian3 = require("obsidian");
 function add_css5(target) {
-  append_styles(target, "svelte-1newuee", ".addChoiceBox.svelte-1newuee{margin-top:1em;display:flex;flex-direction:row;align-items:center;gap:10px;justify-content:center}@media(max-width: 800px){.addChoiceBox.svelte-1newuee{flex-direction:column}}#addChoiceTypeSelector.svelte-1newuee{font-size:16px;padding:3px;border-radius:3px}");
+  append_styles(target, "svelte-1w7twgy", ".addChoiceBox.svelte-1w7twgy{display:flex;flex-direction:row;align-items:center;gap:10px;justify-content:center}@media(max-width: 800px){.addChoiceBox.svelte-1w7twgy{flex-direction:column}}#addChoiceTypeSelector.svelte-1w7twgy{font-size:var(--font-ui-small);padding:var(--size-4-1) var(--size-4-3);border-radius:var(--button-radius)}");
 }
 function create_fragment8(ctx) {
   let div;
@@ -5368,7 +5368,7 @@ function create_fragment8(ctx) {
       option3.__value = option3_value_value = "Multi";
       option3.value = option3.__value;
       attr(select, "id", "addChoiceTypeSelector");
-      attr(select, "class", "svelte-1newuee");
+      attr(select, "class", "svelte-1w7twgy");
       if (
         /*type*/
         ctx[1] === void 0
@@ -5378,7 +5378,7 @@ function create_fragment8(ctx) {
           ctx[4].call(select)
         ));
       attr(button, "class", "mod-cta");
-      attr(div, "class", "addChoiceBox svelte-1newuee");
+      attr(div, "class", "addChoiceBox svelte-1w7twgy");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -9208,6 +9208,7 @@ var GenericInputPrompt = class extends import_obsidian6.Modal {
     buttonBarContainer.style.flexDirection = "row-reverse";
     buttonBarContainer.style.justifyContent = "flex-start";
     buttonBarContainer.style.marginTop = "1rem";
+    buttonBarContainer.style.gap = "0.5rem";
   }
   submit() {
     this.didSubmit = true;
@@ -10754,6 +10755,7 @@ var GenericWideInputPrompt = class extends import_obsidian14.Modal {
     buttonBarContainer.style.flexDirection = "row-reverse";
     buttonBarContainer.style.justifyContent = "flex-start";
     buttonBarContainer.style.marginTop = "1rem";
+    buttonBarContainer.style.gap = "0.5rem";
   }
   submit() {
     this.didSubmit = true;
@@ -16922,7 +16924,7 @@ var AIAssistantSettingsModal = class extends import_obsidian32.Modal {
 
 // src/gui/choiceList/ChoiceView.svelte
 function add_css9(target) {
-  append_styles(target, "svelte-1ikpkxq", ".choiceViewBottomBar.svelte-1ikpkxq{display:flex;flex-direction:row;align-items:center;justify-content:space-between;margin-top:1rem}@media(max-width: 800px){.choiceViewBottomBar.svelte-1ikpkxq{flex-direction:column}}");
+  append_styles(target, "svelte-19ru4zm", ".choiceViewBottomBar.svelte-19ru4zm{display:flex;flex-direction:row;align-items:center;justify-content:space-between;margin-top:1rem;gap:1rem}@media(max-width: 800px){.choiceViewBottomBar.svelte-19ru4zm{flex-direction:column}}");
 }
 function create_if_block6(ctx) {
   let button;
@@ -17032,7 +17034,7 @@ function create_fragment16(ctx) {
       attr(button, "class", "mod-cta");
       set_style(div0, "display", "flex");
       set_style(div0, "gap", "4px");
-      attr(div1, "class", "choiceViewBottomBar svelte-1ikpkxq");
+      attr(div1, "class", "choiceViewBottomBar svelte-19ru4zm");
     },
     m(target, anchor) {
       insert(target, div2, anchor);
