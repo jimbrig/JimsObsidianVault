@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md",
+                "file": "Tools/Tools - Obsidian/Obsidian - QuickAdd/Obsidian - QuickAdd Plugin.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tool-Templates/Tool - Obsidian Plugin.md",
+                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Tool-Templates/Tool - Obsidian Plugin.md"
+                "file": "Tools/Tools - Productivity/Tools- Espanso.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Tool-Templates/Tool - Obsidian Plugin.md",
+                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Tool-Templates/Tool - Obsidian Plugin.md",
+                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Tool-Templates/Tool - Obsidian Plugin.md",
+                "file": "Tools/Tools - Productivity/Tools- Espanso.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,12 +330,27 @@
   },
   "active": "945a8ccd0974f348",
   "lastOpenFiles": [
+    "Tools/Tools - Productivity/Tool - Todoist.md",
+    "Tools/Tools - Productivity/Tools- Espanso.md",
+    "Tools/Tools - Shells/Tool - PowerShell.md",
+    "Tools/Tools - Productivity",
+    "Tools/Tools - Windows",
+    "Tools/Tools - Obsidian/Obsidian Browser Extensions.md",
+    "Tools/Tools - Shells",
+    "Tools/Tools - CLI/Tools - Command Line Productivity.md",
+    "Tools/Tools - PKM",
+    "Tools/Tools - Version Control/GitHub CLI.md",
+    "Tools/Tools - Version Control/Git Extras.md",
+    "Tools/Tools - Version Control/Git.md",
+    "Tools/Tools - Obsidian/_README.md",
+    "Tools/Tools - Obsidian/Built-In Plugins.md",
+    "Tools/Tools - Obsidian",
+    "Tools/Tools - PKM/Hypothesis.md",
     "Templates/Tool-Templates/Tool - Obsidian Plugin.md",
-    "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md",
-    "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd/_README.md",
-    "Tools/Shells and CLI Tools/Command Line Productivity Tools.md",
-    "Tools/Obsidian Plugins and Tools/Plugins/Templater",
-    "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd",
+    "Tools/Tools - Obsidian/Obsidian - QuickAdd/Obsidian - QuickAdd Plugin.md",
+    "Tools/Tools - Obsidian/Obsidian - QuickAdd/_README.md",
+    "Tools/Tools - Obsidian/Obsidian - Templater",
+    "Tools/Tools - Obsidian/Obsidian - QuickAdd",
     "test.md",
     "Daily/2023-06-26.md",
     "Logs/TIL/_README.md",
@@ -350,22 +365,7 @@
     "Lists/Built-In Windows Command Line Tools List.md",
     "Code/Bash/Bash - Bash Aliases.md",
     "Daily/2023-06-29.md",
-    "Inbox/Shells.md",
-    "Sources/RSS Feeds.md",
-    "Daily/2023-06-28.md",
-    "HOME.md",
-    "Daily/2023-06-27.md",
-    "Lists/Checklists/Checklist - Software Release.md",
-    "Inbox/Tupac Quotes.md",
-    "Readwise/Articles/31 Powerful Tupac Quotes and Lyrics to Inspire You.md",
-    "Lists/Checklists/_README.md",
-    "Daily/2023-06-20.md",
     "Lists/Checklists",
-    "Assets/Reports/d2utmp3JQyhP",
-    "d2utmpzFbTKp",
-    "requirements.txt",
-    "Code/+Technologies",
-    "Sources/Documentation",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

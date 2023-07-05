@@ -169,7 +169,7 @@ group by type
 
 ### Internal Linked Notes
 
-- [[Tools/Obsidian Plugins and Tools/Plugins/DataView/_README|DataView]]
+- [[Tools/Tools - Obsidian/Obsidian - DataView/_README|DataView]]
 - [[Built-In Plugins]]
 - [[Community Plugins]]
 

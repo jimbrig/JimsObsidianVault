@@ -6,7 +6,7 @@
 
 ## Development
 
-- [[GitHub]]
+- [[Github]]
 - [[Azure DevOps]]
 
 - Cloud Service Vendors:

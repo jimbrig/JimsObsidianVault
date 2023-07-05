@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Tools- Espanso",
+      "path": "Tools/Tools - Productivity/Tools- Espanso.md"
+    },
+    {
+      "basename": "Tool - Todoist",
+      "path": "Tools/Tools - Productivity/Tool - Todoist.md"
+    },
+    {
+      "basename": "Tool - PowerShell",
+      "path": "Tools/Tools - Shells/Tool - PowerShell.md"
+    },
+    {
+      "basename": "Obsidian Browser Extensions",
+      "path": "Tools/Tools - Obsidian/Obsidian Browser Extensions.md"
+    },
+    {
+      "basename": "Tools - Command Line Productivity",
+      "path": "Tools/Tools - CLI/Tools - Command Line Productivity.md"
+    },
+    {
+      "basename": "GitHub CLI",
+      "path": "Tools/Tools - Version Control/GitHub CLI.md"
+    },
+    {
+      "basename": "Git Extras",
+      "path": "Tools/Tools - Version Control/Git Extras.md"
+    },
+    {
+      "basename": "Git",
+      "path": "Tools/Tools - Version Control/Git.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Tools/Tools - Obsidian/_README.md"
+    },
+    {
+      "basename": "Built-In Plugins",
+      "path": "Tools/Tools - Obsidian/Built-In Plugins.md"
+    },
+    {
+      "basename": "Hypothesis",
+      "path": "Tools/Tools - PKM/Hypothesis.md"
+    },
+    {
       "basename": "Tool - Obsidian Plugin",
       "path": "Templates/Tool-Templates/Tool - Obsidian Plugin.md"
     },
     {
       "basename": "Obsidian - QuickAdd Plugin",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md"
+      "path": "Tools/Tools - Obsidian/Obsidian - QuickAdd/Obsidian - QuickAdd Plugin.md"
     },
     {
       "basename": "_README",
-      "path": "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd/_README.md"
-    },
-    {
-      "basename": "Command Line Productivity Tools",
-      "path": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md"
+      "path": "Tools/Tools - Obsidian/Obsidian - QuickAdd/_README.md"
     },
     {
       "basename": "2023-06-26",
@@ -159,46 +199,6 @@
     {
       "basename": "Checklist - Basic Project Completion",
       "path": "Lists/Checklists/Checklist - Basic Project Completion.md"
-    },
-    {
-      "basename": "Checklist - Basic Project Initialization",
-      "path": "Lists/Checklists/Checklist - Basic Project Initialization.md"
-    },
-    {
-      "basename": "SysInternals",
-      "path": "Inbox/SysInternals.md"
-    },
-    {
-      "basename": "+Technologies",
-      "path": "Code/+Technologies.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/GitHub Actions/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/VBA/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/PowerShell/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/CMD/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/_README.md"
-    },
-    {
-      "basename": "Vault Changelog",
-      "path": "Logs/Vault Changelog.md"
-    },
-    {
-      "basename": "005-Choose-Tools",
-      "path": "Logs/ADRs/005-Choose-Tools.md"
     }
   ],
   "omittedPaths": [],
