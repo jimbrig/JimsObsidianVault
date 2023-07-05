@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Tool - Obsidian Plugin",
+      "path": "Templates/Tool-Templates/Tool - Obsidian Plugin.md"
+    },
+    {
+      "basename": "Obsidian - QuickAdd Plugin",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Tools/Obsidian Plugins and Tools/Plugins/QuickAdd/_README.md"
+    },
+    {
       "basename": "Command Line Productivity Tools",
       "path": "Tools/Shells and CLI Tools/Command Line Productivity Tools.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "005-Choose-Tools",
       "path": "Logs/ADRs/005-Choose-Tools.md"
-    },
-    {
-      "basename": "004-Use-Version-Control-via-Obsidian-Git",
-      "path": "Logs/ADRs/004-Use-Version-Control-via-Obsidian-Git.md"
-    },
-    {
-      "basename": "003-Use-GitHub-Actions",
-      "path": "Logs/ADRs/003-Use-GitHub-Actions.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,6 @@
+- 2023-07-05 at 00h48 · [[Tool - Obsidian Plugin]]
+- 2023-07-05 at 00h48 · [[Obsidian - QuickAdd Plugin]]
+- 2023-07-05 at 00h47 · [[_README]]
 - 2023-07-03 at 20h15 · [[2023-06-29]]
 - 2023-07-03 at 20h12 · [[_README]]
 - 2023-07-03 at 20h12 · [[_README]]
@@ -45,6 +48,3 @@
 - 2023-06-21 at 22h23 · [[Organizing Chaos With PSWorkItems and PowerShell]]
 - 2023-06-21 at 22h23 · [[2023-06-01 1]]
 - 2023-06-21 at 22h23 · [[2023-05-31]]
-- 2023-06-21 at 22h23 · [[2023-06-01]]
-- 2023-06-21 at 22h23 · [[2023-06-04]]
-- 2023-06-21 at 22h23 · [[Office Visual Basic for Applications (VBA) reference]]

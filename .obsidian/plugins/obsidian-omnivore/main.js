@@ -12215,11 +12215,17 @@ var DATE_FORMAT = `${DATE_FORMAT_W_OUT_SECONDS}:ss`;
 var REPLACEMENT_CHAR = "-";
 var ILLEGAL_CHAR_REGEX = /[<>:"/\\|?*\u0000-\u001F]/g;
 var getHighlightLocation = (patch) => {
+  if (!patch) {
+    return 0;
+  }
   const dmp = new import_diff_match_patch.diff_match_patch();
   const patches = dmp.patch_fromText(patch);
   return patches[0].start1 || 0;
 };
 var getHighlightPoint = (patch) => {
+  if (!patch) {
+    return { left: 0, top: 0 };
+  }
   const { bbox } = JSON.parse(patch);
   if (!bbox || bbox.length !== 4) {
     return { left: 0, top: 0 };
@@ -12273,6 +12279,9 @@ var siteNameFromUrl = (originalArticleUrl) => {
   }
 };
 var formatHighlightQuote = (quote, template) => {
+  if (!quote) {
+    return "";
+  }
   const regex = /{{#highlights}}(\n)*>/gm;
   if (regex.test(template)) {
     quote = quote.replaceAll("&gt;", ">").replaceAll(/\n/gm, "\n> ");
@@ -12366,14 +12375,11 @@ var renderLabels = (labels) => {
   }));
 };
 var renderArticleContnet = async (article, template, highlightOrder, dateHighlightedFormat, dateSavedFormat, isSingleFile, frontMatterVariables, frontMatterTemplate, fileAttachment) => {
-  var _a, _b;
+  var _a, _b, _c;
   const articleHighlights = ((_a = article.highlights) == null ? void 0 : _a.filter((h) => h.type === "HIGHLIGHT" /* Highlight */)) || [];
   if (highlightOrder === "LOCATION") {
     articleHighlights.sort((a, b) => {
       try {
-        if (a.highlightPositionPercent !== void 0 && b.highlightPositionPercent !== void 0) {
-          return a.highlightPositionPercent - b.highlightPositionPercent;
-        }
         if (article.pageType === "FILE" /* File */) {
           return compareHighlightsInFile(a, b);
         }
@@ -12385,12 +12391,13 @@ var renderArticleContnet = async (article, template, highlightOrder, dateHighlig
     });
   }
   const highlights = articleHighlights.map((highlight) => {
+    var _a2;
     return {
       text: formatHighlightQuote(highlight.quote, template),
       highlightUrl: `https://omnivore.app/me/${article.slug}#${highlight.id}`,
       highlightID: highlight.id.slice(0, 8),
       dateHighlighted: formatDate(highlight.updatedAt, dateHighlightedFormat),
-      note: highlight.annotation,
+      note: (_a2 = highlight.annotation) != null ? _a2 : void 0,
       labels: renderLabels(highlight.labels)
     };
   });
@@ -12416,7 +12423,7 @@ var renderArticleContnet = async (article, template, highlightOrder, dateHighlig
     datePublished,
     fileAttachment,
     description: article.description,
-    note: articleNote == null ? void 0 : articleNote.annotation,
+    note: (_c = articleNote == null ? void 0 : articleNote.annotation) != null ? _c : void 0,
     type: article.pageType,
     dateRead,
     wordsCount,
