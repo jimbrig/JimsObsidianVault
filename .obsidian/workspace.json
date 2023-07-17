@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
+                "file": "Daily/2023-07-17.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PowerShell/PowerShell - PSResourceGet.md"
+                "file": "Daily/2023-07-17.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
+                "file": "Daily/2023-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
+                "file": "Daily/2023-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
+                "file": "Daily/2023-07-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

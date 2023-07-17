@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-07-17",
+      "path": "Daily/2023-07-17.md"
+    },
+    {
       "basename": "PowerShell - PSResourceGet",
       "path": "Code/PowerShell/PowerShell - PSResourceGet.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "_README",
       "path": "Code/Python/_README.md"
-    },
-    {
-      "basename": "2023-07-17",
-      "path": "Daily/2023-07-17.md"
     },
     {
       "basename": "Managing Dotfiles",
