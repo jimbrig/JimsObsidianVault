@@ -1,3 +1,4 @@
+- 2023-07-17 at 18h06 · [[PowerShell - Install 1Password CLI]]
 - 2023-07-17 at 17h42 · [[SSH Code Snippets]]
 - 2023-07-17 at 17h42 · [[Secure Socket Shell (SSH)]]
 - 2023-07-17 at 17h39 · [[SSH Key Management Best Practices]]
@@ -47,4 +48,3 @@
 - 2023-07-05 at 00h47 · [[_README]]
 - 2023-07-03 at 20h12 · [[_README]]
 - 2023-07-03 at 20h12 · [[_README]]
-- 2023-07-03 at 20h02 · [[2023-07-03]]

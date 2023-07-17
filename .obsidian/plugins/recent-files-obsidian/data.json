@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - Install 1Password CLI",
+      "path": "Code/PowerShell/PowerShell - Install 1Password CLI.md"
+    },
+    {
       "basename": "SSH Code Snippets",
       "path": "SSH Code Snippets.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "Tools/Tools - Obsidian/Obsidian - QuickAdd/_README.md"
-    },
-    {
-      "basename": "2023-06-26",
-      "path": "Daily/2023-06-26.md"
     }
   ],
   "omittedPaths": [],
