@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Python - Actuarial Triangle Class",
+      "path": "Code/Python/Python - Actuarial Triangle Class.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/Python/_README.md"
+    },
+    {
       "basename": "2023-07-17",
       "path": "Daily/2023-07-17.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "PowerShell Functions List",
       "path": "Lists/PowerShell Functions List.md"
-    },
-    {
-      "basename": "Links",
-      "path": "Lists/Links.md"
-    },
-    {
-      "basename": "Built-In Windows Command Line Tools List",
-      "path": "Lists/Built-In Windows Command Line Tools List.md"
     }
   ],
   "omittedPaths": [],

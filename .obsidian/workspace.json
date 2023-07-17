@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-17.md",
+                "file": "Code/Python/Python - Actuarial Triangle Class.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-17.md"
+                "file": "Code/Python/Python - Actuarial Triangle Class.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-17.md",
+                "file": "Code/Python/Python - Actuarial Triangle Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-17.md",
+                "file": "Code/Python/Python - Actuarial Triangle Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-07-17.md",
+                "file": "Code/Python/Python - Actuarial Triangle Class.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,8 +330,10 @@
   },
   "active": "945a8ccd0974f348",
   "lastOpenFiles": [
-    "Inbox/Managing Dotfiles.md",
+    "Code/Python/_README.md",
+    "Code/Python/Python - Actuarial Triangle Class.md",
     "Daily/2023-07-17.md",
+    "Inbox/Managing Dotfiles.md",
     "Tools/Tools - Online/Gitignore.io.md",
     "Tools/Tools - Dotfiles/_README.md",
     "Tools/Tools - Online",
@@ -355,8 +357,6 @@
     "Tools/Tools - Dotfiles/Tools - RCM.md",
     "Tools/Tools - Dotfiles/Tools - YADM.md",
     "Tools/Tools - Dotfiles/Tools - XDG Ninja.md",
-    "Tools/Tools - Dotfiles/Tools - Home Manager.md",
-    "Tools/Tools - Dotfiles/Tools - GNUStow.md",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",
