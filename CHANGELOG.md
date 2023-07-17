@@ -1,3 +1,6 @@
+- 2023-07-17 at 13h55 · [[PowerShell - PSResourceGet]]
+- 2023-07-17 at 13h35 · [[PowerShell - DotNet Assemblies]]
+- 2023-07-17 at 13h21 · [[PowerShell - Register-PackageSource]]
 - 2023-07-17 at 11h55 · [[Python - Actuarial Triangle Class]]
 - 2023-07-17 at 11h54 · [[_README]]
 - 2023-07-17 at 11h46 · [[2023-07-17]]
@@ -45,6 +48,3 @@
 - 2023-06-30 at 22h04 · [[Online Developer Tools Master List]]
 - 2023-06-29 at 19h33 · [[Bash - Bash Aliases]]
 - 2023-06-29 at 19h32 · [[Tools - Command Line Productivity]]
-- 2023-06-29 at 19h31 · [[Shells]]
-- 2023-06-29 at 19h30 · [[RSS Feeds]]
-- 2023-06-28 at 19h38 · [[2023-06-28]]

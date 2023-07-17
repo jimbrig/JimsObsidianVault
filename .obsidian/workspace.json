@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Python/Python - Actuarial Triangle Class.md",
+                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Python/Python - Actuarial Triangle Class.md"
+                "file": "Code/PowerShell/PowerShell - PSResourceGet.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Python/Python - Actuarial Triangle Class.md",
+                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Python/Python - Actuarial Triangle Class.md",
+                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/Python/Python - Actuarial Triangle Class.md",
+                "file": "Code/PowerShell/PowerShell - PSResourceGet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,8 +330,11 @@
   },
   "active": "945a8ccd0974f348",
   "lastOpenFiles": [
-    "Code/Python/_README.md",
+    "Code/PowerShell/PowerShell - DotNet Assemblies.md",
+    "Code/PowerShell/PowerShell - PSResourceGet.md",
+    "Code/PowerShell/PowerShell - Register-PackageSource.md",
     "Code/Python/Python - Actuarial Triangle Class.md",
+    "Code/Python/_README.md",
     "Daily/2023-07-17.md",
     "Inbox/Managing Dotfiles.md",
     "Tools/Tools - Online/Gitignore.io.md",
@@ -354,9 +357,6 @@
     "Tools/Tools - Dotfiles/Tools - Homeshick.md",
     "Tools/Tools - Dotfiles/Tools - VCSH.md",
     "Tools/Tools - Dotfiles/Tools - Homesick.md",
-    "Tools/Tools - Dotfiles/Tools - RCM.md",
-    "Tools/Tools - Dotfiles/Tools - YADM.md",
-    "Tools/Tools - Dotfiles/Tools - XDG Ninja.md",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",
