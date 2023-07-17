@@ -1,3 +1,6 @@
+- 2023-07-17 at 17h42 · [[SSH Code Snippets]]
+- 2023-07-17 at 17h42 · [[Secure Socket Shell (SSH)]]
+- 2023-07-17 at 17h39 · [[SSH Key Management Best Practices]]
 - 2023-07-17 at 13h55 · [[PowerShell - PSResourceGet]]
 - 2023-07-17 at 13h35 · [[PowerShell - DotNet Assemblies]]
 - 2023-07-17 at 13h21 · [[PowerShell - Register-PackageSource]]
@@ -45,6 +48,3 @@
 - 2023-07-03 at 20h12 · [[_README]]
 - 2023-07-03 at 20h12 · [[_README]]
 - 2023-07-03 at 20h02 · [[2023-07-03]]
-- 2023-06-30 at 22h04 · [[Online Developer Tools Master List]]
-- 2023-06-29 at 19h33 · [[Bash - Bash Aliases]]
-- 2023-06-29 at 19h32 · [[Tools - Command Line Productivity]]

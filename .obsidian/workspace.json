@@ -82,9 +82,21 @@
                 "backlinks": true
               }
             }
+          },
+          {
+            "id": "1d1fe6cfda644310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSH Code Snippets.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-17.md"
+                "file": "SSH Code Snippets.md"
               }
             }
           },
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-17.md",
+                "file": "SSH Code Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-17.md",
+                "file": "SSH Code Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-07-17.md",
+                "file": "SSH Code Snippets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -328,14 +340,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "945a8ccd0974f348",
+  "active": "1d1fe6cfda644310",
   "lastOpenFiles": [
+    "Secure Socket Shell (SSH).md",
+    "SSH Code Snippets.md",
+    "SSH Key Management Best Practices.md",
+    "Daily/2023-07-17.md",
     "Code/PowerShell/PowerShell - DotNet Assemblies.md",
     "Code/PowerShell/PowerShell - PSResourceGet.md",
     "Code/PowerShell/PowerShell - Register-PackageSource.md",
     "Code/Python/Python - Actuarial Triangle Class.md",
     "Code/Python/_README.md",
-    "Daily/2023-07-17.md",
     "Inbox/Managing Dotfiles.md",
     "Tools/Tools - Online/Gitignore.io.md",
     "Tools/Tools - Dotfiles/_README.md",
@@ -354,9 +369,6 @@
     "Tools/Tools - Dotfiles/Tools - Fresh.md",
     "Tools/Tools - Dotfiles/Tools - Dotter.md",
     "Tools/Tools - Dotfiles/Tools - DotDrop.md",
-    "Tools/Tools - Dotfiles/Tools - Homeshick.md",
-    "Tools/Tools - Dotfiles/Tools - VCSH.md",
-    "Tools/Tools - Dotfiles/Tools - Homesick.md",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",
