@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Managing Dotfiles.md",
+                "file": "Daily/2023-07-17.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Managing Dotfiles.md"
+                "file": "Daily/2023-07-17.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Managing Dotfiles.md",
+                "file": "Daily/2023-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Managing Dotfiles.md",
+                "file": "Daily/2023-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Managing Dotfiles.md",
+                "file": "Daily/2023-07-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,16 +322,17 @@
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "homepage:Open homepage": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "945a8ccd0974f348",
   "lastOpenFiles": [
-    "Tools/Tools - Online/Gitignore.io.md",
     "Inbox/Managing Dotfiles.md",
+    "Daily/2023-07-17.md",
+    "Tools/Tools - Online/Gitignore.io.md",
     "Tools/Tools - Dotfiles/_README.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles/Tools - Chezmoi.md",
@@ -356,7 +357,6 @@
     "Tools/Tools - Dotfiles/Tools - XDG Ninja.md",
     "Tools/Tools - Dotfiles/Tools - Home Manager.md",
     "Tools/Tools - Dotfiles/Tools - GNUStow.md",
-    "Tools/Tools - Dotfiles/Tools - DotBot.md",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",

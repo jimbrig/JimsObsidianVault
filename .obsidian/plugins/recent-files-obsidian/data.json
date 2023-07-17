@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-07-17",
+      "path": "Daily/2023-07-17.md"
+    },
+    {
       "basename": "Managing Dotfiles",
       "path": "Inbox/Managing Dotfiles.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Built-In Windows Command Line Tools List",
       "path": "Lists/Built-In Windows Command Line Tools List.md"
-    },
-    {
-      "basename": "Bash - Bash Aliases",
-      "path": "Code/Bash/Bash - Bash Aliases.md"
     }
   ],
   "omittedPaths": [],
