@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - GitHub Downloads",
+      "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
+    },
+    {
+      "basename": "Bash - GitHub Downloads",
+      "path": "Code/Bash/Bash - GitHub Downloads.md"
+    },
+    {
+      "basename": "Bash - WSL Sample Setup Script",
+      "path": "Code/Bash/Bash - WSL Sample Setup Script.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "Bash - Git Auto Commit",
+      "path": "Code/Bash/Bash - Git Auto Commit.md"
+    },
+    {
+      "basename": "Bash - Bash Aliases",
+      "path": "Code/Bash/Bash - Bash Aliases.md"
+    },
+    {
+      "basename": "20230721211417",
+      "path": "AI/Chats/20230721211417.md"
+    },
+    {
+      "basename": "An Exploration of Data vs Metadata",
+      "path": "Inbox/An Exploration of Data vs Metadata.md"
+    },
+    {
+      "basename": "Artificial Intelligence Concepts",
+      "path": "Inbox/Artificial Intelligence Concepts.md"
+    },
+    {
+      "basename": "List of Services I Use",
+      "path": "Inbox/List of Services I Use.md"
+    },
+    {
       "basename": "List of Terraform Related Tools",
       "path": "Inbox/List of Terraform Related Tools.md"
     },
@@ -19,10 +59,6 @@
     {
       "basename": "Obsidian Chat",
       "path": "AI/chats/Obsidian Chat.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "PKM System Evolution",
@@ -163,42 +199,6 @@
     {
       "basename": "Tools - Ellipsis",
       "path": "Tools/Tools - Dotfiles/Tools - Ellipsis.md"
-    },
-    {
-      "basename": "Tools - DotSync",
-      "path": "Tools/Tools - Dotfiles/Tools - DotSync.md"
-    },
-    {
-      "basename": "Tools - Shallow Backup",
-      "path": "Tools/Tools - Dotfiles/Tools - Shallow Backup.md"
-    },
-    {
-      "basename": "Tools - Fresh",
-      "path": "Tools/Tools - Dotfiles/Tools - Fresh.md"
-    },
-    {
-      "basename": "Tools - Dotter",
-      "path": "Tools/Tools - Dotfiles/Tools - Dotter.md"
-    },
-    {
-      "basename": "Tools - DotDrop",
-      "path": "Tools/Tools - Dotfiles/Tools - DotDrop.md"
-    },
-    {
-      "basename": "Tools - Homeshick",
-      "path": "Tools/Tools - Dotfiles/Tools - Homeshick.md"
-    },
-    {
-      "basename": "Tools - VCSH",
-      "path": "Tools/Tools - Dotfiles/Tools - VCSH.md"
-    },
-    {
-      "basename": "Tools - Homesick",
-      "path": "Tools/Tools - Dotfiles/Tools - Homesick.md"
-    },
-    {
-      "basename": "Tools - RCM",
-      "path": "Tools/Tools - Dotfiles/Tools - RCM.md"
     }
   ],
   "omittedPaths": [],

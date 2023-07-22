@@ -1,0 +1,12 @@
+{
+  "apiKey": "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",
+  "summariseTokens": 364,
+  "completionTokens": 364,
+  "elaborateTokens": 768,
+  "modifyTokens": 364,
+  "translateTokens": 364,
+  "temperature": 0.7,
+  "model": "text-davinci-003",
+  "gpt4Translation": false,
+  "allowStream": true
+}

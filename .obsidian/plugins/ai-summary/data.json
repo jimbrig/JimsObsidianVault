@@ -1,0 +1,5 @@
+{
+  "openAiApiKey": "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",
+  "maxTokens": 2000,
+  "defaultPrompt": "Write me a 2-3 paragraph summary of this in the first person."
+}
