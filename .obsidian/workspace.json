@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Install 1Password CLI.md",
+                "file": "Daily/2023-07-21.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Install 1Password CLI.md"
+                "file": "Daily/2023-07-21.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Install 1Password CLI.md",
+                "file": "Daily/2023-07-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Install 1Password CLI.md",
+                "file": "Daily/2023-07-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Install 1Password CLI.md",
+                "file": "Daily/2023-07-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -342,8 +342,9 @@
   },
   "active": "1d1fe6cfda644310",
   "lastOpenFiles": [
-    "SSH Code Snippets.md",
     "Code/PowerShell/PowerShell - Install 1Password CLI.md",
+    "Daily/2023-07-21.md",
+    "SSH Code Snippets.md",
     "Secure Socket Shell (SSH).md",
     "SSH Key Management Best Practices.md",
     "Daily/2023-07-17.md",
@@ -368,7 +369,6 @@
     "Tools/Tools - Dotfiles/Tools - DotSync.md",
     "Tools/Tools - Dotfiles/Tools - Shallow Backup.md",
     "Tools/Tools - Dotfiles/Tools - Fresh.md",
-    "Tools/Tools - Dotfiles/Tools - Dotter.md",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",

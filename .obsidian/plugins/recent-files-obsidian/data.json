@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-07-21",
+      "path": "Daily/2023-07-21.md"
+    },
+    {
       "basename": "PowerShell - Install 1Password CLI",
       "path": "Code/PowerShell/PowerShell - Install 1Password CLI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian - QuickAdd Plugin",
       "path": "Tools/Tools - Obsidian/Obsidian - QuickAdd/Obsidian - QuickAdd Plugin.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Tools/Tools - Obsidian/Obsidian - QuickAdd/_README.md"
     }
   ],
   "omittedPaths": [],
