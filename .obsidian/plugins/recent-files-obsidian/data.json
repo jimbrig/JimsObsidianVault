@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ideas",
+      "path": "Meta/Ideas.md"
+    },
+    {
+      "basename": "Folders",
+      "path": "Meta/Folders.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Meta/_README.md"
+    },
+    {
       "basename": "2023-07-21",
       "path": "Daily/2023-07-21.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Built-In Plugins",
       "path": "Tools/Tools - Obsidian/Built-In Plugins.md"
-    },
-    {
-      "basename": "Hypothesis",
-      "path": "Tools/Tools - PKM/Hypothesis.md"
-    },
-    {
-      "basename": "Tool - Obsidian Plugin",
-      "path": "Templates/Tool-Templates/Tool - Obsidian Plugin.md"
-    },
-    {
-      "basename": "Obsidian - QuickAdd Plugin",
-      "path": "Tools/Tools - Obsidian/Obsidian - QuickAdd/Obsidian - QuickAdd Plugin.md"
     }
   ],
   "omittedPaths": [],
