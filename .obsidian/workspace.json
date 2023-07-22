@@ -126,9 +126,21 @@
                 "backlinks": true
               }
             }
+          },
+          {
+            "id": "a8c36220432fc074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/chats/20230721211417.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PowerShell/PowerShell - GitHub Downloads.md"
+                "file": "AI/chats/20230721211417.md"
               }
             }
           },
@@ -224,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PowerShell/PowerShell - GitHub Downloads.md",
+                "file": "AI/chats/20230721211417.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PowerShell/PowerShell - GitHub Downloads.md",
+                "file": "AI/chats/20230721211417.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +329,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/PowerShell/PowerShell - GitHub Downloads.md",
+                "file": "AI/chats/20230721211417.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +353,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.3628873693012121,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -398,10 +410,15 @@
       "ai-summary:Summarize referenced notes": false
     }
   },
-  "active": "ec3fb8b907b52230",
+  "active": "a8c36220432fc074",
   "lastOpenFiles": [
-    "Code/Bash/Bash - GitHub Downloads.md",
+    "Test.md",
+    "AI/chats/20230721211417.md",
+    "AI/chats/Obsidian Chat.md",
+    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "Code/Bash/Bash - WSL Sample Setup Script.md",
+    "Code/PowerShell/PowerShell - GitHub Downloads.md",
+    "Code/Bash/Bash - GitHub Downloads.md",
     "HOME.md",
     "Inbox/Note 2023-07-21 21-17-15.md",
     "Inbox/Note 2023-07-21 21-17-14.md",
@@ -409,14 +426,11 @@
     "Code/Bash/Bash - Bash Aliases.md",
     "AI/Chats/20230721211417.md",
     "Inbox/An Exploration of Data vs Metadata.md",
-    "AI/chats/20230721211417.md",
     "Inbox/Artificial Intelligence Concepts.md",
     "Inbox/List of Services I Use.md",
     "Inbox/List of Terraform Related Tools.md",
-    "Test.md",
     "Inbox/Secure Socket Shell (SSH).md",
     "CHANGELOG.md",
-    "AI/chats/Obsidian Chat.md",
     "Inbox/PKM System Evolution.md",
     "Inbox/Personal Knowledge Management Overview.md",
     "README.md",
@@ -424,8 +438,6 @@
     "Meta/Workflows/Workflows.md",
     "Meta/Workflows/Re-Structuring Vaults.md",
     "Meta/Workflows/Best Practices.md",
-    "Meta/Tags.md",
-    "Meta/Sources.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",

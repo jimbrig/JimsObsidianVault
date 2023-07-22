@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "20230721211417",
+      "path": "AI/chats/20230721211417.md"
+    },
+    {
+      "basename": "Obsidian Chat",
+      "path": "AI/chats/Obsidian Chat.md"
+    },
+    {
+      "basename": "PowerShell - Add-GodModeShortcut",
+      "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
+      "basename": "Bash - WSL Sample Setup Script",
+      "path": "Code/Bash/Bash - WSL Sample Setup Script.md"
+    },
+    {
       "basename": "PowerShell - GitHub Downloads",
       "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
     },
     {
       "basename": "Bash - GitHub Downloads",
       "path": "Code/Bash/Bash - GitHub Downloads.md"
-    },
-    {
-      "basename": "Bash - WSL Sample Setup Script",
-      "path": "Code/Bash/Bash - WSL Sample Setup Script.md"
     },
     {
       "basename": "HOME",
@@ -45,20 +57,12 @@
       "path": "Inbox/List of Terraform Related Tools.md"
     },
     {
-      "basename": "Test",
-      "path": "Test.md"
-    },
-    {
       "basename": "Secure Socket Shell (SSH)",
       "path": "Inbox/Secure Socket Shell (SSH).md"
     },
     {
       "basename": "CHANGELOG",
       "path": "CHANGELOG.md"
-    },
-    {
-      "basename": "Obsidian Chat",
-      "path": "AI/chats/Obsidian Chat.md"
     },
     {
       "basename": "PKM System Evolution",
@@ -191,14 +195,6 @@
     {
       "basename": "Tools - Comtrya",
       "path": "Tools/Tools - Dotfiles/Tools - Comtrya.md"
-    },
-    {
-      "basename": "Tools - Ghar",
-      "path": "Tools/Tools - Dotfiles/Tools - Ghar.md"
-    },
-    {
-      "basename": "Tools - Ellipsis",
-      "path": "Tools/Tools - Dotfiles/Tools - Ellipsis.md"
     }
   ],
   "omittedPaths": [],
