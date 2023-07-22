@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Secure Socket Shell (SSH).md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Inbox/Secure Socket Shell (SSH).md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Secure Socket Shell (SSH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Secure Socket Shell (SSH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,8 +246,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "ec3fb8b907b52230",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9384edf8e47d2101",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "1ac3153552315a07",
@@ -260,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Secure Socket Shell (SSH).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,8 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5,
-    "collapsed": true
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,8 +356,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1d1fe6cfda644310",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "CHANGELOG.md",
+    "AI/chats/Obsidian Chat.md",
+    "HOME.md",
+    "Inbox/PKM System Evolution.md",
+    "Inbox/Personal Knowledge Management Overview.md",
+    "README.md",
     "Meta/_README.md",
     "Meta/Workflows/Workflows.md",
     "Meta/Workflows/Re-Structuring Vaults.md",
@@ -354,21 +376,15 @@
     "Meta/Folders.md",
     "Daily/2023-07-21.md",
     "Code/PowerShell/PowerShell - Install 1Password CLI.md",
-    "SSH Code Snippets.md",
-    "Secure Socket Shell (SSH).md",
-    "SSH Key Management Best Practices.md",
+    "Inbox/SSH Code Snippets.md",
+    "Inbox/Secure Socket Shell (SSH).md",
+    "Inbox/SSH Key Management Best Practices.md",
     "Daily/2023-07-17.md",
     "Code/PowerShell/PowerShell - DotNet Assemblies.md",
     "Code/PowerShell/PowerShell - PSResourceGet.md",
     "Code/PowerShell/PowerShell - Register-PackageSource.md",
     "Code/Python/Python - Actuarial Triangle Class.md",
-    "Code/Python/_README.md",
-    "Inbox/Managing Dotfiles.md",
-    "Tools/Tools - Online/Gitignore.io.md",
-    "Tools/Tools - Dotfiles/_README.md",
     "Tools/Tools - Online",
-    "Tools/Tools - Dotfiles/Tools - Chezmoi.md",
-    "Tools/Tools - Dotfiles/Tools - DFM.md",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Secure Socket Shell (SSH)",
+      "path": "Inbox/Secure Socket Shell (SSH).md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
+      "basename": "Obsidian Chat",
+      "path": "AI/chats/Obsidian Chat.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "PKM System Evolution",
+      "path": "Inbox/PKM System Evolution.md"
+    },
+    {
+      "basename": "Personal Knowledge Management Overview",
+      "path": "Inbox/Personal Knowledge Management Overview.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -54,15 +78,11 @@
     },
     {
       "basename": "SSH Code Snippets",
-      "path": "SSH Code Snippets.md"
-    },
-    {
-      "basename": "Secure Socket Shell (SSH)",
-      "path": "Secure Socket Shell (SSH).md"
+      "path": "Inbox/SSH Code Snippets.md"
     },
     {
       "basename": "SSH Key Management Best Practices",
-      "path": "SSH Key Management Best Practices.md"
+      "path": "Inbox/SSH Key Management Best Practices.md"
     },
     {
       "basename": "2023-07-17",
@@ -179,26 +199,6 @@
     {
       "basename": "Tools - XDG Ninja",
       "path": "Tools/Tools - Dotfiles/Tools - XDG Ninja.md"
-    },
-    {
-      "basename": "Tools - Home Manager",
-      "path": "Tools/Tools - Dotfiles/Tools - Home Manager.md"
-    },
-    {
-      "basename": "Tools - GNUStow",
-      "path": "Tools/Tools - Dotfiles/Tools - GNUStow.md"
-    },
-    {
-      "basename": "Tools - DotBot",
-      "path": "Tools/Tools - Dotfiles/Tools - DotBot.md"
-    },
-    {
-      "basename": "Tools- Espanso",
-      "path": "Tools/Tools - Productivity/Tools- Espanso.md"
-    },
-    {
-      "basename": "Tool - Todoist",
-      "path": "Tools/Tools - Productivity/Tool - Todoist.md"
     }
   ],
   "omittedPaths": [],

@@ -24,3 +24,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
