@@ -341,7 +341,6 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "workbench-obsidian:Workbench": false,
@@ -353,10 +352,11 @@
       "homepage:Open homepage": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-omnivore:Omnivore": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "1d1fe6cfda644310",
   "lastOpenFiles": [
     "CHANGELOG.md",
     "AI/chats/Obsidian Chat.md",
