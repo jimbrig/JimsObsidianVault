@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Meta/_README.md"
+    },
+    {
+      "basename": "Workflows",
+      "path": "Meta/Workflows/Workflows.md"
+    },
+    {
+      "basename": "Re-Structuring Vaults",
+      "path": "Meta/Workflows/Re-Structuring Vaults.md"
+    },
+    {
+      "basename": "Best Practices",
+      "path": "Meta/Workflows/Best Practices.md"
+    },
+    {
+      "basename": "Tags",
+      "path": "Meta/Tags.md"
+    },
+    {
+      "basename": "Sources",
+      "path": "Meta/Sources.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "Meta/Settings.md"
+    },
+    {
+      "basename": "References",
+      "path": "Meta/References.md"
+    },
+    {
       "basename": "Ideas",
       "path": "Meta/Ideas.md"
     },
     {
       "basename": "Folders",
       "path": "Meta/Folders.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Meta/_README.md"
     },
     {
       "basename": "2023-07-21",
@@ -167,38 +199,6 @@
     {
       "basename": "Tool - Todoist",
       "path": "Tools/Tools - Productivity/Tool - Todoist.md"
-    },
-    {
-      "basename": "Tool - PowerShell",
-      "path": "Tools/Tools - Shells/Tool - PowerShell.md"
-    },
-    {
-      "basename": "Obsidian Browser Extensions",
-      "path": "Tools/Tools - Obsidian/Obsidian Browser Extensions.md"
-    },
-    {
-      "basename": "Tools - Command Line Productivity",
-      "path": "Tools/Tools - CLI/Tools - Command Line Productivity.md"
-    },
-    {
-      "basename": "GitHub CLI",
-      "path": "Tools/Tools - Version Control/GitHub CLI.md"
-    },
-    {
-      "basename": "Git Extras",
-      "path": "Tools/Tools - Version Control/Git Extras.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Tools/Tools - Version Control/Git.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Tools/Tools - Obsidian/_README.md"
-    },
-    {
-      "basename": "Built-In Plugins",
-      "path": "Tools/Tools - Obsidian/Built-In Plugins.md"
     }
   ],
   "omittedPaths": [],

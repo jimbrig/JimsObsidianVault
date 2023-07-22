@@ -1,0 +1,9 @@
+{
+  "mySetting": "default",
+  "apiKey": "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",
+  "modelName": "gpt-3.5-turbo",
+  "maxTokens": 500,
+  "replaceSelection": true,
+  "imgFolder": "Assets",
+  "language": ""
+}

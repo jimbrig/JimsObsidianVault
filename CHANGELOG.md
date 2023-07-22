@@ -1,3 +1,4 @@
+- 2023-07-21 at 20h12 · [[README]]
 - 2023-07-21 at 20h05 · [[2023-07-21]]
 - 2023-07-17 at 18h06 · [[PowerShell - Install 1Password CLI]]
 - 2023-07-17 at 17h42 · [[SSH Code Snippets]]
@@ -47,4 +48,3 @@
 - 2023-07-05 at 00h48 · [[Tool - Obsidian Plugin]]
 - 2023-07-05 at 00h48 · [[Obsidian - QuickAdd Plugin]]
 - 2023-07-05 at 00h47 · [[_README]]
-- 2023-07-03 at 20h12 · [[_README]]
