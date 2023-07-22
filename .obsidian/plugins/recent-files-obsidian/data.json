@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "List of Terraform Related Tools",
+      "path": "Inbox/List of Terraform Related Tools.md"
+    },
+    {
+      "basename": "Test",
+      "path": "Test.md"
+    },
+    {
       "basename": "Secure Socket Shell (SSH)",
       "path": "Inbox/Secure Socket Shell (SSH).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Tools - RCM",
       "path": "Tools/Tools - Dotfiles/Tools - RCM.md"
-    },
-    {
-      "basename": "Tools - YADM",
-      "path": "Tools/Tools - Dotfiles/Tools - YADM.md"
-    },
-    {
-      "basename": "Tools - XDG Ninja",
-      "path": "Tools/Tools - Dotfiles/Tools - XDG Ninja.md"
     }
   ],
   "omittedPaths": [],
