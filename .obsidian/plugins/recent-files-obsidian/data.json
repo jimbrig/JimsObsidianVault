@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
+    },
+    {
+      "basename": "Structure",
+      "path": "Guides/PowerShell Development/PowerShell Profile/Structure.md"
+    },
+    {
+      "basename": "PowerShell Profile Setup and Best Practices",
+      "path": "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md"
+    },
+    {
+      "basename": "01 Getting Started",
+      "path": "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md"
+    },
+    {
+      "basename": "My PowerShell Modules",
+      "path": "Lists/My PowerShell Modules.md"
+    },
+    {
       "basename": "20230721211417",
       "path": "AI/chats/20230721211417.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "Tools - Kody",
       "path": "Tools/Tools - Dotfiles/Tools - Kody.md"
-    },
-    {
-      "basename": "Tools - DotGit",
-      "path": "Tools/Tools - Dotfiles/Tools - DotGit.md"
-    },
-    {
-      "basename": "Tools - Dotfiler",
-      "path": "Tools/Tools - Dotfiles/Tools - Dotfiler.md"
-    },
-    {
-      "basename": "Tools - Homemaker",
-      "path": "Tools/Tools - Dotfiles/Tools - Homemaker.md"
-    },
-    {
-      "basename": "Tools - Comtrya",
-      "path": "Tools/Tools - Dotfiles/Tools - Comtrya.md"
     }
   ],
   "omittedPaths": [],

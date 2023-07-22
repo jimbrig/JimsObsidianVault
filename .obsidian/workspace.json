@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/chats/20230721211417.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/chats/20230721211417.md"
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/chats/20230721211417.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/chats/20230721211417.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +329,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AI/chats/20230721211417.md",
+                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -412,8 +412,12 @@
   },
   "active": "a8c36220432fc074",
   "lastOpenFiles": [
-    "Test.md",
+    "Guides/PowerShell Development/PowerShell Profile/Structure.md",
+    "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
+    "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
+    "Lists/My PowerShell Modules.md",
     "AI/chats/20230721211417.md",
+    "Test.md",
     "AI/chats/Obsidian Chat.md",
     "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "Code/Bash/Bash - WSL Sample Setup Script.md",
@@ -434,10 +438,6 @@
     "Inbox/PKM System Evolution.md",
     "Inbox/Personal Knowledge Management Overview.md",
     "README.md",
-    "Meta/_README.md",
-    "Meta/Workflows/Workflows.md",
-    "Meta/Workflows/Re-Structuring Vaults.md",
-    "Meta/Workflows/Best Practices.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
