@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - Convert XLS to XLSX",
+      "path": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
+    },
+    {
       "basename": "2023-07-28",
       "path": "Daily/2023-07-28.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tools - Chezmoi",
       "path": "Tools/Tools - Dotfiles/Tools - Chezmoi.md"
-    },
-    {
-      "basename": "Tools - DFM",
-      "path": "Tools/Tools - Dotfiles/Tools - DFM.md"
     }
   ],
   "omittedPaths": [],

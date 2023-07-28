@@ -133,8 +133,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-28.md",
-                "mode": "source",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-28.md"
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-28.md",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-28.md",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +329,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-07-28.md",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -378,7 +378,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 484.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -410,10 +411,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f3442d7f63da1ad4",
+  "active": "a8c36220432fc074",
   "lastOpenFiles": [
-    "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Daily/2023-07-28.md",
+    "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+    "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Guides/PowerShell Development/PowerShell Profile/Structure.md",
     "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
     "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
@@ -437,7 +439,6 @@
     "Inbox/List of Terraform Related Tools.md",
     "Inbox/Secure Socket Shell (SSH).md",
     "CHANGELOG.md",
-    "Inbox/PKM System Evolution.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
