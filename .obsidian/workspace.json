@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Daily/2023-07-28.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md"
+                "file": "Daily/2023-07-28.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Daily/2023-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Daily/2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,15 @@
             }
           },
           {
-            "id": "ec3fb8b907b52230",
+            "id": "cfbb3826daaa4016",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e4fa7f7e968b21c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -300,23 +308,15 @@
             }
           },
           {
-            "id": "9384edf8e47d2101",
+            "id": "f3442d7f63da1ad4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "cfbb3826daaa4016",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       },
       {
         "id": "1ac3153552315a07",
@@ -329,7 +329,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Profile/_README.md",
+                "file": "Daily/2023-07-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,16 +402,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-omnivore:Omnivore": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "gpt3-notes:GPT-3 Notes": false,
-      "ai-summary:Summarize referenced notes": false
+      "ai-summary:Summarize referenced notes": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a8c36220432fc074",
+  "active": "f3442d7f63da1ad4",
   "lastOpenFiles": [
+    "Guides/PowerShell Development/PowerShell Profile/_README.md",
+    "Daily/2023-07-28.md",
     "Guides/PowerShell Development/PowerShell Profile/Structure.md",
     "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
     "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
@@ -436,8 +438,6 @@
     "Inbox/Secure Socket Shell (SSH).md",
     "CHANGELOG.md",
     "Inbox/PKM System Evolution.md",
-    "Inbox/Personal Knowledge Management Overview.md",
-    "README.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",

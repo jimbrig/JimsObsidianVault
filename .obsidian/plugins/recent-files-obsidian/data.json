@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-07-28",
+      "path": "Daily/2023-07-28.md"
+    },
+    {
       "basename": "_README",
       "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tools - DFM",
       "path": "Tools/Tools - Dotfiles/Tools - DFM.md"
-    },
-    {
-      "basename": "Tools - Kody",
-      "path": "Tools/Tools - Dotfiles/Tools - Kody.md"
     }
   ],
   "omittedPaths": [],
