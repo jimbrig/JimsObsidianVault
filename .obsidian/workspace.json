@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Utility-Templates/Template-List.md",
+                "file": "Tools and Apps I Use.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Utility-Templates/Template-List.md"
+                "file": "Tools and Apps I Use.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Utility-Templates/Template-List.md",
+                "file": "Tools and Apps I Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Utility-Templates/Template-List.md",
+                "file": "Tools and Apps I Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +203,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "a4ba8e17a657ca78",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Tools and Apps I Use.md"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -218,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Utility-Templates/Template-List.md",
+                "file": "Tools and Apps I Use.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,6 +311,7 @@
   },
   "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
+    "Templates/Utility-Templates/Template-List.md",
     "Templates/Core-Templates/Template-Default.md",
     "Tools and Apps I Use.md",
     "Daily/2023-07-29.md",
@@ -326,7 +337,6 @@
     "Code/Bash/Bash - Bash Aliases.md",
     "AI/Chats/20230721211417.md",
     "Inbox/An Exploration of Data vs Metadata.md",
-    "Inbox/Artificial Intelligence Concepts.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",

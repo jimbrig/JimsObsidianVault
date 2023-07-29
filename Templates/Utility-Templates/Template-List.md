@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Unknown"]
+Tags: ["#Type/List", "#Topic/Unknown"]
 Alias: [ ]
 ---
 
