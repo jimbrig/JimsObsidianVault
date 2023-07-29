@@ -133,14 +133,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
-                "mode": "preview",
+                "file": "Code/Git/Git - Change to SSH Protocol.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "adc0a4be2a33f183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-07-29.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
+                "file": "Daily/2023-07-29.md"
               }
             }
           },
@@ -236,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+                "file": "Daily/2023-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+                "file": "Daily/2023-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +312,7 @@
             }
           },
           {
-            "id": "6e4fa7f7e968b21c",
+            "id": "88aa7a6a69334914",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -308,7 +320,7 @@
             }
           },
           {
-            "id": "f3442d7f63da1ad4",
+            "id": "de3a3e0af5cc3863",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -329,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+                "file": "Daily/2023-07-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -378,8 +390,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5,
-    "collapsed": true
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -411,10 +422,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a8c36220432fc074",
+  "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
-    "Daily/2023-07-28.md",
+    "Daily/2023-07-29.md",
     "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+    "Code/Git/Git - Change to SSH Protocol.md",
+    "Daily/2023-07-28.md",
     "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Guides/PowerShell Development/PowerShell Profile/Structure.md",
     "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
@@ -437,8 +450,6 @@
     "Inbox/Artificial Intelligence Concepts.md",
     "Inbox/List of Services I Use.md",
     "Inbox/List of Terraform Related Tools.md",
-    "Inbox/Secure Socket Shell (SSH).md",
-    "CHANGELOG.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",

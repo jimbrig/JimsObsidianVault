@@ -61,8 +61,8 @@ Function Get-VaultWordCount {
 
     $Files = Get-ChildItem -Path $FolderPath -Recurse -File -Force | `
         Where-Object { !($_.PSIsContainer) } | `
+        Where-Object { $FolderNamesToIgnore -notmatch $_.FullName } | `
         Where-Object { $FileNamesToIgnore -notcontains $_.Name } | `
-        Where-Object { $FolderNamesToIgnore -notcontains $_.FullName } | `
         Where-Object { $_.Extension -eq ".md" }
 
     $Files | ForEach-Object {

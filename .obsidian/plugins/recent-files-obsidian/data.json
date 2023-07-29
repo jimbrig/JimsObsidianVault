@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-07-29",
+      "path": "Daily/2023-07-29.md"
+    },
+    {
+      "basename": "Git - Change to SSH Protocol",
+      "path": "Code/Git/Git - Change to SSH Protocol.md"
+    },
+    {
       "basename": "PowerShell - Convert XLS to XLSX",
       "path": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Gitignore.io",
       "path": "Tools/Tools - Online/Gitignore.io.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Tools/Tools - Dotfiles/_README.md"
-    },
-    {
-      "basename": "Tools - Chezmoi",
-      "path": "Tools/Tools - Dotfiles/Tools - Chezmoi.md"
     }
   ],
   "omittedPaths": [],
