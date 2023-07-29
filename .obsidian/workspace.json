@@ -8,151 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a5a38faaad36488",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "backlinks": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "288d36e29ada066f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-06-29.md",
-                "mode": "source",
-                "backlinks": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d981b9274982b958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Shells.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "adb529edd42bd596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lists/Online Developer Tools Master List.md",
-                "mode": "preview",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "028469d2012e40c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Tools - Obsidian/Obsidian - QuickAdd/Obsidian - QuickAdd Plugin.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "945a8ccd0974f348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-07-17.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "1d1fe6cfda644310",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7c5565aa90a3b9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/An Exploration of Data vs Metadata.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "fa22134b055572d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/Bash/Bash - Git Auto Commit.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "85f5973892f75cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/PowerShell/PowerShell - GitHub Downloads.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "a8c36220432fc074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/Git/Git - Change to SSH Protocol.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
             "id": "adc0a4be2a33f183",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Templates/Utility-Templates/Template-List.md",
                 "mode": "source",
                 "backlinks": true
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 587.5
+    "width": 313.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -238,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-29.md"
+                "file": "Templates/Utility-Templates/Template-List.md"
               }
             }
           },
@@ -248,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Templates/Utility-Templates/Template-List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Templates/Utility-Templates/Template-List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,9 +193,19 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "a854573044cc0598",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "1ac3153552315a07",
@@ -341,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Templates/Utility-Templates/Template-List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -365,7 +242,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.3628873693012121,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -424,6 +301,8 @@
   },
   "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
+    "Templates/Core-Templates/Template-Default.md",
+    "Tools and Apps I Use.md",
     "Daily/2023-07-29.md",
     "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Code/Git/Git - Change to SSH Protocol.md",
@@ -448,8 +327,6 @@
     "AI/Chats/20230721211417.md",
     "Inbox/An Exploration of Data vs Metadata.md",
     "Inbox/Artificial Intelligence Concepts.md",
-    "Inbox/List of Services I Use.md",
-    "Inbox/List of Terraform Related Tools.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",

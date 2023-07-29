@@ -1,4 +1,6 @@
-- 2023-07-29 at 14h35 · [[2023-07-29]]
+- 2023-07-29 at 14h37 · [[Template-List]]
+- 2023-07-29 at 14h36 · [[Tools and Apps I Use]]
+- 2023-07-29 at 14h36 · [[2023-07-29]]
 - 2023-07-28 at 18h56 · [[Git - Change to SSH Protocol]]
 - 2023-07-28 at 18h46 · [[PowerShell - Convert XLS to XLSX]]
 - 2023-07-28 at 18h41 · [[2023-07-28]]
@@ -46,5 +48,3 @@
 - 2023-07-05 at 01h15 · [[Tools - DotBot]]
 - 2023-07-05 at 01h00 · [[Tools- Espanso]]
 - 2023-07-05 at 01h00 · [[Tool - Todoist]]
-- 2023-07-05 at 00h59 · [[2023-06-29]]
-- 2023-07-05 at 00h59 · [[Tool - PowerShell]]

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Template-List",
+      "path": "Templates/Utility-Templates/Template-List.md"
+    },
+    {
+      "basename": "Template-Default",
+      "path": "Templates/Core-Templates/Template-Default.md"
+    },
+    {
+      "basename": "Tools and Apps I Use",
+      "path": "Tools and Apps I Use.md"
+    },
+    {
       "basename": "2023-07-29",
       "path": "Daily/2023-07-29.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Python - Actuarial Triangle Class",
       "path": "Code/Python/Python - Actuarial Triangle Class.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/Python/_README.md"
-    },
-    {
-      "basename": "Managing Dotfiles",
-      "path": "Inbox/Managing Dotfiles.md"
-    },
-    {
-      "basename": "Gitignore.io",
-      "path": "Tools/Tools - Online/Gitignore.io.md"
     }
   ],
   "omittedPaths": [],
