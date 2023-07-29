@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools and Apps I Use.md",
+                "file": "Daily/2023-07-29.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools and Apps I Use.md"
+                "file": "Daily/2023-07-29.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools and Apps I Use.md",
+                "file": "Daily/2023-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools and Apps I Use.md",
+                "file": "Daily/2023-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,22 +179,6 @@
             }
           },
           {
-            "id": "88aa7a6a69334914",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "de3a3e0af5cc3863",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "a854573044cc0598",
             "type": "leaf",
             "state": {
@@ -210,8 +194,24 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools and Apps I Use.md"
+                "file": "Daily/2023-07-29.md"
               }
+            }
+          },
+          {
+            "id": "e4695daebe031134",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1c2732963620c7e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
             }
           }
         ],
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tools and Apps I Use.md",
+                "file": "Daily/2023-07-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,7 +309,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "adc0a4be2a33f183",
+  "active": "d1c2732963620c7e",
   "lastOpenFiles": [
     "Templates/Utility-Templates/Template-List.md",
     "Templates/Core-Templates/Template-Default.md",
