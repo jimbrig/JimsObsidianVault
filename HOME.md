@@ -15,8 +15,8 @@ banner_icon: 💻
 >> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`  
 >  
 >> ## 💼 Work
->> [[Projects/_README|Projects]]
->> [[Daily/_README|Daily Notes]]
+>> [[Life/Projects/_README|Projects]]
+>> [[Life/Daily/_README|Daily Notes]]
 >  
 >> ## 🧠 Knowledge  
 >> [[Inbox/_README|Inbox]]

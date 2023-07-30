@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
+                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/YouTube/2023-07-29/PARA Method.md"
+                "file": "Templates/Core-Templates/Template-Weekly-Note.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
+                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
+                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Assets/YouTube/2023-07-29/PARA Method.md"
+                "file": "Templates/Core-Templates/Template-Weekly-Note.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
+                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,13 +330,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "adc0a4be2a33f183",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "Templates/Utility-Templates/Template-YouTube.md",
+    "Life/Ideas",
+    "Life/Goals",
+    "Life",
+    "Templates/Core-Templates/Template-Daily-Note.md",
+    "Templates/Core-Templates/Template-Weekly-Note.md",
     "Assets/YouTube/2023-07-29/PARA Method.md",
+    "Templates/Utility-Templates/Template-YouTube.md",
     "Templates/Core-Templates/Template-Default.md",
     "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
     "Templates/Tool-Templates/Template-Tool-Application.md",
@@ -344,12 +350,12 @@
     "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
     "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md",
     "Assets/YouTube/2023-07-29",
-    "Daily/2023-07-29.md",
+    "Life/Daily/2023-07-29.md",
     "Templates/Utility-Templates/Template-List.md",
     "Tools and Apps I Use.md",
     "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Code/Git/Git - Change to SSH Protocol.md",
-    "Daily/2023-07-28.md",
+    "Life/Daily/2023-07-28.md",
     "Guides/PowerShell Development/PowerShell Profile/_README.md",
     "Guides/PowerShell Development/PowerShell Profile/Structure.md",
     "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
@@ -359,9 +365,6 @@
     "Test.md",
     "AI/chats/Obsidian Chat.md",
     "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Code/Bash/Bash - WSL Sample Setup Script.md",
-    "Code/PowerShell/PowerShell - GitHub Downloads.md",
-    "Code/Bash/Bash - GitHub Downloads.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
@@ -369,8 +372,6 @@
     "Tools/Tools - Shells",
     "Tools/Tools - PKM",
     "Tools/Tools - Obsidian",
-    "Tools/Tools - Obsidian/Obsidian - Templater",
-    "Tools/Tools - Obsidian/Obsidian - QuickAdd",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
