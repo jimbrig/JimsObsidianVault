@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Template-Weekly-Note",
-      "path": "Templates/Core-Templates/Template-Weekly-Note.md"
+      "basename": "Template-YouTube",
+      "path": "Templates/Source-Templates/Template-YouTube.md"
     },
     {
-      "basename": "Template-Daily-Note",
-      "path": "Templates/Core-Templates/Template-Daily-Note.md"
+      "basename": "Template-Idea",
+      "path": "Templates/Source-Templates/Template-Idea.md"
+    },
+    {
+      "basename": "Template-PodCast",
+      "path": "Templates/Source-Templates/Template-PodCast.md"
+    },
+    {
+      "basename": "Template-Book",
+      "path": "Templates/Source-Templates/Template-Book.md"
+    },
+    {
+      "basename": "Template-Article",
+      "path": "Templates/Source-Templates/Template-Article.md"
+    },
+    {
+      "basename": "Template-Project",
+      "path": "Templates/Life-Templates/Template-Project.md"
+    },
+    {
+      "basename": "Template-Annual",
+      "path": "Templates/Life-Templates/Template-Annual.md"
+    },
+    {
+      "basename": "Template-Weekly",
+      "path": "Templates/Life-Templates/Template-Weekly.md"
+    },
+    {
+      "basename": "Template-Quarterly",
+      "path": "Templates/Life-Templates/Template-Quarterly.md"
+    },
+    {
+      "basename": "Template-Goal",
+      "path": "Templates/Life-Templates/Template-Goal.md"
+    },
+    {
+      "basename": "Template-Frontmatter-Enhanced",
+      "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "Template-Daily",
+      "path": "Templates/Life-Templates/Template-Daily.md"
     },
     {
       "basename": "PARA Method",
       "path": "Assets/YouTube/2023-07-29/PARA Method.md"
-    },
-    {
-      "basename": "Template-YouTube",
-      "path": "Templates/Utility-Templates/Template-YouTube.md"
     },
     {
       "basename": "Template-Default",
@@ -159,46 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Meta/_README.md"
-    },
-    {
-      "basename": "Workflows",
-      "path": "Meta/Workflows/Workflows.md"
-    },
-    {
-      "basename": "Re-Structuring Vaults",
-      "path": "Meta/Workflows/Re-Structuring Vaults.md"
-    },
-    {
-      "basename": "Best Practices",
-      "path": "Meta/Workflows/Best Practices.md"
-    },
-    {
-      "basename": "Tags",
-      "path": "Meta/Tags.md"
-    },
-    {
-      "basename": "Sources",
-      "path": "Meta/Sources.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "Meta/Settings.md"
-    },
-    {
-      "basename": "References",
-      "path": "Meta/References.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "Meta/Ideas.md"
-    },
-    {
-      "basename": "Folders",
-      "path": "Meta/Folders.md"
     }
   ],
   "omittedPaths": [],

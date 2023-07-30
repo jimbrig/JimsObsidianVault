@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
+                "file": "Templates/Source-Templates/Template-YouTube.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Core-Templates/Template-Weekly-Note.md"
+                "file": "Templates/Source-Templates/Template-YouTube.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
+                "file": "Templates/Source-Templates/Template-YouTube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
+                "file": "Templates/Source-Templates/Template-YouTube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Core-Templates/Template-Weekly-Note.md"
+                "file": "Templates/Source-Templates/Template-YouTube.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Core-Templates/Template-Weekly-Note.md",
+                "file": "Templates/Source-Templates/Template-YouTube.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -334,15 +334,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
+    "Templates/Source-Templates/Template-Idea.md",
+    "Templates/Source-Templates/Template-PodCast.md",
+    "Templates/Source-Templates/Template-Book.md",
+    "Templates/Source-Templates/Template-Article.md",
+    "Templates/Life-Templates/Template-Project.md",
+    "Templates/Source-Templates",
+    "Templates/Life-Templates/Template-Annual.md",
+    "Templates/Life-Templates/Template-Weekly.md",
+    "Templates/Life-Templates/Template-Quarterly.md",
+    "Templates/Life-Templates/Template-Goal.md",
+    "Templates/Life-Templates",
+    "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+    "Templates/Fragment-Templates/Template-Footer.md",
     "Life/Ideas",
     "Life/Goals",
     "Life",
-    "Templates/Core-Templates/Template-Daily-Note.md",
-    "Templates/Core-Templates/Template-Weekly-Note.md",
+    "Templates/Life-Templates/Template-Daily.md",
     "Assets/YouTube/2023-07-29/PARA Method.md",
-    "Templates/Utility-Templates/Template-YouTube.md",
+    "Templates/Source-Templates/Template-YouTube.md",
     "Templates/Core-Templates/Template-Default.md",
     "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
     "Templates/Tool-Templates/Template-Tool-Application.md",
@@ -356,22 +368,10 @@
     "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Code/Git/Git - Change to SSH Protocol.md",
     "Life/Daily/2023-07-28.md",
-    "Guides/PowerShell Development/PowerShell Profile/_README.md",
-    "Guides/PowerShell Development/PowerShell Profile/Structure.md",
-    "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md",
-    "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md",
-    "Lists/My PowerShell Modules.md",
-    "AI/chats/20230721211417.md",
-    "Test.md",
-    "AI/chats/Obsidian Chat.md",
-    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
     "Tools/Tools - Windows",
-    "Tools/Tools - Shells",
-    "Tools/Tools - PKM",
-    "Tools/Tools - Obsidian",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
