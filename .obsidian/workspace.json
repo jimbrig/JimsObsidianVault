@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "614893da0bd340ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "120cad58c9f2d624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Core-Templates/Template-Default.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -77,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 335.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -105,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-29.md"
+                "file": "Assets/YouTube/2023-07-29/PARA Method.md"
               }
             }
           },
@@ -115,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily/2023-07-29.md"
+                "file": "Assets/YouTube/2023-07-29/PARA Method.md"
               }
             }
           },
@@ -228,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-07-29.md",
+                "file": "Assets/YouTube/2023-07-29/PARA Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,12 +333,20 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d1c2732963620c7e",
+  "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
-    "Templates/Utility-Templates/Template-List.md",
+    "Templates/Utility-Templates/Template-YouTube.md",
+    "Assets/YouTube/2023-07-29/PARA Method.md",
     "Templates/Core-Templates/Template-Default.md",
-    "Tools and Apps I Use.md",
+    "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
+    "Templates/Tool-Templates/Template-Tool-Application.md",
+    "Templates/Tool-Templates/Template-Tool.md",
+    "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
+    "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md",
+    "Assets/YouTube/2023-07-29",
     "Daily/2023-07-29.md",
+    "Templates/Utility-Templates/Template-List.md",
+    "Tools and Apps I Use.md",
     "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Code/Git/Git - Change to SSH Protocol.md",
     "Daily/2023-07-28.md",
@@ -330,13 +362,6 @@
     "Code/Bash/Bash - WSL Sample Setup Script.md",
     "Code/PowerShell/PowerShell - GitHub Downloads.md",
     "Code/Bash/Bash - GitHub Downloads.md",
-    "HOME.md",
-    "Inbox/Note 2023-07-21 21-17-15.md",
-    "Inbox/Note 2023-07-21 21-17-14.md",
-    "Code/Bash/Bash - Git Auto Commit.md",
-    "Code/Bash/Bash - Bash Aliases.md",
-    "AI/Chats/20230721211417.md",
-    "Inbox/An Exploration of Data vs Metadata.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
@@ -346,7 +371,6 @@
     "Tools/Tools - Obsidian",
     "Tools/Tools - Obsidian/Obsidian - Templater",
     "Tools/Tools - Obsidian/Obsidian - QuickAdd",
-    "Logs/TIL/PowerShell",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

@@ -1,3 +1,5 @@
+- 2023-07-29 at 21h01 · [[PARA Method]]
+- 2023-07-29 at 20h55 · [[Template-YouTube]]
 - 2023-07-29 at 14h43 · [[Tools and Apps I Use]]
 - 2023-07-29 at 14h42 · [[Template-List]]
 - 2023-07-29 at 14h36 · [[2023-07-29]]
@@ -46,5 +48,3 @@
 - 2023-07-05 at 01h15 · [[Tools - Home Manager]]
 - 2023-07-05 at 01h15 · [[Tools - GNUStow]]
 - 2023-07-05 at 01h15 · [[Tools - DotBot]]
-- 2023-07-05 at 01h00 · [[Tools- Espanso]]
-- 2023-07-05 at 01h00 · [[Tool - Todoist]]

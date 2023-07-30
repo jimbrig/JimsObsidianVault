@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "PARA Method",
+      "path": "Assets/YouTube/2023-07-29/PARA Method.md"
+    },
+    {
+      "basename": "Template-YouTube",
+      "path": "Templates/Utility-Templates/Template-YouTube.md"
+    },
+    {
+      "basename": "Template-Default",
+      "path": "Templates/Core-Templates/Template-Default.md"
+    },
+    {
+      "basename": "Automate Automation Part 1 - Azure DevOps Terraform Provider",
+      "path": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md"
+    },
+    {
+      "basename": "Template-Tool-Application",
+      "path": "Templates/Tool-Templates/Template-Tool-Application.md"
+    },
+    {
+      "basename": "Template-Tool",
+      "path": "Templates/Tool-Templates/Template-Tool.md"
+    },
+    {
+      "basename": "Keep Terraform up-to-date with Rennovate",
+      "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
+    },
+    {
+      "basename": "Improving Your GTD Weekly Review",
+      "path": "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md"
+    },
+    {
       "basename": "2023-07-29",
       "path": "Daily/2023-07-29.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "Template-List",
       "path": "Templates/Utility-Templates/Template-List.md"
-    },
-    {
-      "basename": "Template-Default",
-      "path": "Templates/Core-Templates/Template-Default.md"
     },
     {
       "basename": "Git - Change to SSH Protocol",
@@ -171,34 +199,6 @@
     {
       "basename": "PowerShell - Install 1Password CLI",
       "path": "Code/PowerShell/PowerShell - Install 1Password CLI.md"
-    },
-    {
-      "basename": "SSH Code Snippets",
-      "path": "Inbox/SSH Code Snippets.md"
-    },
-    {
-      "basename": "SSH Key Management Best Practices",
-      "path": "Inbox/SSH Key Management Best Practices.md"
-    },
-    {
-      "basename": "2023-07-17",
-      "path": "Daily/2023-07-17.md"
-    },
-    {
-      "basename": "PowerShell - PSResourceGet",
-      "path": "Code/PowerShell/PowerShell - PSResourceGet.md"
-    },
-    {
-      "basename": "PowerShell - DotNet Assemblies",
-      "path": "Code/PowerShell/PowerShell - DotNet Assemblies.md"
-    },
-    {
-      "basename": "PowerShell - Register-PackageSource",
-      "path": "Code/PowerShell/PowerShell - Register-PackageSource.md"
-    },
-    {
-      "basename": "Python - Actuarial Triangle Class",
-      "path": "Code/Python/Python - Actuarial Triangle Class.md"
     }
   ],
   "omittedPaths": [],
