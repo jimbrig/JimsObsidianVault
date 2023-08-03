@@ -11,12 +11,8 @@
             "id": "adc0a4be2a33f183",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Source-Templates/Template-YouTube.md",
-                "mode": "source",
-                "backlinks": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
-                "mode": "source",
+                "file": "Lists/Online Developer Tools Master List.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -43,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quotes",
+                "query": "Online Developer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Source-Templates/Template-YouTube.md"
+                "file": "Lists/Online Developer Tools Master List.md"
               }
             }
           },
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Source-Templates/Template-YouTube.md",
+                "file": "Lists/Online Developer Tools Master List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Source-Templates/Template-YouTube.md",
+                "file": "Lists/Online Developer Tools Master List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Source-Templates/Template-YouTube.md"
+                "file": "Lists/Online Developer Tools Master List.md"
               }
             }
           },
@@ -238,8 +236,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "1ac3153552315a07",
@@ -252,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Source-Templates/Template-YouTube.md",
+                "file": "Lists/Online Developer Tools Master List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,7 +298,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,8 +332,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "72e32085aedaa3ed",
+  "active": "614893da0bd340ea",
   "lastOpenFiles": [
+    "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
+    "Lists/Online Developer Tools Master List.md",
+    "Readwise/Articles/How Developers Can Level Up by Creating Content.md",
+    "Templates/Source-Templates/Template-YouTube.md",
     "Templates/Source-Templates/Template-Idea.md",
     "Templates/Source-Templates/Template-PodCast.md",
     "Templates/Source-Templates/Template-Book.md",
@@ -354,9 +356,7 @@
     "Life",
     "Templates/Life-Templates/Template-Daily.md",
     "Assets/YouTube/2023-07-29/PARA Method.md",
-    "Templates/Source-Templates/Template-YouTube.md",
     "Templates/Core-Templates/Template-Default.md",
-    "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
     "Templates/Tool-Templates/Template-Tool-Application.md",
     "Templates/Tool-Templates/Template-Tool.md",
     "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
@@ -366,8 +366,6 @@
     "Templates/Utility-Templates/Template-List.md",
     "Tools and Apps I Use.md",
     "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
-    "Code/Git/Git - Change to SSH Protocol.md",
-    "Life/Daily/2023-07-28.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Online Developer Tools Master List",
+      "path": "Lists/Online Developer Tools Master List.md"
+    },
+    {
+      "basename": "Automate Automation Part 1 - Azure DevOps Terraform Provider",
+      "path": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md"
+    },
+    {
+      "basename": "How Developers Can Level Up by Creating Content",
+      "path": "Readwise/Articles/How Developers Can Level Up by Creating Content.md"
+    },
+    {
       "basename": "Template-YouTube",
       "path": "Templates/Source-Templates/Template-YouTube.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "Template-Default",
       "path": "Templates/Core-Templates/Template-Default.md"
-    },
-    {
-      "basename": "Automate Automation Part 1 - Azure DevOps Terraform Provider",
-      "path": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md"
     },
     {
       "basename": "Template-Tool-Application",
@@ -191,14 +199,6 @@
     {
       "basename": "PKM System Evolution",
       "path": "Inbox/PKM System Evolution.md"
-    },
-    {
-      "basename": "Personal Knowledge Management Overview",
-      "path": "Inbox/Personal Knowledge Management Overview.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
