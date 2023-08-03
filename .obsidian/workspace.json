@@ -223,7 +223,7 @@
             }
           },
           {
-            "id": "e4695daebe031134",
+            "id": "6620d41dc95e8bf8",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -231,7 +231,7 @@
             }
           },
           {
-            "id": "d1c2732963620c7e",
+            "id": "72e32085aedaa3ed",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -330,11 +330,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "adc0a4be2a33f183",
+  "active": "72e32085aedaa3ed",
   "lastOpenFiles": [
     "Templates/Source-Templates/Template-Idea.md",
     "Templates/Source-Templates/Template-PodCast.md",
