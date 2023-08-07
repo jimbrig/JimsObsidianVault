@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "06c End-to-End",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md"
+    },
+    {
+      "basename": "06b Integration",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/06b Integration.md"
+    },
+    {
+      "basename": "06a Unit",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/06a Unit.md"
+    },
+    {
+      "basename": "06 Tests",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/06 Tests.md"
+    },
+    {
+      "basename": "05b Website",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/05b Website.md"
+    },
+    {
+      "basename": "05a Help",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/05a Help.md"
+    },
+    {
+      "basename": "05 Docs",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/05 Docs.md"
+    },
+    {
+      "basename": "04 Manifest",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/04 Manifest.md"
+    },
+    {
+      "basename": "03c Module Exports",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/03c Module Exports.md"
+    },
+    {
+      "basename": "03b Classes and Enums",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/03b Classes and Enums.md"
+    },
+    {
+      "basename": "03a Functions",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/03a Functions.md"
+    },
+    {
+      "basename": "03 Source Code",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/03 Source Code.md"
+    },
+    {
+      "basename": "02 Customize",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/02 Customize.md"
+    },
+    {
+      "basename": "01 Initialize",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/01 Initialize.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/PowerShell Development/PowerShell Module Development/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
+    },
+    {
+      "basename": "GitHub Common Workflows for GitHub Actions",
+      "path": "Guides/GitHub/GitHub Common Workflows for GitHub Actions.md"
+    },
+    {
       "basename": "GitHub Repository Issue Labels",
       "path": "Guides/GitHub/GitHub Repository Issue Labels.md"
     },
@@ -117,10 +185,6 @@
       "path": "Life/Daily/2023-07-28.md"
     },
     {
-      "basename": "_README",
-      "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
-    },
-    {
       "basename": "Structure",
       "path": "Guides/PowerShell Development/PowerShell Profile/Structure.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "My PowerShell Modules",
       "path": "Lists/My PowerShell Modules.md"
-    },
-    {
-      "basename": "20230721211417",
-      "path": "AI/chats/20230721211417.md"
-    },
-    {
-      "basename": "Obsidian Chat",
-      "path": "AI/chats/Obsidian Chat.md"
-    },
-    {
-      "basename": "PowerShell - Add-GodModeShortcut",
-      "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "Bash - WSL Sample Setup Script",
-      "path": "Code/Bash/Bash - WSL Sample Setup Script.md"
-    },
-    {
-      "basename": "PowerShell - GitHub Downloads",
-      "path": "Code/PowerShell/PowerShell - GitHub Downloads.md"
-    },
-    {
-      "basename": "Bash - GitHub Downloads",
-      "path": "Code/Bash/Bash - GitHub Downloads.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
-      "basename": "Bash - Git Auto Commit",
-      "path": "Code/Bash/Bash - Git Auto Commit.md"
-    },
-    {
-      "basename": "Bash - Bash Aliases",
-      "path": "Code/Bash/Bash - Bash Aliases.md"
-    },
-    {
-      "basename": "20230721211417",
-      "path": "AI/Chats/20230721211417.md"
-    },
-    {
-      "basename": "An Exploration of Data vs Metadata",
-      "path": "Inbox/An Exploration of Data vs Metadata.md"
-    },
-    {
-      "basename": "Artificial Intelligence Concepts",
-      "path": "Inbox/Artificial Intelligence Concepts.md"
-    },
-    {
-      "basename": "List of Services I Use",
-      "path": "Inbox/List of Services I Use.md"
-    },
-    {
-      "basename": "List of Terraform Related Tools",
-      "path": "Inbox/List of Terraform Related Tools.md"
-    },
-    {
-      "basename": "Secure Socket Shell (SSH)",
-      "path": "Inbox/Secure Socket Shell (SSH).md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
     }
   ],
   "omittedPaths": [],

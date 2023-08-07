@@ -11,17 +11,9 @@
             "id": "adc0a4be2a33f183",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "614893da0bd340ea",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/GitHub/GitHub Repository Issue Labels.md"
+                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md"
               }
             }
           },
@@ -136,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/GitHub/GitHub Repository Issue Labels.md"
+                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md"
               }
             }
           },
@@ -236,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       },
       {
         "id": "1ac3153552315a07",
@@ -249,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,44 +322,44 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "614893da0bd340ea",
+  "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
-    "Tools/Tools and Apps I Use.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06b Integration.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06a Unit.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06 Tests.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06b Tasks.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06a Configuration.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06 Build.md",
+    "Guides/PowerShell Development/PowerShell Module Development/05b Website.md",
+    "Guides/PowerShell Development/PowerShell Module Development/05a Help.md",
+    "Guides/PowerShell Development/PowerShell Module Development/05 Docs.md",
+    "Guides/PowerShell Development/PowerShell Module Development/04 Manifest.md",
+    "Guides/PowerShell Development/PowerShell Module Development/03c Module Exports.md",
+    "Guides/PowerShell Development/PowerShell Module Development/03b Classes and Enums.md",
+    "Guides/PowerShell Development/PowerShell Module Development/03a Functions.md",
+    "Guides/PowerShell Development/PowerShell Module Development/03 Source Code",
+    "Guides/PowerShell Development/PowerShell Module Development/03 Source Code.md",
+    "Guides/PowerShell Development/PowerShell Module Development/02 Customize.md",
+    "Guides/PowerShell Development/PowerShell Module Development/01 Initialize.md",
+    "Guides/PowerShell Development/PowerShell Module Development/_README.md",
+    "Guides/PowerShell Development/PowerShell Profile/_README.md",
+    "Guides/GitHub/GitHub Common Workflows for GitHub Actions.md",
     "Guides/GitHub/GitHub Repository Issue Labels.md",
+    "Tools/Tools and Apps I Use.md",
     "Guides/GitHub",
     "Lists/Online Developer Tools Master List.md",
     "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
     "Readwise/Articles/How Developers Can Level Up by Creating Content.md",
     "Templates/Source-Templates/Template-YouTube.md",
-    "Templates/Source-Templates/Template-Idea.md",
-    "Templates/Source-Templates/Template-PodCast.md",
-    "Templates/Source-Templates/Template-Book.md",
-    "Templates/Source-Templates/Template-Article.md",
-    "Templates/Life-Templates/Template-Project.md",
     "Templates/Source-Templates",
-    "Templates/Life-Templates/Template-Annual.md",
-    "Templates/Life-Templates/Template-Weekly.md",
-    "Templates/Life-Templates/Template-Quarterly.md",
-    "Templates/Life-Templates/Template-Goal.md",
     "Templates/Life-Templates",
-    "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
-    "Templates/Fragment-Templates/Template-Footer.md",
     "Life/Ideas",
     "Life/Goals",
     "Life",
-    "Templates/Life-Templates/Template-Daily.md",
-    "Assets/YouTube/2023-07-29/PARA Method.md",
-    "Templates/Core-Templates/Template-Default.md",
-    "Templates/Tool-Templates/Template-Tool-Application.md",
-    "Templates/Tool-Templates/Template-Tool.md",
-    "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md",
-    "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md",
     "Assets/YouTube/2023-07-29",
-    "Life/Daily/2023-07-29.md",
-    "Templates/Utility-Templates/Template-List.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
-    "Tools/Tools - Productivity",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
