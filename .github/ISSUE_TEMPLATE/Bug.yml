@@ -21,8 +21,8 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: Detailed explanation of the bug you experienced.
+      value: "Bug Description..."
     validations:
       required: true
   - type: dropdown
