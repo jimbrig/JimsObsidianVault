@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +220,7 @@
             }
           },
           {
-            "id": "6620d41dc95e8bf8",
+            "id": "c4346695ee791664",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -229,14 +228,15 @@
             }
           },
           {
-            "id": "72e32085aedaa3ed",
+            "id": "f7bb0b1f64d33c13",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -298,8 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,7 +331,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "614893da0bd340ea",
+  "active": "f7bb0b1f64d33c13",
   "lastOpenFiles": [
     "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
     "Lists/Online Developer Tools Master List.md",
