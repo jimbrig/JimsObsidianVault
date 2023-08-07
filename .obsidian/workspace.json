@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools and Apps I Use.md",
-                "mode": "preview",
+                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Tools and Apps I Use.md"
+                "file": "Guides/GitHub/GitHub Repository Issue Labels.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Tools and Apps I Use.md",
+                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Tools and Apps I Use.md",
+                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/Tools and Apps I Use.md"
+                "file": "Guides/GitHub/GitHub Repository Issue Labels.md"
               }
             }
           },
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tools/Tools and Apps I Use.md",
+                "file": "Guides/GitHub/GitHub Repository Issue Labels.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,8 +331,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "614893da0bd340ea",
   "lastOpenFiles": [
+    "Tools/Tools and Apps I Use.md",
+    "Guides/GitHub/GitHub Repository Issue Labels.md",
+    "Guides/GitHub",
     "Lists/Online Developer Tools Master List.md",
     "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
     "Readwise/Articles/How Developers Can Level Up by Creating Content.md",
@@ -363,12 +366,9 @@
     "Assets/YouTube/2023-07-29",
     "Life/Daily/2023-07-29.md",
     "Templates/Utility-Templates/Template-List.md",
-    "Tools/Tools and Apps I Use.md",
-    "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Tools/Tools - Online",
     "Tools/Tools - Dotfiles",
     "Tools/Tools - Productivity",
-    "Tools/Tools - Windows",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

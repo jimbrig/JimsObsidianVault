@@ -1,3 +1,4 @@
+- 2023-08-07 at 19h00 · [[GitHub Repository Issue Labels]]
 - 2023-08-02 at 22h09 · [[Online Developer Tools Master List]]
 - 2023-07-29 at 21h23 · [[Template-Idea]]
 - 2023-07-29 at 21h22 · [[Template-PodCast]]
@@ -47,4 +48,3 @@
 - 2023-07-05 at 01h26 · [[Managing Dotfiles]]
 - 2023-07-05 at 01h23 · [[Gitignore.io]]
 - 2023-07-05 at 01h21 · [[_README]]
-- 2023-07-05 at 01h20 · [[Tools - Chezmoi]]

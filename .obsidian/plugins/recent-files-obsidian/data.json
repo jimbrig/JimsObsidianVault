@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GitHub Repository Issue Labels",
+      "path": "Guides/GitHub/GitHub Repository Issue Labels.md"
+    },
+    {
       "basename": "Tools and Apps I Use",
       "path": "Tools/Tools and Apps I Use.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CHANGELOG",
       "path": "CHANGELOG.md"
-    },
-    {
-      "basename": "PKM System Evolution",
-      "path": "Inbox/PKM System Evolution.md"
     }
   ],
   "omittedPaths": [],
