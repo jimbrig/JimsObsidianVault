@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md"
+                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md"
+                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
+                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,8 +324,9 @@
   },
   "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
-    "Guides/PowerShell Development/PowerShell Module Development/06b Integration.md",
     "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
+    "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
+    "Guides/PowerShell Development/PowerShell Module Development/06b Integration.md",
     "Guides/PowerShell Development/PowerShell Module Development/06a Unit.md",
     "Guides/PowerShell Development/PowerShell Module Development/06 Tests.md",
     "Guides/PowerShell Development/PowerShell Module Development/06b Tasks.md",
@@ -351,7 +352,6 @@
     "Lists/Online Developer Tools Master List.md",
     "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
     "Readwise/Articles/How Developers Can Level Up by Creating Content.md",
-    "Templates/Source-Templates/Template-YouTube.md",
     "Templates/Source-Templates",
     "Templates/Life-Templates",
     "Life/Ideas",

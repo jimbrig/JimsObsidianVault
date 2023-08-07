@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell Module Development Best Practices",
+      "path": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
+    },
+    {
       "basename": "06c End-to-End",
       "path": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 Getting Started",
       "path": "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md"
-    },
-    {
-      "basename": "My PowerShell Modules",
-      "path": "Lists/My PowerShell Modules.md"
     }
   ],
   "omittedPaths": [],
