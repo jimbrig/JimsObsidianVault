@@ -1,6 +1,7 @@
 name: Sync GitHub Labels
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -10,7 +11,7 @@ on:
 
 jobs:
   labels:
-    name: ♻️ Sync labels
+    name: ♻️ Sync Labels
     runs-on: ubuntu-latest
     steps:
       - name: ⤵️ Check out code from GitHub
