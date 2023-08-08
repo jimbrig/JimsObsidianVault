@@ -1,3 +1,4 @@
+- 2023-08-08 at 15h54 · [[_README]]
 - 2023-08-08 at 15h47 · [[Terraform - Azure - ACR]]
 - 2023-08-08 at 15h44 · [[GHA - Publish Blog Posts]]
 - 2023-08-08 at 15h44 · [[GHA - Automate Changelog]]
@@ -47,4 +48,3 @@
 - 2023-08-08 at 14h58 · [[Eleventy]]
 - 2023-08-08 at 14h58 · [[Snyk]]
 - 2023-08-08 at 14h58 · [[Portainer]]
-- 2023-08-08 at 14h58 · [[Oketeto]]

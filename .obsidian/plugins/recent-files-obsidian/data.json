@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Reference/_README.md"
+    },
+    {
       "basename": "Terraform - Azure - ACR",
       "path": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Microsoft Outlook",
       "path": "Reference/Technology/Programming/Tools/Communication Tools/Email/Microsoft Outlook.md"
-    },
-    {
-      "basename": "topgrade",
-      "path": "Reference/Technology/Programming/Tools/CLI Tools/topgrade.md"
     }
   ],
   "omittedPaths": [],
