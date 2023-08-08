@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "005e22b37ab8f208",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
-          },
-          {
             "id": "120cad58c9f2d624",
             "type": "leaf",
             "state": {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,7 +324,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66604145a4dcec0f",
+  "active": "adc0a4be2a33f183",
   "lastOpenFiles": [
     "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
     "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
