@@ -46473,7 +46473,7 @@ var LocalRestApiSettingTab = class extends import_obsidian2.PluginSettingTab {
         this.plugin.refreshServerState();
       }).setValue(this.plugin.settings.crypto.publicKey));
       new import_obsidian2.Setting(containerEl).setName("Private Key").addTextArea((cb) => cb.onChange((value) => {
-        this.plugin.settings.crypto.publicKey = value;
+        this.plugin.settings.crypto.privateKey = value;
         this.plugin.saveSettings();
         this.plugin.refreshServerState();
       }).setValue(this.plugin.settings.crypto.privateKey));

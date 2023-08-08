@@ -10950,6 +10950,39 @@ var loadArticles = async (endpoint, apiKey, after = 0, first = 10, updatedAt = "
   const articles = jsonRes.data.search.edges.map((e) => e.node);
   return [articles, jsonRes.data.search.pageInfo.hasNextPage];
 };
+var deleteArticleById = async (endpoint, apiKey, articleId) => {
+  const res = await (0, import_obsidian.requestUrl)({
+    url: endpoint,
+    headers: requestHeaders(apiKey),
+    body: JSON.stringify({
+      query: `
+              mutation SetBookmarkArticle($input: SetBookmarkArticleInput!) {
+                  setBookmarkArticle(input: $input) {
+                      ... on SetBookmarkArticleSuccess {
+                          bookmarkedArticle {
+                              id
+                          }
+                      }
+                      ... on SetBookmarkArticleError {
+                          errorCodes
+                      }
+                  }
+              }`,
+      variables: {
+        input: {
+          "articleID": articleId,
+          "bookmark": false
+        }
+      }
+    }),
+    method: "POST"
+  });
+  const jsonRes = res.json;
+  if (jsonRes.data.setBookmarkArticle.bookmarkedArticle.id === articleId) {
+    return true;
+  }
+  return false;
+};
 
 // src/settings/template.ts
 var import_lodash = __toESM(require_lodash());
@@ -14150,6 +14183,13 @@ var OmnivorePlugin = class extends import_obsidian6.Plugin {
       }
     });
     this.addCommand({
+      id: "deleteArticle",
+      name: "Delete Current Article from Omnivore",
+      callback: () => {
+        this.deleteCurrentArticle(this.app.workspace.getActiveFile());
+      }
+    });
+    this.addCommand({
       id: "resync",
       name: "Resync all articles",
       callback: () => {
@@ -14328,6 +14368,26 @@ ${newContentWithoutFrontMatter}`);
       this.settings.syncing = false;
       await this.saveSettings();
     }
+  }
+  async deleteCurrentArticle(file) {
+    var _a, _b;
+    if (!file) {
+      return;
+    }
+    const articleId = (_b = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter) == null ? void 0 : _b.id;
+    if (!articleId) {
+      new import_obsidian6.Notice("Failed to delete article: article id not found");
+    }
+    try {
+      const isDeleted = deleteArticleById(this.settings.endpoint, this.settings.apiKey, articleId);
+      if (!isDeleted) {
+        new import_obsidian6.Notice("Failed to delete article in Omnivore");
+      }
+    } catch (e) {
+      new import_obsidian6.Notice("Failed to delete article in Omnivore");
+      console.error(e);
+    }
+    await this.app.vault.delete(file);
   }
   async resetSyncingStateSetting() {
     this.settings.syncing = false;

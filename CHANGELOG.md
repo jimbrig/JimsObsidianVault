@@ -1,4 +1,4 @@
-- 2023-08-07 at 20h05 · [[PowerShell Module Development Best Practices]]
+- 2023-08-07 at 20h25 · [[PowerShell Module Development Best Practices]]
 - 2023-08-07 at 19h31 · [[06c End-to-End]]
 - 2023-08-07 at 19h31 · [[06b Integration]]
 - 2023-08-07 at 19h31 · [[06a Unit]]

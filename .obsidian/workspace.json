@@ -14,9 +14,17 @@
               "type": "markdown",
               "state": {
                 "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true
               }
+            }
+          },
+          {
+            "id": "005e22b37ab8f208",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
             }
           },
           {
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -285,11 +295,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 510.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,17 +323,17 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-omnivore:Omnivore": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "homepage:Open homepage": false,
+      "obsidian-omnivore:Omnivore": false,
+      "periodic-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adc0a4be2a33f183",
+  "active": "66604145a4dcec0f",
   "lastOpenFiles": [
     "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
     "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
