@@ -12,7 +12,7 @@ Aliases: ["Extract Icon From .EXE Powershell", "Extract Icon From .EXE Powershel
 - Author: [[community.spiceworks.com]]
 - Full Title: Extract Icon From .EXE Powershell
 - Category: #Type/Highlight/Article
-- Document Tags: [[code]] [[favs]] [[powershell]] [[snippet]] [[tricks]] 
+- Document Tags: [[code]] [[favs]] [[PowerShell]] [[snippet]] [[tricks]] 
 - URL: https://community.spiceworks.com/topic/592770-extract-icon-from-exe-powershell
 
 ## Highlights

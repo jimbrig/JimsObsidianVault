@@ -12,7 +12,7 @@ Alias: [ ]
 
 ## Overview
 
-Provide essential information related to [[Azure]] [[Terraform]] module development, including brief introduction on [[Terraform Modules]], documentation for modules and pointers to the module repositories, and how [[Terraform]] practitioners utilize the modules.
+Provide essential information related to [[Azure]] [[Inbox/Terraform]] module development, including brief introduction on [[Terraform Modules]], documentation for modules and pointers to the module repositories, and how [[Inbox/Terraform]] practitioners utilize the modules.
 
 Please note that all the verified modules meet the quality pipeline established by the Microsoft Azure team.
 
@@ -36,7 +36,7 @@ Terraform modules encapsulate groups of resources dedicated to one task, reducin
 - ** Testing**:
 	- [[End-to-End (e2e) Tests]]
 	- [[Testing Terraform Code]]
-	- [[Unit Tests]]
+	- [[Guides/Terraform Development/Codex/Tests/Unit Tests]]
 	- [[Version Upgrade Tests]]
 
 

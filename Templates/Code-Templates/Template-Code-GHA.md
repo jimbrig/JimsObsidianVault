@@ -36,7 +36,7 @@ Alias: [ "<% (tp.file.title).replace("GHA - ", "") %>" ]
 ### Internal Linked Notes
 
 - [[Code/_README|Code Snippets]]
-- [[Code/GitHub Actions/_README|GitHub Action Code Snippets]]
+- [[Code/YAML/GitHub Actions/_README|GitHub Action Code Snippets]]
 - [[MOC - Development|Development]]
 - [[MOC - Technology|Technology]]
 - [[MOC - Software|Software Engineering]]

@@ -1,0 +1,16 @@
+```yaml
+version: "3.1"
+
+services:
+  db:
+    image: postgres
+    restart: always
+    container_name: postgresql
+    volumes:
+      - "/home/postgresql_data:/var/lib/postgresql/data"
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root
+```

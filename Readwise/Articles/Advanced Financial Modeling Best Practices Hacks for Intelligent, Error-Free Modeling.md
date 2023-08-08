@@ -12,7 +12,7 @@ Aliases: ["Advanced Financial Modeling Best Practices: Hacks for Intelligent, Er
 - Author: [[Alberto Mihelcic Bazzana]]
 - Full Title: Advanced Financial Modeling Best Practices: Hacks for Intelligent, Error-Free Modeling
 - Category: #Type/Highlight/Article
-- Document Tags: [[excel]] [[finance]] [[modeling]] 
+- Document Tags: [[excel]] [[Finance]] [[modeling]] 
 - URL: https://www.toptal.com/finance/financial-modeling/financial-modeling-best-practices
 
 ## Highlights

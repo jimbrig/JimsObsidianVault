@@ -12,7 +12,7 @@ Alias: [ ]
 
 ## Overview
 
-`terratest-terraform-fluent` is a [[Terratest]] extension package for testing [[Terraform]] code with *fluent* assertions.
+`terratest-terraform-fluent` is a [[Terratest]] extension package for testing [[Inbox/Terraform]] code with *fluent* assertions.
 
 *Created by the Azure team.*
 

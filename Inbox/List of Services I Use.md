@@ -6,7 +6,7 @@
 
 ## Development
 
-- [[Github]]
+- [[Tools/Tools - Version Control/Github]]
 - [[Azure DevOps]]
 
 - Cloud Service Vendors:
@@ -48,8 +48,8 @@
 - [[PocketCasts]]
 - [[StackOverflow]]
 - [[LinkedIn]]
-- [[Readwise]]
-- [[Readwise Reader]]
+- [[Tools/Tools - PKM/Readwise]]
+- [[Tools/Tools - PKM/Readwise Reader]]
 - [[Zotero]]
 
 - [[Microsoft]]:

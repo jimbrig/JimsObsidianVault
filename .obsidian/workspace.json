@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
-                "mode": "preview",
+                "file": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -85,12 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 592.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
+                "file": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
+                "file": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
+                "file": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
+                "file": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md"
               }
             }
           },
@@ -241,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
+                "file": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,44 +323,44 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "244e0a75c16ad221",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
-    "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
-    "Guides/PowerShell Development/PowerShell Module Development/06b Integration.md",
-    "Guides/PowerShell Development/PowerShell Module Development/06a Unit.md",
-    "Guides/PowerShell Development/PowerShell Module Development/06 Tests.md",
-    "Guides/PowerShell Development/PowerShell Module Development/06b Tasks.md",
-    "Guides/PowerShell Development/PowerShell Module Development/06a Configuration.md",
-    "Guides/PowerShell Development/PowerShell Module Development/06 Build.md",
-    "Guides/PowerShell Development/PowerShell Module Development/05b Website.md",
-    "Guides/PowerShell Development/PowerShell Module Development/05a Help.md",
-    "Guides/PowerShell Development/PowerShell Module Development/05 Docs.md",
-    "Guides/PowerShell Development/PowerShell Module Development/04 Manifest.md",
-    "Guides/PowerShell Development/PowerShell Module Development/03c Module Exports.md",
-    "Guides/PowerShell Development/PowerShell Module Development/03b Classes and Enums.md",
-    "Guides/PowerShell Development/PowerShell Module Development/03a Functions.md",
-    "Guides/PowerShell Development/PowerShell Module Development/03 Source Code",
-    "Guides/PowerShell Development/PowerShell Module Development/03 Source Code.md",
-    "Guides/PowerShell Development/PowerShell Module Development/02 Customize.md",
-    "Guides/PowerShell Development/PowerShell Module Development/01 Initialize.md",
-    "Guides/PowerShell Development/PowerShell Module Development/_README.md",
-    "Guides/PowerShell Development/PowerShell Profile/_README.md",
-    "Guides/GitHub/GitHub Common Workflows for GitHub Actions.md",
-    "Guides/GitHub/GitHub Repository Issue Labels.md",
-    "Tools/Tools and Apps I Use.md",
-    "Guides/GitHub",
-    "Lists/Online Developer Tools Master List.md",
-    "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md",
-    "Readwise/Articles/How Developers Can Level Up by Creating Content.md",
-    "Templates/Source-Templates",
-    "Templates/Life-Templates",
-    "Life/Ideas",
-    "Life/Goals",
-    "Life",
-    "Assets/YouTube/2023-07-29",
-    "Tools/Tools - Online",
-    "Tools/Tools - Dotfiles",
+    "Code/YAML/Docker Compose/Nginx/Docker - Compose - Nginx.md",
+    "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
+    "Code/Bash/Git-Bash",
+    "Code/YAML/Kubernetes",
+    "Code/YAML/Espanso",
+    "Code/YAML/Docker Compose/Databases/Docker - Compose - MSSQL.md",
+    "Code/YAML/Docker Compose/Nginx",
+    "Code/YAML/Docker Compose/Jenkins",
+    "Code/YAML/Docker Compose/Databases/Docker - Compose - PostgreSQL.md",
+    "Code/YAML/Docker Compose/_README.md",
+    "Code/AzureCLI/App Service/AzureCLI - App Service - Connect Azure SQL.md",
+    "Code/YAML/Docker Compose/Databases",
+    "Code/Batch",
+    "Code/Terraform/Azure Terraform",
+    "Code/AzureCLI/Azure AI",
+    "Code/AzureCLI/Log Analytics",
+    "Code/AzureCLI/App Service/AzureCLI - App Service - Configure Custom Domain.md",
+    "Code/AzureCLI/_README.md",
+    "Code/AHK/_README.md",
+    "Code/AHK/AHK - HotKey Helper.md",
+    "Code/AHK/AHK - Global Obsidian Shortcut.md",
+    "Code/AHK/AHK - Global Todoist Shortcut.md",
+    "Code/AHK/AHK - Toggle Hidden Files and Folders.md",
+    "Code/AHK/AHK - Custom Text Expansions.md",
+    "Guides/Windows/WSL Setup.md",
+    "Reference/Technology/Computer Science/Backups/My Backup System.md",
+    "Reference/Technology/Computer Science/Backups/Backups.md",
+    "Reference/Technology/Technology.md",
+    "Reference/Technology/Programming/Web/Web Scraping.md",
+    "Reference/Technology/Programming/Web/Service Workers.md",
+    "Reference/Technology/Programming/Web/Accessibility.md",
+    "Reference/Technology/Programming/Web/SEO.md",
+    "Reference/Technology/Programming/Web/Search Engines.md",
+    "Reference/Technology/Programming/Web/RSS.md",
+    "Reference/Technology/Programming/Web/PWA.md",
+    "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/ESBuild.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

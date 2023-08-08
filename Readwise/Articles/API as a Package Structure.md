@@ -9,7 +9,7 @@ Aliases: ["API as a Package: Structure", "API as a Package: Structure"]
 # API as a Package: Structure
 
 ## Metadata
-- Author: [[feedly]]
+- Author: [[Feedly]]
 - Full Title: API as a Package: Structure
 - Category: #Type/Highlight/Article
 - URL: https://feedly.com/i/entry/qvGtkO5fnj6ZnEh/FwHw8GADYofdlRqvnAzOhhhBGz4=_1833e7fdb30:6d4f7eb:84ca694a

@@ -32,9 +32,9 @@ In addition to providing a platform for collaborative software development, GitH
 
 ## Git and GitHub
 
-As you work with **[[Git]]** and **[[Github]]**, you may wonder about the difference between the two.
+As you work with **[[Tools/Tools - Version Control/Git]]** and **[[Tools/Tools - Version Control/Github]]**, you may wonder about the difference between the two.
 
-**[[Git]]** is a [[distributed version control system]] (`DVCS`) that allows multiple developers or other contributors to work on a project. It provides a way to work with one or more local branches and push them to a remote repository. Git is responsible for everything GitHub-related that happens locally on your computer. 
+**[[Tools/Tools - Version Control/Git]]** is a [[distributed version control system]] (`DVCS`) that allows multiple developers or other contributors to work on a project. It provides a way to work with one or more local branches and push them to a remote repository. Git is responsible for everything GitHub-related that happens locally on your computer. 
 
 Key features provided by Git include:
 
@@ -42,9 +42,9 @@ Key features provided by Git include:
 - Handles version control
 - Supports branching
 
-To learn more about **[[Git]]**, see [Using common Git commands](https://docs.github.com/en/free-pro-team@latest/github/using-git/using-common-git-commands).
+To learn more about **[[Tools/Tools - Version Control/Git]]**, see [Using common Git commands](https://docs.github.com/en/free-pro-team@latest/github/using-git/using-common-git-commands).
 
-**[[Github]]** is a [[cloud]] platform that uses [[Git]] as its core [[technology]]. It simplifies the process of collaborating on projects and provides a website, [[command-line tools]], and overall flow that allows developers and users to work together. GitHub acts as the "remote repository" mentioned previously in the **Git** section.
+**[[Tools/Tools - Version Control/Github]]** is a [[Cloud]] platform that uses [[Tools/Tools - Version Control/Git]] as its core [[technology]]. It simplifies the process of collaborating on projects and provides a website, [[command-line tools]], and overall flow that allows developers and users to work together. GitHub acts as the "remote repository" mentioned previously in the **Git** section.
 
 Key features provided by GitHub include:
 

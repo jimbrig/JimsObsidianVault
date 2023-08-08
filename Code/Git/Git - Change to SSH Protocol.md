@@ -42,7 +42,7 @@ That tells git to always use SSH instead of HTTPS when connecting to GitHub/BitB
 
 ### Setup Repository Origin with SSH
 
-The [[GitHub]] repository setup page is just a suggested list of commands (and GitHub now suggests using the [[HTTPS]] protocol). Unless you have administrative access to GitHub's site, I don't know of any way to change their suggested commands.
+The [[Tools/Tools - Version Control/Github]] repository setup page is just a suggested list of commands (and GitHub now suggests using the [[HTTPS]] protocol). Unless you have administrative access to GitHub's site, I don't know of any way to change their suggested commands.
 
 If you'd rather use the [[SSH]] protocol, simply add a remote branch like so (i.e. use this command _in place_ of GitHub's suggested command). To modify an existing branch, see the next section.
 

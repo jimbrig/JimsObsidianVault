@@ -28,7 +28,7 @@ By default, on [[Windows]] the profile(s) are located at:
 
 As a developer, you should keep your [[PowerShell]] profile(s) under [[Version Control]] along with your other System [[Dotfiles]].
 
-A good standard is to create a root-home-level `~/.dotfiles` directory that is tracked by [[Git]] and hosted on [[Github]] which contains the various [[Dotfiles]] on the machine for that user.
+A good standard is to create a root-home-level `~/.dotfiles` directory that is tracked by [[Tools/Tools - Version Control/Git]] and hosted on [[Tools/Tools - Version Control/Github]] which contains the various [[Dotfiles]] on the machine for that user.
 
 For example, to add the [[PowerShell Core]] profile to your dotfiles you would run:
 

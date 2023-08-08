@@ -29,8 +29,8 @@ Alias: [ "R Packages Ubuntu" ]
 
 ## Overview
 
-- Install [[R packages]] as you would do on [[Windows]] (i.e., no long [[compilation]] time). 
-- In addition, this script asks to install [[R Development Tools]], [[Git]], [[RStudio]], and [[Quarto]].
+- Install [[R Packages]] as you would do on [[Windows]] (i.e., no long [[compilation]] time). 
+- In addition, this script asks to install [[R Development Tools]], [[Tools/Tools - Version Control/Git]], [[RStudio]], and [[Quarto]].
 
 ## Motivation
 
@@ -48,7 +48,7 @@ The command will ask you to install:
 
 1. [[R]]
 2. [[R Development Tools]] (i.e, r-base-dev)
-3. [[Git]]
+3. [[Tools/Tools - Version Control/Git]]
 4. [[RStudio Desktop]] (stable or daily build)
 5. [[Quarto]]
 6. The [[R Bridge to System Package Manager]], or `BSPM` ([Enchufa2/bspm](https://github.com/Enchufa2/bspm))

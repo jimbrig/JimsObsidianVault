@@ -26,7 +26,7 @@ Alias: [ "Azure Naming Tool" ]
 ## Overview
 
 > [!NOTE] About
-> The *[[Azure]] Naming Tool* was created to help [[system administrators]] and/or [[cloud architects]] define and manage their [[naming conventions]], while providing a simple [[user interface]] for users to generate a compliant name. 
+> The *[[Azure]] Naming Tool* was created to help [[system administrators]] and/or [[cloud architects]] define and manage their [[naming conventions]], while providing a simple [[User Interface]] for users to generate a compliant name. 
 
 The tool was developed using a naming pattern based on [Microsoft's best practices](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging). Once an administrator has defined the organizational components, users can use the tool to generate a name for the desired [[Azure]] resource.
 

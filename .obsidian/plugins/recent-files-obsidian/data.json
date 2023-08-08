@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "PowerShell Module Development Best Practices",
-      "path": "Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
+      "basename": "Terraform - Azure - ACR",
+      "path": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md"
     },
     {
-      "basename": "06c End-to-End",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md"
+      "basename": "Docker - Compose - Nginx",
+      "path": "Code/YAML/Docker Compose/Nginx/Docker - Compose - Nginx.md"
     },
     {
-      "basename": "06b Integration",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/06b Integration.md"
+      "basename": "Docker - Compose - MSSQL",
+      "path": "Code/YAML/Docker Compose/Databases/Docker - Compose - MSSQL.md"
     },
     {
-      "basename": "06a Unit",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/06a Unit.md"
-    },
-    {
-      "basename": "06 Tests",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/06 Tests.md"
-    },
-    {
-      "basename": "05b Website",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/05b Website.md"
-    },
-    {
-      "basename": "05a Help",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/05a Help.md"
-    },
-    {
-      "basename": "05 Docs",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/05 Docs.md"
-    },
-    {
-      "basename": "04 Manifest",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/04 Manifest.md"
-    },
-    {
-      "basename": "03c Module Exports",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/03c Module Exports.md"
-    },
-    {
-      "basename": "03b Classes and Enums",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/03b Classes and Enums.md"
-    },
-    {
-      "basename": "03a Functions",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/03a Functions.md"
-    },
-    {
-      "basename": "03 Source Code",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/03 Source Code.md"
-    },
-    {
-      "basename": "02 Customize",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/02 Customize.md"
-    },
-    {
-      "basename": "01 Initialize",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/01 Initialize.md"
+      "basename": "Docker - Compose - PostgreSQL",
+      "path": "Code/YAML/Docker Compose/Databases/Docker - Compose - PostgreSQL.md"
     },
     {
       "basename": "_README",
-      "path": "Guides/PowerShell Development/PowerShell Module Development/_README.md"
+      "path": "Code/YAML/Docker Compose/_README.md"
+    },
+    {
+      "basename": "AzureCLI - App Service - Connect Azure SQL",
+      "path": "Code/AzureCLI/App Service/AzureCLI - App Service - Connect Azure SQL.md"
+    },
+    {
+      "basename": "AzureCLI - App Service - Configure Custom Domain",
+      "path": "Code/AzureCLI/App Service/AzureCLI - App Service - Configure Custom Domain.md"
     },
     {
       "basename": "_README",
-      "path": "Guides/PowerShell Development/PowerShell Profile/_README.md"
+      "path": "Code/AzureCLI/_README.md"
     },
     {
-      "basename": "GitHub Common Workflows for GitHub Actions",
-      "path": "Guides/GitHub/GitHub Common Workflows for GitHub Actions.md"
+      "basename": "_README",
+      "path": "Code/AHK/_README.md"
     },
     {
-      "basename": "GitHub Repository Issue Labels",
-      "path": "Guides/GitHub/GitHub Repository Issue Labels.md"
+      "basename": "AHK - HotKey Helper",
+      "path": "Code/AHK/AHK - HotKey Helper.md"
     },
     {
-      "basename": "Tools and Apps I Use",
-      "path": "Tools/Tools and Apps I Use.md"
+      "basename": "AHK - Global Obsidian Shortcut",
+      "path": "Code/AHK/AHK - Global Obsidian Shortcut.md"
     },
     {
-      "basename": "Online Developer Tools Master List",
-      "path": "Lists/Online Developer Tools Master List.md"
+      "basename": "AHK - Global Todoist Shortcut",
+      "path": "Code/AHK/AHK - Global Todoist Shortcut.md"
     },
     {
-      "basename": "Automate Automation Part 1 - Azure DevOps Terraform Provider",
-      "path": "Assets/YouTube/2023-06-20/Automate Automation Part 1 - Azure DevOps Terraform Provider.md"
+      "basename": "AHK - Toggle Hidden Files and Folders",
+      "path": "Code/AHK/AHK - Toggle Hidden Files and Folders.md"
     },
     {
-      "basename": "How Developers Can Level Up by Creating Content",
-      "path": "Readwise/Articles/How Developers Can Level Up by Creating Content.md"
+      "basename": "AHK - Custom Text Expansions",
+      "path": "Code/AHK/AHK - Custom Text Expansions.md"
     },
     {
-      "basename": "Template-YouTube",
-      "path": "Templates/Source-Templates/Template-YouTube.md"
+      "basename": "WSL Setup",
+      "path": "Guides/Windows/WSL Setup.md"
     },
     {
-      "basename": "Template-Idea",
-      "path": "Templates/Source-Templates/Template-Idea.md"
+      "basename": "My Backup System",
+      "path": "Reference/Technology/Computer Science/Backups/My Backup System.md"
     },
     {
-      "basename": "Template-PodCast",
-      "path": "Templates/Source-Templates/Template-PodCast.md"
+      "basename": "Backups",
+      "path": "Reference/Technology/Computer Science/Backups/Backups.md"
     },
     {
-      "basename": "Template-Book",
-      "path": "Templates/Source-Templates/Template-Book.md"
+      "basename": "Technology",
+      "path": "Reference/Technology/Technology.md"
     },
     {
-      "basename": "Template-Article",
-      "path": "Templates/Source-Templates/Template-Article.md"
+      "basename": "Web Scraping",
+      "path": "Reference/Technology/Programming/Web/Web Scraping.md"
     },
     {
-      "basename": "Template-Project",
-      "path": "Templates/Life-Templates/Template-Project.md"
+      "basename": "Service Workers",
+      "path": "Reference/Technology/Programming/Web/Service Workers.md"
     },
     {
-      "basename": "Template-Annual",
-      "path": "Templates/Life-Templates/Template-Annual.md"
+      "basename": "Accessibility",
+      "path": "Reference/Technology/Programming/Web/Accessibility.md"
     },
     {
-      "basename": "Template-Weekly",
-      "path": "Templates/Life-Templates/Template-Weekly.md"
+      "basename": "SEO",
+      "path": "Reference/Technology/Programming/Web/SEO.md"
     },
     {
-      "basename": "Template-Quarterly",
-      "path": "Templates/Life-Templates/Template-Quarterly.md"
+      "basename": "Search Engines",
+      "path": "Reference/Technology/Programming/Web/Search Engines.md"
     },
     {
-      "basename": "Template-Goal",
-      "path": "Templates/Life-Templates/Template-Goal.md"
+      "basename": "RSS",
+      "path": "Reference/Technology/Programming/Web/RSS.md"
     },
     {
-      "basename": "Template-Frontmatter-Enhanced",
-      "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+      "basename": "PWA",
+      "path": "Reference/Technology/Programming/Web/PWA.md"
     },
     {
-      "basename": "Template-Footer",
-      "path": "Templates/Fragment-Templates/Template-Footer.md"
+      "basename": "ESBuild",
+      "path": "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/ESBuild.md"
     },
     {
-      "basename": "Template-Daily",
-      "path": "Templates/Life-Templates/Template-Daily.md"
+      "basename": "Electron",
+      "path": "Reference/Technology/Programming/Web/Electron.md"
     },
     {
-      "basename": "PARA Method",
-      "path": "Assets/YouTube/2023-07-29/PARA Method.md"
+      "basename": "Deno",
+      "path": "Reference/Technology/Programming/Tools/Web Development Tools/Deno.md"
     },
     {
-      "basename": "Template-Default",
-      "path": "Templates/Core-Templates/Template-Default.md"
+      "basename": "Rollup.js",
+      "path": "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/Rollup.js.md"
     },
     {
-      "basename": "Template-Tool-Application",
-      "path": "Templates/Tool-Templates/Template-Tool-Application.md"
+      "basename": "CMS",
+      "path": "Reference/Technology/Programming/Web/CMS.md"
     },
     {
-      "basename": "Template-Tool",
-      "path": "Templates/Tool-Templates/Template-Tool.md"
+      "basename": "WebKit",
+      "path": "Reference/Technology/Programming/Tools/Web Development Tools/WebKit.md"
     },
     {
-      "basename": "Keep Terraform up-to-date with Rennovate",
-      "path": "Assets/YouTube/2023-06-20/Keep Terraform up-to-date with Rennovate.md"
+      "basename": "Web Engines",
+      "path": "Reference/Technology/Programming/Web/Web Engines.md"
     },
     {
-      "basename": "Improving Your GTD Weekly Review",
-      "path": "Assets/YouTube/2023-06-20/Improving Your GTD Weekly Review.md"
+      "basename": "Nest.js",
+      "path": "Reference/Technology/Programming/Programming Languages/JavaScript/JS Frameworks/Nest.js.md"
     },
     {
-      "basename": "2023-07-29",
-      "path": "Life/Daily/2023-07-29.md"
+      "basename": "Fastify",
+      "path": "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/Fastify.md"
     },
     {
-      "basename": "Template-List",
-      "path": "Templates/Utility-Templates/Template-List.md"
+      "basename": "Node.js",
+      "path": "Reference/Technology/Programming/Programming Languages/JavaScript/Node.js.md"
     },
     {
-      "basename": "Git - Change to SSH Protocol",
-      "path": "Code/Git/Git - Change to SSH Protocol.md"
+      "basename": "Hexo",
+      "path": "Reference/Technology/Programming/Tools/Static Site Generators/Hexo.md"
     },
     {
-      "basename": "PowerShell - Convert XLS to XLSX",
-      "path": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
+      "basename": "Static Site Generators",
+      "path": "Reference/Technology/Programming/Tools/Static Site Generators/Static Site Generators.md"
     },
     {
-      "basename": "2023-07-28",
-      "path": "Life/Daily/2023-07-28.md"
+      "basename": "Eleventy",
+      "path": "Reference/Technology/Programming/Tools/Static Site Generators/Eleventy.md"
     },
     {
-      "basename": "Structure",
-      "path": "Guides/PowerShell Development/PowerShell Profile/Structure.md"
+      "basename": "Snyk",
+      "path": "Reference/Technology/Programming/Tools/Containers/Snyk.md"
     },
     {
-      "basename": "PowerShell Profile Setup and Best Practices",
-      "path": "Guides/PowerShell Development/PowerShell Profile/PowerShell Profile Setup and Best Practices.md"
+      "basename": "Portainer",
+      "path": "Reference/Technology/Programming/Tools/Containers/Portainer.md"
     },
     {
-      "basename": "01 Getting Started",
-      "path": "Guides/PowerShell Development/PowerShell Profile/01 Getting Started.md"
+      "basename": "Oketeto",
+      "path": "Reference/Technology/Programming/Tools/Containers/Oketeto.md"
+    },
+    {
+      "basename": "Slim.ai",
+      "path": "Reference/Technology/Programming/Tools/Containers/Slim.ai.md"
+    },
+    {
+      "basename": "Harpoon",
+      "path": "Reference/Technology/Programming/Tools/Containers/Harpoon.md"
+    },
+    {
+      "basename": "Hadolint",
+      "path": "Reference/Technology/Programming/Tools/Containers/Hadolint.md"
+    },
+    {
+      "basename": "Kubernetes",
+      "path": "Reference/Technology/Programming/Tools/Containers/Kubernetes.md"
+    },
+    {
+      "basename": "Docker Compose",
+      "path": "Reference/Technology/Programming/Tools/Containers/Docker Compose.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Reference/Technology/Programming/Tools/Containers/Docker.md"
+    },
+    {
+      "basename": "Spark",
+      "path": "Reference/Technology/Programming/Tools/Communication Tools/Email/Spark.md"
+    },
+    {
+      "basename": "Microsoft Outlook",
+      "path": "Reference/Technology/Programming/Tools/Communication Tools/Email/Microsoft Outlook.md"
+    },
+    {
+      "basename": "topgrade",
+      "path": "Reference/Technology/Programming/Tools/CLI Tools/topgrade.md"
     }
   ],
   "omittedPaths": [],

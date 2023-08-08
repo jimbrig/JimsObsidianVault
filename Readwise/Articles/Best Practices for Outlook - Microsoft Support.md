@@ -12,7 +12,7 @@ Aliases: ["Best Practices for Outlook - Microsoft Support", "Best Practices for 
 - Author: [[support.microsoft.com]]
 - Full Title: Best Practices for Outlook - Microsoft Support
 - Category: #Type/Highlight/Article
-- Document Tags: [[best-practices]] [[email]] [[guide]] [[microsoft]] [[office]] [[outlook]] [[productivity]] [[windows]] 
+- Document Tags: [[best-practices]] [[Email]] [[guide]] [[microsoft]] [[office]] [[outlook]] [[productivity]] [[Windows]] 
 - URL: https://support.microsoft.com/en-us/office/best-practices-for-outlook-f90e5f69-8832-4d89-95b3-bfdf76c82ef8
 
 ## Highlights

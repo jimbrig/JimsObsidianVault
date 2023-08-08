@@ -8,7 +8,7 @@ Alias: [ "DotNet Assemblies" ]
 # DotNet Assemblies
 
 > [!NOTE] About
-> Code example using [[PowerShell Core]] to download a [[DotNet]] *assembly*/*library* from the [[Nuget]] package provider and add the [[Dynamic Link Library]] to the current project's dependencies.
+> Code example using [[PowerShell Core]] to download a [[DotNet]] *assembly*/*library* from the [[NuGet]] package provider and add the [[Dynamic Link Library]] to the current project's dependencies.
 
 ## Code
 

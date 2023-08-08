@@ -9,7 +9,7 @@ Aliases: ["The Quantum Well", "The Quantum Well"]
 # The Quantum Well
 
 ## Metadata
-- Author: [[obsidian.md]]
+- Author: [[Obsidian]]
 - Full Title: The Quantum Well
 - Category: #Type/Highlight/Article
 - URL: https://publish.obsidian.md/myquantumwell/Knowledge+Management

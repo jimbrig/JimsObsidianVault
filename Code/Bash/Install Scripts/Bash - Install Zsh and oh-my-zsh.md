@@ -52,7 +52,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 - [[MOCs/MOC - Software|Software Engineering]]
 
 - [[Zsh]]
-- [[oh-my-zsh]]
+- [[Reference/Programming/Tools/CLI Tools/Utility/oh-my-zsh]]
 
 ### External References
 

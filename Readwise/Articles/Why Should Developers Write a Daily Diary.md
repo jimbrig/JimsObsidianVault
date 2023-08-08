@@ -12,7 +12,7 @@ Aliases: ["Why Should Developers Write a Daily Diary", "Why Should Developers Wr
 - Author: [[Remote Dev Diary by Invide]]
 - Full Title: Why Should Developers Write a Daily Diary
 - Category: #Type/Highlight/Article
-- Document Tags: [[development]] [[diary]] [[obsidiann]] [[pkm]] [[productivity]] 
+- Document Tags: [[development]] [[diary]] [[obsidiann]] [[PKM]] [[productivity]] 
 - URL: https://blog.invidelabs.com/why-developers-should-write-a-daily-diary/
 
 ## Highlights
