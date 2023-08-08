@@ -212,7 +212,7 @@
             }
           },
           {
-            "id": "c4346695ee791664",
+            "id": "7778b2cef23c2715",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -220,7 +220,7 @@
             }
           },
           {
-            "id": "f7bb0b1f64d33c13",
+            "id": "244e0a75c16ad221",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -317,14 +317,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "homepage:Open homepage": false,
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "adc0a4be2a33f183",
+  "active": "244e0a75c16ad221",
   "lastOpenFiles": [
     "Guides/PowerShell Development/PowerShell Module Development/06c End-to-End.md",
     "Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
