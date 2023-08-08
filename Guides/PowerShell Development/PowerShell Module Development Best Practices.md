@@ -33,7 +33,7 @@ Alias: [ ]
 - `requirements.txt`
 - `mkdocs.yml`
 
-- `Source/*`:
+- `Source/{{ModuleName}}/*`:
 	- `{{ModuleName}}.psm1`: Module File
 	- `{{ModuleName}}.psd1`: Module Manifest File
 	- `Private/*`: Private Functions
@@ -42,13 +42,45 @@ Alias: [ ]
 	- `Public/*`: Public, Exported Functions
 		- `{{FunctionName}}.ps1`
 		- `...`
-	- `Classes/*`: (Optional) Exported *Classes*
-	- `Enum/*`: (Optional) Exported *Enumerations*
-	- `Types/*`: (Optional) Exported Custom *Types* - `{{TypeName}}.ps1xml` or a single `{{ModuleName}}.Types.ps1xml`
-	- `Formats/*`: (Optional) Exported Custom *Formats* - `{{FormatName}}.ps1xml`
-	- `Templates/*`: (Optional) Template files for the Module to utilize, including any *Plaster Template Manifests*.
-	- ``
+	- `Resources/*`: (Optional) Place other folders besides `Public/` and `Private/` here.
+		- `Classes/*`: (Optional) Exported *Classes*
+		- `Enum/*`: (Optional) Exported *Enumerations*
+		- `Types/*`: (Optional) Exported Custom *Types* - `{{TypeName}}.ps1xml` or a single `{{ModuleName}}.Types.ps1xml`
+		- `Formats/*`: (Optional) Exported Custom *Formats* - `{{FormatName}}.ps1xml`
+		- `DSCResources/*`: (Optional) [[Desired State Configuration]] Definitions, Modules, and `.mof` files.
+		- `Templates/*`: (Optional) Template files for the Module to utilize, including any *Plaster Template Manifests*.
+		- `Data/*`: (Optional) Data Files
+		- `Scripts/*` (Optional) Scripts
 
+
+	
+
+- `Docs/*`: Documentation Directory
+	- `web/*`: Website Documentation to be rendered via *GitHub Pages*
+		- `requirements.txt`: [[Python]] Requirements File (for use with `mkdocs`)
+		- `mkdocs.yml`: [[MkDocs]] [[YAML]] Configuration File
+		- `docs/*`: 
+			- `index.md`:
+			- `about.md`:
+			- `changelog.md`:
+			- `FAQ.md`:
+			- `Installation.md`:
+			- `Reference/*`:
+				- `about_{{ModuleName}}.md`:
+				- `{{FunctionName}}.md`:
+				- `...`
+			- `Dev/*`:
+				- *Markdown files for developers.*
+			- `assets/*`:
+				`themes/*`:
+				`images/*`:
+				`styles/*`:
+				`scripts/*`: 
+				`fonts/*`:
+				`...`
+	- `en-US/*`:
+		- 	
+		
 - `Tests/*`:
 	- `Results/*`
 		- `testResults.xml`
