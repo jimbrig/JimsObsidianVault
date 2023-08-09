@@ -1,3 +1,5 @@
+- 2023-08-09 at 19h56 · [[Deploying Terraform using GitHub Actions]]
+- 2023-08-08 at 22h09 · [[ModuleFast]]
 - 2023-08-08 at 22h09 · [[About PowerShell Config]]
 - 2023-08-08 at 22h09 · [[Extract Icon From .EXE Powershell]]
 - 2023-08-08 at 22h09 · [[2023-06-27]]
@@ -20,7 +22,6 @@
 - 2023-08-08 at 22h09 · [[PowerShell - Add-GodModeShortcut]]
 - 2023-08-08 at 22h09 · [[Git - Change to SSH Protocol]]
 - 2023-08-08 at 22h09 · [[Bash - GitHub Downloads]]
-- 2023-08-08 at 22h09 · [[ModuleFast]]
 - 2023-08-08 at 22h09 · [[Template-Code-YAML]]
 - 2023-08-08 at 22h09 · [[Template-Code-Terraform]]
 - 2023-08-08 at 22h09 · [[Template-Code-SQL]]
@@ -47,4 +48,3 @@
 - 2023-08-08 at 15h44 · [[Docker - Compose - Nginx]]
 - 2023-08-08 at 15h43 · [[Docker - Compose - MSSQL]]
 - 2023-08-08 at 15h43 · [[Docker - Compose - PostgreSQL]]
-- 2023-08-08 at 15h42 · [[_README]]

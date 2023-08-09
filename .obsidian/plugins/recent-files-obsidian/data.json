@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Deploying Terraform using GitHub Actions",
+      "path": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md"
+    },
+    {
       "basename": "_README",
       "path": "Reference/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Static Site Generators",
       "path": "Reference/Technology/Programming/Tools/Static Site Generators/Static Site Generators.md"
-    },
-    {
-      "basename": "Eleventy",
-      "path": "Reference/Technology/Programming/Tools/Static Site Generators/Eleventy.md"
     }
   ],
   "omittedPaths": [],
