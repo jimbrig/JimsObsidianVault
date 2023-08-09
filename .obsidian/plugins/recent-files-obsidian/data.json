@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ModuleFast",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md"
+    },
+    {
+      "basename": "About PowerShell Config",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/About/About PowerShell Config.md"
+    },
+    {
       "basename": "RSS Feeds",
       "path": "Sources/RSS Feeds.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Docker Compose",
       "path": "Reference/Technology/Programming/Tools/Containers/Docker Compose.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "Reference/Technology/Programming/Tools/Containers/Docker.md"
-    },
-    {
-      "basename": "Spark",
-      "path": "Reference/Technology/Programming/Tools/Communication Tools/Email/Spark.md"
     }
   ],
   "omittedPaths": [],

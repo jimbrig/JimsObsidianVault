@@ -1,3 +1,5 @@
+- 2023-08-08 at 22h05 · [[ModuleFast]]
+- 2023-08-08 at 22h05 · [[About PowerShell Config]]
 - 2023-08-08 at 15h54 · [[_README]]
 - 2023-08-08 at 15h47 · [[Terraform - Azure - ACR]]
 - 2023-08-08 at 15h44 · [[GHA - Publish Blog Posts]]
@@ -46,5 +48,3 @@
 - 2023-08-08 at 14h59 · [[PowerShell Module Development Best Practices]]
 - 2023-08-08 at 14h59 · [[Static Site Generators]]
 - 2023-08-08 at 14h58 · [[Eleventy]]
-- 2023-08-08 at 14h58 · [[Snyk]]
-- 2023-08-08 at 14h58 · [[Portainer]]

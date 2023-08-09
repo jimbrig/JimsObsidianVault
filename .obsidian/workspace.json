@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f198a9697c509e4d",
+        "id": "b07df75d5c71fae6",
         "type": "tabs",
         "children": [
           {
-            "id": "adc0a4be2a33f183",
+            "id": "6290418a67a44484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/RSS Feeds.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "120cad58c9f2d624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Core-Templates/Template-Default.md",
+                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -117,7 +105,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/RSS Feeds.md"
+                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md"
+              }
+            }
+          },
+          {
+            "id": "a4ba8e17a657ca78",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md"
               }
             }
           },
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/RSS Feeds.md",
+                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/RSS Feeds.md",
+                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,35 +197,9 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "a4ba8e17a657ca78",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Sources/RSS Feeds.md"
-              }
-            }
-          },
-          {
-            "id": "bbb382580faab964",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4357bad16e45c68d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       },
       {
         "id": "1ac3153552315a07",
@@ -240,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/RSS Feeds.md",
+                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,9 +256,25 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "4357bad16e45c68d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbb382580faab964",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -320,11 +308,16 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4357bad16e45c68d",
+  "active": "6290418a67a44484",
   "lastOpenFiles": [
+    "Reference/Technology/Programming/Programming Languages/PowerShell/About/About PowerShell Config.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
+    "Sources/RSS Feeds.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/About",
     "Reference/_README.md",
     "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
     "Code/YAML/Docker Compose/Nginx/Docker - Compose - Nginx.md",
@@ -341,7 +334,6 @@
     "Code/Batch",
     "Code/Terraform/Azure Terraform",
     "Code/AzureCLI/Azure AI",
-    "Code/AzureCLI/Log Analytics",
     "Code/AzureCLI/App Service/AzureCLI - App Service - Configure Custom Domain.md",
     "Code/AzureCLI/_README.md",
     "Code/AHK/_README.md",
@@ -358,9 +350,6 @@
     "Reference/Technology/Programming/Web/Service Workers.md",
     "Reference/Technology/Programming/Web/Accessibility.md",
     "Reference/Technology/Programming/Web/SEO.md",
-    "Reference/Technology/Programming/Web/Search Engines.md",
-    "Reference/Technology/Programming/Web/RSS.md",
-    "Reference/Technology/Programming/Web/PWA.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
