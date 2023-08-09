@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RSS Feeds",
+      "path": "Sources/RSS Feeds.md"
+    },
+    {
       "basename": "_README",
       "path": "Reference/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Spark",
       "path": "Reference/Technology/Programming/Tools/Communication Tools/Email/Spark.md"
-    },
-    {
-      "basename": "Microsoft Outlook",
-      "path": "Reference/Technology/Programming/Tools/Communication Tools/Email/Microsoft Outlook.md"
     }
   ],
   "omittedPaths": [],

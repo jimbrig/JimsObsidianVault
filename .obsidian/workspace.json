@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "Sources/RSS Feeds.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/_README.md"
+                "file": "Sources/RSS Feeds.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "Sources/RSS Feeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "Sources/RSS Feeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,12 +206,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/_README.md"
+                "file": "Sources/RSS Feeds.md"
               }
             }
           },
           {
-            "id": "7778b2cef23c2715",
+            "id": "bbb382580faab964",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -219,7 +219,7 @@
             }
           },
           {
-            "id": "244e0a75c16ad221",
+            "id": "4357bad16e45c68d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "Sources/RSS Feeds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,13 +320,13 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "khoj:Khoj": false
     }
   },
-  "active": "adc0a4be2a33f183",
+  "active": "4357bad16e45c68d",
   "lastOpenFiles": [
-    "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
     "Reference/_README.md",
+    "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
     "Code/YAML/Docker Compose/Nginx/Docker - Compose - Nginx.md",
     "Code/Bash/Git-Bash",
     "Code/YAML/Kubernetes",
