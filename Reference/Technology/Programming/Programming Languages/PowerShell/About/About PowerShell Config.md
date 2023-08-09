@@ -41,12 +41,12 @@ Alias: [ ]
 ## Overview
 
 > [!NOTE] About
-> *[[Configuration]] files for [[PowerShell]], replacing [[Registry]] configuration.*
+> *[[Readwise/Articles/Configuration]] files for [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]], replacing [[Registry]] configuration.*
 
-- The `powershell.config.json` file contains [[configuration]] settings for [[PowerShell]]. 
-- [[PowerShell]] loads this configuration at startup. 
+- The `powershell.config.json` file contains [[Readwise/Articles/Configuration]] settings for [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]. 
+- [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] loads this configuration at startup. 
 - The settings can also be modified at runtime. 
-- Previously, these settings were stored in the [[Windows Registry]] for [[PowerShell]], but are now contained in a file to enable cross-platform configuration on [[macOS]] and [[Linux]].
+- Previously, these settings were stored in the [[Windows Registry]] for [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]], but are now contained in a file to enable cross-platform configuration on [[macOS]] and [[Linux]].
 
 ## Summary of Settings
 
@@ -78,7 +78,7 @@ The `powershell.config.json` file can contain the following keys:
 > Not all keys apply to all platforms. The `PowerShellPolicies` key contains subkeys that mirror the settings managed by [[Windows Group Policy]]. Those subkeys also apply to all platforms when defined at the *root level* of the [[JSON]] file.
 
 > [!warning] Warning
-> Unrecognized keys or invalid values in the configuration file are ignored. If the `powershell.config.json` file contains invalid [[JSON]], [[PowerShell]] can't start an interactive session. If this occurs, you must fix the configuration file.
+> Unrecognized keys or invalid values in the configuration file are ignored. If the `powershell.config.json` file contains invalid [[JSON]], [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] can't start an interactive session. If this occurs, you must fix the configuration file.
 
 
 ## Configuration Scope
@@ -99,7 +99,7 @@ A `powershell.config.json` file in the `$PSHOME` directory defines the confi
 
 ### Current User (Per-User) Configuration
 
-- You can also configure [[PowerShell]] on a per-user basis by placing the file in the user-scoped configuration directory. 
+- You can also configure [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] on a per-user basis by placing the file in the user-scoped configuration directory. 
 
 - The user configuration directory can be found across platforms with the command `Split-Path $PROFILE.CurrentUserCurrentHost`.
 
@@ -404,7 +404,7 @@ Example:
 
 ### Internal Linked Notes
 
-- [[PowerShell]]
+- [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
 - [[Windows]]
 - [[Microsoft]]
 - [[PowerShell Profile Setup and Best Practices]]

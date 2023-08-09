@@ -76,7 +76,7 @@ Get-ChildItem "$PWD\assemblies\" | Select-Object Name,@{Name="Version";Expressio
 
 ### Internal Linked Notes
 
-- [[PowerShell]]
+- [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
 - [[Code/_README|Code Snippets]]
 - [[Code/PowerShell/_README|PowerShell Code Snippets]]
 - [[MOCs/Development|Development]]

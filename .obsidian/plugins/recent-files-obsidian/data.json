@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Reference/_README.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell.md"
+    },
+    {
+      "basename": "BuildHelpers",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/BuildHelpers.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Configuration.md"
+    },
+    {
+      "basename": "ZLocation",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ZLocation.md"
+    },
+    {
+      "basename": "Az",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Az.md"
+    },
+    {
+      "basename": "PSResourceGet",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSResourceGet.md"
+    },
+    {
+      "basename": "PSScriptTools",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSScriptTools.md"
+    },
+    {
+      "basename": "Stucco",
+      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Stucco.md"
+    },
+    {
       "basename": "ModuleFast",
       "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "RSS Feeds",
       "path": "Sources/RSS Feeds.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/_README.md"
     },
     {
       "basename": "Terraform - Azure - ACR",
@@ -167,38 +199,6 @@
     {
       "basename": "Eleventy",
       "path": "Reference/Technology/Programming/Tools/Static Site Generators/Eleventy.md"
-    },
-    {
-      "basename": "Snyk",
-      "path": "Reference/Technology/Programming/Tools/Containers/Snyk.md"
-    },
-    {
-      "basename": "Portainer",
-      "path": "Reference/Technology/Programming/Tools/Containers/Portainer.md"
-    },
-    {
-      "basename": "Oketeto",
-      "path": "Reference/Technology/Programming/Tools/Containers/Oketeto.md"
-    },
-    {
-      "basename": "Slim.ai",
-      "path": "Reference/Technology/Programming/Tools/Containers/Slim.ai.md"
-    },
-    {
-      "basename": "Harpoon",
-      "path": "Reference/Technology/Programming/Tools/Containers/Harpoon.md"
-    },
-    {
-      "basename": "Hadolint",
-      "path": "Reference/Technology/Programming/Tools/Containers/Hadolint.md"
-    },
-    {
-      "basename": "Kubernetes",
-      "path": "Reference/Technology/Programming/Tools/Containers/Kubernetes.md"
-    },
-    {
-      "basename": "Docker Compose",
-      "path": "Reference/Technology/Programming/Tools/Containers/Docker Compose.md"
     }
   ],
   "omittedPaths": [],

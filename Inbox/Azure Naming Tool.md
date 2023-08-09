@@ -32,7 +32,7 @@ The tool was developed using a naming pattern based on [Microsoft's best practi
 
 ## Background
 
-The tool was originally developed as a [[PowerShell]] utility for providing a way for users to generate [[Azure]] resource names matching company conventions. 
+The tool was originally developed as a [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] utility for providing a way for users to generate [[Azure]] resource names matching company conventions. 
 
 
 ***

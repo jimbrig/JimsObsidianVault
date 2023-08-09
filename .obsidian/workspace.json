@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
-                "mode": "source",
+                "file": "Reference/_README.md",
+                "mode": "preview",
                 "backlinks": true
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md"
+                "file": "Reference/_README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md"
+                "file": "Reference/_README.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
+                "file": "Reference/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
+                "file": "Reference/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
+                "file": "Reference/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -314,8 +314,16 @@
   },
   "active": "6290418a67a44484",
   "lastOpenFiles": [
-    "Reference/Technology/Programming/Programming Languages/PowerShell/About/About PowerShell Config.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/BuildHelpers.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Configuration.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ZLocation.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Az.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSResourceGet.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSScriptTools.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Stucco.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
+    "Reference/Technology/Programming/Programming Languages/PowerShell/About/About PowerShell Config.md",
     "Sources/RSS Feeds.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/About",
     "Reference/_README.md",
@@ -342,14 +350,6 @@
     "Code/AHK/AHK - Global Todoist Shortcut.md",
     "Code/AHK/AHK - Toggle Hidden Files and Folders.md",
     "Code/AHK/AHK - Custom Text Expansions.md",
-    "Guides/Windows/WSL Setup.md",
-    "Reference/Technology/Computer Science/Backups/My Backup System.md",
-    "Reference/Technology/Computer Science/Backups/Backups.md",
-    "Reference/Technology/Technology.md",
-    "Reference/Technology/Programming/Web/Web Scraping.md",
-    "Reference/Technology/Programming/Web/Service Workers.md",
-    "Reference/Technology/Programming/Web/Accessibility.md",
-    "Reference/Technology/Programming/Web/SEO.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

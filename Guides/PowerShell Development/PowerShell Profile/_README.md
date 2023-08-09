@@ -12,7 +12,7 @@ Alias: [ "PowerShell Profile" ]
 
 ## Overview
 
-The [[PowerShell]] startup `$PROFILE` is an integral piece of a [[Windows]] Developer's Toolbox.
+The [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] startup `$PROFILE` is an integral piece of a [[Windows]] Developer's Toolbox.
 
 The various components of the `$PROFILE` are initialized at startup for every PowerShell session.
 
@@ -26,7 +26,7 @@ By default, on [[Windows]] the profile(s) are located at:
 
 ## Backup and Version Control
 
-As a developer, you should keep your [[PowerShell]] profile(s) under [[Version Control]] along with your other System [[Dotfiles]].
+As a developer, you should keep your [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] profile(s) under [[Version Control]] along with your other System [[Dotfiles]].
 
 A good standard is to create a root-home-level `~/.dotfiles` directory that is tracked by [[Tools/Tools - Version Control/Git]] and hosted on [[Tools/Tools - Version Control/Github]] which contains the various [[Dotfiles]] on the machine for that user.
 

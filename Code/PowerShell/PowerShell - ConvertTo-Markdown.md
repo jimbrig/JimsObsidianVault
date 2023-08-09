@@ -8,7 +8,7 @@ Alias: [ "ConvertTo-Markdown" ]
 # ConvertTo-Markdown
 
 > [!NOTE] About
-> [[PowerShell]] [[Code Snippet]] for Converting PowerShell Objects to [[Markdown]].
+> [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] [[Code Snippet]] for Converting PowerShell Objects to [[Markdown]].
 
 ## Contents
 
@@ -170,7 +170,7 @@ $($trimmed.trimend())
 
 ### Internal Linked Notes
 
-- [[PowerShell]]
+- [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
 - [[Code/_README|Code Snippets]]
 - [[Code/PowerShell/_README|PowerShell Code Snippets]]
 - [[MOCs/Development|Development]]

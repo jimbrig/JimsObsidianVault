@@ -8,7 +8,7 @@ Alias: [ "PowerShell Code Snippets" ]
 # PowerShell
 
 > [!NOTE] About
-> This folder houses [[PowerShell]] [[Code Snippets]].
+> This folder houses [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] [[Code Snippets]].
 
 ## Overview
 

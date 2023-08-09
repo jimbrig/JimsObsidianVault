@@ -12,7 +12,7 @@ Alias: [ "PSStyle" ]
 
 ## Overview
 
-In [[PowerShell]], you can use [[ANSI Escape Sequences]] in the shell to display colors defined via [[PSReadLine]] options:
+In [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]], you can use [[ANSI Escape Sequences]] in the shell to display colors defined via [[PSReadLine]] options:
 
 ```powershell
 Get-PSReadLineOption
@@ -182,7 +182,7 @@ Function Import-PSStyleFileInfo {
 
 ### Internal Linked Notes
 
-- [[PowerShell]]
+- [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
 - [[Code/_README|Code Snippets]]
 - [[Code/PowerShell/_README|PowerShell Code Snippets]]
 - [[MOCs/Development|Development]]

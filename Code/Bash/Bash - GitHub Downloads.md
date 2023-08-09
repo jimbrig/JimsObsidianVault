@@ -103,7 +103,7 @@ Notes:
 ### Internal Linked Notes
 
 > [!NOTE] See Also: 
-> [[PowerShell]] Version of Same Functionality: [[PowerShell - GitHub Downloads]]
+> [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] Version of Same Functionality: [[PowerShell - GitHub Downloads]]
 
 - [[Code/_README|Code Snippets]]
 - [[MOCs/MOC - Development|Development]]
