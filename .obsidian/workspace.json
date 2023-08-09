@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b07df75d5c71fae6",
+        "id": "b84828163020eae1",
         "type": "tabs",
         "children": [
           {
-            "id": "6290418a67a44484",
+            "id": "80db687dcd2914d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/_README.md",
-                "mode": "preview",
-                "backlinks": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592.5
+    "width": 253.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reference/_README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -114,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Reference/_README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +202,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,8 +301,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "6290418a67a44484",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "Reference/_README.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/BuildHelpers.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Configuration.md",
@@ -326,7 +316,6 @@
     "Reference/Technology/Programming/Programming Languages/PowerShell/About/About PowerShell Config.md",
     "Sources/RSS Feeds.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/About",
-    "Reference/_README.md",
     "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
     "Code/YAML/Docker Compose/Nginx/Docker - Compose - Nginx.md",
     "Code/Bash/Git-Bash",
