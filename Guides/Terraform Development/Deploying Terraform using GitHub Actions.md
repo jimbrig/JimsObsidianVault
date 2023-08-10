@@ -26,6 +26,11 @@ Before we can start to run any Actions, we need two supporting items in place:
 1. Backend Storage for Terraform to store the state file
 2. A Service Principal for Terraform to use to authenticate to our Azure Tenant/Subscriptions
 
+> [!help] Help
+> See the [Appendix]() for details on the backend remote-state storage and service principal setups.
+
+
+
 ```bash
 # ---------------------------------------------------------------------
 # This Azure CLI script helps prepare everything you need to run 
