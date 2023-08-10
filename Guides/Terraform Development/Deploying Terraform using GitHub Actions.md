@@ -32,6 +32,8 @@ Before we can start to run any Actions, we need two supporting items in place:
 
 
 ```bash
+#!/usr/bin/env bash
+
 # ---------------------------------------------------------------------
 # This Azure CLI script helps prepare everything you need to run 
 # Terraform in GitHub Actions. 
@@ -42,10 +44,14 @@ Before we can start to run any Actions, we need two supporting items in place:
 # 		- Note: You may wish to reduce this scope for your deployment down to single Subscription
 # ---------------------------------------------------------------------
 
+set -euo pipefail
+
 # Login/Authenticate to Azure
 az login
 
 # Variable Declarations
+AZ_REGION=read 
+
 $location = "uksouth"                                           # This sets the Resource Group and Storage Account location.
 $rgname = "rgname"                                              # This sets the Resource Group name the Storage Account will be deployed into.
 $strname = "storageaccoutname"                                  # This sets the Storage Account name - note this must be unique!
