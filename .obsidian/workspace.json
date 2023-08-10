@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
                 "mode": "preview",
                 "backlinks": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md"
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md"
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,8 +312,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "80db687dcd2914d9",
   "lastOpenFiles": [
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ZLocation.md",
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - YetAnotherCMLogger.md",
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - yarn-completion.md",
@@ -339,7 +340,6 @@
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SqlServer.md",
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Selenium.md",
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SecretManagement.Keeper.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ShowDemo.md",
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules",
     "Tools/Tools - Shells/Tools - PowerShell",
     "Tools/Tools - Shells/Tools - PowerShell Core",

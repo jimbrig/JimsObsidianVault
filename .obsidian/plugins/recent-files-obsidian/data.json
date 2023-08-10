@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell Module - nvm-completion",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md"
+    },
+    {
       "basename": "_README",
       "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PowerShell Module - PSDockerMermaid",
       "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSDockerMermaid.md"
-    },
-    {
-      "basename": "PowerShell Module - psdocker",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - psdocker.md"
     }
   ],
   "omittedPaths": [],
