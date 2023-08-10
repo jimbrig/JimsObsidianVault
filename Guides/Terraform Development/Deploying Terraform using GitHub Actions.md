@@ -50,33 +50,44 @@ set -euo pipefail
 az login
 
 # Variable Declarations
-AZ_REGION=read 
+AZ_REGION="eastus"
+AZ_RG="RG_TERRAFORM"
+AZ_SA="saterraformstate"
+AZ_SC="tfstate"
+AZ_SP="sp-terraform"
+AZ_SUB_ID=$(az account show --query id -o tsv)
 
-$location = "uksouth"                                           # This sets the Resource Group and Storage Account location.
-$rgname = "rgname"                                              # This sets the Resource Group name the Storage Account will be deployed into.
-$strname = "storageaccoutname"                                  # This sets the Storage Account name - note this must be unique!
-$containername = "tfstate"                                      # This sets the Container name.
-$envtag = "Environment=TFStorage"                               # This sets the Environment Tag applied to the Resource Group and Storage Account.
-$datetag = "Build-Date=27072024"                                # This sets the Build Date Tag applied to the Resource Group and Storage Account. 
-$spname = "tfdeploy"                                            # This sets the Service Principal Name
-# Below Subscription should be the Management Subscription
-$mansub = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"                # This is the ID of the Subscription to deploy the Resource Group and Storage Account into. 
+AZ_ENVTAG="Environment=Terraform"
+AZ_DATETAG="Build-Date=$(date +%Y-%m-%d)"
 
-########################################
+# Create Resource Group, Storage Account, and Storage Container
+az account set -s $AZ_SUB_ID
 
-# Creates Resource Group and Storage Account for TF State File Storage
-az account set -s $mansub
-az group create --location $location --name $rgname --tags $envtag $datetag
-az storage account create --location $location --resource-group $rgname --name $strname --tags $envtag $datetag --https-only --sku Standard_LRS --encryption-services blob --subscription $mansub
-$storageacckey=$(az storage account keys list --resource-group $rgname --account-name $strname --query '[0].value' -o tsv)
-az storage container create --name $containername --account-name $strname --account-key $storageacckey
+az group create --location $AZ_REGION \
+	--name $AZ_RG \
+	--tags $AZ_ENVTAG $AZ_DATETAG
 
-# Creates Service Principal for TF to use and gives access at root. 
-$spid = az ad sp create-for-rbac -n $spname --role Contributor --scopes "/" | convertfrom-json
+az storage account create --location $AZ_REGION \
+	--resource-group $AZ_RG \
+	--name $AZ_SA \
+	--tags $AZ_ENVTAG $AZ_DATETAG \
+	--https-only \
+	--sku Standard_LRS \
+	--encryption-services blob \
+	--subscription $AZ_SUB_ID
 
-########################################
-# Information to setup GitHub Secrets and Terraform backend configuration is output by the script below. 
-########################################
+# Get Storage Account Access Key
+AZ_SA_KEY=$(az storage account keys list --resource-group $AZ_RG --account-name $AZ_SA --query '[0].value' -o tsv)
+
+# Create Container
+az storage container create --name $AZ_SC \
+	--account-name $AZ_SA \
+	--account-key $AZ_SA_KEY
+
+# Creates Service Principal
+$AZ_SP_ID = $(az ad sp create-for-rbac -n $AZ_SP --role Contributor --scopes "/" | jq)
+
+
 Write-Output "
 Below are the details of the storage account that will need to be in the Terraform Backend Configuration:
 Resource Group: $rgname
