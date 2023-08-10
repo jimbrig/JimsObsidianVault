@@ -30,7 +30,7 @@ Alias: [ "R Packages Ubuntu" ]
 ## Overview
 
 - Install [[R Packages]] as you would do on [[Windows]] (i.e., no long [[compilation]] time). 
-- In addition, this script asks to install [[R Development Tools]], [[Tools/Tools - Version Control/Git]], [[RStudio]], and [[Quarto]].
+- In addition, this script asks to install [[R Development Tools]], [[Tools/Tools - Version Control/Git]], [[Reference/Technology/Programming/Tools/IDEs/RStudio]], and [[Quarto]].
 
 ## Motivation
 
@@ -57,7 +57,7 @@ You can use it on a fresh or existing setup.
 
 ## Testing
 
-When you re-open [[RStudio]] after running the script, you'll see an output like this:
+When you re-open [[Reference/Technology/Programming/Tools/IDEs/RStudio]] after running the script, you'll see an output like this:
 
 ```R
 install.packages("devtools")

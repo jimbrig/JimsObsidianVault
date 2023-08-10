@@ -9,7 +9,7 @@ Aliases: ["R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better"
 # R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better
 
 ## Metadata
-- Author: [[RStudio | Open source & professional software for data science teams on RStudio]]
+- Author: [[Reference/Technology/Programming/Tools/IDEs/RStudio| Open source & professional software for data science teams on RStudio]]
 - Full Title: R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better
 - Category: #Type/Highlight/Article
 - URL: https://r-craft.org/r-news/r-markdown-lesser-known-tips-tricks-4-looks-better-works-better/

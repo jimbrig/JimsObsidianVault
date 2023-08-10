@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Cursor (NEW)",
+      "path": "Tools/Tools - IDEs and Editors/Cursor (NEW).md"
+    },
+    {
+      "basename": "pgAdmin4",
+      "path": "Tools/Tools - IDEs and Editors/pgAdmin4.md"
+    },
+    {
+      "basename": "SQL Server Mgmt Studio",
+      "path": "Tools/Tools - IDEs and Editors/SQL Server Mgmt Studio.md"
+    },
+    {
+      "basename": "Azure Data Studio",
+      "path": "Tools/Tools - IDEs and Editors/Azure Data Studio.md"
+    },
+    {
+      "basename": "Notepad++",
+      "path": "Tools/Tools - IDEs and Editors/Notepad++.md"
+    },
+    {
+      "basename": "RStudio",
+      "path": "Tools/Tools - IDEs and Editors/RStudio.md"
+    },
+    {
+      "basename": "Visual Studio",
+      "path": "Tools/Tools - IDEs and Editors/Visual Studio.md"
+    },
+    {
+      "basename": "Visual Studio Code",
+      "path": "Tools/Tools - IDEs and Editors/Visual Studio Code.md"
+    },
+    {
       "basename": "Deploying Terraform using GitHub Actions",
       "path": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Rollup.js",
       "path": "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/Rollup.js.md"
-    },
-    {
-      "basename": "CMS",
-      "path": "Reference/Technology/Programming/Web/CMS.md"
-    },
-    {
-      "basename": "WebKit",
-      "path": "Reference/Technology/Programming/Tools/Web Development Tools/WebKit.md"
-    },
-    {
-      "basename": "Web Engines",
-      "path": "Reference/Technology/Programming/Web/Web Engines.md"
-    },
-    {
-      "basename": "Nest.js",
-      "path": "Reference/Technology/Programming/Programming Languages/JavaScript/JS Frameworks/Nest.js.md"
-    },
-    {
-      "basename": "Fastify",
-      "path": "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/Fastify.md"
-    },
-    {
-      "basename": "Node.js",
-      "path": "Reference/Technology/Programming/Programming Languages/JavaScript/Node.js.md"
-    },
-    {
-      "basename": "Hexo",
-      "path": "Reference/Technology/Programming/Tools/Static Site Generators/Hexo.md"
-    },
-    {
-      "basename": "Static Site Generators",
-      "path": "Reference/Technology/Programming/Tools/Static Site Generators/Static Site Generators.md"
     }
   ],
   "omittedPaths": [],

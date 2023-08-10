@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md",
+                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md"
+                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md"
+                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md",
+                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md",
+                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +197,25 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "866fe9734d906c35",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "731e3f2068a95284",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1ac3153552315a07",
@@ -212,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md",
+                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,22 +270,6 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4357bad16e45c68d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bbb382580faab964",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -314,7 +314,17 @@
   },
   "active": "80db687dcd2914d9",
   "lastOpenFiles": [
+    "Tools/Tools - IDEs and Editors/pgAdmin4.md",
+    "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
+    "Tools/Tools - IDEs and Editors/SQL Server Mgmt Studio.md",
+    "Tools/Tools - IDEs and Editors/Azure Data Studio.md",
+    "Tools/Tools - Databases",
+    "Tools/Tools - IDEs and Editors/Notepad++.md",
+    "Tools/Tools - IDEs and Editors/RStudio.md",
+    "Tools/Tools - IDEs and Editors/Visual Studio.md",
+    "Tools/Tools - IDEs and Editors/Visual Studio Code.md",
     "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md",
+    "Tools/Tools - IDEs and Editors",
     "Reference/_README.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/BuildHelpers.md",
@@ -338,18 +348,8 @@
     "Code/YAML/Docker Compose/Jenkins",
     "Code/YAML/Docker Compose/Databases/Docker - Compose - PostgreSQL.md",
     "Code/YAML/Docker Compose/_README.md",
-    "Code/AzureCLI/App Service/AzureCLI - App Service - Connect Azure SQL.md",
     "Code/YAML/Docker Compose/Databases",
     "Code/Batch",
-    "Code/Terraform/Azure Terraform",
-    "Code/AzureCLI/Azure AI",
-    "Code/AzureCLI/App Service/AzureCLI - App Service - Configure Custom Domain.md",
-    "Code/AzureCLI/_README.md",
-    "Code/AHK/_README.md",
-    "Code/AHK/AHK - HotKey Helper.md",
-    "Code/AHK/AHK - Global Obsidian Shortcut.md",
-    "Code/AHK/AHK - Global Todoist Shortcut.md",
-    "Code/AHK/AHK - Toggle Hidden Files and Folders.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
