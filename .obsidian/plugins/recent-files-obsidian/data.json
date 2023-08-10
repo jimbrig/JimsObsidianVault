@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell Modules -",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md"
+    },
+    {
+      "basename": "PowerShell Modules - ComputerCleanup",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - ComputerCleanup.md"
+    },
+    {
+      "basename": "PowerShell Modules - BuildHelpers",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - BuildHelpers.md"
+    },
+    {
+      "basename": "PowerShell Modules - Configuration",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - Configuration.md"
+    },
+    {
+      "basename": "PowerShell Modules - BurntToast",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - BurntToast.md"
+    },
+    {
+      "basename": "PowerShell Modules - Benchpress",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - Benchpress.md"
+    },
+    {
+      "basename": "PowerShell Module - CompletionPredictor",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - CompletionPredictor.md"
+    },
+    {
+      "basename": "PowerShell Module - Az",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Az.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md"
+    },
+    {
+      "basename": "Tools - Windows PowerShell",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - Windows PowerShell.md"
+    },
+    {
+      "basename": "Tools - PowerShell Core",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Core.md"
+    },
+    {
+      "basename": "Tools - PowerShell",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell.md"
+    },
+    {
+      "basename": "Windows Command Line",
+      "path": "Tools/Tools - Shells/Windows Command Line.md"
+    },
+    {
       "basename": "Cursor (NEW)",
       "path": "Tools/Tools - IDEs and Editors/Cursor (NEW).md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "WSL Setup",
       "path": "Guides/Windows/WSL Setup.md"
-    },
-    {
-      "basename": "My Backup System",
-      "path": "Reference/Technology/Computer Science/Backups/My Backup System.md"
-    },
-    {
-      "basename": "Backups",
-      "path": "Reference/Technology/Computer Science/Backups/Backups.md"
-    },
-    {
-      "basename": "Technology",
-      "path": "Reference/Technology/Technology.md"
-    },
-    {
-      "basename": "Web Scraping",
-      "path": "Reference/Technology/Programming/Web/Web Scraping.md"
-    },
-    {
-      "basename": "Service Workers",
-      "path": "Reference/Technology/Programming/Web/Service Workers.md"
-    },
-    {
-      "basename": "Accessibility",
-      "path": "Reference/Technology/Programming/Web/Accessibility.md"
-    },
-    {
-      "basename": "SEO",
-      "path": "Reference/Technology/Programming/Web/SEO.md"
-    },
-    {
-      "basename": "Search Engines",
-      "path": "Reference/Technology/Programming/Web/Search Engines.md"
-    },
-    {
-      "basename": "RSS",
-      "path": "Reference/Technology/Programming/Web/RSS.md"
-    },
-    {
-      "basename": "PWA",
-      "path": "Reference/Technology/Programming/Web/PWA.md"
-    },
-    {
-      "basename": "ESBuild",
-      "path": "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/ESBuild.md"
-    },
-    {
-      "basename": "Electron",
-      "path": "Reference/Technology/Programming/Web/Electron.md"
-    },
-    {
-      "basename": "Deno",
-      "path": "Reference/Technology/Programming/Tools/Web Development Tools/Deno.md"
-    },
-    {
-      "basename": "Rollup.js",
-      "path": "Reference/Technology/Programming/Tools/Web Development Tools/JS Tools/Rollup.js.md"
     }
   ],
   "omittedPaths": [],

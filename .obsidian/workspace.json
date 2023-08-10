@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md",
                 "mode": "source",
                 "backlinks": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md"
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md"
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
+                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,8 +314,26 @@
   },
   "active": "80db687dcd2914d9",
   "lastOpenFiles": [
-    "Tools/Tools - IDEs and Editors/pgAdmin4.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - ComputerCleanup.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - BuildHelpers.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - Configuration.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - BurntToast.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - Benchpress.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - CompletionPredictor.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Az.md",
+    "Tools/Tools - Shells/Tools - PowerShell/_README.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - Windows PowerShell.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Core.md",
+    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell.md",
+    "Tools/Tools - Shells/Tools - PowerShell Core/Tools - PowerShell.md",
+    "Tools/Tools - Shells/Tools - PowerShell",
+    "Tools/Tools - Shells/Tools - PowerShell Core",
+    "Tools/Tools - Shells/Windows Command Line.md",
     "Tools/Tools - IDEs and Editors/Cursor (NEW).md",
+    "Tools/Tools - IDEs and Editors/pgAdmin4.md",
     "Tools/Tools - IDEs and Editors/SQL Server Mgmt Studio.md",
     "Tools/Tools - IDEs and Editors/Azure Data Studio.md",
     "Tools/Tools - Databases",
@@ -327,29 +345,11 @@
     "Tools/Tools - IDEs and Editors",
     "Reference/_README.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/BuildHelpers.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Configuration.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ZLocation.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Az.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSResourceGet.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSScriptTools.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Stucco.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/About/About PowerShell Config.md",
-    "Sources/RSS Feeds.md",
     "Reference/Technology/Programming/Programming Languages/PowerShell/About",
-    "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md",
-    "Code/YAML/Docker Compose/Nginx/Docker - Compose - Nginx.md",
     "Code/Bash/Git-Bash",
     "Code/YAML/Kubernetes",
     "Code/YAML/Espanso",
-    "Code/YAML/Docker Compose/Databases/Docker - Compose - MSSQL.md",
     "Code/YAML/Docker Compose/Nginx",
-    "Code/YAML/Docker Compose/Jenkins",
-    "Code/YAML/Docker Compose/Databases/Docker - Compose - PostgreSQL.md",
-    "Code/YAML/Docker Compose/_README.md",
-    "Code/YAML/Docker Compose/Databases",
-    "Code/Batch",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
