@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "PowerShell Modules -",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules -.md"
-    },
-    {
-      "basename": "PowerShell Modules - ComputerCleanup",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - ComputerCleanup.md"
-    },
-    {
-      "basename": "PowerShell Modules - BuildHelpers",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - BuildHelpers.md"
-    },
-    {
-      "basename": "PowerShell Modules - Configuration",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - Configuration.md"
-    },
-    {
-      "basename": "PowerShell Modules - BurntToast",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - BurntToast.md"
-    },
-    {
-      "basename": "PowerShell Modules - Benchpress",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Modules - Benchpress.md"
-    },
-    {
-      "basename": "PowerShell Module - CompletionPredictor",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - CompletionPredictor.md"
-    },
-    {
-      "basename": "PowerShell Module - Az",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Az.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/_README.md"
-    },
-    {
       "basename": "_README",
       "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md"
     },
     {
-      "basename": "Tools - Windows PowerShell",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - Windows PowerShell.md"
+      "basename": "PowerShell Module - ZLocation",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ZLocation.md"
     },
     {
-      "basename": "Tools - PowerShell Core",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Core.md"
+      "basename": "PowerShell Module - YetAnotherCMLogger",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - YetAnotherCMLogger.md"
     },
     {
-      "basename": "Tools - PowerShell",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell.md"
+      "basename": "PowerShell Module - yarn-completion",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - yarn-completion.md"
     },
     {
-      "basename": "Windows Command Line",
-      "path": "Tools/Tools - Shells/Windows Command Line.md"
+      "basename": "PowerShell Module - WTToolBox",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WTToolBox.md"
     },
     {
-      "basename": "Cursor (NEW)",
-      "path": "Tools/Tools - IDEs and Editors/Cursor (NEW).md"
+      "basename": "PowerShell Module - WSLTabCompletion",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WSLTabCompletion.md"
     },
     {
-      "basename": "pgAdmin4",
-      "path": "Tools/Tools - IDEs and Editors/pgAdmin4.md"
+      "basename": "PowerShell Module - WinRegistry",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WinRegistry.md"
     },
     {
-      "basename": "SQL Server Mgmt Studio",
-      "path": "Tools/Tools - IDEs and Editors/SQL Server Mgmt Studio.md"
+      "basename": "PowerShell Module - WinGetTools",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WinGetTools.md"
     },
     {
-      "basename": "Azure Data Studio",
-      "path": "Tools/Tools - IDEs and Editors/Azure Data Studio.md"
+      "basename": "PowerShell Module - WindowsSandboxTools",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WindowsSandboxTools.md"
     },
     {
-      "basename": "Notepad++",
-      "path": "Tools/Tools - IDEs and Editors/Notepad++.md"
+      "basename": "PowerShell Module - WiFiTools",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WiFiTools.md"
     },
     {
-      "basename": "RStudio",
-      "path": "Tools/Tools - IDEs and Editors/RStudio.md"
+      "basename": "PowerShell Module - WieldingLs",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WieldingLs.md"
     },
     {
-      "basename": "Visual Studio",
-      "path": "Tools/Tools - IDEs and Editors/Visual Studio.md"
+      "basename": "PowerShell Module - WieldingAnsi",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WieldingAnsi.md"
     },
     {
-      "basename": "Visual Studio Code",
-      "path": "Tools/Tools - IDEs and Editors/Visual Studio Code.md"
+      "basename": "PowerShell Module - VSCodeBackup",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - VSCodeBackup.md"
     },
     {
-      "basename": "Deploying Terraform using GitHub Actions",
-      "path": "Guides/Terraform Development/Deploying Terraform using GitHub Actions.md"
+      "basename": "PowerShell Module - UtilityFunctions",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - UtilityFunctions.md"
     },
     {
-      "basename": "_README",
-      "path": "Reference/_README.md"
+      "basename": "PowerShell Module - ugit",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ugit.md"
     },
     {
-      "basename": "PowerShell",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell.md"
+      "basename": "PowerShell Module - ThreadJob",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ThreadJob.md"
     },
     {
-      "basename": "BuildHelpers",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/BuildHelpers.md"
+      "basename": "PowerShell Module - TerraformUtil",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformUtil.md"
     },
     {
-      "basename": "Configuration",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Configuration.md"
+      "basename": "PowerShell Module - TerraformSetup",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformSetup.md"
     },
     {
-      "basename": "ZLocation",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ZLocation.md"
+      "basename": "PowerShell Module - TerraformCompletion",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformCompletion.md"
     },
     {
-      "basename": "Az",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Az.md"
+      "basename": "PowerShell Module - TerminalVelocity",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerminalVelocity.md"
     },
     {
-      "basename": "PSResourceGet",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSResourceGet.md"
+      "basename": "PowerShell Module - Terminal-Icons",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Terminal-Icons.md"
     },
     {
-      "basename": "PSScriptTools",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/PSScriptTools.md"
+      "basename": "PowerShell Module - Stucco",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Stucco.md"
     },
     {
-      "basename": "Stucco",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/Stucco.md"
+      "basename": "PowerShell Module - SemVerPS",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SemVerPS.md"
     },
     {
-      "basename": "ModuleFast",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell Modules/ModuleFast.md"
+      "basename": "PowerShell Module - SqlServer",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SqlServer.md"
     },
     {
-      "basename": "About PowerShell Config",
-      "path": "Reference/Technology/Programming/Programming Languages/PowerShell/About/About PowerShell Config.md"
+      "basename": "PowerShell Module - Selenium",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Selenium.md"
     },
     {
-      "basename": "RSS Feeds",
-      "path": "Sources/RSS Feeds.md"
+      "basename": "PowerShell Module - SecretManagement.Keeper",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SecretManagement.Keeper.md"
     },
     {
-      "basename": "Terraform - Azure - ACR",
-      "path": "Code/Terraform/Azure Terraform/Terraform - Azure - ACR.md"
+      "basename": "PowerShell Module - ShowDemo",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ShowDemo.md"
     },
     {
-      "basename": "Docker - Compose - Nginx",
-      "path": "Code/YAML/Docker Compose/Nginx/Docker - Compose - Nginx.md"
+      "basename": "PowerShell Module - PWSHModule",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PWSHModule.md"
     },
     {
-      "basename": "Docker - Compose - MSSQL",
-      "path": "Code/YAML/Docker Compose/Databases/Docker - Compose - MSSQL.md"
+      "basename": "PowerShell Module - psyml",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - psyml.md"
     },
     {
-      "basename": "Docker - Compose - PostgreSQL",
-      "path": "Code/YAML/Docker Compose/Databases/Docker - Compose - PostgreSQL.md"
+      "basename": "PowerShell Module - PSWriteColor",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSWriteColor.md"
     },
     {
-      "basename": "_README",
-      "path": "Code/YAML/Docker Compose/_README.md"
+      "basename": "PowerShell Module - PSWinVitals",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSWinVitals.md"
     },
     {
-      "basename": "AzureCLI - App Service - Connect Azure SQL",
-      "path": "Code/AzureCLI/App Service/AzureCLI - App Service - Connect Azure SQL.md"
+      "basename": "PowerShell Module - PSWindowsUpdate",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSWindowsUpdate.md"
     },
     {
-      "basename": "AzureCLI - App Service - Configure Custom Domain",
-      "path": "Code/AzureCLI/App Service/AzureCLI - App Service - Configure Custom Domain.md"
+      "basename": "PowerShell Module - PsSqlMermaid",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PsSqlMermaid.md"
     },
     {
-      "basename": "_README",
-      "path": "Code/AzureCLI/_README.md"
+      "basename": "PowerShell Module - PSScriptTools",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSScriptTools.md"
     },
     {
-      "basename": "_README",
-      "path": "Code/AHK/_README.md"
+      "basename": "PowerShell Module - PSScaffold",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSScaffold.md"
     },
     {
-      "basename": "AHK - HotKey Helper",
-      "path": "Code/AHK/AHK - HotKey Helper.md"
+      "basename": "PowerShell Module - PSRule",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSRule.md"
     },
     {
-      "basename": "AHK - Global Obsidian Shortcut",
-      "path": "Code/AHK/AHK - Global Obsidian Shortcut.md"
+      "basename": "PowerShell Module - PSScriptAnalyzer",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSScriptAnalyzer.md"
     },
     {
-      "basename": "AHK - Global Todoist Shortcut",
-      "path": "Code/AHK/AHK - Global Todoist Shortcut.md"
+      "basename": "PowerShell Module - PSReadLine",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSReadLine.md"
     },
     {
-      "basename": "AHK - Toggle Hidden Files and Folders",
-      "path": "Code/AHK/AHK - Toggle Hidden Files and Folders.md"
+      "basename": "PowerShell Module - PSParseHTML",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSParseHTML.md"
     },
     {
-      "basename": "AHK - Custom Text Expansions",
-      "path": "Code/AHK/AHK - Custom Text Expansions.md"
+      "basename": "PowerShell Module - PSModuleBuilder",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSModuleBuilder.md"
     },
     {
-      "basename": "WSL Setup",
-      "path": "Guides/Windows/WSL Setup.md"
+      "basename": "PowerShell Module - PSMermaidTools",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSMermaidTools.md"
+    },
+    {
+      "basename": "PowerShell Module - PSMermaid",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSMermaid.md"
+    },
+    {
+      "basename": "PowerShell Module - PSGraph",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSGraph.md"
+    },
+    {
+      "basename": "PowerShell Module - PSGalleryExplorer",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSGalleryExplorer.md"
+    },
+    {
+      "basename": "PowerShell Module - PSFzf",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSFzf.md"
+    },
+    {
+      "basename": "PowerShell Module - PSFlowChart",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSFlowChart.md"
+    },
+    {
+      "basename": "PowerShell Module - PSEverything",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSEverything.md"
+    },
+    {
+      "basename": "PowerShell Module - PSDscResources",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSDscResources.md"
+    },
+    {
+      "basename": "PowerShell Module - PSDockerMermaid",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSDockerMermaid.md"
+    },
+    {
+      "basename": "PowerShell Module - psdocker",
+      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - psdocker.md"
     }
   ],
   "omittedPaths": [],
