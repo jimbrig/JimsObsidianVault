@@ -31,6 +31,10 @@ It main highlight is that it uses GPT-4 to assist you in programming, and comple
 - **ChatGPT-style based**: ChatGPT-style interface that understands your current file
 - **More**: ask to fix lint errors, generate tests/comments on hover, etc.
 
+## Getting Started
+
+1. `Ctrl + L`: This allows one to communicate with the built-in AI, similar to ChatGPT interaction.
+2. `Ctrl + K`: 
 
 ***
 
