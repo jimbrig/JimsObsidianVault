@@ -7,7 +7,7 @@
 ## Development
 
 - [[Tools/Tools - Version Control/Github]]
-- [[Azure DevOps]]
+- [[Reference/Technology/Programming/DevOps/Azure DevOps]]
 
 - Cloud Service Vendors:
 	- [[Microsoft Azure]]

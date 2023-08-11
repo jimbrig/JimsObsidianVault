@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "PowerShell Module - nvm-completion",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md"
+      "basename": "Azure Machine Learning (ML)",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md"
     },
     {
-      "basename": "_README",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md"
+      "basename": "Azure Blueprints",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Blueprints.md"
     },
     {
-      "basename": "PowerShell Module - ZLocation",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ZLocation.md"
+      "basename": "Azure Data Catalog",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Catalog.md"
     },
     {
-      "basename": "PowerShell Module - YetAnotherCMLogger",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - YetAnotherCMLogger.md"
+      "basename": "Azure Container Registry",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Container Registry.md"
     },
     {
-      "basename": "PowerShell Module - yarn-completion",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - yarn-completion.md"
+      "basename": "Azure Data Studio",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Studio.md"
     },
     {
-      "basename": "PowerShell Module - WTToolBox",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WTToolBox.md"
+      "basename": "Azure API Management",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure API Management.md"
     },
     {
-      "basename": "PowerShell Module - WSLTabCompletion",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WSLTabCompletion.md"
+      "basename": "Azure Logic Apps",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Logic Apps.md"
     },
     {
-      "basename": "PowerShell Module - WinRegistry",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WinRegistry.md"
+      "basename": "Azure Arc",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Arc.md"
     },
     {
-      "basename": "PowerShell Module - WinGetTools",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WinGetTools.md"
+      "basename": "Azure Functions",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Functions.md"
     },
     {
-      "basename": "PowerShell Module - WindowsSandboxTools",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WindowsSandboxTools.md"
+      "basename": "Azure Event Hubs",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Event Hubs.md"
     },
     {
-      "basename": "PowerShell Module - WiFiTools",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WiFiTools.md"
+      "basename": "Azure Kubernetes Service",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Kubernetes Service.md"
     },
     {
-      "basename": "PowerShell Module - WieldingLs",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WieldingLs.md"
+      "basename": "Microsoft Purview",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Microsoft Purview.md"
     },
     {
-      "basename": "PowerShell Module - WieldingAnsi",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WieldingAnsi.md"
+      "basename": "Azure Pricing Calculator",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Pricing Calculator.md"
     },
     {
-      "basename": "PowerShell Module - VSCodeBackup",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - VSCodeBackup.md"
+      "basename": "Azure Network Security Groups",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Network Security Groups.md"
     },
     {
-      "basename": "PowerShell Module - UtilityFunctions",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - UtilityFunctions.md"
+      "basename": "Scalability",
+      "path": "Reference/Technology/Data Engineering/Concepts/Scalability.md"
     },
     {
-      "basename": "PowerShell Module - ugit",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ugit.md"
+      "basename": "Redundancy",
+      "path": "Reference/Technology/Data Engineering/Concepts/Redundancy.md"
     },
     {
-      "basename": "PowerShell Module - ThreadJob",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ThreadJob.md"
+      "basename": "High Availability",
+      "path": "Reference/Technology/Data Engineering/Concepts/High Availability.md"
     },
     {
-      "basename": "PowerShell Module - TerraformUtil",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformUtil.md"
+      "basename": "Azure Web Application Firewall",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Web Application Firewall.md"
     },
     {
-      "basename": "PowerShell Module - TerraformSetup",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformSetup.md"
+      "basename": "Azure Application Gateway",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Application Gateway.md"
     },
     {
-      "basename": "PowerShell Module - TerraformCompletion",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformCompletion.md"
+      "basename": "Azure Availability Zones",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Availability Zones.md"
     },
     {
-      "basename": "PowerShell Module - TerminalVelocity",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerminalVelocity.md"
+      "basename": "Azure Resource Group",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Resource Group.md"
     },
     {
-      "basename": "PowerShell Module - Terminal-Icons",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Terminal-Icons.md"
+      "basename": "Azure Load Balancer",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Load Balancer.md"
     },
     {
-      "basename": "PowerShell Module - Stucco",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Stucco.md"
+      "basename": "Azure Storage Account",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Storage Account.md"
     },
     {
-      "basename": "PowerShell Module - SemVerPS",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SemVerPS.md"
+      "basename": "Azure DDoS Protection",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure DDoS Protection.md"
     },
     {
-      "basename": "PowerShell Module - SqlServer",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SqlServer.md"
+      "basename": "Azure Bastion",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Bastion.md"
     },
     {
-      "basename": "PowerShell Module - Selenium",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Selenium.md"
+      "basename": "Azure Virtual Network",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Virtual Network.md"
     },
     {
-      "basename": "PowerShell Module - SecretManagement.Keeper",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SecretManagement.Keeper.md"
+      "basename": "Azure Application Insights",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Application Insights.md"
     },
     {
-      "basename": "PowerShell Module - ShowDemo",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ShowDemo.md"
+      "basename": "Azure Monitor",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Monitor.md"
     },
     {
-      "basename": "PowerShell Module - PWSHModule",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PWSHModule.md"
+      "basename": "Data Observability and Monitoring",
+      "path": "Reference/Technology/Data Engineering/Concepts/Data Observability and Monitoring.md"
     },
     {
-      "basename": "PowerShell Module - psyml",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - psyml.md"
+      "basename": "PowerBI",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/PowerBI.md"
     },
     {
-      "basename": "PowerShell Module - PSWriteColor",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSWriteColor.md"
+      "basename": "Azure DevOps",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure DevOps.md"
     },
     {
-      "basename": "PowerShell Module - PSWinVitals",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSWinVitals.md"
+      "basename": "Azure Synapse Analytics",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Synapse Analytics.md"
     },
     {
-      "basename": "PowerShell Module - PSWindowsUpdate",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSWindowsUpdate.md"
+      "basename": "Azure Key Vault",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Key Vault.md"
     },
     {
-      "basename": "PowerShell Module - PsSqlMermaid",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PsSqlMermaid.md"
+      "basename": "Azure SQL",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure SQL.md"
     },
     {
-      "basename": "PowerShell Module - PSScriptTools",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSScriptTools.md"
+      "basename": "Azure Databricks",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Databricks.md"
     },
     {
-      "basename": "PowerShell Module - PSScaffold",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSScaffold.md"
+      "basename": "Azure Data Lake Storage",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Lake Storage.md"
     },
     {
-      "basename": "PowerShell Module - PSRule",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSRule.md"
+      "basename": "Azure Data Factory",
+      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Factory.md"
     },
     {
-      "basename": "PowerShell Module - PSScriptAnalyzer",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSScriptAnalyzer.md"
+      "basename": "Data Change Capture",
+      "path": "Reference/Technology/Data Engineering/Concepts/Data Change Capture.md"
     },
     {
-      "basename": "PowerShell Module - PSReadLine",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSReadLine.md"
+      "basename": "Delta Lake",
+      "path": "Reference/Technology/Data Engineering/Concepts/Delta Lake.md"
     },
     {
-      "basename": "PowerShell Module - PSParseHTML",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSParseHTML.md"
+      "basename": "Multi-Tenancy",
+      "path": "Reference/Technology/Data Engineering/Concepts/Multi-Tenancy.md"
     },
     {
-      "basename": "PowerShell Module - PSModuleBuilder",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSModuleBuilder.md"
+      "basename": "Data Products",
+      "path": "Reference/Technology/Data Engineering/Concepts/Data Products.md"
     },
     {
-      "basename": "PowerShell Module - PSMermaidTools",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSMermaidTools.md"
+      "basename": "Partitioning",
+      "path": "Reference/Technology/Data Engineering/Concepts/Partitioning.md"
     },
     {
-      "basename": "PowerShell Module - PSMermaid",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSMermaid.md"
+      "basename": "Sharding",
+      "path": "Reference/Technology/Data Engineering/Concepts/Sharding.md"
     },
     {
-      "basename": "PowerShell Module - PSGraph",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSGraph.md"
+      "basename": "Materialized View",
+      "path": "Reference/Technology/Data Engineering/Concepts/Materialized View.md"
     },
     {
-      "basename": "PowerShell Module - PSGalleryExplorer",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSGalleryExplorer.md"
+      "basename": "Indexing",
+      "path": "Reference/Technology/Data Engineering/Concepts/Indexing.md"
     },
     {
-      "basename": "PowerShell Module - PSFzf",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSFzf.md"
+      "basename": "Event Sourcing",
+      "path": "Reference/Technology/Data Engineering/Concepts/Event Sourcing.md"
     },
     {
-      "basename": "PowerShell Module - PSFlowChart",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSFlowChart.md"
+      "basename": "Caching",
+      "path": "Reference/Technology/Data Engineering/Concepts/Caching.md"
     },
     {
-      "basename": "PowerShell Module - PSEverything",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSEverything.md"
+      "basename": "Data Protection Control",
+      "path": "Reference/Technology/Data Engineering/Concepts/Data Protection Control.md"
     },
     {
-      "basename": "PowerShell Module - PSDscResources",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSDscResources.md"
+      "basename": "Data Blob Storage",
+      "path": "Reference/Technology/Data Engineering/Concepts/Data Blob Storage.md"
     },
     {
-      "basename": "PowerShell Module - PSDockerMermaid",
-      "path": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - PSDockerMermaid.md"
+      "basename": "Data Management Platforms",
+      "path": "Reference/Technology/Data Engineering/Concepts/Data Management Platforms.md"
     }
   ],
   "omittedPaths": [],

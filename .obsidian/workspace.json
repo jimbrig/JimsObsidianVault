@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
-                "mode": "preview",
+                "file": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md"
+                "file": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md"
+                "file": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
+                "file": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
+                "file": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - nvm-completion.md",
+                "file": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,47 +308,48 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4d6774a7fbfb4a83",
+  "active": "80db687dcd2914d9",
   "lastOpenFiles": [
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ZLocation.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - YetAnotherCMLogger.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - yarn-completion.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WTToolBox.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WSLTabCompletion.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WinRegistry.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WinGetTools.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WindowsSandboxTools.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WiFiTools.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WieldingLs.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - WieldingAnsi.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - VSCodeBackup.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - UtilityFunctions.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ugit.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ThreadJob.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformUtil.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformSetup.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerraformCompletion.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - TerminalVelocity.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Terminal-Icons.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Stucco.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SemVerPS.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SqlServer.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - Selenium.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - SecretManagement.Keeper.md",
-    "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules",
-    "Tools/Tools - Shells/Tools - PowerShell",
-    "Tools/Tools - Shells/Tools - PowerShell Core",
-    "Tools/Tools - Databases",
-    "Tools/Tools - IDEs and Editors",
-    "Reference/Technology/Programming/Programming Languages/PowerShell/About",
-    "Code/Bash/Git-Bash",
-    "Code/YAML/Kubernetes",
-    "Code/YAML/Espanso",
-    "Code/YAML/Docker Compose/Nginx",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Blueprints.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Catalog.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Container Registry.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Studio.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure API Management.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Logic Apps.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Arc.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Functions.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Event Hubs.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Kubernetes Service.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Microsoft Purview.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Pricing Calculator.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Network Security Groups.md",
+    "Reference/Technology/Data Engineering/Concepts/Scalability.md",
+    "Reference/Technology/Data Engineering/Concepts/Redundancy.md",
+    "Reference/Technology/Data Engineering/Concepts/High Availability.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Web Application Firewall.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Application Gateway.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Availability Zones.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Resource Group.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Load Balancer.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Storage Account.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure DDoS Protection.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Bastion.md",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Virtual Network.md",
+    "Reference/Technology/Data Engineering/Cloud Services/RedHat",
+    "Reference/Technology/Data Engineering/Cloud Services/Supabase",
+    "Reference/Technology/Data Engineering/Cloud Services/Data Build Tool (DBT)",
+    "Reference/Technology/Data Engineering/Cloud Services/Databricks",
+    "Reference/Technology/Data Engineering/Cloud Services/Snowflake",
+    "Reference/Technology/Data Engineering/Cloud Services/GCP",
+    "Reference/Technology/Data Engineering/Cloud Services/Azure",
+    "Reference/Technology/Data Engineering/Cloud Services/AWS",
+    "Reference/Technology/Data Engineering/Guides",
+    "Reference/Technology/Data Engineering/Concepts",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
