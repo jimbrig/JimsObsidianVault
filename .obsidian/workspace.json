@@ -199,7 +199,7 @@
             }
           },
           {
-            "id": "866fe9734d906c35",
+            "id": "b2648f773a4ebcb5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -207,7 +207,7 @@
             }
           },
           {
-            "id": "731e3f2068a95284",
+            "id": "4d6774a7fbfb4a83",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -215,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -308,11 +308,10 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "khoj:Khoj": false
     }
   },
-  "active": "80db687dcd2914d9",
+  "active": "4d6774a7fbfb4a83",
   "lastOpenFiles": [
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/_README.md",
     "Tools/Tools - Shells/Tools - PowerShell/Tools - PowerShell Modules/PowerShell Module - ZLocation.md",
