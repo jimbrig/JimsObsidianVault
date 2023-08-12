@@ -200,7 +200,7 @@
             }
           },
           {
-            "id": "b46680fb1bb4c7c0",
+            "id": "81ff4c49402d9030",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -208,7 +208,7 @@
             }
           },
           {
-            "id": "5aee4d4bb19aa632",
+            "id": "24a237202c16e3bb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -309,13 +309,16 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "80db687dcd2914d9",
   "lastOpenFiles": [
+    "Code/PowerShell/src/ConvertFrom-XlsToXlsx.ps1",
+    "Code/PowerShell/src/Convert-FromXlsToXlsx.ps1",
     "Code/Batch/_README.md",
-    "Code/Batch/src/Run-DockerDiagnosticCheck.bat",
+    "Code/Batch/src/Run-DockerDiagnosticsCheck.bat",
     "Code/Batch/src",
     "Code/Batch/Batch - Run Docker Diagnostics Check.md",
     "Code/Bash/_README.md",
@@ -348,7 +351,6 @@
     "Reference/Technology/Data Engineering/Cloud Services/Data Build Tool (DBT)",
     "Reference/Technology/Data Engineering/Cloud Services/Databricks",
     "Reference/Technology/Data Engineering/Cloud Services/Snowflake",
-    "Reference/Technology/Data Engineering/Cloud Services/GCP",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
