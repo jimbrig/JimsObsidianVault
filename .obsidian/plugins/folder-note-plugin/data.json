@@ -1,0 +1,9 @@
+{
+  "folderNoteHide": false,
+  "folderNoteType": "index",
+  "folderNoteName": "_README",
+  "folderNoteKey": "ctrl",
+  "folderNoteAutoRename": true,
+  "folderDelete2Note": false,
+  "folderNoteStrInit": "---\nDate: <% tp.date.now() %>\nAuthor: Jimmy Briggs <jimmy.briggs@jimbrig.com>\nTags: [ \"#Type/Readme\", \"#Topic/Meta\"  ]\nAlias: [ \"{{FOLDER_NAME}}\" ]\n---\n\n# {{FOLDER_NAME}}\n\n> [!NOTE] About\n> This folder houses <% tp.file.cursor(1) %>.\n\n## Overview\n\n{{FOLDER_BRIEF_LIVE}} \n\n## Contents\n\n```dataview\nLIST FROM \"<% tp.file.folder(true) %>\" AND -\"CHANGELOG\" AND -\"<% tp.file.folder(true) %>/_README\"\n```\n\n***\n\n## Appendix: Links and References\n\n*Note created on [[<% tp.file.creation_date(\"YYYY-MM-DD\") %>]] and last modified on [[<% tp.file.last_modified_date(\"YYYY-MM-DD\") %>]].*\n\n### Internal Linked Notes\n\n### External References\n\n#### Backlinks\n\n```dataview\nlist from [[<% tp.file.title %>]] AND -\"CHANGELOG\" AND -\"<% tp.file.folder(true) %>/<% tp.file.title %>\"\n```\n\n\n***\n\nJimmy Briggs <jimmy.briggs@jimbrig.com> | <% tp.date.now(\"YYYY\") %>\n"
+}

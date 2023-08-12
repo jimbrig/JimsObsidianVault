@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Batch - Run Docker Diagnostics Check",
+      "path": "Code/Batch/Batch - Run Docker Diagnostics Check.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/Batch/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/Bash/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/AzureCLI/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/AHK/_README.md"
+    },
+    {
+      "basename": "Template-Folder-README",
+      "path": "Templates/Utility-Templates/Template-Folder-README.md"
+    },
+    {
       "basename": "_README",
       "path": "Code/PowerShell/_README.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Data Products",
       "path": "Reference/Technology/Data Engineering/Concepts/Data Products.md"
-    },
-    {
-      "basename": "Partitioning",
-      "path": "Reference/Technology/Data Engineering/Concepts/Partitioning.md"
-    },
-    {
-      "basename": "Sharding",
-      "path": "Reference/Technology/Data Engineering/Concepts/Sharding.md"
-    },
-    {
-      "basename": "Materialized View",
-      "path": "Reference/Technology/Data Engineering/Concepts/Materialized View.md"
-    },
-    {
-      "basename": "Indexing",
-      "path": "Reference/Technology/Data Engineering/Concepts/Indexing.md"
-    },
-    {
-      "basename": "Event Sourcing",
-      "path": "Reference/Technology/Data Engineering/Concepts/Event Sourcing.md"
-    },
-    {
-      "basename": "Caching",
-      "path": "Reference/Technology/Data Engineering/Concepts/Caching.md"
     }
   ],
   "omittedPaths": [],

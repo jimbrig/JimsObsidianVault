@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PowerShell/_README.md",
-                "mode": "source",
+                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PowerShell/_README.md"
+                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Code/PowerShell/_README.md"
+                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PowerShell/_README.md",
+                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PowerShell/_README.md",
+                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/PowerShell/_README.md",
+                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,14 +309,21 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "khoj:Khoj": false
     }
   },
   "active": "80db687dcd2914d9",
   "lastOpenFiles": [
-    "Code/_README.md",
+    "Code/Batch/_README.md",
+    "Code/Batch/src/Run-DockerDiagnosticCheck.bat",
+    "Code/Batch/src",
+    "Code/Batch/Batch - Run Docker Diagnostics Check.md",
+    "Code/Bash/_README.md",
+    "Code/AzureCLI/_README.md",
+    "Code/AHK/_README.md",
+    "Templates/Utility-Templates/Template-Folder-README.md",
     "Code/PowerShell/_README.md",
+    "Code/_README.md",
     "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "Code/PowerShell/src/Add-GodModeShortcut.ps1",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
@@ -336,21 +343,12 @@
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Network Security Groups.md",
     "Reference/Technology/Data Engineering/Concepts/Scalability.md",
     "Reference/Technology/Data Engineering/Concepts/Redundancy.md",
-    "Reference/Technology/Data Engineering/Concepts/High Availability.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Web Application Firewall.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Application Gateway.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Availability Zones.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Resource Group.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Load Balancer.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Storage Account.md",
     "Reference/Technology/Data Engineering/Cloud Services/RedHat",
     "Reference/Technology/Data Engineering/Cloud Services/Supabase",
     "Reference/Technology/Data Engineering/Cloud Services/Data Build Tool (DBT)",
     "Reference/Technology/Data Engineering/Cloud Services/Databricks",
     "Reference/Technology/Data Engineering/Cloud Services/Snowflake",
     "Reference/Technology/Data Engineering/Cloud Services/GCP",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure",
-    "Reference/Technology/Data Engineering/Cloud Services/AWS",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
