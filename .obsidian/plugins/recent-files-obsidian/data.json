@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - Convert XLS to XLSX",
+      "path": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/PowerShell/_README.md"
+    },
+    {
       "basename": "Batch - Run Docker Diagnostics Check",
       "path": "Code/Batch/Batch - Run Docker Diagnostics Check.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Template-Folder-README",
       "path": "Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/PowerShell/_README.md"
     },
     {
       "basename": "_README",
@@ -195,10 +199,6 @@
     {
       "basename": "Multi-Tenancy",
       "path": "Reference/Technology/Data Engineering/Concepts/Multi-Tenancy.md"
-    },
-    {
-      "basename": "Data Products",
-      "path": "Reference/Technology/Data Engineering/Concepts/Data Products.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md"
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md"
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/Batch/Batch - Run Docker Diagnostics Check.md",
+                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,22 +315,27 @@
   },
   "active": "80db687dcd2914d9",
   "lastOpenFiles": [
-    "Code/PowerShell/src/ConvertFrom-XlsToXlsx.ps1",
-    "Code/PowerShell/src/Convert-FromXlsToXlsx.ps1",
-    "Code/Batch/_README.md",
-    "Code/Batch/src/Run-DockerDiagnosticsCheck.bat",
-    "Code/Batch/src",
+    "Code/AHK/src",
+    "Code/AzureCLI/src",
+    "Code/Bash/Git-Bash/src",
+    "Code/Bash/Install Scripts/src",
+    "Code/Bash/src",
+    "Code/CMD/Windows Update/src",
+    "Code/CMD/Troubleshooting/src",
+    "Code/CMD/Networking/src",
+    "Code/CMD/Miscellaneous/src",
+    "Code/CMD/Imaging/src",
+    "Code/CMD/Drivers/src",
+    "Code/PowerShell/_README.md",
     "Code/Batch/Batch - Run Docker Diagnostics Check.md",
+    "Code/Batch/_README.md",
     "Code/Bash/_README.md",
     "Code/AzureCLI/_README.md",
     "Code/AHK/_README.md",
     "Templates/Utility-Templates/Template-Folder-README.md",
-    "Code/PowerShell/_README.md",
     "Code/_README.md",
     "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Code/PowerShell/src/Add-GodModeShortcut.ps1",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
-    "Code/PowerShell/src",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Blueprints.md",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Catalog.md",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Container Registry.md",
@@ -346,11 +351,6 @@
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Network Security Groups.md",
     "Reference/Technology/Data Engineering/Concepts/Scalability.md",
     "Reference/Technology/Data Engineering/Concepts/Redundancy.md",
-    "Reference/Technology/Data Engineering/Cloud Services/RedHat",
-    "Reference/Technology/Data Engineering/Cloud Services/Supabase",
-    "Reference/Technology/Data Engineering/Cloud Services/Data Build Tool (DBT)",
-    "Reference/Technology/Data Engineering/Cloud Services/Databricks",
-    "Reference/Technology/Data Engineering/Cloud Services/Snowflake",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

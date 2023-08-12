@@ -16,6 +16,17 @@ Alias: [ "Convert XLS to XLSX" ]
 
 ## Code
 
+```embed-powershell
+PATH: "vault://Code/PowerShell/src/Convert-XlsToXlsx.ps1"
+TITLE: "Convert-XlsToXlsx.ps1"
+```
+
+## Details
+
+> Details about what the code does.
+
+Prior version:
+
 ```powershell
 function Convert-ExcelXlstoXlsx {
     <#
@@ -86,11 +97,6 @@ function Convert-ExcelXlstoXlsx {
     }
 }
 ```
-
-## Details
-
-> Details about what the code does.
-
 
 ***
 
