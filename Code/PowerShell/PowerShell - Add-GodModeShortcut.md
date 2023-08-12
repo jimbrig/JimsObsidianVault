@@ -33,30 +33,6 @@ PATH: "vault://Code/PowerShell/src/Add-GodModeShortcut.ps1"
 TITLE: "Add-GodModeShortcut.ps1"
 ```
 
-
-```powershell
-<# 
-    .SYNOPSIS
-        Adds a desktop shortcut for the `GodMode` Windows Advanced Options.
-    .DESCRIPTION
-        Adds a desktop shortcut for the `GodMode` Windows Advanced Options.
-    .EXAMPLE
-        Add-GodModeShortcut
-        
-        # Now Desktop has a shortcut.
-#>
-[CmdletBinding()]
-Param()
-
-$ErrorActionPreference = 'Stop'
-
-$Desktop = [Environment]::GetFolderPath("Desktop")
-
-If (!(Test-Path "$Desktop\GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}")) { 
-    New-Item -Path "$Desktop\GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}" -ItemType Directory | Out-Null
-}
-```
-
 ## Details
 
 The code performs the following:
@@ -87,6 +63,35 @@ The code performs the following:
 - [[MOCs/Software Engineering|Software Engineering]]
 
 ### External References
+
+*Note code snippets use the [Embed Code File]() [[Obsidian Plugin]] to directly embed code files from respective [src](./src/) directories.*
+
+<details><summary>View Code Snippet</summary><p>
+
+```powershell
+<# 
+    .SYNOPSIS
+        Adds a desktop shortcut for the `GodMode` Windows Advanced Options.
+    .DESCRIPTION
+        Adds a desktop shortcut for the `GodMode` Windows Advanced Options.
+    .EXAMPLE
+        Add-GodModeShortcut
+        
+        # Now Desktop has a shortcut.
+#>
+[CmdletBinding()]
+Param()
+
+$ErrorActionPreference = 'Stop'
+
+$Desktop = [Environment]::GetFolderPath("Desktop")
+
+If (!(Test-Path "$Desktop\GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}")) { 
+    New-Item -Path "$Desktop\GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}" -ItemType Directory | Out-Null
+}
+```
+
+</p></details>
 
 #### Backlinks
 

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Code/PowerShell/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
+    },
+    {
       "basename": "PowerShell - Add-GodModeShortcut",
       "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Caching",
       "path": "Reference/Technology/Data Engineering/Concepts/Caching.md"
-    },
-    {
-      "basename": "Data Protection Control",
-      "path": "Reference/Technology/Data Engineering/Concepts/Data Protection Control.md"
-    },
-    {
-      "basename": "Data Blob Storage",
-      "path": "Reference/Technology/Data Engineering/Concepts/Data Blob Storage.md"
     }
   ],
   "omittedPaths": [],

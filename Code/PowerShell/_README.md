@@ -8,7 +8,10 @@ Alias: [ "PowerShell Code Snippets" ]
 # PowerShell
 
 > [!NOTE] About
-> This folder houses [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] [[Code Snippets]].
+> This folder houses [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] [[Code/_README|Code Snippets]].
+
+> [!INFO] Note
+> The code snippet notes utilize an [[Obsidian Plugins|Obsidian Plugin]] called [Embed Code File](https://github.com/almariah/embed-code-file/) to directly embed code from source files in each language's respective `src` directory.
 
 ## Overview
 
