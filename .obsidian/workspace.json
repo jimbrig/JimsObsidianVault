@@ -199,7 +199,7 @@
             }
           },
           {
-            "id": "b2648f773a4ebcb5",
+            "id": "a49625812f49c9ce",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -207,7 +207,7 @@
             }
           },
           {
-            "id": "4d6774a7fbfb4a83",
+            "id": "91c43bf7a1d6ef47",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -308,11 +308,10 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "khoj:Khoj": false
     }
   },
-  "active": "80db687dcd2914d9",
+  "active": "91c43bf7a1d6ef47",
   "lastOpenFiles": [
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Blueprints.md",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
