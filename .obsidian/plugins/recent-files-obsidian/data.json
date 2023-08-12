@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - Add-GodModeShortcut",
+      "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
       "basename": "Azure Machine Learning (ML)",
       "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Data Blob Storage",
       "path": "Reference/Technology/Data Engineering/Concepts/Data Blob Storage.md"
-    },
-    {
-      "basename": "Data Management Platforms",
-      "path": "Reference/Technology/Data Engineering/Concepts/Data Management Platforms.md"
     }
   ],
   "omittedPaths": [],

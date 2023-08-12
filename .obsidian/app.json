@@ -5,7 +5,7 @@
   "livePreview": false,
   "readableLineLength": false,
   "showLineNumber": true,
-  "legacyEditor": true,
+  "legacyEditor": false,
   "attachmentFolderPath": "Assets",
   "promptDelete": false
 }

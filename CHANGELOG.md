@@ -1,3 +1,4 @@
+- 2023-08-11 at 20h27 · [[PowerShell - Add-GodModeShortcut]]
 - 2023-08-10 at 20h51 · [[Azure Machine Learning (ML)]]
 - 2023-08-10 at 20h51 · [[Azure Blueprints]]
 - 2023-08-10 at 20h50 · [[Azure Data Catalog]]
@@ -47,4 +48,3 @@
 - 2023-08-10 at 20h31 · [[Event Sourcing]]
 - 2023-08-10 at 20h31 · [[Caching]]
 - 2023-08-10 at 20h31 · [[Data Protection Control]]
-- 2023-08-10 at 20h31 · [[Data Blob Storage]]
