@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Internet Protocol Security (IPsec)",
+      "path": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "Reference/Technology/Networking/Network Security/Proxy.md"
+    },
+    {
+      "basename": "Virtual Private Network (VPN)",
+      "path": "Reference/Technology/Networking/Network Security/Virtual Private Network (VPN).md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "Reference/Technology/Networking/Network Security/Firewall.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/_README.md"
+    },
+    {
+      "basename": "PowerShell - Windows Security",
+      "path": "Code/PowerShell/PowerShell - Windows Security.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
+    },
+    {
+      "basename": "How To use DISKPART on Windows",
+      "path": "Guides/Windows/How To use DISKPART on Windows.md"
+    },
+    {
+      "basename": "Windows Malware Removal Guide",
+      "path": "Guides/Windows/Windows Malware Removal Guide.md"
+    },
+    {
       "basename": "PowerShell - Convert XLS to XLSX",
       "path": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
     },
@@ -31,10 +67,6 @@
     {
       "basename": "Template-Folder-README",
       "path": "Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/_README.md"
     },
     {
       "basename": "PowerShell - Add-GodModeShortcut",
@@ -167,38 +199,6 @@
     {
       "basename": "Azure Synapse Analytics",
       "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Synapse Analytics.md"
-    },
-    {
-      "basename": "Azure Key Vault",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Key Vault.md"
-    },
-    {
-      "basename": "Azure SQL",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure SQL.md"
-    },
-    {
-      "basename": "Azure Databricks",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Databricks.md"
-    },
-    {
-      "basename": "Azure Data Lake Storage",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Lake Storage.md"
-    },
-    {
-      "basename": "Azure Data Factory",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Factory.md"
-    },
-    {
-      "basename": "Data Change Capture",
-      "path": "Reference/Technology/Data Engineering/Concepts/Data Change Capture.md"
-    },
-    {
-      "basename": "Delta Lake",
-      "path": "Reference/Technology/Data Engineering/Concepts/Delta Lake.md"
-    },
-    {
-      "basename": "Multi-Tenancy",
-      "path": "Reference/Technology/Data Engineering/Concepts/Multi-Tenancy.md"
     }
   ],
   "omittedPaths": [],

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
-                "mode": "preview",
+                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
+                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
+                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       },
       {
         "id": "1ac3153552315a07",
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,8 +313,20 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "2e6100db99a380b5",
+  "active": "80db687dcd2914d9",
   "lastOpenFiles": [
+    "Reference/Technology/Networking/Network Security/Proxy.md",
+    "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
+    "Reference/Technology/Networking/VPN.md",
+    "Reference/Technology/Networking/Network Security/Virtual Private Network (VPN).md",
+    "Reference/Technology/Networking/Network Security/Firewall.md",
+    "Reference/_README.md",
+    "Reference/Technology/Networking/Network Security",
+    "Code/PowerShell/PowerShell - Windows Security.md",
+    "Code/_README.md",
+    "Guides/Windows/How To use DISKPART on Windows.md",
+    "Guides/Windows/Windows Malware Removal Guide.md",
+    "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Code/AHK/src",
     "Code/AzureCLI/src",
     "Code/Bash/Git-Bash/src",
@@ -324,8 +336,6 @@
     "Code/CMD/Troubleshooting/src",
     "Code/CMD/Networking/src",
     "Code/CMD/Miscellaneous/src",
-    "Code/CMD/Imaging/src",
-    "Code/CMD/Drivers/src",
     "Code/PowerShell/_README.md",
     "Code/Batch/Batch - Run Docker Diagnostics Check.md",
     "Code/Batch/_README.md",
@@ -333,7 +343,6 @@
     "Code/AzureCLI/_README.md",
     "Code/AHK/_README.md",
     "Templates/Utility-Templates/Template-Folder-README.md",
-    "Code/_README.md",
     "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Blueprints.md",
@@ -342,15 +351,6 @@
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Studio.md",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure API Management.md",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Logic Apps.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Arc.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Functions.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Event Hubs.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Kubernetes Service.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Microsoft Purview.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Pricing Calculator.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Network Security Groups.md",
-    "Reference/Technology/Data Engineering/Concepts/Scalability.md",
-    "Reference/Technology/Data Engineering/Concepts/Redundancy.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
