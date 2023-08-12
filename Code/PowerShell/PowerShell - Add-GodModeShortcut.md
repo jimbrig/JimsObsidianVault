@@ -29,7 +29,7 @@ Alias: [ "Add-GodModeShortcut" ]
 - [PSScripts/Add-GodModeShortcut.ps1 at main · jimbrig/PSScripts · GitHub](https://github.com/jimbrig/PSScripts/blob/main/Add-GodModeShortcut/Add-GodModeShortcut.ps1):
 
 ```embed-powershell
-PATH: "./src/Add-GodModeShortcut.ps1"
+PATH: "vault://Code/PowerShell/src/Add-GodModeShortcut.ps1"
 TITLE: "Add-GodModeShortcut.ps1"
 ```
 

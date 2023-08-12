@@ -200,7 +200,7 @@
             }
           },
           {
-            "id": "a49625812f49c9ce",
+            "id": "1bbf1cd59b7bdb50",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -208,7 +208,7 @@
             }
           },
           {
-            "id": "91c43bf7a1d6ef47",
+            "id": "bcdd41e46923e6e2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -309,11 +309,10 @@
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "khoj:Khoj": false
     }
   },
-  "active": "80db687dcd2914d9",
+  "active": "bcdd41e46923e6e2",
   "lastOpenFiles": [
     "Code/PowerShell/src/Add-GodModeShortcut.ps1",
     "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
