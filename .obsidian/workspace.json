@@ -200,7 +200,7 @@
             }
           },
           {
-            "id": "81ff4c49402d9030",
+            "id": "a279501211d78d59",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -208,7 +208,7 @@
             }
           },
           {
-            "id": "24a237202c16e3bb",
+            "id": "2e6100db99a380b5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -313,7 +313,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "80db687dcd2914d9",
+  "active": "2e6100db99a380b5",
   "lastOpenFiles": [
     "Code/AHK/src",
     "Code/AzureCLI/src",
