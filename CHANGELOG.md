@@ -1,4 +1,5 @@
-- 2023-08-13 at 16h56 · [[Obsidian Setup]]
+- 2023-08-13 at 17h08 · [[Obsidian Plugins]]
+- 2023-08-13 at 17h07 · [[Obsidian Setup]]
 - 2023-08-12 at 23h12 · [[Python - Run Network Speedtest]]
 - 2023-08-12 at 22h59 · [[Architecture of Integrated Information Systems (ARIS)]]
 - 2023-08-12 at 22h58 · [[Architecture of Interoperable Information Systems (AIOS)]]
@@ -47,4 +48,3 @@
 - 2023-08-12 at 16h33 · [[PowerShell - Windows Security]]
 - 2023-08-12 at 16h19 · [[Windows Malware Removal Guide]]
 - 2023-08-11 at 21h17 · [[PowerShell - Convert XLS to XLSX]]
-- 2023-08-11 at 20h49 · [[Batch - Run Docker Diagnostics Check]]

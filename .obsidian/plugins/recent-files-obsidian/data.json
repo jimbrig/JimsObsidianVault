@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Plugins",
+      "path": "Guides/Obsidian Note Taking/Obsidian Plugins.md"
+    },
+    {
       "basename": "Obsidian Setup",
       "path": "Guides/Obsidian Note Taking/Obsidian Setup.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Virtual Private Network (VPN)",
       "path": "Reference/Technology/Networking/Network Security/Virtual Private Network (VPN).md"
-    },
-    {
-      "basename": "Firewall",
-      "path": "Reference/Technology/Networking/Network Security/Firewall.md"
     }
   ],
   "omittedPaths": [],

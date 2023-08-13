@@ -4,6 +4,21 @@
 
 # Obsidian Setup
 
+## Structure
+
+### Folders
+
+- **Inbox**: 
+	- Fleeting Notes
+	- Miscellaneous Thoughts
+	- Links
+	- Slipbox
+	- etc.
+- **Permanent**:
+- **Structure**:
+- **Projects**:
+- 
+
 ## Templates
 
 > [!NOTE] 

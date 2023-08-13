@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Setup.md",
+                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Setup.md"
+                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Setup.md"
+                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Setup.md",
+                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Setup.md",
+                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Setup.md",
+                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,6 +315,7 @@
   },
   "active": "80db687dcd2914d9",
   "lastOpenFiles": [
+    "Guides/Obsidian Note Taking/Obsidian Setup.md",
     "Guides/_README.md",
     "Code/Python/Python - Run Network Speedtest.md",
     "Code/Python/src/WebRobot/webrobot.py.addae06937d32e81db653ff002fc2e49.tmp",
@@ -350,7 +351,6 @@
     "Reference/Technology/Programming/Design Patterns/Operational Data Store (ODS).md",
     "Reference/Technology/Programming/Design Patterns/N-Tier Multilayer Architecture.md",
     "Reference/Technology/Programming/Design Patterns/Model-View-Adapter (MVA).md",
-    "Reference/Technology/Programming/Design Patterns/Action-Domain-Responder (ADR).md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
