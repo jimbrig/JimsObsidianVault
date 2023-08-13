@@ -1,6 +1,170 @@
 {
   "recentFiles": [
     {
+      "basename": "Architecture of Integrated Information Systems (ARIS)",
+      "path": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md"
+    },
+    {
+      "basename": "Architecture of Interoperable Information Systems (AIOS)",
+      "path": "Reference/Technology/Programming/Design Patterns/Architecture of Interoperable Information Systems (AIOS).md"
+    },
+    {
+      "basename": "Serverless",
+      "path": "Reference/Technology/Programming/Design Patterns/Serverless.md"
+    },
+    {
+      "basename": "Microservice",
+      "path": "Reference/Technology/Programming/Design Patterns/Microservice.md"
+    },
+    {
+      "basename": "Service-Oriented",
+      "path": "Reference/Technology/Programming/Design Patterns/Service-Oriented.md"
+    },
+    {
+      "basename": "Representational State Transfer (REST)",
+      "path": "Reference/Technology/Programming/Design Patterns/Representational State Transfer (REST).md"
+    },
+    {
+      "basename": "Peer-to-Peer",
+      "path": "Reference/Technology/Programming/Design Patterns/Peer-to-Peer.md"
+    },
+    {
+      "basename": "Client-Server",
+      "path": "Reference/Technology/Programming/Design Patterns/Client-Server.md"
+    },
+    {
+      "basename": "Reflection",
+      "path": "Reference/Technology/Programming/Design Patterns/Reflection.md"
+    },
+    {
+      "basename": "Asynchronous Messaging",
+      "path": "Reference/Technology/Programming/Design Patterns/Asynchronous Messaging.md"
+    },
+    {
+      "basename": "Blackboard",
+      "path": "Reference/Technology/Programming/Design Patterns/Blackboard.md"
+    },
+    {
+      "basename": "Monolithic Application",
+      "path": "Reference/Technology/Programming/Design Patterns/Monolithic Application.md"
+    },
+    {
+      "basename": "Test-Driven Development (TDD)",
+      "path": "Reference/Technology/Programming/Design Patterns/Test-Driven Development (TDD).md"
+    },
+    {
+      "basename": "Distributed-Hash-Table (DHT)",
+      "path": "Reference/Technology/Programming/Design Patterns/Distributed-Hash-Table (DHT).md"
+    },
+    {
+      "basename": "Presentation-Abstraction-Control (PAC)",
+      "path": "Reference/Technology/Programming/Design Patterns/Presentation-Abstraction-Control (PAC).md"
+    },
+    {
+      "basename": "Message Broker",
+      "path": "Reference/Technology/Programming/Design Patterns/Message Broker.md"
+    },
+    {
+      "basename": "Publish-Subscribe Pattern",
+      "path": "Reference/Technology/Programming/Design Patterns/Publish-Subscribe Pattern.md"
+    },
+    {
+      "basename": "Operational Data Store (ODS)",
+      "path": "Reference/Technology/Programming/Design Patterns/Operational Data Store (ODS).md"
+    },
+    {
+      "basename": "N-Tier Multilayer Architecture",
+      "path": "Reference/Technology/Programming/Design Patterns/N-Tier Multilayer Architecture.md"
+    },
+    {
+      "basename": "Model-View-Adapter (MVA)",
+      "path": "Reference/Technology/Programming/Design Patterns/Model-View-Adapter (MVA).md"
+    },
+    {
+      "basename": "Action-Domain-Responder (ADR)",
+      "path": "Reference/Technology/Programming/Design Patterns/Action-Domain-Responder (ADR).md"
+    },
+    {
+      "basename": "Transaction Data Stores (TDS)",
+      "path": "Reference/Technology/Programming/Design Patterns/Transaction Data Stores (TDS).md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/Technology/Programming/Design Patterns/_README.md"
+    },
+    {
+      "basename": "Model-View-Presenter (MVP)",
+      "path": "Reference/Technology/Programming/Design Patterns/Model-View-Presenter (MVP).md"
+    },
+    {
+      "basename": "Model-View-Controller (MVC)",
+      "path": "Reference/Technology/Programming/Design Patterns/Model-View-Controller (MVC).md"
+    },
+    {
+      "basename": "Model-View-ViewModel Pattern (MVVM)",
+      "path": "Reference/Technology/Programming/Design Patterns/Model-View-ViewModel Pattern (MVVM).md"
+    },
+    {
+      "basename": "Flux Architecture",
+      "path": "Reference/Technology/Programming/Design Patterns/Flux Architecture.md"
+    },
+    {
+      "basename": "Backend Engineering",
+      "path": "Reference/Technology/Programming/Web Development/Backend/Backend Engineering.md"
+    },
+    {
+      "basename": "Web Server",
+      "path": "Reference/Technology/Programming/Web Development/Backend/Web Server.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/Technology/Programming/Web Development/Backend/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/_README.md"
+    },
+    {
+      "basename": "Nuxtjs",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Nuxtjs.md"
+    },
+    {
+      "basename": "Web Components",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/Web Components.md"
+    },
+    {
+      "basename": "React Native",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/React Native.md"
+    },
+    {
+      "basename": "Hydrogen",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Hydrogen.md"
+    },
+    {
+      "basename": "Remix",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Remix.md"
+    },
+    {
+      "basename": "Nextjs",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Nextjs.md"
+    },
+    {
+      "basename": "Vue",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Vue.md"
+    },
+    {
+      "basename": "Angular",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Angular.md"
+    },
+    {
+      "basename": "React",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/React.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/Technology/Programming/Web Development/Frontend/_README.md"
+    },
+    {
       "basename": "Internet Protocol Security (IPsec)",
       "path": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md"
     },
@@ -35,170 +199,6 @@
     {
       "basename": "Windows Malware Removal Guide",
       "path": "Guides/Windows/Windows Malware Removal Guide.md"
-    },
-    {
-      "basename": "PowerShell - Convert XLS to XLSX",
-      "path": "Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/PowerShell/_README.md"
-    },
-    {
-      "basename": "Batch - Run Docker Diagnostics Check",
-      "path": "Code/Batch/Batch - Run Docker Diagnostics Check.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/Batch/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/Bash/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/AzureCLI/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/AHK/_README.md"
-    },
-    {
-      "basename": "Template-Folder-README",
-      "path": "Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "PowerShell - Add-GodModeShortcut",
-      "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "Azure Machine Learning (ML)",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md"
-    },
-    {
-      "basename": "Azure Blueprints",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Blueprints.md"
-    },
-    {
-      "basename": "Azure Data Catalog",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Catalog.md"
-    },
-    {
-      "basename": "Azure Container Registry",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Container Registry.md"
-    },
-    {
-      "basename": "Azure Data Studio",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Studio.md"
-    },
-    {
-      "basename": "Azure API Management",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure API Management.md"
-    },
-    {
-      "basename": "Azure Logic Apps",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Logic Apps.md"
-    },
-    {
-      "basename": "Azure Arc",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Arc.md"
-    },
-    {
-      "basename": "Azure Functions",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Functions.md"
-    },
-    {
-      "basename": "Azure Event Hubs",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Event Hubs.md"
-    },
-    {
-      "basename": "Azure Kubernetes Service",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Kubernetes Service.md"
-    },
-    {
-      "basename": "Microsoft Purview",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Microsoft Purview.md"
-    },
-    {
-      "basename": "Azure Pricing Calculator",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Pricing Calculator.md"
-    },
-    {
-      "basename": "Azure Network Security Groups",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Network Security Groups.md"
-    },
-    {
-      "basename": "Scalability",
-      "path": "Reference/Technology/Data Engineering/Concepts/Scalability.md"
-    },
-    {
-      "basename": "Redundancy",
-      "path": "Reference/Technology/Data Engineering/Concepts/Redundancy.md"
-    },
-    {
-      "basename": "High Availability",
-      "path": "Reference/Technology/Data Engineering/Concepts/High Availability.md"
-    },
-    {
-      "basename": "Azure Web Application Firewall",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Web Application Firewall.md"
-    },
-    {
-      "basename": "Azure Application Gateway",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Application Gateway.md"
-    },
-    {
-      "basename": "Azure Availability Zones",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Availability Zones.md"
-    },
-    {
-      "basename": "Azure Resource Group",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Resource Group.md"
-    },
-    {
-      "basename": "Azure Load Balancer",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Load Balancer.md"
-    },
-    {
-      "basename": "Azure Storage Account",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Storage Account.md"
-    },
-    {
-      "basename": "Azure DDoS Protection",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure DDoS Protection.md"
-    },
-    {
-      "basename": "Azure Bastion",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Bastion.md"
-    },
-    {
-      "basename": "Azure Virtual Network",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Virtual Network.md"
-    },
-    {
-      "basename": "Azure Application Insights",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Application Insights.md"
-    },
-    {
-      "basename": "Azure Monitor",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Monitor.md"
-    },
-    {
-      "basename": "Data Observability and Monitoring",
-      "path": "Reference/Technology/Data Engineering/Concepts/Data Observability and Monitoring.md"
-    },
-    {
-      "basename": "PowerBI",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/PowerBI.md"
-    },
-    {
-      "basename": "Azure DevOps",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure DevOps.md"
-    },
-    {
-      "basename": "Azure Synapse Analytics",
-      "path": "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Synapse Analytics.md"
     }
   ],
   "omittedPaths": [],

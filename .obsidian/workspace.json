@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
+                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md"
+                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md"
+                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
+                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
+                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
+                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,44 +313,44 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b5954e364e196f4c",
+  "active": "80db687dcd2914d9",
   "lastOpenFiles": [
-    "Reference/Technology/Networking/Network Security/Proxy.md",
-    "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
-    "Reference/Technology/Networking/VPN.md",
-    "Reference/Technology/Networking/Network Security/Virtual Private Network (VPN).md",
-    "Reference/Technology/Networking/Network Security/Firewall.md",
-    "Reference/_README.md",
+    "Reference/Technology/Programming/Design Patterns/Architecture of Interoperable Information Systems (AIOS).md",
+    "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
+    "Reference/Technology/Programming/Design Patterns/Serverless.md",
+    "Reference/Technology/Programming/Design Patterns/Microservice.md",
+    "Reference/Technology/Programming/Design Patterns/Service-Oriented.md",
+    "Reference/Technology/Programming/Design Patterns/Representational State Transfer (REST).md",
+    "Reference/Technology/Programming/Design Patterns/Peer-to-Peer.md",
+    "Reference/Technology/Programming/Design Patterns/Client-Server.md",
+    "Reference/Technology/Programming/Design Patterns/Reflection.md",
+    "Reference/Technology/Programming/Design Patterns/Asynchronous Messaging.md",
+    "Reference/Technology/Programming/Design Patterns/Blackboard.md",
+    "Reference/Technology/Programming/Design Patterns/Monolithic Application.md",
+    "Reference/Technology/Programming/Design Patterns/Test-Driven Development (TDD).md",
+    "Reference/Technology/Programming/Design Patterns/Distributed-Hash-Table (DHT).md",
+    "Reference/Technology/Programming/Design Patterns/Presentation-Abstraction-Control (PAC).md",
+    "Reference/Technology/Programming/Design Patterns/Message Broker.md",
+    "Reference/Technology/Programming/Design Patterns/Publish-Subscribe Pattern.md",
+    "Reference/Technology/Programming/Design Patterns/Operational Data Store (ODS).md",
+    "Reference/Technology/Programming/Design Patterns/N-Tier Multilayer Architecture.md",
+    "Reference/Technology/Programming/Design Patterns/Model-View-Adapter (MVA).md",
+    "Reference/Technology/Programming/Design Patterns/Action-Domain-Responder (ADR).md",
+    "Reference/Technology/Programming/Design Patterns/Transaction Data Stores (TDS).md",
+    "Reference/Technology/Programming/Design Patterns/_README.md",
+    "Reference/Technology/Programming/Design Patterns/Model-View-Presenter (MVP).md",
+    "Reference/Technology/Programming/Design Patterns/Model-View-Controller (MVC).md",
+    "Reference/Technology/Programming/Design Patterns/Model-View-ViewModel Pattern (MVVM).md",
+    "Reference/Technology/Programming/Design Patterns",
+    "Reference/Technology/Programming/Web Development/Backend/Hosting",
+    "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks",
+    "Reference/Technology/Programming/Web Development/Backend/Databases",
+    "Reference/Technology/Programming/Web Development/Backend",
     "Reference/Technology/Networking/Network Security",
-    "Code/PowerShell/PowerShell - Windows Security.md",
-    "Code/_README.md",
-    "Guides/Windows/How To use DISKPART on Windows.md",
-    "Guides/Windows/Windows Malware Removal Guide.md",
-    "Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Code/AHK/src",
     "Code/AzureCLI/src",
     "Code/Bash/Git-Bash/src",
     "Code/Bash/Install Scripts/src",
-    "Code/Bash/src",
-    "Code/CMD/Windows Update/src",
-    "Code/CMD/Troubleshooting/src",
-    "Code/CMD/Networking/src",
-    "Code/CMD/Miscellaneous/src",
-    "Code/PowerShell/_README.md",
-    "Code/Batch/Batch - Run Docker Diagnostics Check.md",
-    "Code/Batch/_README.md",
-    "Code/Bash/_README.md",
-    "Code/AzureCLI/_README.md",
-    "Code/AHK/_README.md",
-    "Templates/Utility-Templates/Template-Folder-README.md",
-    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Machine Learning (ML).md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Blueprints.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Catalog.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Container Registry.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Data Studio.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure API Management.md",
-    "Reference/Technology/Data Engineering/Cloud Services/Azure/Azure Logic Apps.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
