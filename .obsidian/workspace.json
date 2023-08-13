@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
+                "file": "Code/Python/Python - Run Network Speedtest.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md"
+                "file": "Code/Python/Python - Run Network Speedtest.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md"
+                "file": "Code/Python/Python - Run Network Speedtest.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
+                "file": "Code/Python/Python - Run Network Speedtest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
+                "file": "Code/Python/Python - Run Network Speedtest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
+                "file": "Code/Python/Python - Run Network Speedtest.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,10 +313,25 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b5954e364e196f4c",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "Reference/Technology/Programming/Design Patterns/Architecture of Interoperable Information Systems (AIOS).md",
+    "Code/Python/src/WebRobot/webrobot.py.addae06937d32e81db653ff002fc2e49.tmp",
+    "Code/Python/src/WebRobot/requirements.txt",
+    "Code/Python/src/WebRobot/webrobot.py",
+    "Code/Python/src/WebRobot",
+    "Code/Python/src/GoogleSearch/google.py.55c3bfc4f163c3a345107f7894e141a5.tmp",
+    "Code/Python/src/GoogleSearch/requirements.txt",
+    "Code/Python/src/GoogleSearch/google.py",
+    "Code/Python/src/GoogleSearch",
+    "Code/Python/src/Actuarial Triangle Class/requirements.txt",
+    "Code/Python/src/Actuarial Triangle Class/actuarial-triangle.py.62c8186072dc9b13dd65643eecc66f26.tmp",
+    "Code/Python/src/Actuarial Triangle Class/actuarial-triangle.py",
+    "Code/Python/_README.md",
+    "Code/Python/Python - Run Network Speedtest.md",
+    "Code/_README.md",
+    "Reference/Technology/Programming/Design Patterns/_README.md",
     "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
+    "Reference/Technology/Programming/Design Patterns/Architecture of Interoperable Information Systems (AIOS).md",
     "Reference/Technology/Programming/Design Patterns/Serverless.md",
     "Reference/Technology/Programming/Design Patterns/Microservice.md",
     "Reference/Technology/Programming/Design Patterns/Service-Oriented.md",
@@ -336,21 +351,6 @@
     "Reference/Technology/Programming/Design Patterns/N-Tier Multilayer Architecture.md",
     "Reference/Technology/Programming/Design Patterns/Model-View-Adapter (MVA).md",
     "Reference/Technology/Programming/Design Patterns/Action-Domain-Responder (ADR).md",
-    "Reference/Technology/Programming/Design Patterns/Transaction Data Stores (TDS).md",
-    "Reference/Technology/Programming/Design Patterns/_README.md",
-    "Reference/Technology/Programming/Design Patterns/Model-View-Presenter (MVP).md",
-    "Reference/Technology/Programming/Design Patterns/Model-View-Controller (MVC).md",
-    "Reference/Technology/Programming/Design Patterns/Model-View-ViewModel Pattern (MVVM).md",
-    "Reference/Technology/Programming/Design Patterns",
-    "Reference/Technology/Programming/Web Development/Backend/Hosting",
-    "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks",
-    "Reference/Technology/Programming/Web Development/Backend/Databases",
-    "Reference/Technology/Programming/Web Development/Backend",
-    "Reference/Technology/Networking/Network Security",
-    "Code/AHK/src",
-    "Code/AzureCLI/src",
-    "Code/Bash/Git-Bash/src",
-    "Code/Bash/Install Scripts/src",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

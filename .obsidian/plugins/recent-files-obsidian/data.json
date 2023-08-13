@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Python - Run Network Speedtest",
+      "path": "Code/Python/Python - Run Network Speedtest.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/Python/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/Technology/Programming/Design Patterns/_README.md"
+    },
+    {
       "basename": "Architecture of Integrated Information Systems (ARIS)",
       "path": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "Transaction Data Stores (TDS)",
       "path": "Reference/Technology/Programming/Design Patterns/Transaction Data Stores (TDS).md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/Technology/Programming/Design Patterns/_README.md"
     },
     {
       "basename": "Model-View-Presenter (MVP)",
@@ -187,18 +199,6 @@
     {
       "basename": "PowerShell - Windows Security",
       "path": "Code/PowerShell/PowerShell - Windows Security.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/_README.md"
-    },
-    {
-      "basename": "How To use DISKPART on Windows",
-      "path": "Guides/Windows/How To use DISKPART on Windows.md"
-    },
-    {
-      "basename": "Windows Malware Removal Guide",
-      "path": "Guides/Windows/Windows Malware Removal Guide.md"
     }
   ],
   "omittedPaths": [],
