@@ -200,7 +200,7 @@
             }
           },
           {
-            "id": "a279501211d78d59",
+            "id": "aec362f841e3d7ce",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -208,7 +208,7 @@
             }
           },
           {
-            "id": "2e6100db99a380b5",
+            "id": "b5954e364e196f4c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -313,7 +313,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "80db687dcd2914d9",
+  "active": "b5954e364e196f4c",
   "lastOpenFiles": [
     "Reference/Technology/Networking/Network Security/Proxy.md",
     "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md",
