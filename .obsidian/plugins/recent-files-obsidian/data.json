@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Setup",
+      "path": "Guides/Obsidian Note Taking/Obsidian Setup.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/_README.md"
+    },
+    {
       "basename": "Python - Run Network Speedtest",
       "path": "Code/Python/Python - Run Network Speedtest.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Firewall",
       "path": "Reference/Technology/Networking/Network Security/Firewall.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/_README.md"
-    },
-    {
-      "basename": "PowerShell - Windows Security",
-      "path": "Code/PowerShell/PowerShell - Windows Security.md"
     }
   ],
   "omittedPaths": [],
