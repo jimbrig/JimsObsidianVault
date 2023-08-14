@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell Advanced Functions",
+      "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
+    },
+    {
+      "basename": "PowerShell Error Handling",
+      "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "PowerShell Scripting Best Practices",
+      "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Scripting Best Practices.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/PowerShell Development/PowerShell Scripting/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/PowerShell Development/_README.md"
+    },
+    {
       "basename": "Obsidian Plugins",
       "path": "Guides/Obsidian Note Taking/Obsidian Plugins.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Vue",
       "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Vue.md"
-    },
-    {
-      "basename": "Angular",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Angular.md"
-    },
-    {
-      "basename": "React",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/React.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/_README.md"
-    },
-    {
-      "basename": "Internet Protocol Security (IPsec)",
-      "path": "Reference/Technology/Networking/Network Security/Internet Protocol Security (IPsec).md"
-    },
-    {
-      "basename": "Proxy",
-      "path": "Reference/Technology/Networking/Network Security/Proxy.md"
-    },
-    {
-      "basename": "Virtual Private Network (VPN)",
-      "path": "Reference/Technology/Networking/Network Security/Virtual Private Network (VPN).md"
     }
   ],
   "omittedPaths": [],

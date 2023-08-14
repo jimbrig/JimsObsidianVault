@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
+                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9d8e419f6b37afe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md"
+                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
               }
             }
           },
@@ -116,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md"
+                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
               }
             }
           },
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
+                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
+                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/Obsidian Note Taking/Obsidian Plugins.md",
+                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,8 +327,21 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "80db687dcd2914d9",
+  "active": "9d8e419f6b37afe2",
   "lastOpenFiles": [
+    "Code/PowerShell/src/Use-Command.ps1",
+    "Code/PowerShell/src/Get-DotNetGlobalTools.ps1",
+    "Code/PowerShell/src/ConvertFrom-Base64.ps1",
+    "Code/PowerShell/src/ConvertTo-Base64.ps1",
+    "Code/PowerShell/src/Get-",
+    "Code/Python/src/Speedtest/Speedtest.py.cd6d350d95c3588191f4f9899ad946b9.tmp",
+    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md",
+    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
+    "Untitled.md",
+    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Scripting Best Practices.md",
+    "Guides/PowerShell Development/PowerShell Scripting/_README.md",
+    "Guides/PowerShell Development/_README.md",
+    "Guides/Obsidian Note Taking/Obsidian Plugins.md",
     "Guides/Obsidian Note Taking/Obsidian Setup.md",
     "Guides/_README.md",
     "Code/Python/Python - Run Network Speedtest.md",
@@ -323,11 +350,6 @@
     "Code/Python/src/WebRobot/webrobot.py",
     "Code/Python/src/WebRobot",
     "Code/Python/src/GoogleSearch/google.py.55c3bfc4f163c3a345107f7894e141a5.tmp",
-    "Code/Python/src/GoogleSearch/requirements.txt",
-    "Code/Python/src/GoogleSearch/google.py",
-    "Code/Python/src/GoogleSearch",
-    "Code/Python/src/Actuarial Triangle Class/requirements.txt",
-    "Code/Python/src/Actuarial Triangle Class/actuarial-triangle.py.62c8186072dc9b13dd65643eecc66f26.tmp",
     "Code/Python/_README.md",
     "Code/_README.md",
     "Reference/Technology/Programming/Design Patterns/_README.md",
@@ -343,14 +365,6 @@
     "Reference/Technology/Programming/Design Patterns/Asynchronous Messaging.md",
     "Reference/Technology/Programming/Design Patterns/Blackboard.md",
     "Reference/Technology/Programming/Design Patterns/Monolithic Application.md",
-    "Reference/Technology/Programming/Design Patterns/Test-Driven Development (TDD).md",
-    "Reference/Technology/Programming/Design Patterns/Distributed-Hash-Table (DHT).md",
-    "Reference/Technology/Programming/Design Patterns/Presentation-Abstraction-Control (PAC).md",
-    "Reference/Technology/Programming/Design Patterns/Message Broker.md",
-    "Reference/Technology/Programming/Design Patterns/Publish-Subscribe Pattern.md",
-    "Reference/Technology/Programming/Design Patterns/Operational Data Store (ODS).md",
-    "Reference/Technology/Programming/Design Patterns/N-Tier Multilayer Architecture.md",
-    "Reference/Technology/Programming/Design Patterns/Model-View-Adapter (MVA).md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
