@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows Network Diagnostics",
+      "path": "Guides/Windows/Windows Network Diagnostics.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/Windows/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
+    },
+    {
       "basename": "PowerShell Advanced Functions",
       "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Template-Code",
       "path": "Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/_README.md"
     },
     {
       "basename": "DAPR",
@@ -83,10 +95,6 @@
     {
       "basename": "_README",
       "path": "Code/Python/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/_README.md"
     },
     {
       "basename": "_README",
@@ -191,10 +199,6 @@
     {
       "basename": "Flux Architecture",
       "path": "Reference/Technology/Programming/Design Patterns/Flux Architecture.md"
-    },
-    {
-      "basename": "Backend Engineering",
-      "path": "Reference/Technology/Programming/Web Development/Backend/Backend Engineering.md"
     }
   ],
   "omittedPaths": [],

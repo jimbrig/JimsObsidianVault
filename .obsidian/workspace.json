@@ -11,8 +11,13 @@
             "id": "c7e9a698404bffc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Guides/Windows/Windows Network Diagnostics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -101,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Guides/Windows/Windows Network Diagnostics.md"
               }
             }
           },
@@ -111,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Guides/Windows/Windows Network Diagnostics.md"
               }
             }
           },
@@ -121,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guides/Windows/Windows Network Diagnostics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Guides/Windows/Windows Network Diagnostics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,6 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Guides/Windows/Windows Network Diagnostics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,12 +312,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "c7e9a698404bffc4",
   "lastOpenFiles": [
+    "Guides/Windows/_README.md",
+    "Guides/Windows/Windows Network Diagnostics.md",
+    "Guides/_README.md",
+    "Code/_README.md",
+    "Untitled.md",
     "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
     "Definitions/Idiomatic.md",
     "Templates/Code-Templates/Template-Code.md",
-    "Guides/_README.md",
     "Definitions/DAPR.md",
     "Definitions/GPT.md",
     "Templates/Code-Templates/Template-Code-Bash.md",
@@ -327,7 +339,6 @@
     "Code/PowerShell/src/ConvertTo-Base64.ps1",
     "Code/PowerShell/src/Get-",
     "Code/Python/src/Speedtest/Speedtest.py.cd6d350d95c3588191f4f9899ad946b9.tmp",
-    "Untitled.md",
     "Guides/PowerShell Development/PowerShell Scripting/PowerShell Scripting Best Practices.md",
     "Guides/PowerShell Development/PowerShell Scripting/_README.md",
     "Guides/PowerShell Development/_README.md",
@@ -338,10 +349,7 @@
     "Code/Python/src/WebRobot/webrobot.py",
     "Code/Python/src/WebRobot",
     "Code/Python/_README.md",
-    "Code/_README.md",
     "Reference/Technology/Programming/Design Patterns/_README.md",
-    "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
-    "Reference/Technology/Programming/Design Patterns/Architecture of Interoperable Information Systems (AIOS).md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
