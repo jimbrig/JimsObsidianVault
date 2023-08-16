@@ -29,7 +29,7 @@ Function Get-DotNetGlobalTools {
         [String]$Name = '*'
     )
 
-    Use-Command dotnet "$env:ProgramFiles\dotnet\dotnet.exe" -cinst dotnet-sdk
+    Use-Command dotnet "$env:ProgramFiles\dotnet\dotnet.exe" -winget 
 
     foreach ($line in dotnet tool search $Name | Where-Object { $_ -match '^\S+\s+\d+(?:\.\d+)+\b' }) {
         $package, $version, $authors, $downloads, $verified = $line -split '\s\s+', 5

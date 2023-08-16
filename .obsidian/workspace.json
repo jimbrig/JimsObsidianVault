@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b84828163020eae1",
+        "id": "628ce30efee087aa",
         "type": "tabs",
         "children": [
           {
-            "id": "80db687dcd2914d9",
+            "id": "c7e9a698404bffc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9d8e419f6b37afe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -130,7 +111,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -140,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +193,7 @@
             }
           },
           {
-            "id": "aec362f841e3d7ce",
+            "id": "70fc77adcc21f4a8",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -222,15 +201,14 @@
             }
           },
           {
-            "id": "b5954e364e196f4c",
+            "id": "82837d112cfd4a85",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "1ac3153552315a07",
@@ -243,7 +221,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,63 +285,63 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "workbench-obsidian:Workbench": false,
-      "open-vscode:VSCode": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "smart-random-note:Open Random Note from Search": false,
+      "workbench-obsidian:Workbench": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "open-vscode:VSCode": false,
+      "obsidian-omnivore:Omnivore": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
-      "homepage:Open homepage": false,
-      "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "khoj:Khoj": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9d8e419f6b37afe2",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
+    "Definitions/Idiomatic.md",
+    "Templates/Code-Templates/Template-Code.md",
+    "Guides/_README.md",
+    "Definitions/DAPR.md",
+    "Definitions/GPT.md",
+    "Templates/Code-Templates/Template-Code-Bash.md",
+    "Templates/Core-Templates/Template-MOC.md",
+    "Templates/Core-Templates/Template-Development.md",
+    "Templates/Core-Templates/Template-Default.md",
+    "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+    "Reference/Technology/Programming/Design Patterns/Blackboard.md",
+    "Code/Python/Python - Run Network Speedtest.md",
+    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md",
+    "Templates/Utility-Templates/Template-Definition.md",
     "Code/PowerShell/src/Use-Command.ps1",
     "Code/PowerShell/src/Get-DotNetGlobalTools.ps1",
     "Code/PowerShell/src/ConvertFrom-Base64.ps1",
     "Code/PowerShell/src/ConvertTo-Base64.ps1",
     "Code/PowerShell/src/Get-",
     "Code/Python/src/Speedtest/Speedtest.py.cd6d350d95c3588191f4f9899ad946b9.tmp",
-    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md",
-    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
     "Untitled.md",
     "Guides/PowerShell Development/PowerShell Scripting/PowerShell Scripting Best Practices.md",
     "Guides/PowerShell Development/PowerShell Scripting/_README.md",
     "Guides/PowerShell Development/_README.md",
     "Guides/Obsidian Note Taking/Obsidian Plugins.md",
     "Guides/Obsidian Note Taking/Obsidian Setup.md",
-    "Guides/_README.md",
-    "Code/Python/Python - Run Network Speedtest.md",
     "Code/Python/src/WebRobot/webrobot.py.addae06937d32e81db653ff002fc2e49.tmp",
     "Code/Python/src/WebRobot/requirements.txt",
     "Code/Python/src/WebRobot/webrobot.py",
     "Code/Python/src/WebRobot",
-    "Code/Python/src/GoogleSearch/google.py.55c3bfc4f163c3a345107f7894e141a5.tmp",
     "Code/Python/_README.md",
     "Code/_README.md",
     "Reference/Technology/Programming/Design Patterns/_README.md",
     "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md",
     "Reference/Technology/Programming/Design Patterns/Architecture of Interoperable Information Systems (AIOS).md",
-    "Reference/Technology/Programming/Design Patterns/Serverless.md",
-    "Reference/Technology/Programming/Design Patterns/Microservice.md",
-    "Reference/Technology/Programming/Design Patterns/Service-Oriented.md",
-    "Reference/Technology/Programming/Design Patterns/Representational State Transfer (REST).md",
-    "Reference/Technology/Programming/Design Patterns/Peer-to-Peer.md",
-    "Reference/Technology/Programming/Design Patterns/Client-Server.md",
-    "Reference/Technology/Programming/Design Patterns/Reflection.md",
-    "Reference/Technology/Programming/Design Patterns/Asynchronous Messaging.md",
-    "Reference/Technology/Programming/Design Patterns/Blackboard.md",
-    "Reference/Technology/Programming/Design Patterns/Monolithic Application.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

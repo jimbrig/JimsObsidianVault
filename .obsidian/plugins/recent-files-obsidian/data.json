@@ -5,12 +5,60 @@
       "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
     },
     {
+      "basename": "Idiomatic",
+      "path": "Definitions/Idiomatic.md"
+    },
+    {
+      "basename": "Template-Code",
+      "path": "Templates/Code-Templates/Template-Code.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Guides/_README.md"
+    },
+    {
+      "basename": "DAPR",
+      "path": "Definitions/DAPR.md"
+    },
+    {
+      "basename": "GPT",
+      "path": "Definitions/GPT.md"
+    },
+    {
+      "basename": "Template-Code-Bash",
+      "path": "Templates/Code-Templates/Template-Code-Bash.md"
+    },
+    {
+      "basename": "Template-MOC",
+      "path": "Templates/Core-Templates/Template-MOC.md"
+    },
+    {
+      "basename": "Template-Development",
+      "path": "Templates/Core-Templates/Template-Development.md"
+    },
+    {
+      "basename": "Template-Default",
+      "path": "Templates/Core-Templates/Template-Default.md"
+    },
+    {
+      "basename": "Template-Frontmatter-Enhanced",
+      "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+    },
+    {
+      "basename": "Blackboard",
+      "path": "Reference/Technology/Programming/Design Patterns/Blackboard.md"
+    },
+    {
+      "basename": "Python - Run Network Speedtest",
+      "path": "Code/Python/Python - Run Network Speedtest.md"
+    },
+    {
       "basename": "PowerShell Error Handling",
       "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Template-Definition",
+      "path": "Templates/Utility-Templates/Template-Definition.md"
     },
     {
       "basename": "PowerShell Scripting Best Practices",
@@ -31,14 +79,6 @@
     {
       "basename": "Obsidian Setup",
       "path": "Guides/Obsidian Note Taking/Obsidian Setup.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/_README.md"
-    },
-    {
-      "basename": "Python - Run Network Speedtest",
-      "path": "Code/Python/Python - Run Network Speedtest.md"
     },
     {
       "basename": "_README",
@@ -91,10 +131,6 @@
     {
       "basename": "Asynchronous Messaging",
       "path": "Reference/Technology/Programming/Design Patterns/Asynchronous Messaging.md"
-    },
-    {
-      "basename": "Blackboard",
-      "path": "Reference/Technology/Programming/Design Patterns/Blackboard.md"
     },
     {
       "basename": "Monolithic Application",
@@ -159,46 +195,6 @@
     {
       "basename": "Backend Engineering",
       "path": "Reference/Technology/Programming/Web Development/Backend/Backend Engineering.md"
-    },
-    {
-      "basename": "Web Server",
-      "path": "Reference/Technology/Programming/Web Development/Backend/Web Server.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/Technology/Programming/Web Development/Backend/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/_README.md"
-    },
-    {
-      "basename": "Nuxtjs",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Nuxtjs.md"
-    },
-    {
-      "basename": "Web Components",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/Web Components.md"
-    },
-    {
-      "basename": "React Native",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/React Native.md"
-    },
-    {
-      "basename": "Hydrogen",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Hydrogen.md"
-    },
-    {
-      "basename": "Remix",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Remix.md"
-    },
-    {
-      "basename": "Nextjs",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Nextjs.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "Reference/Technology/Programming/Web Development/Frontend/JavaScript Frameworks/Vue.md"
     }
   ],
   "omittedPaths": [],
