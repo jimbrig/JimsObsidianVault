@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Daily/2023-08-17.md",
+                "file": "Templates/Life-Templates/Template-Daily.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3e20d2ef390ef148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Life-Templates/Template-Agenda.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6d8416e28bde7230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Utility-Templates/Template-Folder-README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Daily/2023-08-17.md"
+                "file": "Templates/Life-Templates/Template-Agenda.md"
               }
             }
           },
@@ -130,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life/Daily/2023-08-17.md"
+                "file": "Templates/Life-Templates/Template-Agenda.md"
               }
             }
           },
@@ -140,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Daily/2023-08-17.md",
+                "file": "Templates/Life-Templates/Template-Agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Daily/2023-08-17.md",
+                "file": "Templates/Life-Templates/Template-Agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Life/Daily/2023-08-17.md",
+                "file": "Templates/Life-Templates/Template-Agenda.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,48 +348,48 @@
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
       "periodic-notes:Open today's daily note": false,
-      "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "khoj:Khoj": false
     }
   },
-  "active": "2ec5dba8521dfd79",
+  "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
+    "Templates/Life-Templates/Template-Daily.md",
+    "Templates/Life-Templates/Template-Agenda.md",
+    "Templates/Life-Templates/Template-Project.md",
+    "Templates/Utility-Templates/Template-Folder-README.md",
+    "Templates/Life-Templates/Template-Annual.md",
+    "Life/Projects/PowerShell Projects/PSProfileTools/_README.md",
+    "Life/Projects/PowerShell Projects/PowerShell - PSClearHost.md",
+    "Life/Projects/PowerShell Projects/PSProfileTools",
+    "Life/Projects/PowerShell-Profile.md",
+    "Life/Projects/Terraform Projects/_README.md",
+    "Life/Projects/R Projects/_README.md",
+    "Life/Projects/Python Projects/_README.md",
+    "Life/Projects/Project Templates/_README.md",
+    "Life/Projects/PowerShell Projects/_README.md",
+    "Life/Projects/Obsidian Projects/_README.md",
+    "Life/Projects/Microsoft Projects/_README.md",
+    "Life/Projects/_README.md",
+    "Life/Learning",
+    "Life/Projects/Terraform Projects",
+    "Life/Projects/Microsoft Projects",
+    "Life/Projects/Project Templates",
+    "Life/Projects/Python Projects",
+    "Life/Projects/Obsidian Projects",
+    "Life/Projects/R Projects",
+    "Life/Projects/PowerShell Projects",
+    "Life/Daily/_README.md",
+    "Life/Daily/2023/08-August/2023-08-16.md",
+    "Life/Daily/2023/08-August/2023-08-17.md",
+    "Daily",
+    "Life/Daily/2023/06-June/2023-06-04.md",
     "Life/Daily/2023-08-17.md",
+    "Life/Daily/2023/06-June/2023-06-01.md",
+    "Life/Daily/2023/06-June/2023-06-01 1.md",
     "Guides/Windows/Windows Network Diagnostics.md",
     "Guides/Windows/_README.md",
     "Guides/_README.md",
-    "Code/_README.md",
-    "Untitled.md",
-    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
-    "Definitions/Idiomatic.md",
-    "Templates/Code-Templates/Template-Code.md",
-    "Definitions/DAPR.md",
-    "Definitions/GPT.md",
-    "Templates/Code-Templates/Template-Code-Bash.md",
-    "Templates/Core-Templates/Template-MOC.md",
-    "Templates/Core-Templates/Template-Development.md",
-    "Templates/Core-Templates/Template-Default.md",
-    "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
-    "Reference/Technology/Programming/Design Patterns/Blackboard.md",
-    "Code/Python/Python - Run Network Speedtest.md",
-    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md",
-    "Templates/Utility-Templates/Template-Definition.md",
-    "Code/PowerShell/src/Use-Command.ps1",
-    "Code/PowerShell/src/Get-DotNetGlobalTools.ps1",
-    "Code/PowerShell/src/ConvertFrom-Base64.ps1",
-    "Code/PowerShell/src/ConvertTo-Base64.ps1",
-    "Code/PowerShell/src/Get-",
-    "Code/Python/src/Speedtest/Speedtest.py.cd6d350d95c3588191f4f9899ad946b9.tmp",
-    "Guides/PowerShell Development/PowerShell Scripting/PowerShell Scripting Best Practices.md",
-    "Guides/PowerShell Development/PowerShell Scripting/_README.md",
-    "Guides/PowerShell Development/_README.md",
-    "Guides/Obsidian Note Taking/Obsidian Plugins.md",
-    "Guides/Obsidian Note Taking/Obsidian Setup.md",
-    "Code/Python/src/WebRobot/webrobot.py.addae06937d32e81db653ff002fc2e49.tmp",
-    "Code/Python/src/WebRobot/requirements.txt",
-    "Code/Python/src/WebRobot/webrobot.py",
-    "Code/Python/src/WebRobot",
-    "Code/Python/_README.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]

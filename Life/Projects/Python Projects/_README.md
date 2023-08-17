@@ -2,13 +2,13 @@
 Date: 2023-08-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "Daily", "Daily Notes", "Daily Journal" ]
+Alias: [ "Python Projects" ]
 ---
 
-# Daily
+# Python Projects
 
 > [!NOTE] About
-> This folder houses all of my daily notes for [[Obsidian]], a foundational component of the knowledge vault.
+> This folder houses .
 
 ## Overview
 
@@ -21,7 +21,7 @@ type: folder_brief_live
 ## Contents
 
 ```dataview
-LIST FROM "Life/Daily" AND -"CHANGELOG" AND -"Life/Daily/_README"
+LIST FROM "Life/Projects/Python Projects" AND -"CHANGELOG" AND -"Life/Projects/Python Projects/_README"
 ```
 
 ***
@@ -37,7 +37,7 @@ LIST FROM "Life/Daily" AND -"CHANGELOG" AND -"Life/Daily/_README"
 #### Backlinks
 
 ```dataview
-list from [[_README]] AND -"CHANGELOG" AND -"Life/Daily/_README"
+list from [[_README]] AND -"CHANGELOG" AND -"Life/Projects/Python Projects/_README"
 ```
 
 

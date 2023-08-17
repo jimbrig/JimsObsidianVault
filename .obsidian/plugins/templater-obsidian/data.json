@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Daily",
-      "template": "Templates/Template-Daily-Note.md"
+      "folder": "Life/Daily",
+      "template": "Templates/Life-Templates/Template-Daily.md"
     }
   ],
   "syntax_highlighting": true,

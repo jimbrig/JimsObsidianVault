@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Template-Agenda",
+      "path": "Templates/Life-Templates/Template-Agenda.md"
+    },
+    {
+      "basename": "Template-Daily",
+      "path": "Templates/Life-Templates/Template-Daily.md"
+    },
+    {
+      "basename": "Template-Project",
+      "path": "Templates/Life-Templates/Template-Project.md"
+    },
+    {
+      "basename": "Template-Folder-README",
+      "path": "Templates/Utility-Templates/Template-Folder-README.md"
+    },
+    {
+      "basename": "Template-Annual",
+      "path": "Templates/Life-Templates/Template-Annual.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/PowerShell Projects/PSProfileTools/_README.md"
+    },
+    {
+      "basename": "PowerShell - PSClearHost",
+      "path": "Life/Projects/PowerShell Projects/PowerShell - PSClearHost.md"
+    },
+    {
+      "basename": "PowerShell-Profile",
+      "path": "Life/Projects/PowerShell-Profile.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/Terraform Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/R Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/Python Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/Project Templates/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/PowerShell Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/Obsidian Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/Microsoft Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Daily/_README.md"
+    },
+    {
+      "basename": "2023-08-16",
+      "path": "Life/Daily/2023/08-August/2023-08-16.md"
+    },
+    {
       "basename": "2023-08-17",
-      "path": "Life/Daily/2023-08-17.md"
+      "path": "Life/Daily/2023/08-August/2023-08-17.md"
+    },
+    {
+      "basename": "2023-06-04",
+      "path": "Life/Daily/2023/06-June/2023-06-04.md"
+    },
+    {
+      "basename": "2023-06-01",
+      "path": "Life/Daily/2023/06-June/2023-06-01.md"
     },
     {
       "basename": "Windows Network Diagnostics",
@@ -119,86 +199,6 @@
     {
       "basename": "Microservice",
       "path": "Reference/Technology/Programming/Design Patterns/Microservice.md"
-    },
-    {
-      "basename": "Service-Oriented",
-      "path": "Reference/Technology/Programming/Design Patterns/Service-Oriented.md"
-    },
-    {
-      "basename": "Representational State Transfer (REST)",
-      "path": "Reference/Technology/Programming/Design Patterns/Representational State Transfer (REST).md"
-    },
-    {
-      "basename": "Peer-to-Peer",
-      "path": "Reference/Technology/Programming/Design Patterns/Peer-to-Peer.md"
-    },
-    {
-      "basename": "Client-Server",
-      "path": "Reference/Technology/Programming/Design Patterns/Client-Server.md"
-    },
-    {
-      "basename": "Reflection",
-      "path": "Reference/Technology/Programming/Design Patterns/Reflection.md"
-    },
-    {
-      "basename": "Asynchronous Messaging",
-      "path": "Reference/Technology/Programming/Design Patterns/Asynchronous Messaging.md"
-    },
-    {
-      "basename": "Monolithic Application",
-      "path": "Reference/Technology/Programming/Design Patterns/Monolithic Application.md"
-    },
-    {
-      "basename": "Test-Driven Development (TDD)",
-      "path": "Reference/Technology/Programming/Design Patterns/Test-Driven Development (TDD).md"
-    },
-    {
-      "basename": "Distributed-Hash-Table (DHT)",
-      "path": "Reference/Technology/Programming/Design Patterns/Distributed-Hash-Table (DHT).md"
-    },
-    {
-      "basename": "Presentation-Abstraction-Control (PAC)",
-      "path": "Reference/Technology/Programming/Design Patterns/Presentation-Abstraction-Control (PAC).md"
-    },
-    {
-      "basename": "Message Broker",
-      "path": "Reference/Technology/Programming/Design Patterns/Message Broker.md"
-    },
-    {
-      "basename": "Publish-Subscribe Pattern",
-      "path": "Reference/Technology/Programming/Design Patterns/Publish-Subscribe Pattern.md"
-    },
-    {
-      "basename": "Operational Data Store (ODS)",
-      "path": "Reference/Technology/Programming/Design Patterns/Operational Data Store (ODS).md"
-    },
-    {
-      "basename": "N-Tier Multilayer Architecture",
-      "path": "Reference/Technology/Programming/Design Patterns/N-Tier Multilayer Architecture.md"
-    },
-    {
-      "basename": "Model-View-Adapter (MVA)",
-      "path": "Reference/Technology/Programming/Design Patterns/Model-View-Adapter (MVA).md"
-    },
-    {
-      "basename": "Action-Domain-Responder (ADR)",
-      "path": "Reference/Technology/Programming/Design Patterns/Action-Domain-Responder (ADR).md"
-    },
-    {
-      "basename": "Transaction Data Stores (TDS)",
-      "path": "Reference/Technology/Programming/Design Patterns/Transaction Data Stores (TDS).md"
-    },
-    {
-      "basename": "Model-View-Presenter (MVP)",
-      "path": "Reference/Technology/Programming/Design Patterns/Model-View-Presenter (MVP).md"
-    },
-    {
-      "basename": "Model-View-Controller (MVC)",
-      "path": "Reference/Technology/Programming/Design Patterns/Model-View-Controller (MVC).md"
-    },
-    {
-      "basename": "Model-View-ViewModel Pattern (MVVM)",
-      "path": "Reference/Technology/Programming/Design Patterns/Model-View-ViewModel Pattern (MVVM).md"
     }
   ],
   "omittedPaths": [],

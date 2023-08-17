@@ -4752,13 +4752,6 @@ var KhojSearchModal = class extends import_obsidian3.SuggestModal {
     result.entry = result.entry.replace(/---[\n\r][\s\S]*---[\n\r]/, "");
     let entry_snipped_indicator = result.entry.split("\n").length > lines_to_render ? " **...**" : "";
     let snipped_entry = result.entry.split("\n").slice(0, lines_to_render).join("\n");
-    if (this.resultContainerEl.children.length == 1) {
-      let infoHintEl = createEl("div", { cls: "khoj-info-hint" });
-      el.insertAdjacentElement("beforebegin", infoHintEl);
-      setTimeout(() => {
-        infoHintEl.setText("Unexpected results? Try re-index your vault from the Khoj plugin settings to fix it.");
-      }, 3e3);
-    }
     el.createEl("div", { cls: "khoj-result-file" }).setText(filename != null ? filename : "");
     let result_el = el.createEl("div", { cls: "khoj-result-entry" });
     import_obsidian3.MarkdownRenderer.renderMarkdown(snipped_entry + entry_snipped_indicator, result_el, null, null);
