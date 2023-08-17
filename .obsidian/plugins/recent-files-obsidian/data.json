@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Reference/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "MOCs/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Meta/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Logs/ADRs/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Lists/Checklists/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Daily/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Inbox/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/_README.md"
+    },
+    {
+      "basename": "programming",
+      "path": "Assets/Banners/programming.gif"
+    },
+    {
+      "basename": "_README",
+      "path": "Logs/TIL/PowerShell/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Logs/TIL/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/_README.md"
+    },
+    {
+      "basename": "Obsidian Chat",
+      "path": "AI/Obsidian Chat.md"
+    },
+    {
+      "basename": "20230721211417",
+      "path": "AI/chats/20230721211417.md"
+    },
+    {
+      "basename": "Todoist Test",
+      "path": "99 - ARCHIVES/2023/Todoist Test.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/PowerShell Projects/PSClearHost/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Life/Projects/PowerShell Projects/PSProfileTools/_README.md"
+    },
+    {
       "basename": "Template-Agenda",
       "path": "Templates/Life-Templates/Template-Agenda.md"
     },
@@ -19,14 +99,6 @@
     {
       "basename": "Template-Annual",
       "path": "Templates/Life-Templates/Template-Annual.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/PowerShell Projects/PSProfileTools/_README.md"
-    },
-    {
-      "basename": "PowerShell - PSClearHost",
-      "path": "Life/Projects/PowerShell Projects/PowerShell - PSClearHost.md"
     },
     {
       "basename": "PowerShell-Profile",
@@ -61,14 +133,6 @@
       "path": "Life/Projects/Microsoft Projects/_README.md"
     },
     {
-      "basename": "_README",
-      "path": "Life/Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Daily/_README.md"
-    },
-    {
       "basename": "2023-08-16",
       "path": "Life/Daily/2023/08-August/2023-08-16.md"
     },
@@ -86,23 +150,15 @@
     },
     {
       "basename": "Windows Network Diagnostics",
-      "path": "Guides/Windows/Windows Network Diagnostics.md"
+      "path": "03 - AREAS/Guides/Windows/Windows Network Diagnostics.md"
     },
     {
       "basename": "_README",
-      "path": "Guides/Windows/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/_README.md"
+      "path": "03 - AREAS/Guides/Windows/_README.md"
     },
     {
       "basename": "PowerShell Advanced Functions",
-      "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
+      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
     },
     {
       "basename": "Idiomatic",
@@ -143,62 +199,6 @@
     {
       "basename": "Blackboard",
       "path": "Reference/Technology/Programming/Design Patterns/Blackboard.md"
-    },
-    {
-      "basename": "Python - Run Network Speedtest",
-      "path": "Code/Python/Python - Run Network Speedtest.md"
-    },
-    {
-      "basename": "PowerShell Error Handling",
-      "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md"
-    },
-    {
-      "basename": "Template-Definition",
-      "path": "Templates/Utility-Templates/Template-Definition.md"
-    },
-    {
-      "basename": "PowerShell Scripting Best Practices",
-      "path": "Guides/PowerShell Development/PowerShell Scripting/PowerShell Scripting Best Practices.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/PowerShell Development/PowerShell Scripting/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Guides/PowerShell Development/_README.md"
-    },
-    {
-      "basename": "Obsidian Plugins",
-      "path": "Guides/Obsidian Note Taking/Obsidian Plugins.md"
-    },
-    {
-      "basename": "Obsidian Setup",
-      "path": "Guides/Obsidian Note Taking/Obsidian Setup.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Code/Python/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/Technology/Programming/Design Patterns/_README.md"
-    },
-    {
-      "basename": "Architecture of Integrated Information Systems (ARIS)",
-      "path": "Reference/Technology/Programming/Design Patterns/Architecture of Integrated Information Systems (ARIS).md"
-    },
-    {
-      "basename": "Architecture of Interoperable Information Systems (AIOS)",
-      "path": "Reference/Technology/Programming/Design Patterns/Architecture of Interoperable Information Systems (AIOS).md"
-    },
-    {
-      "basename": "Serverless",
-      "path": "Reference/Technology/Programming/Design Patterns/Serverless.md"
-    },
-    {
-      "basename": "Microservice",
-      "path": "Reference/Technology/Programming/Design Patterns/Microservice.md"
     }
   ],
   "omittedPaths": [],

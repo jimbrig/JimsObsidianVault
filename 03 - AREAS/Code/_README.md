@@ -1,11 +1,11 @@
 ---
 Date: 2023-08-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Type/Project", "#Type/Meta", "#Topic/Dev/PowerShell", "#Topic/Dev/Windows" ]
-Alias: [ "PSProfileTools", "PSProfile Tools Project", "PSProfileTools Module" ]
+Tags: [ "#Type/Readme", "#Topic/Meta"  ]
+Alias: [ "Code" ]
 ---
 
-# PSProfileTools
+# Code
 
 > [!NOTE] About
 > This folder houses .
@@ -21,7 +21,7 @@ type: folder_brief_live
 ## Contents
 
 ```dataview
-LIST FROM "Life/Projects/PowerShell Projects/PSProfileTools" AND -"CHANGELOG" AND -"Life/Projects/PowerShell Projects/PSProfileTools/_README"
+LIST FROM "03 - AREAS/Code" AND -"CHANGELOG" AND -"03 - AREAS/Code/_README"
 ```
 
 ***
@@ -37,7 +37,7 @@ LIST FROM "Life/Projects/PowerShell Projects/PSProfileTools" AND -"CHANGELOG" AN
 #### Backlinks
 
 ```dataview
-list from [[_README]] AND -"CHANGELOG" AND -"Life/Projects/PowerShell Projects/PSProfileTools/_README"
+list from [[_README]] AND -"CHANGELOG" AND -"03 - AREAS/Code/_README"
 ```
 
 

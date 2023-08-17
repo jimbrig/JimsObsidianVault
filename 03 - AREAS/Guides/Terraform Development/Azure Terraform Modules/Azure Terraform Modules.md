@@ -36,7 +36,7 @@ Terraform modules encapsulate groups of resources dedicated to one task, reducin
 - ** Testing**:
 	- [[End-to-End (e2e) Tests]]
 	- [[Testing Terraform Code]]
-	- [[Guides/Terraform Development/Codex/Tests/Unit Tests]]
+	- [[03 - AREAS/Guides/Terraform Development/Codex/Tests/Unit Tests]]
 	- [[Version Upgrade Tests]]
 
 

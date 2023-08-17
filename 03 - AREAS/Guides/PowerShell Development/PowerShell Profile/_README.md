@@ -8,7 +8,7 @@ Alias: [ "PowerShell Profile" ]
 # PowerShell Profile
 
 > [!NOTE] About
-> This folder houses notes related to setting up and configuring a customized [[Guides/PowerShell Development/PowerShell Profile/_README|PowerShell Profile]].
+> This folder houses notes related to setting up and configuring a customized [[03 - AREAS/Guides/PowerShell Development/PowerShell Profile/_README|PowerShell Profile]].
 
 ## Overview
 

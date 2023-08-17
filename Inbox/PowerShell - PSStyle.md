@@ -8,7 +8,7 @@ Alias: [ "PSStyle" ]
 # PSStyle
 
 > [!NOTE] About
-> [[Guides/PowerShell Development/_README|PowerShell]] Version 7.2 introduced a new *automatic variable* called `$PSStyle` for `PSAnsiRednering` which can be used to render `ANSI` control text decortions with color and font styling in the console.
+> [[03 - AREAS/Guides/PowerShell Development/_README|PowerShell]] Version 7.2 introduced a new *automatic variable* called `$PSStyle` for `PSAnsiRednering` which can be used to render `ANSI` control text decortions with color and font styling in the console.
 
 ## Overview
 

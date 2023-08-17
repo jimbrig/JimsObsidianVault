@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Windows/Windows Network Diagnostics.md",
+                "file": "03 - AREAS/Guides/Windows/Windows Network Diagnostics.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Life-Templates/Template-Agenda.md",
+                "file": "Reference/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Life-Templates/Template-Agenda.md"
+                "file": "Reference/_README.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Life-Templates/Template-Agenda.md"
+                "file": "Reference/_README.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Life-Templates/Template-Agenda.md",
+                "file": "Reference/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Life-Templates/Template-Agenda.md",
+                "file": "Reference/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Life-Templates/Template-Agenda.md",
+                "file": "Reference/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -354,43 +354,43 @@
   },
   "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
-    "Templates/Life-Templates/Template-Daily.md",
+    "MOCs/_README.md",
+    "04 - RESOURCES/Sources/ReadWise",
+    "03 - AREAS/MOCs",
+    "Meta/_README.md",
+    "Logs/ADRs/_README.md",
+    "Lists/Checklists/_README.md",
+    "Life/Projects/_README.md",
+    "Life/Daily/_README.md",
+    "Inbox/_README.md",
+    "Code/_README.md",
+    "03 - AREAS/Code/_README.md",
+    "Assets/Banners/programming.gif",
+    "04 - RESOURCES/Sources/AI",
+    "03 - AREAS/Agendas",
+    "04 - RESOURCES/Assets/Images",
+    "04 - RESOURCES/Sources/YouTube",
+    "04 - RESOURCES/Assets/Reports",
+    "04 - RESOURCES/Assets/Banners",
+    "04 - RESOURCES/Assets",
+    "03 - AREAS/Meta",
+    "Logs/TIL/PowerShell/_README.md",
+    "Logs/TIL/_README.md",
+    "03 - AREAS/Guides/_README.md",
+    "99 - ARCHIVES/_README.md",
+    "AI/Obsidian Chat.md",
+    "AI/chats/20230721211417.md",
+    "99 - ARCHIVES/2023/Todoist Test.md",
+    "Life/Projects/PowerShell Projects/PSClearHost/_README.md",
+    "Life/Projects/PowerShell Projects/PSProfileTools/_README.md",
+    "Life/Projects/PowerShell Projects/PowerShell - PSClearHost.md",
     "Templates/Life-Templates/Template-Agenda.md",
+    "Templates/Life-Templates/Template-Daily.md",
     "Templates/Life-Templates/Template-Project.md",
     "Templates/Utility-Templates/Template-Folder-README.md",
     "Templates/Life-Templates/Template-Annual.md",
-    "Life/Projects/PowerShell Projects/PSProfileTools/_README.md",
-    "Life/Projects/PowerShell Projects/PowerShell - PSClearHost.md",
-    "Life/Projects/PowerShell Projects/PSProfileTools",
     "Life/Projects/PowerShell-Profile.md",
     "Life/Projects/Terraform Projects/_README.md",
-    "Life/Projects/R Projects/_README.md",
-    "Life/Projects/Python Projects/_README.md",
-    "Life/Projects/Project Templates/_README.md",
-    "Life/Projects/PowerShell Projects/_README.md",
-    "Life/Projects/Obsidian Projects/_README.md",
-    "Life/Projects/Microsoft Projects/_README.md",
-    "Life/Projects/_README.md",
-    "Life/Learning",
-    "Life/Projects/Terraform Projects",
-    "Life/Projects/Microsoft Projects",
-    "Life/Projects/Project Templates",
-    "Life/Projects/Python Projects",
-    "Life/Projects/Obsidian Projects",
-    "Life/Projects/R Projects",
-    "Life/Projects/PowerShell Projects",
-    "Life/Daily/_README.md",
-    "Life/Daily/2023/08-August/2023-08-16.md",
-    "Life/Daily/2023/08-August/2023-08-17.md",
-    "Daily",
-    "Life/Daily/2023/06-June/2023-06-04.md",
-    "Life/Daily/2023-08-17.md",
-    "Life/Daily/2023/06-June/2023-06-01.md",
-    "Life/Daily/2023/06-June/2023-06-01 1.md",
-    "Guides/Windows/Windows Network Diagnostics.md",
-    "Guides/Windows/_README.md",
-    "Guides/_README.md",
-    "Canvas/Canvas - PowerShell Profile MindMap.canvas",
-    "Assets/Banners/programming.gif"
+    "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
 }
