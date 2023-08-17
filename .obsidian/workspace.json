@@ -19,8 +19,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2ec5dba8521dfd79",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +209,7 @@
             }
           },
           {
-            "id": "70fc77adcc21f4a8",
+            "id": "4f2bf83417797464",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -208,14 +217,15 @@
             }
           },
           {
-            "id": "82837d112cfd4a85",
+            "id": "56a3fa85eea857bb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -312,7 +322,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c7e9a698404bffc4",
+  "active": "2ec5dba8521dfd79",
   "lastOpenFiles": [
     "Guides/Windows/_README.md",
     "Guides/Windows/Windows Network Diagnostics.md",
