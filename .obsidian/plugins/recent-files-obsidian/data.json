@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript - Node.js - Project Initialization Script",
+      "path": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md"
+    },
+    {
       "basename": "_README",
       "path": "Reference/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Frontmatter-Enhanced",
       "path": "Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
-    },
-    {
-      "basename": "Blackboard",
-      "path": "Reference/Technology/Programming/Design Patterns/Blackboard.md"
     }
   ],
   "omittedPaths": [],

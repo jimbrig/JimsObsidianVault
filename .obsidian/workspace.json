@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/_README.md"
+                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/_README.md"
+                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -354,6 +354,9 @@
   },
   "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
+    "Reference/_README.md",
+    "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
+    "03 - AREAS/Code/JavaScript",
     "MOCs/_README.md",
     "04 - RESOURCES/Sources/ReadWise",
     "03 - AREAS/MOCs",
@@ -373,7 +376,6 @@
     "04 - RESOURCES/Assets/Reports",
     "04 - RESOURCES/Assets/Banners",
     "04 - RESOURCES/Assets",
-    "03 - AREAS/Meta",
     "Logs/TIL/PowerShell/_README.md",
     "Logs/TIL/_README.md",
     "03 - AREAS/Guides/_README.md",
@@ -389,8 +391,6 @@
     "Templates/Life-Templates/Template-Project.md",
     "Templates/Utility-Templates/Template-Folder-README.md",
     "Templates/Life-Templates/Template-Annual.md",
-    "Life/Projects/PowerShell-Profile.md",
-    "Life/Projects/Terraform Projects/_README.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
 }
