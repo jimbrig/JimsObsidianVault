@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
-                "mode": "source",
+                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md"
+                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md"
+                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
+                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
+                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
+                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -354,8 +354,10 @@
   },
   "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
-    "Reference/_README.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
+    "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
+    "03 - AREAS/Code/Bash",
+    "Reference/_README.md",
     "03 - AREAS/Code/JavaScript",
     "MOCs/_README.md",
     "04 - RESOURCES/Sources/ReadWise",
@@ -375,7 +377,6 @@
     "04 - RESOURCES/Sources/YouTube",
     "04 - RESOURCES/Assets/Reports",
     "04 - RESOURCES/Assets/Banners",
-    "04 - RESOURCES/Assets",
     "Logs/TIL/PowerShell/_README.md",
     "Logs/TIL/_README.md",
     "03 - AREAS/Guides/_README.md",
@@ -390,7 +391,6 @@
     "Templates/Life-Templates/Template-Daily.md",
     "Templates/Life-Templates/Template-Project.md",
     "Templates/Utility-Templates/Template-Folder-README.md",
-    "Templates/Life-Templates/Template-Annual.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
 }
