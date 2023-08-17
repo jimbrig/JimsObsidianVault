@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-08-17",
+      "path": "Life/Daily/2023-08-17.md"
+    },
+    {
       "basename": "Windows Network Diagnostics",
       "path": "Guides/Windows/Windows Network Diagnostics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Model-View-ViewModel Pattern (MVVM)",
       "path": "Reference/Technology/Programming/Design Patterns/Model-View-ViewModel Pattern (MVVM).md"
-    },
-    {
-      "basename": "Flux Architecture",
-      "path": "Reference/Technology/Programming/Design Patterns/Flux Architecture.md"
     }
   ],
   "omittedPaths": [],

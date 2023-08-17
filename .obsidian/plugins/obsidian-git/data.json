@@ -1,5 +1,5 @@
 {
-  "commitMessage": "auto: Vault Backup ({{date}}) - {{hostname}} - Changed {{numFiles}}",
+  "commitMessage": "auto: Vault Backup ({{date}}) - {{hostname}} - Changed {{numFiles}} Files",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 3,
   "autoPushInterval": 0,

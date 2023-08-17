@@ -1,5 +1,5 @@
 {
-  "folder": "Daily",
+  "folder": "Life/Daily",
   "autorun": true,
-  "template": "Templates/Template-Daily-Note"
+  "template": "Templates/Life-Templates/Template-Daily"
 }

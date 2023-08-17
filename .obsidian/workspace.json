@@ -24,8 +24,13 @@
             "id": "2ec5dba8521dfd79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Life/Daily/2023-08-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -115,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Windows/Windows Network Diagnostics.md"
+                "file": "Life/Daily/2023-08-17.md"
               }
             }
           },
@@ -125,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guides/Windows/Windows Network Diagnostics.md"
+                "file": "Life/Daily/2023-08-17.md"
               }
             }
           },
@@ -135,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Windows/Windows Network Diagnostics.md",
+                "file": "Life/Daily/2023-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Windows/Windows Network Diagnostics.md",
+                "file": "Life/Daily/2023-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,8 +229,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "1ac3153552315a07",
@@ -238,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guides/Windows/Windows Network Diagnostics.md",
+                "file": "Life/Daily/2023-08-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,8 +328,9 @@
   },
   "active": "2ec5dba8521dfd79",
   "lastOpenFiles": [
-    "Guides/Windows/_README.md",
+    "Life/Daily/2023-08-17.md",
     "Guides/Windows/Windows Network Diagnostics.md",
+    "Guides/Windows/_README.md",
     "Guides/_README.md",
     "Code/_README.md",
     "Untitled.md",
@@ -359,7 +364,6 @@
     "Code/Python/src/WebRobot/webrobot.py",
     "Code/Python/src/WebRobot",
     "Code/Python/_README.md",
-    "Reference/Technology/Programming/Design Patterns/_README.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Assets/Banners/programming.gif"
   ]
