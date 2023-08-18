@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
-                "mode": "preview",
+                "file": "Life/Daily/2023-08-18.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md"
+                "file": "Life/Daily/2023-08-18.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md"
+                "file": "Life/Daily/2023-08-18.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
+                "file": "Life/Daily/2023-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
+                "file": "Life/Daily/2023-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             }
           },
           {
-            "id": "4f2bf83417797464",
+            "id": "12de433155393cc4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -248,14 +248,15 @@
             }
           },
           {
-            "id": "56a3fa85eea857bb",
+            "id": "e9b0ea461423f209",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -268,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
+                "file": "Life/Daily/2023-08-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -348,14 +349,15 @@
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
       "periodic-notes:Open today's daily note": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
-    "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
     "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
+    "Life/Daily/2023-08-18.md",
+    "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
     "03 - AREAS/Code/Bash",
     "Reference/_README.md",
     "03 - AREAS/Code/JavaScript",
@@ -390,7 +392,6 @@
     "Templates/Life-Templates/Template-Agenda.md",
     "Templates/Life-Templates/Template-Daily.md",
     "Templates/Life-Templates/Template-Project.md",
-    "Templates/Utility-Templates/Template-Folder-README.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
 }

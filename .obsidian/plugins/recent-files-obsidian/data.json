@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-08-18",
+      "path": "Life/Daily/2023-08-18.md"
+    },
+    {
       "basename": "Bash - Initialize Node.js Project Script",
       "path": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Development",
       "path": "Templates/Core-Templates/Template-Development.md"
-    },
-    {
-      "basename": "Template-Default",
-      "path": "Templates/Core-Templates/Template-Default.md"
     }
   ],
   "omittedPaths": [],
