@@ -37,7 +37,7 @@ Sources: [
 
 ## Overview
 
-In [[MOCs/MOC - Software|Software Engineering]] and [[MOC - Development|Development]], a common practice is *releasing new versions* of your developed application or software project over time to end-users. 
+In [[MOCs/MOC - Software|Software Engineering]] and [[MOCs/MOC - Development|Development]], a common practice is *releasing new versions* of your developed application or software project over time to end-users. 
 
 This templated [[Lists/Checklists/_README|Checklist]] attempts to breakdown the necessary steps to perform a successful release from the initial *pre-release* and *drafting* steps to the final artifact builds.
 

@@ -8,7 +8,7 @@ Alias: [ "Development", "Development Map of Content" ]
 # Development Map of Content
 
 > [!ABOUT] About
-> Map of Content for [[MOC - Development|Development]] related notes.
+> Map of Content for [[MOCs/MOC - Development|Development]] related notes.
 
 ## Overview
 

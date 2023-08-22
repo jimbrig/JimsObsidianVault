@@ -21,7 +21,7 @@ Alias: [ ]
 
 ## Goals
 
-- *Dissect* my entire [[MOC - PKM|Personal Knowledge Management]] system and how it has *evolved* over time. 
+- *Dissect* my entire [[MOCs/MOC - PKM|Personal Knowledge Management]] system and how it has *evolved* over time. 
 - Gain insights and describe the information kept inside the system and where it is stored.
 - *Review and audit* all relevant [[Tools]] used in the system and why they are necessary.
 - *Describe the process of [[Capturing]], [[Organizing]], and [[Cultivating]] data* in the system and how it all fits together.

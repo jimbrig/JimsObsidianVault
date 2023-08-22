@@ -51,7 +51,7 @@ SetWorkingDir, %A_ScriptDir%
 ### Internal Linked Notes
 
 - [[Code/_README|Code Snippets]]
-- [[MOC - Development|Development]]
+- [[MOCs/MOC - Development|Development]]
 - [[MOCs/MOC - Technology|Technology]]
 - [[MOCs/MOC - Software|Software Engineering]]
 

@@ -102,8 +102,8 @@ Data and metadata are two distinct concepts that play integral roles in managing
 
 - [[Key Differences Between Data and Metadata]]
 - [[Metadata]]
-- [[MOC - Data Engineering|Data Engineering]]
-- [[MOC - Development|Development]]
+- [[MOCs/MOC - Data Engineering|Data Engineering]]
+- [[MOCs/MOC - Development|Development]]
 - [[SQL Best Practices]]
 
 ### External References

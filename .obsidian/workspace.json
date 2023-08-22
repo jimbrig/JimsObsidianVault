@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Daily/2023-08-22.md",
+                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Daily/2023-08-22.md"
+                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life/Daily/2023-08-22.md"
+                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Daily/2023-08-22.md",
+                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Daily/2023-08-22.md",
+                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Life/Daily/2023-08-22.md",
+                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,15 +353,33 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "715e80b95e596d9f",
+  "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
-    "Life/Daily/2023-08-21.md",
+    "03 - AREAS/Technology/Windows/Drivers/Windows Components.md",
+    "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
+    "03 - AREAS/Technology/Windows/Drivers/_README.md",
+    "03 - AREAS/MOCs/MOC - Databases.md",
+    "03 - AREAS/Technology/Windows/Drivers",
+    "03 - AREAS/Technology/Windows",
+    "03 - AREAS/MOCs/MOC - Terraform.md",
+    "03 - AREAS/MOCs/MOC - Obsidian.md",
+    "03 - AREAS/MOCs/MOC - PKM.md",
+    "03 - AREAS/MOCs/MOC - Productivity.md",
+    "03 - AREAS/MOCs/MOC - Cloud.md",
+    "03 - AREAS/MOCs/MOC - Data Engineering.md",
+    "03 - AREAS/MOCs/MOC - Web Development.md",
+    "03 - AREAS/MOCs/MOC - Development.md",
+    "03 - AREAS/MOCs/MOC - R.md",
+    "03 - AREAS/MOCs/MOC - PowerShell.md",
+    "03 - AREAS/MOCs/MOC - Microsoft Windows.md",
+    "03 - AREAS/MOCs/MOC - Technology.md",
+    "Reference/_README.md",
     "Life/Daily/2023-08-22.md",
+    "Life/Daily/2023-08-21.md",
     "Life/Daily/2023-08-18.md",
     "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
     "03 - AREAS/Code/Bash",
-    "Reference/_README.md",
     "03 - AREAS/Code/JavaScript",
     "MOCs/_README.md",
     "04 - RESOURCES/Sources/ReadWise",
@@ -369,29 +387,11 @@
     "Meta/_README.md",
     "Logs/ADRs/_README.md",
     "Lists/Checklists/_README.md",
-    "Life/Projects/_README.md",
-    "Life/Daily/_README.md",
-    "Inbox/_README.md",
-    "Code/_README.md",
-    "03 - AREAS/Code/_README.md",
     "Assets/Banners/programming.gif",
     "04 - RESOURCES/Sources/AI",
     "03 - AREAS/Agendas",
     "04 - RESOURCES/Assets/Images",
     "04 - RESOURCES/Sources/YouTube",
-    "04 - RESOURCES/Assets/Reports",
-    "04 - RESOURCES/Assets/Banners",
-    "Logs/TIL/PowerShell/_README.md",
-    "Logs/TIL/_README.md",
-    "03 - AREAS/Guides/_README.md",
-    "99 - ARCHIVES/_README.md",
-    "AI/Obsidian Chat.md",
-    "AI/chats/20230721211417.md",
-    "99 - ARCHIVES/2023/Todoist Test.md",
-    "Life/Projects/PowerShell Projects/PSClearHost/_README.md",
-    "Life/Projects/PowerShell Projects/PSProfileTools/_README.md",
-    "Life/Projects/PowerShell Projects/PowerShell - PSClearHost.md",
-    "Templates/Life-Templates/Template-Agenda.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
 }

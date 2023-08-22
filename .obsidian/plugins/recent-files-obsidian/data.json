@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Types of Windows Drivers",
+      "path": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md"
+    },
+    {
+      "basename": "Windows Components",
+      "path": "03 - AREAS/Technology/Windows/Drivers/Windows Components.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Technology/Windows/Drivers/_README.md"
+    },
+    {
+      "basename": "MOC - Databases",
+      "path": "03 - AREAS/MOCs/MOC - Databases.md"
+    },
+    {
+      "basename": "MOC - Terraform",
+      "path": "03 - AREAS/MOCs/MOC - Terraform.md"
+    },
+    {
+      "basename": "MOC - Obsidian",
+      "path": "03 - AREAS/MOCs/MOC - Obsidian.md"
+    },
+    {
+      "basename": "MOC - PKM",
+      "path": "03 - AREAS/MOCs/MOC - PKM.md"
+    },
+    {
+      "basename": "MOC - Productivity",
+      "path": "03 - AREAS/MOCs/MOC - Productivity.md"
+    },
+    {
+      "basename": "MOC - Cloud",
+      "path": "03 - AREAS/MOCs/MOC - Cloud.md"
+    },
+    {
+      "basename": "MOC - Data Engineering",
+      "path": "03 - AREAS/MOCs/MOC - Data Engineering.md"
+    },
+    {
+      "basename": "MOC - Web Development",
+      "path": "03 - AREAS/MOCs/MOC - Web Development.md"
+    },
+    {
+      "basename": "MOC - Development",
+      "path": "03 - AREAS/MOCs/MOC - Development.md"
+    },
+    {
+      "basename": "MOC - R",
+      "path": "03 - AREAS/MOCs/MOC - R.md"
+    },
+    {
+      "basename": "MOC - PowerShell",
+      "path": "03 - AREAS/MOCs/MOC - PowerShell.md"
+    },
+    {
+      "basename": "MOC - Microsoft Windows",
+      "path": "03 - AREAS/MOCs/MOC - Microsoft Windows.md"
+    },
+    {
+      "basename": "MOC - Technology",
+      "path": "03 - AREAS/MOCs/MOC - Technology.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/_README.md"
+    },
+    {
       "basename": "2023-08-22",
       "path": "Life/Daily/2023-08-22.md"
     },
@@ -19,10 +87,6 @@
     {
       "basename": "JavaScript - Node.js - Project Initialization Script",
       "path": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/_README.md"
     },
     {
       "basename": "_README",
@@ -135,70 +199,6 @@
     {
       "basename": "_README",
       "path": "Life/Projects/Python Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/Project Templates/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/PowerShell Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/Obsidian Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/Microsoft Projects/_README.md"
-    },
-    {
-      "basename": "2023-08-16",
-      "path": "Life/Daily/2023/08-August/2023-08-16.md"
-    },
-    {
-      "basename": "2023-08-17",
-      "path": "Life/Daily/2023/08-August/2023-08-17.md"
-    },
-    {
-      "basename": "2023-06-04",
-      "path": "Life/Daily/2023/06-June/2023-06-04.md"
-    },
-    {
-      "basename": "2023-06-01",
-      "path": "Life/Daily/2023/06-June/2023-06-01.md"
-    },
-    {
-      "basename": "Windows Network Diagnostics",
-      "path": "03 - AREAS/Guides/Windows/Windows Network Diagnostics.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Guides/Windows/_README.md"
-    },
-    {
-      "basename": "PowerShell Advanced Functions",
-      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
-    },
-    {
-      "basename": "Idiomatic",
-      "path": "Definitions/Idiomatic.md"
-    },
-    {
-      "basename": "Template-Code",
-      "path": "Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "DAPR",
-      "path": "Definitions/DAPR.md"
-    },
-    {
-      "basename": "GPT",
-      "path": "Definitions/GPT.md"
-    },
-    {
-      "basename": "Template-Code-Bash",
-      "path": "Templates/Code-Templates/Template-Code-Bash.md"
     }
   ],
   "omittedPaths": [],

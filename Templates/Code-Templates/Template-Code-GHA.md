@@ -37,8 +37,8 @@ Alias: [ "<% (tp.file.title).replace("GHA - ", "") %>" ]
 
 - [[Code/_README|Code Snippets]]
 - [[Code/YAML/GitHub Actions/_README|GitHub Action Code Snippets]]
-- [[MOC - Development|Development]]
-- [[MOC - Technology|Technology]]
+- [[MOCs/MOC - Development|Development]]
+- [[MOCs/MOC - Technology|Technology]]
 - [[MOC - Software|Software Engineering]]
 
 ### External References
