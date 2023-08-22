@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Daily/2023-08-18.md",
+                "file": "Life/Daily/2023-08-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Daily/2023-08-18.md"
+                "file": "Life/Daily/2023-08-21.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life/Daily/2023-08-18.md"
+                "file": "Life/Daily/2023-08-21.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Daily/2023-08-18.md",
+                "file": "Life/Daily/2023-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Daily/2023-08-18.md",
+                "file": "Life/Daily/2023-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             }
           },
           {
-            "id": "12de433155393cc4",
+            "id": "8ef368a608e142a7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -248,7 +248,7 @@
             }
           },
           {
-            "id": "e9b0ea461423f209",
+            "id": "0b2ba8980e007eb2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Life/Daily/2023-08-18.md",
+                "file": "Life/Daily/2023-08-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,8 +355,9 @@
   },
   "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
-    "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
     "Life/Daily/2023-08-18.md",
+    "Life/Daily/2023-08-21.md",
+    "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
     "03 - AREAS/Code/Bash",
     "Reference/_README.md",
@@ -391,7 +392,6 @@
     "Life/Projects/PowerShell Projects/PowerShell - PSClearHost.md",
     "Templates/Life-Templates/Template-Agenda.md",
     "Templates/Life-Templates/Template-Daily.md",
-    "Templates/Life-Templates/Template-Project.md",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
 }

@@ -1,3 +1,4 @@
+- 2023-08-21 at 23h40 · [[2023-08-21]]
 - 2023-08-18 at 17h04 · [[2023-08-18]]
 - 2023-08-17 at 19h33 · [[Bash - Initialize Node.js Project Script]]
 - 2023-08-17 at 19h22 · [[JavaScript - Node.js - Project Initialization Script]]
@@ -47,4 +48,3 @@
 - 2023-08-12 at 22h55 · [[Model-View-Controller (MVC)]]
 - 2023-08-12 at 22h53 · [[Distributed-Hash-Table (DHT)]]
 - 2023-08-12 at 22h52 · [[Presentation-Abstraction-Control (PAC)]]
-- 2023-08-12 at 22h51 · [[Message Broker]]
