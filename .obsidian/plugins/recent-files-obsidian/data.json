@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-08-22",
+      "path": "Life/Daily/2023-08-22.md"
+    },
+    {
       "basename": "2023-08-21",
       "path": "Life/Daily/2023-08-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Code-Bash",
       "path": "Templates/Code-Templates/Template-Code-Bash.md"
-    },
-    {
-      "basename": "Template-MOC",
-      "path": "Templates/Core-Templates/Template-MOC.md"
     }
   ],
   "omittedPaths": [],
