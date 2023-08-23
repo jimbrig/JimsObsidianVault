@@ -8,7 +8,7 @@ Alias: [ "Windows Security" ]
 # Windows Security
 
 > [!NOTE] About
-> This note showcases various [[Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell|PowerShell]] scripts, functions, and cmdlets for automating [[Windows Defender Firewall]] Management. The code is designed for use by IT professionals, System Administrators, IT Managers, and others who use and need to automate [[Windows Defender Firewall]] management on a [[Windows]] Operating System.
+> This note showcases various [[Reference/Technology/Programming/Programming Languages/PowerShell/PowerShell|PowerShell]] scripts, functions, and cmdlets for automating [[Windows Defender Firewall]] Management. The code is designed for use by IT professionals, System Administrators, IT Managers, and others who use and need to automate [[Windows Defender Firewall]] management on a [[Reference/Technology/Computer Science/Operating System/Windows]] Operating System.
 
 ## Contents
 

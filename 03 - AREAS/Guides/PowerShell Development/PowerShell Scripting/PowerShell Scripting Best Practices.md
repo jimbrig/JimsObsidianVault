@@ -27,7 +27,7 @@ The [[PowerShell]] interpreter does not care about pretty formatting – all cod
 
 Some common styling areas of concern are:
 
-- Ensure the correct file [[encoding]] and line-endings: On [[Windows]] should use [[UTF-8]] and [[CLRF Line Endings]].
+- Ensure the correct file [[encoding]] and line-endings: On [[Reference/Technology/Computer Science/Operating System/Windows]] should use [[UTF-8]] and [[CLRF Line Endings]].
 	- [[EditorConfig]] can help here.
 	- Adjustments to your [[Git Config]] and [[Git Attributes]] may be necessary.
 - Use Brackets correctly (i.e. `if-else`, `function`, etc.): 

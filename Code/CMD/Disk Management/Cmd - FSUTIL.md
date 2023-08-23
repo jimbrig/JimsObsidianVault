@@ -12,7 +12,7 @@ Alias: [ "FSUTIL" ]
 
 *See Also: [[Cmd - DISKPART|DISKPART]]*.
 
-[[FSUTIL]] and [[Cmd - DISKPART|DISKPART]] are powerful, but not for inexperienced [[Windows]] users.
+[[FSUTIL]] and [[Cmd - DISKPART|DISKPART]] are powerful, but not for inexperienced [[Reference/Technology/Computer Science/Operating System/Windows]] users.
 
 ## Contents
 

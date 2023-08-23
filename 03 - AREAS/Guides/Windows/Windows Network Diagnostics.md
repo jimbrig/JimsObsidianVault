@@ -15,7 +15,7 @@ Alias: [ "Windows Network Diagnostics" ]
 ## Overview
 
 > [!NOTE] About
-> Sometimes while using [[Windows]], you may need to diagnose or reset various [[Networking]] settings and configurations on the system such as: `WinHTTP` [[Proxy]], [[Firewall]], Network Settings, Windows Update, TCP, etc.
+> Sometimes while using [[Reference/Technology/Computer Science/Operating System/Windows]], you may need to diagnose or reset various [[Networking]] settings and configurations on the system such as: `WinHTTP` [[Proxy]], [[Firewall]], Network Settings, Windows Update, TCP, etc.
 
 ## How Tos
 

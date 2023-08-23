@@ -36,7 +36,7 @@ Alias: [ "CMD", "Windows CMD", "Command Prompt", "cmd.exe", "Command Line Interp
 ### Internal Linked Notes
 
 - [[MOC - Microsoft]]
-- [[Windows]]
+- [[Reference/Technology/Computer Science/Operating System/Windows]]
 - [[CLI Tools]]
 - [[Win32]]
 - [[Windows API]]

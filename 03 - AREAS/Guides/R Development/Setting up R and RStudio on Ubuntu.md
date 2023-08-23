@@ -29,7 +29,7 @@ Alias: [ "R Packages Ubuntu" ]
 
 ## Overview
 
-- Install [[R Packages]] as you would do on [[Windows]] (i.e., no long [[compilation]] time). 
+- Install [[R Packages]] as you would do on [[Reference/Technology/Computer Science/Operating System/Windows]] (i.e., no long [[compilation]] time). 
 - In addition, this script asks to install [[R Development Tools]], [[Tools/Tools - Version Control/Git]], [[Reference/Technology/Programming/Tools/IDEs/RStudio]], and [[Quarto]].
 
 ## Motivation

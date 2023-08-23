@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Types of Windows Drivers",
-      "path": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md"
+      "basename": "_README",
+      "path": "03 - AREAS/Technology/Windows/Tools/_README.md"
     },
     {
-      "basename": "Windows Components",
-      "path": "03 - AREAS/Technology/Windows/Drivers/Windows Components.md"
+      "basename": "Windows PowerTest (PwrTest.exe)",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows PowerTest (PwrTest.exe).md"
+    },
+    {
+      "basename": "Windows CMD - Oscdimg",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows CMD - Oscdimg.md"
+    },
+    {
+      "basename": "Windows CMD - Bootsect",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows CMD - Bootsect.md"
+    },
+    {
+      "basename": "Windows CMD - BCDEdit",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows CMD - BCDEdit.md"
+    },
+    {
+      "basename": "Windows CMD - BCDBoot",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows CMD - BCDBoot.md"
+    },
+    {
+      "basename": "Windows Assessment and Deployment Kit (ADK)",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Assessment and Deployment Kit (ADK).md"
+    },
+    {
+      "basename": "Windows Setup EXE",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Setup EXE.md"
+    },
+    {
+      "basename": "Windows Validation OS",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Validation OS.md"
+    },
+    {
+      "basename": "Windows Factory OS",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Factory OS.md"
+    },
+    {
+      "basename": "Windows Recovery Environment (WinRE)",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Recovery Environment (WinRE).md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Technology/Windows/Drivers/_README.md"
-    },
-    {
-      "basename": "MOC - Databases",
-      "path": "03 - AREAS/MOCs/MOC - Databases.md"
-    },
-    {
-      "basename": "MOC - Terraform",
-      "path": "03 - AREAS/MOCs/MOC - Terraform.md"
-    },
-    {
-      "basename": "MOC - Obsidian",
-      "path": "03 - AREAS/MOCs/MOC - Obsidian.md"
-    },
-    {
-      "basename": "MOC - PKM",
-      "path": "03 - AREAS/MOCs/MOC - PKM.md"
-    },
-    {
-      "basename": "MOC - Productivity",
-      "path": "03 - AREAS/MOCs/MOC - Productivity.md"
-    },
-    {
-      "basename": "MOC - Cloud",
-      "path": "03 - AREAS/MOCs/MOC - Cloud.md"
-    },
-    {
-      "basename": "MOC - Data Engineering",
-      "path": "03 - AREAS/MOCs/MOC - Data Engineering.md"
-    },
-    {
-      "basename": "MOC - Web Development",
-      "path": "03 - AREAS/MOCs/MOC - Web Development.md"
-    },
-    {
-      "basename": "MOC - Development",
-      "path": "03 - AREAS/MOCs/MOC - Development.md"
-    },
-    {
-      "basename": "MOC - R",
-      "path": "03 - AREAS/MOCs/MOC - R.md"
-    },
-    {
-      "basename": "MOC - PowerShell",
-      "path": "03 - AREAS/MOCs/MOC - PowerShell.md"
-    },
-    {
-      "basename": "MOC - Microsoft Windows",
-      "path": "03 - AREAS/MOCs/MOC - Microsoft Windows.md"
-    },
-    {
-      "basename": "MOC - Technology",
-      "path": "03 - AREAS/MOCs/MOC - Technology.md"
+      "path": "03 - AREAS/Technology/Windows/Power Settings/_README.md"
     },
     {
       "basename": "_README",
-      "path": "Reference/_README.md"
-    },
-    {
-      "basename": "2023-08-22",
-      "path": "Life/Daily/2023-08-22.md"
-    },
-    {
-      "basename": "2023-08-21",
-      "path": "Life/Daily/2023-08-21.md"
-    },
-    {
-      "basename": "2023-08-18",
-      "path": "Life/Daily/2023-08-18.md"
-    },
-    {
-      "basename": "Bash - Initialize Node.js Project Script",
-      "path": "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md"
-    },
-    {
-      "basename": "JavaScript - Node.js - Project Initialization Script",
-      "path": "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md"
+      "path": "03 - AREAS/Technology/Windows/Hardware/_README.md"
     },
     {
       "basename": "_README",
-      "path": "MOCs/_README.md"
+      "path": "03 - AREAS/Technology/Windows/Components/Drivers/_README.md"
     },
     {
       "basename": "_README",
-      "path": "Meta/_README.md"
+      "path": "03 - AREAS/Technology/Windows/Customization/_README.md"
+    },
+    {
+      "basename": "Managing the Component Store",
+      "path": "03 - AREAS/Technology/Windows/Components/Managing the Component Store.md"
+    },
+    {
+      "basename": "Secure Boot",
+      "path": "03 - AREAS/Technology/Windows/Components/Secure Boot.md"
+    },
+    {
+      "basename": "Registry",
+      "path": "03 - AREAS/Technology/Windows/Components/Registry.md"
+    },
+    {
+      "basename": "Apps and Software",
+      "path": "03 - AREAS/Technology/Windows/Components/Apps and Software.md"
+    },
+    {
+      "basename": "Windows Updates",
+      "path": "03 - AREAS/Technology/Windows/Components/Windows Updates.md"
+    },
+    {
+      "basename": "Language Packs",
+      "path": "03 - AREAS/Technology/Windows/Components/Language Packs.md"
+    },
+    {
+      "basename": "Windows SysPrep",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows SysPrep.md"
+    },
+    {
+      "basename": "Windows Audit Mode",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Audit Mode.md"
+    },
+    {
+      "basename": "Windows Pre-Installation Environment (WinPE)",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Pre-Installation Environment (WinPE).md"
+    },
+    {
+      "basename": "NTLite",
+      "path": "03 - AREAS/Technology/Windows/Tools/NTLite.md"
+    },
+    {
+      "basename": "Windows Office ISO",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows Office ISO.md"
+    },
+    {
+      "basename": "Windows System File Checker (SFC)",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows System File Checker (SFC).md"
+    },
+    {
+      "basename": "Windows CMD - Deployment Imaging Service Mangement (DISM)",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows CMD - Deployment Imaging Service Mangement (DISM).md"
+    },
+    {
+      "basename": "Windows CMD - PowerCfg",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows CMD - PowerCfg.md"
+    },
+    {
+      "basename": "Windows CMD - DiskPart",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows CMD - DiskPart.md"
+    },
+    {
+      "basename": "Ventoy",
+      "path": "03 - AREAS/Technology/Windows/Tools/Ventoy.md"
+    },
+    {
+      "basename": "Rufus",
+      "path": "03 - AREAS/Technology/Windows/Tools/Rufus.md"
+    },
+    {
+      "basename": "Device Idle Policy",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/Device Idle Policy.md"
+    },
+    {
+      "basename": "PCI Express",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/PCI Express.md"
+    },
+    {
+      "basename": "Sleep Settings",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/Sleep Settings.md"
+    },
+    {
+      "basename": "Power Configuration (POWERCFG)",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/Power Configuration (POWERCFG).md"
+    },
+    {
+      "basename": "Energy Saver Settings",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/Energy Saver Settings.md"
+    },
+    {
+      "basename": "Lid Settings",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/Lid Settings.md"
+    },
+    {
+      "basename": "Power Controls",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/Power Controls.md"
+    },
+    {
+      "basename": "Hibernation",
+      "path": "03 - AREAS/Technology/Windows/Power Settings/Hibernation.md"
+    },
+    {
+      "basename": "Windows System Image Manager (WSIM)",
+      "path": "03 - AREAS/Technology/Windows/Tools/Windows System Image Manager (WSIM).md"
     },
     {
       "basename": "_README",
-      "path": "Logs/ADRs/_README.md"
+      "path": "03 - AREAS/Technology/Windows/Components/Services/_README.md"
     },
     {
       "basename": "_README",
-      "path": "Lists/Checklists/_README.md"
+      "path": "03 - AREAS/Technology/Windows/Customization/Design/_README.md"
     },
     {
       "basename": "_README",
-      "path": "Life/Projects/_README.md"
+      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/_README.md"
     },
     {
-      "basename": "_README",
-      "path": "Life/Daily/_README.md"
+      "basename": "Wallpaper",
+      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/Themes/Wallpaper.md"
     },
     {
-      "basename": "_README",
-      "path": "Inbox/_README.md"
+      "basename": "Automate OOBE",
+      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/Automate OOBE.md"
     },
     {
-      "basename": "_README",
-      "path": "Code/_README.md"
+      "basename": "OEM Customizations",
+      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/OEM Customizations.md"
     },
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
+      "basename": "Windows Upgrades During OOBE",
+      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/Windows Upgrades During OOBE.md"
     },
     {
-      "basename": "programming",
-      "path": "Assets/Banners/programming.gif"
+      "basename": "OOBE.xml",
+      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/OOBE.xml.md"
     },
     {
-      "basename": "_README",
-      "path": "Logs/TIL/PowerShell/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Logs/TIL/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Guides/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "99 - ARCHIVES/_README.md"
-    },
-    {
-      "basename": "Obsidian Chat",
-      "path": "AI/Obsidian Chat.md"
-    },
-    {
-      "basename": "20230721211417",
-      "path": "AI/chats/20230721211417.md"
-    },
-    {
-      "basename": "Todoist Test",
-      "path": "99 - ARCHIVES/2023/Todoist Test.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/PowerShell Projects/PSClearHost/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/PowerShell Projects/PSProfileTools/_README.md"
-    },
-    {
-      "basename": "Template-Agenda",
-      "path": "Templates/Life-Templates/Template-Agenda.md"
-    },
-    {
-      "basename": "Template-Daily",
-      "path": "Templates/Life-Templates/Template-Daily.md"
-    },
-    {
-      "basename": "Template-Project",
-      "path": "Templates/Life-Templates/Template-Project.md"
-    },
-    {
-      "basename": "Template-Folder-README",
-      "path": "Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "Template-Annual",
-      "path": "Templates/Life-Templates/Template-Annual.md"
-    },
-    {
-      "basename": "PowerShell-Profile",
-      "path": "Life/Projects/PowerShell-Profile.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/Terraform Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/R Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Life/Projects/Python Projects/_README.md"
+      "basename": "Out of Box Experience (OOBE)",
+      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/Out of Box Experience (OOBE).md"
     }
   ],
   "omittedPaths": [],

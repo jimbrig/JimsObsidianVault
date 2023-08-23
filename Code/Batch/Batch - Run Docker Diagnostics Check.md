@@ -8,7 +8,7 @@ Alias: [ "Run Docker Diagnostics Check" ]
 # Run Docker Diagnostics Check
 
 > [!NOTE] About
-> A [[Code/Batch/_README|Batch]] code script that runs the [Docker Desktop Diagnostics Check]() on [[Windows]].
+> A [[Code/Batch/_README|Batch]] code script that runs the [Docker Desktop Diagnostics Check]() on [[Reference/Technology/Computer Science/Operating System/Windows]].
 
 ## Contents
 

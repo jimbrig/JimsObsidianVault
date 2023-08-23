@@ -12,11 +12,11 @@ Alias: [ "PowerShell Profile" ]
 
 ## Overview
 
-The [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] startup `$PROFILE` is an integral piece of a [[Windows]] Developer's Toolbox.
+The [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] startup `$PROFILE` is an integral piece of a [[Reference/Technology/Computer Science/Operating System/Windows]] Developer's Toolbox.
 
 The various components of the `$PROFILE` are initialized at startup for every PowerShell session.
 
-By default, on [[Windows]] the profile(s) are located at:
+By default, on [[Reference/Technology/Computer Science/Operating System/Windows]] the profile(s) are located at:
 
 - `~/Documents/PowerShell` for [[PowerShell Core]]
 - `~/Documents/WindowsPowerShell` for [[Windows PowerShell]]

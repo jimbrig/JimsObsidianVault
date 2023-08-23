@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
+                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md"
+                "file": "03 - AREAS/Technology/Windows/Tools/_README.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md"
+                "file": "03 - AREAS/Technology/Windows/Tools/_README.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
+                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
+                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
+                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,43 +355,43 @@
   },
   "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
-    "03 - AREAS/Technology/Windows/Drivers/Windows Components.md",
-    "03 - AREAS/Technology/Windows/Drivers/Types of Windows Drivers.md",
-    "03 - AREAS/Technology/Windows/Drivers/_README.md",
-    "03 - AREAS/MOCs/MOC - Databases.md",
-    "03 - AREAS/Technology/Windows/Drivers",
-    "03 - AREAS/Technology/Windows",
-    "03 - AREAS/MOCs/MOC - Terraform.md",
-    "03 - AREAS/MOCs/MOC - Obsidian.md",
-    "03 - AREAS/MOCs/MOC - PKM.md",
-    "03 - AREAS/MOCs/MOC - Productivity.md",
-    "03 - AREAS/MOCs/MOC - Cloud.md",
-    "03 - AREAS/MOCs/MOC - Data Engineering.md",
-    "03 - AREAS/MOCs/MOC - Web Development.md",
-    "03 - AREAS/MOCs/MOC - Development.md",
-    "03 - AREAS/MOCs/MOC - R.md",
-    "03 - AREAS/MOCs/MOC - PowerShell.md",
-    "03 - AREAS/MOCs/MOC - Microsoft Windows.md",
-    "03 - AREAS/MOCs/MOC - Technology.md",
-    "Reference/_README.md",
-    "Life/Daily/2023-08-22.md",
-    "Life/Daily/2023-08-21.md",
-    "Life/Daily/2023-08-18.md",
-    "03 - AREAS/Code/Bash/Bash - Initialize Node.js Project Script.md",
-    "03 - AREAS/Code/JavaScript/JavaScript - Node.js - Project Initialization Script.md",
-    "03 - AREAS/Code/Bash",
-    "03 - AREAS/Code/JavaScript",
-    "MOCs/_README.md",
-    "04 - RESOURCES/Sources/ReadWise",
-    "03 - AREAS/MOCs",
-    "Meta/_README.md",
-    "Logs/ADRs/_README.md",
-    "Lists/Checklists/_README.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows PowerTest (PwrTest.exe).md",
+    "03 - AREAS/Technology/Windows/Tools/Windows CMD - Oscdimg.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows CMD - Bootsect.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows CMD - BCDEdit.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows CMD - BCDBoot.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Assessment and Deployment Kit (ADK).md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Setup EXE.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Validation OS.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Factory OS.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Recovery Environment (WinRE).md",
+    "03 - AREAS/Technology/Windows/Tools/_README.md",
+    "03 - AREAS/Technology/Windows/Power Settings/_README.md",
+    "03 - AREAS/Technology/Windows/Hardware/_README.md",
+    "03 - AREAS/Technology/Windows/Components/Drivers/_README.md",
+    "03 - AREAS/Technology/Windows/Customization/_README.md",
+    "03 - AREAS/Technology/Windows/Components/Managing the Component Store.md",
+    "03 - AREAS/Technology/Windows/Components/Secure Boot.md",
+    "03 - AREAS/Technology/Windows/Components/Registry.md",
+    "03 - AREAS/Technology/Windows/Components/Apps and Software.md",
+    "03 - AREAS/Technology/Windows/Components/Windows Updates.md",
+    "03 - AREAS/Technology/Windows/Components/Language Packs.md",
+    "03 - AREAS/Technology/Windows/Components/Features",
+    "03 - AREAS/Technology/Windows/Components",
+    "03 - AREAS/Technology/Windows/Components/Disk Partitions",
+    "03 - AREAS/Technology/Windows/Tools/Windows SysPrep.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Audit Mode.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Pre-Installation Environment (WinPE).md",
+    "03 - AREAS/Technology/Windows/Tools/NTLite.md",
+    "03 - AREAS/Technology/Windows/Tools/Windows Office ISO.md",
+    "03 - AREAS/Technology/Windows/Power Settings",
+    "03 - AREAS/Technology/Windows/Customization/Unattended Setup",
+    "03 - AREAS/Technology/Windows/Customization/Desktop/Themes",
+    "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE",
+    "03 - AREAS/Technology/Windows/Customization/Desktop",
+    "03 - AREAS/Technology/Windows/Hardware/Power Management",
+    "03 - AREAS/Technology/Windows/Hardware",
     "Assets/Banners/programming.gif",
-    "04 - RESOURCES/Sources/AI",
-    "03 - AREAS/Agendas",
-    "04 - RESOURCES/Assets/Images",
-    "04 - RESOURCES/Sources/YouTube",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
 }

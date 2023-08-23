@@ -105,13 +105,13 @@ A `powershell.config.json` file in the `$PSHOME` directory defines the confi
 
 ## Scope Precedence
 
-On [[Windows]], settings managed by [[Windows Group Policy]] take precedence over settings in the configuration file. Group Policy doesn't exist on non-Windows platforms.
+On [[Reference/Technology/Computer Science/Operating System/Windows]], settings managed by [[Windows Group Policy]] take precedence over settings in the configuration file. Group Policy doesn't exist on non-Windows platforms.
 
 After Group Policy, settings defined at the **AllUsers** level take precedence over settings defined for the **CurrentUser** level.
 
 ## Windows Specific Settings
 
-The following settings only apply to [[Windows]] platforms.
+The following settings only apply to [[Reference/Technology/Computer Science/Operating System/Windows]] platforms.
 
 - `DisableImplicitWinCompat`
 - `WindowsPowerShellCompatibilityModuleDenyList`
@@ -135,7 +135,7 @@ For more information, see [about_Windows_PowerShell_Compatibility](https://lear
 ### ExecutionPolicy
 
 > [!info] Important
-> This configuration only applies on [[Windows]] platforms.
+> This configuration only applies on [[Reference/Technology/Computer Science/Operating System/Windows]] platforms.
 
 Configures the execution policy for PowerShell sessions, determining what scripts can be run. By default, PowerShell uses the existing execution policy.
 
@@ -405,7 +405,7 @@ Example:
 ### Internal Linked Notes
 
 - [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
-- [[Windows]]
+- [[Reference/Technology/Computer Science/Operating System/Windows]]
 - [[Microsoft]]
 - [[PowerShell Profile Setup and Best Practices]]
 - [[Configuration Management]]
