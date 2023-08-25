@@ -27,6 +27,8 @@ On [[iOS]], [[Shortcuts]] are stored under the path `/var/mobile/Library/Shortcu
 ## File Extension
 
 - [[iOS]] [[Shortcuts]] use the `.shortcut` format. 
+	- The `.shortcut` file format is a `blist` format, or **Binary Property List (`.blist`)**.
+	- You can rename a `.shortcut` file to use the extension `.plist` to get a `plist` in [[XML]] format (`com.apple.plist`), and from this you can get a file of type `public.json`.
 - On [[iOS]] 12/13/14 devices, a shortcut that's stored on a device can be exported as an unsigned `.shortcut` file by using the `Get My Shortcuts` action (You can use a Save File action to save the output). 
 - iOS 15 is slightly different, however: you can't export shortcuts on device as unsigned shortcuts using Get My Shortcuts, only signed. 
 	- Shortcuts in iOS 15 are signed with Apple Encrypted Archives - learn more about them [here](https://man.cameronkatri.com/macOS/aea). 
