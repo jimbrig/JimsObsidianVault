@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Daily/2023-08-25.md",
+                "file": "00 - INBOX/iOS Shortcuts Reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Daily/2023-08-25.md"
+                "file": "00 - INBOX/iOS Shortcuts Reference.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life/Daily/2023-08-25.md"
+                "file": "00 - INBOX/iOS Shortcuts Reference.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Daily/2023-08-25.md",
+                "file": "00 - INBOX/iOS Shortcuts Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Daily/2023-08-25.md",
+                "file": "00 - INBOX/iOS Shortcuts Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Life/Daily/2023-08-25.md",
+                "file": "00 - INBOX/iOS Shortcuts Reference.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,10 +353,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3e20d2ef390ef148",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "03 - AREAS/Technology/Windows/Tools/_README.md",
+    "Reference/Technology/Computer Science/Operating System/iOS.md",
+    "00 - INBOX/iOS Shortcuts Reference.md",
     "Life/Daily/2023-08-25.md",
+    "03 - AREAS/Technology/Windows/Tools/_README.md",
     "03 - AREAS/Technology/Windows/Tools/Windows PowerTest (PwrTest.exe).md",
     "03 - AREAS/Technology/Windows/Tools/Windows CMD - Oscdimg.md",
     "03 - AREAS/Technology/Windows/Tools/Windows CMD - Bootsect.md",
@@ -382,8 +384,6 @@
     "03 - AREAS/Technology/Windows/Components/Disk Partitions",
     "03 - AREAS/Technology/Windows/Tools/Windows SysPrep.md",
     "03 - AREAS/Technology/Windows/Tools/Windows Audit Mode.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Pre-Installation Environment (WinPE).md",
-    "03 - AREAS/Technology/Windows/Tools/NTLite.md",
     "03 - AREAS/Technology/Windows/Power Settings",
     "03 - AREAS/Technology/Windows/Customization/Unattended Setup",
     "03 - AREAS/Technology/Windows/Customization/Desktop/Themes",

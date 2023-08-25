@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "iOS Shortcuts Reference",
+      "path": "00 - INBOX/iOS Shortcuts Reference.md"
+    },
+    {
+      "basename": "iOS",
+      "path": "Reference/Technology/Computer Science/Operating System/iOS.md"
+    },
+    {
       "basename": "2023-08-25",
       "path": "Life/Daily/2023-08-25.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "OEM Customizations",
       "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/OEM Customizations.md"
-    },
-    {
-      "basename": "Windows Upgrades During OOBE",
-      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/Windows Upgrades During OOBE.md"
-    },
-    {
-      "basename": "OOBE.xml",
-      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/OOBE.xml.md"
     }
   ],
   "omittedPaths": [],
