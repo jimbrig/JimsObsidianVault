@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
+                "file": "Life/Daily/2023-08-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Tools/_README.md"
+                "file": "Life/Daily/2023-08-25.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Tools/_README.md"
+                "file": "Life/Daily/2023-08-25.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
+                "file": "Life/Daily/2023-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
+                "file": "Life/Daily/2023-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             }
           },
           {
-            "id": "cb7b23ff19c71cd8",
+            "id": "37e7658d1a06b0bc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -248,7 +248,7 @@
             }
           },
           {
-            "id": "715e80b95e596d9f",
+            "id": "d660367e763790d3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Technology/Windows/Tools/_README.md",
+                "file": "Life/Daily/2023-08-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,6 +355,8 @@
   },
   "active": "3e20d2ef390ef148",
   "lastOpenFiles": [
+    "03 - AREAS/Technology/Windows/Tools/_README.md",
+    "Life/Daily/2023-08-25.md",
     "03 - AREAS/Technology/Windows/Tools/Windows PowerTest (PwrTest.exe).md",
     "03 - AREAS/Technology/Windows/Tools/Windows CMD - Oscdimg.md",
     "03 - AREAS/Technology/Windows/Tools/Windows CMD - Bootsect.md",
@@ -365,7 +367,6 @@
     "03 - AREAS/Technology/Windows/Tools/Windows Validation OS.md",
     "03 - AREAS/Technology/Windows/Tools/Windows Factory OS.md",
     "03 - AREAS/Technology/Windows/Tools/Windows Recovery Environment (WinRE).md",
-    "03 - AREAS/Technology/Windows/Tools/_README.md",
     "03 - AREAS/Technology/Windows/Power Settings/_README.md",
     "03 - AREAS/Technology/Windows/Hardware/_README.md",
     "03 - AREAS/Technology/Windows/Components/Drivers/_README.md",
@@ -383,7 +384,6 @@
     "03 - AREAS/Technology/Windows/Tools/Windows Audit Mode.md",
     "03 - AREAS/Technology/Windows/Tools/Windows Pre-Installation Environment (WinPE).md",
     "03 - AREAS/Technology/Windows/Tools/NTLite.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Office ISO.md",
     "03 - AREAS/Technology/Windows/Power Settings",
     "03 - AREAS/Technology/Windows/Customization/Unattended Setup",
     "03 - AREAS/Technology/Windows/Customization/Desktop/Themes",

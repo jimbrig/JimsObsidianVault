@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-08-25",
+      "path": "Life/Daily/2023-08-25.md"
+    },
+    {
       "basename": "_README",
       "path": "03 - AREAS/Technology/Windows/Tools/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "OOBE.xml",
       "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/OOBE.xml.md"
-    },
-    {
-      "basename": "Out of Box Experience (OOBE)",
-      "path": "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE/Out of Box Experience (OOBE).md"
     }
   ],
   "omittedPaths": [],

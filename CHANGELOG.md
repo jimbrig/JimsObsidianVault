@@ -1,3 +1,4 @@
+- 2023-08-25 at 16h04 · [[2023-08-25]]
 - 2023-08-22 at 20h13 · [[Windows PowerTest (PwrTest.exe)]]
 - 2023-08-22 at 20h11 · [[Windows CMD - Oscdimg]]
 - 2023-08-22 at 20h11 · [[Windows CMD - Bootsect]]
@@ -47,4 +48,3 @@
 - 2023-08-22 at 20h01 · [[Lid Settings]]
 - 2023-08-22 at 20h00 · [[Power Controls]]
 - 2023-08-22 at 20h00 · [[Hibernation]]
-- 2023-08-22 at 20h00 · [[_README]]
