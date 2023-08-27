@@ -71,6 +71,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0811f0d15cf46181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -253,7 +266,7 @@
             }
           },
           {
-            "id": "bb39ece461003745",
+            "id": "df73adcf8812ff2f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -261,14 +274,15 @@
             }
           },
           {
-            "id": "1978c7e6b7828d84",
+            "id": "334584b905fb1ca7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 12
       },
       {
         "id": "1ac3153552315a07",
@@ -365,8 +379,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a7bbfe14974ba1eb",
+  "active": "334584b905fb1ca7",
   "lastOpenFiles": [
+    "Code/VBS/src/Copy-File-URI.vbs",
+    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+    "Code/VBS/VBS - Copy File URI.md",
+    "Code/VBS/_README.md",
+    "Code/VBS/src/copy-file-uri.vbs",
+    "Code/VBS/src",
+    "Code/_README.md",
+    "Code/VBS",
     "Life/Daily/2023-08-26.md",
     "Reference/Technology/Computer Science/Operating System/iOS.md",
     "00 - INBOX/iOS Shortcuts Reference.md",
@@ -388,21 +410,13 @@
     "03 - AREAS/Technology/Windows/Customization/_README.md",
     "03 - AREAS/Technology/Windows/Components/Managing the Component Store.md",
     "03 - AREAS/Technology/Windows/Components/Secure Boot.md",
-    "03 - AREAS/Technology/Windows/Components/Registry.md",
-    "03 - AREAS/Technology/Windows/Components/Apps and Software.md",
-    "03 - AREAS/Technology/Windows/Components/Windows Updates.md",
-    "03 - AREAS/Technology/Windows/Components/Language Packs.md",
     "03 - AREAS/Technology/Windows/Components/Features",
     "03 - AREAS/Technology/Windows/Components",
     "03 - AREAS/Technology/Windows/Components/Disk Partitions",
-    "03 - AREAS/Technology/Windows/Tools/Windows SysPrep.md",
     "03 - AREAS/Technology/Windows/Power Settings",
     "03 - AREAS/Technology/Windows/Customization/Unattended Setup",
     "03 - AREAS/Technology/Windows/Customization/Desktop/Themes",
     "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE",
-    "03 - AREAS/Technology/Windows/Customization/Desktop",
-    "03 - AREAS/Technology/Windows/Hardware/Power Management",
-    "03 - AREAS/Technology/Windows/Hardware",
     "Assets/Banners/programming.gif",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
