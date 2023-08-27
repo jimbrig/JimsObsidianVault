@@ -60,5 +60,9 @@
   "khoj",
   "embed-code-file",
   "waypoint",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "obsidian-advanced-uri",
+  "obsidian-file-path-to-uri",
+  "actions-uri",
+  "uri-commands"
 ]

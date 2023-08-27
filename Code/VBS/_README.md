@@ -2,7 +2,7 @@
 Date: 2023-08-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "VBS" ]
+Alias: [ "VBS", "VBScript", "Visual Basic", "Visual Basic Code", "VBS Code" ]
 ---
 
 # Visual Basic (VBS) Code

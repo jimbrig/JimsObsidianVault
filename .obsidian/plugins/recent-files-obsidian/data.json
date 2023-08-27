@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-08-26",
-      "path": "Life/Daily/2023-08-26.md"
-    },
-    {
       "basename": "VBS - Copy File URI",
       "path": "Code/VBS/VBS - Copy File URI.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/VBS/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Code/PowerShell/_README.md"
     },
     {
       "basename": "PowerShell - Add-GodModeShortcut",
       "path": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
     },
     {
-      "basename": "_README",
-      "path": "Code/VBS/_README.md"
+      "basename": "Template-Folder-README",
+      "path": "Templates/Utility-Templates/Template-Folder-README.md"
+    },
+    {
+      "basename": "2023-08-26",
+      "path": "Life/Daily/2023-08-26.md"
     },
     {
       "basename": "_README",
@@ -191,14 +199,6 @@
     {
       "basename": "Hibernation",
       "path": "03 - AREAS/Technology/Windows/Power Settings/Hibernation.md"
-    },
-    {
-      "basename": "Windows System Image Manager (WSIM)",
-      "path": "03 - AREAS/Technology/Windows/Tools/Windows System Image Manager (WSIM).md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Technology/Windows/Components/Services/_README.md"
     }
   ],
   "omittedPaths": [],

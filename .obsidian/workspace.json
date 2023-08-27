@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Daily/2023-08-26.md",
+                "file": "Code/VBS/VBS - Copy File URI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+                "file": "Code/VBS/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Daily/2023-08-26.md"
+                "file": "Code/VBS/VBS - Copy File URI.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Life/Daily/2023-08-26.md"
+                "file": "Code/VBS/VBS - Copy File URI.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Daily/2023-08-26.md",
+                "file": "Code/VBS/VBS - Copy File URI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Daily/2023-08-26.md",
+                "file": "Code/VBS/VBS - Copy File URI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Life/Daily/2023-08-26.md",
+                "file": "Code/VBS/VBS - Copy File URI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -362,7 +362,6 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "smart-random-note:Open Random Note from Search": false,
@@ -376,20 +375,23 @@
       "ai-summary:Summarize referenced notes": false,
       "periodic-notes:Open today's daily note": false,
       "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "334584b905fb1ca7",
+  "active": "a7bbfe14974ba1eb",
   "lastOpenFiles": [
-    "Code/VBS/src/Copy-File-URI.vbs",
-    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Code/VBS/VBS - Copy File URI.md",
     "Code/VBS/_README.md",
+    "Code/PowerShell/_README.md",
+    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+    "Templates/Utility-Templates/Template-Folder-README.md",
+    "Code/VBS/VBS - Copy File URI.md",
+    "Life/Daily/2023-08-26.md",
+    "Code/VBS/src/Copy-File-URI.vbs",
     "Code/VBS/src/copy-file-uri.vbs",
     "Code/VBS/src",
     "Code/_README.md",
     "Code/VBS",
-    "Life/Daily/2023-08-26.md",
     "Reference/Technology/Computer Science/Operating System/iOS.md",
     "00 - INBOX/iOS Shortcuts Reference.md",
     "Life/Daily/2023-08-25.md",
@@ -409,14 +411,12 @@
     "03 - AREAS/Technology/Windows/Components/Drivers/_README.md",
     "03 - AREAS/Technology/Windows/Customization/_README.md",
     "03 - AREAS/Technology/Windows/Components/Managing the Component Store.md",
-    "03 - AREAS/Technology/Windows/Components/Secure Boot.md",
     "03 - AREAS/Technology/Windows/Components/Features",
     "03 - AREAS/Technology/Windows/Components",
     "03 - AREAS/Technology/Windows/Components/Disk Partitions",
     "03 - AREAS/Technology/Windows/Power Settings",
     "03 - AREAS/Technology/Windows/Customization/Unattended Setup",
     "03 - AREAS/Technology/Windows/Customization/Desktop/Themes",
-    "03 - AREAS/Technology/Windows/Customization/Desktop/OOBE",
     "Assets/Banners/programming.gif",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]
