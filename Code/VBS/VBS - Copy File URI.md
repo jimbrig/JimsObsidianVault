@@ -63,6 +63,8 @@ The script can be integrated into the [[Windows]] File Explorer [[Context Menu]]
 *Note created on [[2023-08-26]] and last modified on [[2023-08-26]].*
 
 > [!INFO] See Also:
+> - [URI schemes - UWP applications | Microsoft Learn](https://learn.microsoft.com/en-us/windows/uwp/app-resources/uri-schemes)
+> - 
 > - [[PowerShell - ConvertTo-FilePathURI]]
 > - [[DotNet - AbsoluteURIGenerator]]
 > - [[Obsidian Advanced URI Plugin]]
