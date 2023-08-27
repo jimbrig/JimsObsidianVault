@@ -58,9 +58,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a7bbfe14974ba1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Daily/2023-08-26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/iOS Shortcuts Reference.md"
+                "file": "Life/Daily/2023-08-26.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/iOS Shortcuts Reference.md"
+                "file": "Life/Daily/2023-08-26.md"
               }
             }
           },
@@ -166,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/iOS Shortcuts Reference.md",
+                "file": "Life/Daily/2023-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/iOS Shortcuts Reference.md",
+                "file": "Life/Daily/2023-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +253,7 @@
             }
           },
           {
-            "id": "37e7658d1a06b0bc",
+            "id": "bb39ece461003745",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -248,7 +261,7 @@
             }
           },
           {
-            "id": "d660367e763790d3",
+            "id": "1978c7e6b7828d84",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -269,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/iOS Shortcuts Reference.md",
+                "file": "Life/Daily/2023-08-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,8 +366,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "a7bbfe14974ba1eb",
   "lastOpenFiles": [
+    "Life/Daily/2023-08-26.md",
     "Reference/Technology/Computer Science/Operating System/iOS.md",
     "00 - INBOX/iOS Shortcuts Reference.md",
     "Life/Daily/2023-08-25.md",
@@ -383,7 +397,6 @@
     "03 - AREAS/Technology/Windows/Components",
     "03 - AREAS/Technology/Windows/Components/Disk Partitions",
     "03 - AREAS/Technology/Windows/Tools/Windows SysPrep.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Audit Mode.md",
     "03 - AREAS/Technology/Windows/Power Settings",
     "03 - AREAS/Technology/Windows/Customization/Unattended Setup",
     "03 - AREAS/Technology/Windows/Customization/Desktop/Themes",

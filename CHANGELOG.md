@@ -1,3 +1,4 @@
+- 2023-08-26 at 20h49 · [[2023-08-26]]
 - 2023-08-25 at 16h40 · [[iOS Shortcuts Reference]]
 - 2023-08-25 at 16h06 · [[iOS]]
 - 2023-08-25 at 16h04 · [[2023-08-25]]
@@ -47,4 +48,3 @@
 - 2023-08-22 at 20h01 · [[Sleep Settings]]
 - 2023-08-22 at 20h01 · [[Power Configuration (POWERCFG)]]
 - 2023-08-22 at 20h01 · [[Energy Saver Settings]]
-- 2023-08-22 at 20h01 · [[Lid Settings]]
