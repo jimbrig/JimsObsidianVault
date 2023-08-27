@@ -268,8 +268,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "1ac3153552315a07",
@@ -332,7 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
