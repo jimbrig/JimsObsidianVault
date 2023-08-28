@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/VBS/VBS - Copy File URI.md",
+                "file": "Life/Daily/2023-08-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/VBS/VBS - Copy File URI.md"
+                "file": "Life/Daily/2023-08-28.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Code/VBS/VBS - Copy File URI.md"
+                "file": "Life/Daily/2023-08-28.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/VBS/VBS - Copy File URI.md",
+                "file": "Life/Daily/2023-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/VBS/VBS - Copy File URI.md",
+                "file": "Life/Daily/2023-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             }
           },
           {
-            "id": "df73adcf8812ff2f",
+            "id": "9e2da752782faf54",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -274,7 +274,7 @@
             }
           },
           {
-            "id": "334584b905fb1ca7",
+            "id": "2cf88f743f0c7800",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -295,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/VBS/VBS - Copy File URI.md",
+                "file": "Life/Daily/2023-08-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -374,18 +374,19 @@
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
       "periodic-notes:Open today's daily note": false,
+      "homepage:Open homepage": false,
       "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "homepage:Open homepage": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "a7bbfe14974ba1eb",
   "lastOpenFiles": [
+    "Code/VBS/VBS - Copy File URI.md",
+    "Life/Daily/2023-08-28.md",
     "Code/VBS/_README.md",
     "Code/PowerShell/_README.md",
     "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "Templates/Utility-Templates/Template-Folder-README.md",
-    "Code/VBS/VBS - Copy File URI.md",
     "Life/Daily/2023-08-26.md",
     "Code/VBS/src/Copy-File-URI.vbs",
     "Code/VBS/src/copy-file-uri.vbs",
@@ -410,7 +411,6 @@
     "03 - AREAS/Technology/Windows/Hardware/_README.md",
     "03 - AREAS/Technology/Windows/Components/Drivers/_README.md",
     "03 - AREAS/Technology/Windows/Customization/_README.md",
-    "03 - AREAS/Technology/Windows/Components/Managing the Component Store.md",
     "03 - AREAS/Technology/Windows/Components/Features",
     "03 - AREAS/Technology/Windows/Components",
     "03 - AREAS/Technology/Windows/Components/Disk Partitions",
