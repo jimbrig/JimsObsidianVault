@@ -26,12 +26,22 @@ The problem is, we put things into notes _because_ we don't know what we'll us
 
 ## Structure
 
-```text
-
+```powershell
+PS> Show-Tree -Depth 1
+# JimsVault
+D:\Source\obsidian\JimsVault
++--.devcontainer
++--.github
++--.obsidian
++--.pytest_cache
++--.smart-connections
++--.src
++--.venv
++--.vscode
++--00 - INBOX
++--01 - SLIPBOX
++--02 - PROJECTS
++--03 - AREAS
++--04 - RESOURCES
+\--99 - ARCHIVES
 ```
-
-- [AI](./AI/)
-- [Assets](./Assets/)
-
-- [Inbox](./Inbox/)
-
