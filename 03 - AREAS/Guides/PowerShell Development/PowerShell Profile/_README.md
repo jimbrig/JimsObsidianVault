@@ -12,7 +12,7 @@ Alias: [ "PowerShell Profile" ]
 
 ## Overview
 
-The [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] startup `$PROFILE` is an integral piece of a [[Reference/Technology/Computer Science/Operating System/Windows]] Developer's Toolbox.
+The [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] startup `$PROFILE` is an integral piece of a [[Reference/Technology/Computer Science/Operating System/Windows]] Developer's Toolbox.
 
 The various components of the `$PROFILE` are initialized at startup for every PowerShell session.
 
@@ -26,9 +26,9 @@ By default, on [[Reference/Technology/Computer Science/Operating System/Windows]
 
 ## Backup and Version Control
 
-As a developer, you should keep your [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] profile(s) under [[Version Control]] along with your other System [[Dotfiles]].
+As a developer, you should keep your [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] profile(s) under [[Version Control]] along with your other System [[Dotfiles]].
 
-A good standard is to create a root-home-level `~/.dotfiles` directory that is tracked by [[Tools/Tools - Version Control/Git]] and hosted on [[Tools/Tools - Version Control/Github]] which contains the various [[Dotfiles]] on the machine for that user.
+A good standard is to create a root-home-level `~/.dotfiles` directory that is tracked by [[03 - AREAS/Tools/Tools - Version Control/Git]] and hosted on [[03 - AREAS/Tools/Tools - Version Control/Github]] which contains the various [[Dotfiles]] on the machine for that user.
 
 For example, to add the [[PowerShell Core]] profile to your dotfiles you would run:
 

@@ -1,0 +1,31 @@
+version: "3.3"
+
+services:
+
+  obsidian:
+    image: 'ghcr.io/sytone/obsidian-remote:latest'
+    container_name: obsidianremote
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - ../../:/obsidian
+      - ../../.obsidian:/config
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+      - DOCKER_MODS=linuxserver/mods:universal-git
+
+  wikmd:
+    image: linbreux/wikmd:latest
+    container_name: wikmd
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - /../:/wiki
+    ports:
+      - 5000:5000
+    restart: unless-stopped

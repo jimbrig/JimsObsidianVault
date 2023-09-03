@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "628ce30efee087aa",
+        "id": "2454e3f43bdf31f3",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e9a698404bffc4",
+            "id": "7ebf327903ce0f2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Guides/Windows/Windows Network Diagnostics.md",
+                "file": "03 - AREAS/Code/R/R - Setup ShinyApps.io Accounts.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2ec5dba8521dfd79",
+            "id": "ffa684b47673ebaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Life-Templates/Template-Daily.md",
+                "file": "03 - AREAS/Journal/Daily/2023-08-31.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,51 +34,12 @@
             }
           },
           {
-            "id": "3e20d2ef390ef148",
+            "id": "822beb0ea3432cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/iOS Shortcuts Reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d8416e28bde7230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Utility-Templates/Template-Folder-README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7bbfe14974ba1eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Daily/2023-08-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0811f0d15cf46181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/VBS/_README.md",
+                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +76,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Online Developer",
+                "query": "database gui",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -156,103 +117,13 @@
         "dimension": 45.88859416445623,
         "children": [
           {
-            "id": "c241af3ac9a6dc5a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "46618e96c808bc14",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Daily/2023-08-28.md"
+                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md"
               }
-            }
-          },
-          {
-            "id": "a4ba8e17a657ca78",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Life/Daily/2023-08-28.md"
-              }
-            }
-          },
-          {
-            "id": "d3d8b0fac4b0becf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Life/Daily/2023-08-28.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1954e3c8892f8dcd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Life/Daily/2023-08-28.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "68a4def191935582",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "976919bdc93ab223",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3833e65a15eeb69",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "6787ac77a355e911",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "cfbb3826daaa4016",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -266,7 +137,28 @@
             }
           },
           {
-            "id": "9e2da752782faf54",
+            "id": "625c3aadb9ceec12",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md"
+              }
+            }
+          },
+          {
+            "id": "c241af3ac9a6dc5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0185feaed1590be2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -274,15 +166,14 @@
             }
           },
           {
-            "id": "2cf88f743f0c7800",
+            "id": "332e36ccdf79a4d1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "1ac3153552315a07",
@@ -295,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Life/Daily/2023-08-28.md",
+                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,13 +230,90 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "68a4def191935582",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3d8b0fac4b0becf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1954e3c8892f8dcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3833e65a15eeb69",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "976919bdc93ab223",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfbb3826daaa4016",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6787ac77a355e911",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "163ac7be4de711a0",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -366,7 +334,6 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "smart-random-note:Open Random Note from Search": false,
       "workbench-obsidian:Workbench": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "open-vscode:VSCode": false,
       "obsidian-omnivore:Omnivore": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
@@ -375,48 +342,51 @@
       "ai-summary:Summarize referenced notes": false,
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "khoj:Khoj": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a7bbfe14974ba1eb",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "Code/VBS/VBS - Copy File URI.md",
-    "Life/Daily/2023-08-28.md",
-    "Code/VBS/_README.md",
-    "Code/PowerShell/_README.md",
-    "Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Templates/Utility-Templates/Template-Folder-README.md",
-    "Life/Daily/2023-08-26.md",
-    "Code/VBS/src/Copy-File-URI.vbs",
-    "Code/VBS/src/copy-file-uri.vbs",
-    "Code/VBS/src",
-    "Code/_README.md",
-    "Code/VBS",
-    "Reference/Technology/Computer Science/Operating System/iOS.md",
-    "00 - INBOX/iOS Shortcuts Reference.md",
-    "Life/Daily/2023-08-25.md",
-    "03 - AREAS/Technology/Windows/Tools/_README.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows PowerTest (PwrTest.exe).md",
-    "03 - AREAS/Technology/Windows/Tools/Windows CMD - Oscdimg.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows CMD - Bootsect.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows CMD - BCDEdit.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows CMD - BCDBoot.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Assessment and Deployment Kit (ADK).md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Setup EXE.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Validation OS.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Factory OS.md",
-    "03 - AREAS/Technology/Windows/Tools/Windows Recovery Environment (WinRE).md",
-    "03 - AREAS/Technology/Windows/Power Settings/_README.md",
-    "03 - AREAS/Technology/Windows/Hardware/_README.md",
-    "03 - AREAS/Technology/Windows/Components/Drivers/_README.md",
-    "03 - AREAS/Technology/Windows/Customization/_README.md",
-    "03 - AREAS/Technology/Windows/Components/Features",
-    "03 - AREAS/Technology/Windows/Components",
-    "03 - AREAS/Technology/Windows/Components/Disk Partitions",
-    "03 - AREAS/Technology/Windows/Power Settings",
-    "03 - AREAS/Technology/Windows/Customization/Unattended Setup",
-    "03 - AREAS/Technology/Windows/Customization/Desktop/Themes",
+    "03 - AREAS/Code/PowerShell/src/Upgrade-WinGetPackages.ps1",
+    "03 - AREAS/Code/Snippets/src/Upgrade-Winget.ps1",
+    "03 - AREAS/Code/Snippets/src",
+    "03 - AREAS/Code/Snippets/_README.md",
+    "03 - AREAS/Code/Snippets",
+    "03 - AREAS/Tools/Tools - NPM/NPM - data-cli.md",
+    "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
+    "03 - AREAS/Tools/Tools - NPM/NPM - mermaid-cli.md",
+    "03 - AREAS/Tools/Tools - NPM/NPM - tfx-cli.md",
+    "03 - AREAS/Tools/Tools - NPM/_README.md",
+    "03 - AREAS/Journal/Daily/2023-09-03.md",
+    "03 - AREAS/Tools/Tools - NPM",
+    "03 - AREAS/Journal/Daily/2023-09-01.md",
+    "03 - AREAS/Code/R/R - Setup ShinyApps.io Accounts.md",
+    "03 - AREAS/Journal/Daily/2023-08-31.md",
+    "00 - INBOX/How To Add Custom Sub-Domain for a Netlify Site.md",
+    "03 - AREAS/Finances",
+    "03 - AREAS/Friends",
+    "03 - AREAS/Family",
+    "03 - AREAS/Health",
+    "03 - AREAS/Product Development",
+    "03 - AREAS/Tools/Tools - Windows/Utility/_README.md",
+    "03 - AREAS/Tools/Tools - Windows/Utility/ViveTool GUI.md",
+    "03 - AREAS/Code/_README.md",
+    "03 - AREAS/_README.md",
+    "03 - AREAS/Code/R/src/shinyappsio/config.yml",
+    "03 - AREAS/Tools/Tools - R/R - packagepal.md",
+    "03 - AREAS/Tools/Tools - R/R - S7.md",
+    "03 - AREAS/Journal/Daily/2023-08-30.md",
+    "03 - AREAS/Tools/Tools - R/R - rworkflows.md",
+    "03 - AREAS/Tools/_README.md",
+    "03 - AREAS/Tools/Tools - R/R - usethis.md",
+    "03 - AREAS/Tools/Tools - Dotfiles/_README.md",
+    "03 - AREAS/Tools/Tools - CLI/Tools - Command Line Productivity.md",
+    "03 - AREAS/Tools/Tools - CLI/CLI - act.md",
+    "03 - AREAS/Tools/Tools - R/R - modules.md",
+    "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
+    "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
   ]

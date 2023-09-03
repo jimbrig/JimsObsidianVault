@@ -26,7 +26,7 @@ alias: [
 > - [PowerShell Desired State Configuration (DSC) - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/dsc/overview?view=powershell-7.3)
 > - [Desired State Configuration 2.0 - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/dsc/overview?view=dsc-2.0)
 
-[[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] *Desired State Configuration*, or `DSC` is a management platform in [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]].
+[[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] *Desired State Configuration*, or `DSC` is a management platform in [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]].
 
 ## Components
 

@@ -4,6 +4,6 @@
   "modelName": "gpt-3.5-turbo",
   "maxTokens": 500,
   "replaceSelection": true,
-  "imgFolder": "Assets",
-  "language": ""
+  "imgFolder": "04 - Resources/Assets/Images",
+  "language": "en"
 }

@@ -1,12 +1,12 @@
 {
   "apiKey": "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",
-  "defaultChatFrontmatter": "---\nsystem_commands: ['I am a helpful assistant.']\ntemperature: 0\ntop_p: 1\nmax_tokens: 512\npresence_penalty: 1\nfrequency_penalty: 1\nstream: true\nstop: null\nn: 1\nmodel: gpt-3.5-turbo\n---",
+  "defaultChatFrontmatter": "---\nSystemCommands: ['I am a helpful assistant.']\nTemperature: 0\nTopP: 1\nMaxTokens: 512\nPresencePenalty: 1\nFrequencyPenalty: 1\nStream: true\nStop: null\nn: 1\nModel: gpt-3.5-turbo\n---",
   "stream": true,
-  "chatTemplateFolder": "Templates/AI",
+  "chatTemplateFolder": "04 - RESOURCES/Templates/AI-Templates",
   "chatFolder": "AI/Chats",
   "generateAtCursor": false,
   "autoInferTitle": true,
-  "dateFormat": "YYYYMMDDhhmmss",
+  "dateFormat": "YYYY-MM-DD",
   "headingLevel": 0,
   "inferTitleLanguage": "English"
 }

@@ -14,7 +14,7 @@ Alias: [ "How to use DISKPART", "Windows DISKPART Guide" ]
 
 [[Reference/Technology/Computer Science/Operating System/Windows]] comes with a built-in tool— **Disk Management** —that offers a complete solution to manage hard disks on the computer. 
 
-You can use it to shrink volumes, increase volume or portion size, create new ones, and so on. The user interface is built using a set of commands— **[[Windows CMD - DiskPart]]** — that works on [[Reference/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] or [[Command Prompt]]. It comes in handy when you need to run complex commands and work with the virtual hard disk. Diskpart utility has a list of commands that one can use that are shared below.
+You can use it to shrink volumes, increase volume or portion size, create new ones, and so on. The user interface is built using a set of commands— **[[Windows CMD - DiskPart]]** — that works on [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] or [[Command Prompt]]. It comes in handy when you need to run complex commands and work with the virtual hard disk. Diskpart utility has a list of commands that one can use that are shared below.
 
 ## List of DISKPART Commands
 
@@ -106,7 +106,7 @@ clean
 
 - [[Windows CMD - DiskPart]]
 - [[FSUTIL]]
-- [[Code/CMD/_README|Command Line]]
+- [[03 - AREAS/Code/Cmd/_README|Command Line]]
 - [[03 - AREAS/Guides/Windows/_README|Windows]]
 - [[Microsoft]]
 - [[MOC - Software]]

@@ -1,7 +1,8 @@
 {
   "callouts": {
     "custom": [
-      "source"
+      "source",
+      "video"
     ],
     "settings": {
       "source": [
@@ -22,6 +23,14 @@
           },
           "changes": {
             "color": "0, 255, 238"
+          }
+        }
+      ],
+      "video": [
+        {
+          "changes": {
+            "icon": "lucide-file-video",
+            "color": "166, 255, 0"
           }
         }
       ]

@@ -2,9 +2,7 @@
   "accentColor": "#0ce208",
   "cssTheme": "GitHub Theme",
   "showViewHeader": true,
-  "enabledCssSnippets": [
-    "MCL Multi Column"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSize": 15,
   "nativeMenus": false
 }

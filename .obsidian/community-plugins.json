@@ -64,5 +64,7 @@
   "obsidian-advanced-uri",
   "obsidian-file-path-to-uri",
   "actions-uri",
-  "uri-commands"
+  "uri-commands",
+  "obsidian-related-notes-finder",
+  "obsidian-footnotes"
 ]

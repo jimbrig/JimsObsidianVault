@@ -1,9 +1,110 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "fa2be7e9-4ef0-42be-8026-f2f787e83c7d",
+      "name": "Capture to Daily Note - Log",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "03 - AREAS/Journal/Daily/{{DATE:YYYY-MM-DD}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "04 - RESOURCES/Templates/Life-Templates/Template-Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n- {{VALUE}} (*Logged at {{time}}*)\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Journal",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "49562437-6132-4b9d-8129-43b9c8df24fb",
+      "name": "Capture to Daily Note - Discovery",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "03 - AREAS/Journal/Daily/{{DATE:YYYY-MM-DD}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "04 - RESOURCES/Templates/Life-Templates/Template-Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n- [[{{value}}]] (*Discovered at {{time}}*)\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Discoveries",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "af2dfd9f-37fd-4ad2-aa4b-5a425d4bf193",
+      "name": "New Tool",
+      "type": "Template",
+      "command": true,
+      "templatePath": "04 - RESOURCES/Templates/Tool-Templates/Template-Tool.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Tool - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 - AREAS/Tools"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": true
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "04 - RESOURCES/Templates",
   "announceUpdates": true,
   "version": "1.2.1",
   "disableOnlineFeatures": true,

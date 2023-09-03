@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "04 - RESOURCES/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Life/Daily",
-      "template": "Templates/Life-Templates/Template-Daily.md"
+      "folder": "03 - AREAS/Journal/Daily",
+      "template": "04 - RESOURCES/Templates/Life-Templates/Template-Daily.md"
+    },
+    {
+      "folder": "03 - AREAS/Tools/Tools - IDEs and Editors",
+      "template": "04 - RESOURCES/Templates/Tool-Templates/Template - Tool - IDE.md"
     }
   ],
   "syntax_highlighting": true,

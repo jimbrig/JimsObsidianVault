@@ -962,7 +962,7 @@ var MermaidElementService = class {
     plugin.saveSettings();
   }
   fixSortOrder(element, plugin) {
-    var elementsFromSameCategory = plugin.settings.elements.filter((element2) => element2.category === element2.category);
+    let elementsFromSameCategory = plugin.settings.elements.filter((element2) => element2.category === element2.category);
     if (elementsFromSameCategory.some((element2) => element2.sortingOrder === element2.sortingOrder)) {
       element.sortingOrder = elementsFromSameCategory.length;
     }
@@ -1018,7 +1018,7 @@ var MermaidPluginSettings = class {
     this.categories = ElementCategory;
   }
   static DefaultSettings() {
-    var settings = new MermaidPluginSettings();
+    let settings = new MermaidPluginSettings();
     settings.elements = defaultElements;
     settings.selectedCategory = "Flowchart" /* Flowchart */;
     return settings;
@@ -1104,20 +1104,17 @@ var EditMermaidElementModal = class extends import_obsidian2.Modal {
     elementContentEl.style.height = "200px";
     elementContentEl.style.width = "100%";
     elementContentEl.onchange = async (e) => {
-      this._element.content = elementContentEl.value;
-      await this._mermaid.render(renderEl.id, this._plugin._mermaidElementService.wrapAsCompleteDiagram(this._element), (svg, bindFunctions) => {
-        renderEl.innerHTML = svg;
-        renderContainerEl.appendChild(renderEl);
-      });
+      let { svg: svg2 } = await this._mermaid.render(renderEl.id, this._plugin._mermaidElementService.wrapAsCompleteDiagram(this._element));
+      renderEl.innerHTML = svg2;
+      renderContainerEl.appendChild(renderEl);
     };
     let saveButtonEl = contentEl.createEl("button", { text: "Save" });
     saveButtonEl.onclick = (e) => {
       this.save();
     };
-    await this._mermaid.render(renderEl.id, this._plugin._mermaidElementService.wrapAsCompleteDiagram(this._element), (svg, bindFunctions) => {
-      renderEl.innerHTML = svg;
-      renderContainerEl.appendChild(renderEl);
-    });
+    let { svg } = await this._mermaid.render(renderEl.id, this._plugin._mermaidElementService.wrapAsCompleteDiagram(this._element));
+    renderEl.innerHTML = svg;
+    renderContainerEl.appendChild(renderEl);
   }
   save() {
     this._plugin._mermaidElementService.saveElement(this._element, this._plugin);
@@ -1296,10 +1293,11 @@ async function recreateElementsSection(sectionContainer, category, items, onElCl
   filteredSortedItems.forEach(async (elem, index) => {
     let el = createToolbarElement(sectionContainer);
     el.id = `mermaid-toolbar-element-${elem.category}-${index}`;
-    await mermaid.mermaidAPI.render(el.id, elemService.wrapAsCompleteDiagram(elem), (svg, bindFunctions) => {
-      el.innerHTML = svg;
-    });
+    console.log("toolbar element:", el, el.id);
+    let { svg } = await mermaid.render(el.id, elemService.wrapAsCompleteDiagram(elem));
+    el.innerHTML = svg;
     el.onclick = (e) => onElClick(elem.content);
+    sectionContainer.appendChild(el);
   });
 }
 function createToolbarElement(parentEl) {
@@ -1323,7 +1321,7 @@ var _MermaidToolbarView = class extends import_obsidian5.ItemView {
     super(leaf);
     this.topRowButtons = [
       new MermaidToolbarButton("insert Mermaid code block with sample diagram", "code-2", () => this.insertTextAtCursor(this._plugin._mermaidElementService.getSampleDiagram(this._plugin.settings.selectedCategory))),
-      new MermaidToolbarButton("open Mermaid.js documentation web page", "external-link", () => window.open("https://mermaid-js.github.io/mermaid/#/")),
+      new MermaidToolbarButton("open Mermaid.js documentation web page", "external-link", () => window.open("https://mermaid.js.org/intro/")),
       new MermaidToolbarButton("open settings", "settings", () => {
         this.app.setting.open();
         this.app.setting.openTabById("mermaid-tools");
@@ -1341,7 +1339,7 @@ var _MermaidToolbarView = class extends import_obsidian5.ItemView {
   async recreateToolbar(selectedCategory) {
     const container = this.containerEl.children[1];
     container.empty();
-    var toolbarElement = await createMermaidToolbar(this.topRowButtons, this.items, selectedCategory, async (newCat) => {
+    let toolbarElement = await createMermaidToolbar(this.topRowButtons, this.items, selectedCategory, async (newCat) => {
       this._plugin.settings.selectedCategory = newCat;
       this._plugin.saveSettings();
       await this.recreateToolbar(this._plugin.settings.selectedCategory);

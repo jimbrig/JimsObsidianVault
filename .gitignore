@@ -1,4 +1,38 @@
-.obsidian/todoist-token
+# Obsidian
+
+# Ignore certain obsidian config files
+.obsidian/workspace.json
+
+# Ignore Vault Stats folder because it is updated frequently
+.vault-stats
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
+
+# Misc
+desktop.files.json
+
+# Temp/Archive/Trash
+.trash
+.archive
+temp
+tmp
+.tmp
+
+# Backups
+*.bak
+
+# Python
+.venv
+*.pyc
+
+# Node
+/node_modules
+/npm-debug.log
+
+# Cargo
+/target
+/src
 
 # Windows thumbnail cache files
 Thumbs.db
@@ -24,7 +58,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-
-# Ignore Smart Connections folder because embeddings file is large and updated frequently
-.smart-connections

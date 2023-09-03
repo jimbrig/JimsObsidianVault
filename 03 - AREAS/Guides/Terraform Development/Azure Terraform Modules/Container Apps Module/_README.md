@@ -14,7 +14,7 @@ Alias: [ "Container Apps Module" ]
 
 1. Create an [[Azure Container Apps Environment]]
 2. Create an [[Azure Container Registry]]
-3. Package a [[Node.js]] Application into a [[Docker]] [[Container]] and push to the registry created in step 2.
+3. Package a [[Node.js]] Application into a [[docker]] [[Container]] and push to the registry created in step 2.
 4. Create a [[Container App]] by using the [[Docker Image]] created in step 3.
 
 **Module Name:** `terraform-azure-container-apps`
@@ -54,4 +54,3 @@ list from [[_README]] AND -"CHANGELOG" AND -"Inbox/Terraform/Azure Terraform Mod
 ***
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2023
-

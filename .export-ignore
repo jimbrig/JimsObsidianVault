@@ -1,0 +1,15 @@
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+*.csv
+*.txt
+
+04\ -\ RESOURCES/Templates/*
+04\ -\ RESOURCES/Sources/Clips/*
+04\ -\ RESOURCES/Sources/Citations/*
+04\ -\ RESOURCES/Sources/PDFs/*
+99\ -\ ARCHIVES/*

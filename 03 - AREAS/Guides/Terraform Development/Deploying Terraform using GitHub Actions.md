@@ -17,7 +17,7 @@ Alias: [ ]
 ## Overview
 
 > [!NOTE] About
-> *To deploy any resources to an [[Azure]] cloud infrastructure environment using [[Terraform]] using [[GitHub Actions]], follow the steps outlined below.*
+> *To deploy any resources to an [[Azure]] cloud infrastructure environment using [[00 - INBOX/Terraform]] using [[GitHub Actions]], follow the steps outlined below.*
 
 ### Setup Backend Storage and Service Principal
 

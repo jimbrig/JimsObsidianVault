@@ -19,7 +19,7 @@ banner_icon: 💻
 >> [[Life/Daily/_README|Daily Notes]]
 >  
 >> ## 🧠 Knowledge  
->> [[Inbox/_README|Inbox]]
+>> [[00 - INBOX/_README|Inbox]]
 >> [[MOCs/_README|MOCs]]
 > 
 >> ## 📃 Reference  

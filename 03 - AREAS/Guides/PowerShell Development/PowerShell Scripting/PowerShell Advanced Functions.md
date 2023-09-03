@@ -21,7 +21,7 @@ Alias: [ ]
 
 ## Stream Control
 
-The [[PowerShell]] engine provides a number of *streams* which can be used to send different messages based on the context:
+The [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] engine provides a number of *streams* which can be used to send different messages based on the context:
 
 1. Output / Success
 2. Error
@@ -31,7 +31,7 @@ The [[PowerShell]] engine provides a number of *streams* which can be used to se
 
 Depending on the context we can leverage inbuilt cmdlets to write to a specific stream, for example if we want to write to the verbose stream, we can use the _Write-Verbose_ cmdlet and so on.
 
-Using the `CmdletBinding` attribute exposes a number of features provided by [[PowerShell]]. It makes the function an advanced function, and allows stream parameters to be applied like `-Verbose`, etc.
+Using the `CmdletBinding` attribute exposes a number of features provided by [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]. It makes the function an advanced function, and allows stream parameters to be applied like `-Verbose`, etc.
 
 ## Parameter Validation
 

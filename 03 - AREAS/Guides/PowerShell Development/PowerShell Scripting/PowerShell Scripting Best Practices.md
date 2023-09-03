@@ -21,13 +21,13 @@ Alias: [ ]
 
 ## Style and Format Code
 
-> [!TIP] Tip: Use the [[PowerShell Module - PSScriptAnalyzer|PSScriptAnalyzer]] module to run linting, style, and coding best practice tests against your [[PowerShell]] scripts and source code.
+> [!TIP] Tip: Use the [[PowerShell Module - PSScriptAnalyzer|PSScriptAnalyzer]] module to run linting, style, and coding best practice tests against your [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] scripts and source code.
 
-The [[PowerShell]] interpreter does not care about pretty formatting – all code is rigidly processed one after the other. You could write your whole code in one line, as long as you separate single statements with a “;”. But this definitely does not benefit readability and at the latest when you want to work on your code again at a later time, you will regret this decision.
+The [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] interpreter does not care about pretty formatting – all code is rigidly processed one after the other. You could write your whole code in one line, as long as you separate single statements with a “;”. But this definitely does not benefit readability and at the latest when you want to work on your code again at a later time, you will regret this decision.
 
 Some common styling areas of concern are:
 
-- Ensure the correct file [[encoding]] and line-endings: On [[Reference/Technology/Computer Science/Operating System/Windows]] should use [[UTF-8]] and [[CLRF Line Endings]].
+- Ensure the correct file [[Encoding]] and line-endings: On [[Reference/Technology/Computer Science/Operating System/Windows]] should use [[UTF-8]] and [[CLRF Line Endings]].
 	- [[EditorConfig]] can help here.
 	- Adjustments to your [[Git Config]] and [[Git Attributes]] may be necessary.
 - Use Brackets correctly (i.e. `if-else`, `function`, etc.): 
@@ -110,7 +110,7 @@ Function Invoke-MyFunction {
 
 - Variable names should be meaningful and reveal their content
 - Lists should be named in plural, single elements as singular
-- Note that [[PowerShell]] is **not case-sensitive**
+- Note that [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] is **not case-sensitive**
 
 **Avoid Hard-Coding.**
 
@@ -161,8 +161,8 @@ This method is possible for all cmdlet parameters and makes your code more maint
 ### Internal Linked Notes
 
 - [[PowerShell Scripting]]
-- [[PowerShell]]
-- [[Code/PowerShell/_README|PowerShell Code Snippets]]
+- [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
+- [[03 - AREAS/Code/PowerShell/_README|PowerShell Code Snippets]]
 - [[PowerShell Advanced Functions]]
 - [[PowerShell Comment Blocks]]
 - [[PowerShell Function Template]]

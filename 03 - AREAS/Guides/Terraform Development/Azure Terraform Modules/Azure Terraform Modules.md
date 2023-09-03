@@ -12,7 +12,7 @@ Alias: [ ]
 
 ## Overview
 
-Provide essential information related to [[Azure]] [[Inbox/Terraform]] module development, including brief introduction on [[Terraform Modules]], documentation for modules and pointers to the module repositories, and how [[Inbox/Terraform]] practitioners utilize the modules.
+Provide essential information related to [[Azure]] [[00 - INBOX/Terraform]] module development, including brief introduction on [[Terraform Modules]], documentation for modules and pointers to the module repositories, and how [[00 - INBOX/Terraform]] practitioners utilize the modules.
 
 Please note that all the verified modules meet the quality pipeline established by the Microsoft Azure team.
 

@@ -23,7 +23,7 @@
 - **Swallowing** an Exception:
 	- This is when you catch an error just to suppress it. Do this with caution because it can make troubleshooting issues very difficult.
 
-If [[PowerShell]] encounters a *non-terminating error*, it first checks the value of the`ErrorActionPreference` variable to determine if it should continue or terminate the execution. By default, this value is set to `Continue` which means that if [[PowerShell]] encounters an error then it should just continue processing the rest of the script.
+If [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] encounters a *non-terminating error*, it first checks the value of the`ErrorActionPreference` variable to determine if it should continue or terminate the execution. By default, this value is set to `Continue` which means that if [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] encounters an error then it should just continue processing the rest of the script.
 
 If instead you desire to terminate the code as soon as an error is encountered, modify the `ErrorActionPreference`, but keep in mind that this is a *Global Variable* and will impact all other code also. As a best practice, it is best to 
 

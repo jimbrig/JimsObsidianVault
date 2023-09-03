@@ -1,9 +1,8 @@
 {
-    "cSpell.words": [
-        "dataframe",
-        "dropna",
-        "fopen",
-        "openai",
-        "ujjwal"
-    ]
+  "cSpell.words": ["dataframe", "dropna", "fopen", "openai", "ujjwal"],
+  "obsidian-code.vaultName": "JimsVault",
+  "obsidianmd.excludedDirectories": [],
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.productIconTheme": "material-product-icons"
 }

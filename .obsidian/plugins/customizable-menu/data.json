@@ -1,0 +1,10 @@
+{
+  "menuCommands": [
+    {
+      "name": "Table of Contents: Create table of contents",
+      "id": "obsidian-plugin-toc:create-toc",
+      "icon": "table"
+    }
+  ],
+  "hideTitles": []
+}
