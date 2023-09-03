@@ -3,7 +3,7 @@
 > [!ABOUT]
 > Knowledge Management for Technical Architects
 
-## Backgrouond
+## Background
 
 [[Note taking]] is *building a relationship with a future version of yourself.* Notes record facts, quotes, ideas, events, and much more so they can eventually be used to make better decisions, create more interesting content, or find solutions to problems.
 
