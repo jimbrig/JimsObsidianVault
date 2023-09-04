@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash - Quick Tips",
+      "path": "03 - AREAS/Code/Bash/Bash - Quick Tips.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/Bash/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/_README.md"
+    },
+    {
       "basename": "2023-09-04",
       "path": "03 - AREAS/Journal/Daily/2023-09-04.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "ViveTool GUI",
       "path": "03 - AREAS/Tools/Tools - Windows/Utility/ViveTool GUI.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
     },
     {
       "basename": "_README",
@@ -191,14 +199,6 @@
     {
       "basename": "Template-Frontmatter-Enhanced",
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
-    },
-    {
-      "basename": "Template-Tool",
-      "path": "04 - RESOURCES/Templates/Tool-Templates/Template-Tool.md"
-    },
-    {
-      "basename": "DRD",
-      "path": "04 - RESOURCES/Definitions/DRD.md"
     }
   ],
   "omittedPaths": [],

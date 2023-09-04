@@ -2,7 +2,7 @@
 Date: 2023-08-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "Code" ]
+Alias: [ "Code", "Code Snippets" ]
 ---
 
 # Code

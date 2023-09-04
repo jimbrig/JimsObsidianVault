@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-04.md",
+                "file": "03 - AREAS/Code/Bash/Bash - Quick Tips.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7b69d5839f5b79d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Code/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md"
+                "file": "03 - AREAS/Code/Bash/Bash - Quick Tips.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md"
+                "file": "03 - AREAS/Code/Bash/Bash - Quick Tips.md"
               }
             }
           },
@@ -200,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
+                "file": "03 - AREAS/Code/Bash/Bash - Quick Tips.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
+                "file": "03 - AREAS/Code/Bash/Bash - Quick Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md",
+                "file": "03 - AREAS/Code/Bash/Bash - Quick Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,11 +370,16 @@
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b3211136f64295bb",
+  "active": "63e09fd9f7a57de8",
   "lastOpenFiles": [
+    "03 - AREAS/Code/Bash/_README.md",
+    "03 - AREAS/Code/Bash/Bash - Quick Tips.md",
+    "03 - AREAS/Code/Bash/_README 1.md",
+    "03 - AREAS/Code/_README.md",
     "03 - AREAS/Journal/Daily/2023-09-04.md",
     "03 - AREAS/Code/PowerShell/src/Upgrade-WinGetPackages.ps1",
     "03 - AREAS/Code/Snippets/src/Upgrade-Winget.ps1",
@@ -386,7 +404,6 @@
     "03 - AREAS/Product Development",
     "03 - AREAS/Tools/Tools - Windows/Utility/_README.md",
     "03 - AREAS/Tools/Tools - Windows/Utility/ViveTool GUI.md",
-    "03 - AREAS/Code/_README.md",
     "03 - AREAS/_README.md",
     "03 - AREAS/Tools/Tools - R/R - packagepal.md",
     "03 - AREAS/Tools/Tools - R/R - S7.md",
@@ -395,9 +412,6 @@
     "03 - AREAS/Tools/_README.md",
     "03 - AREAS/Tools/Tools - R/R - usethis.md",
     "03 - AREAS/Tools/Tools - Dotfiles/_README.md",
-    "03 - AREAS/Tools/Tools - CLI/Tools - Command Line Productivity.md",
-    "03 - AREAS/Tools/Tools - CLI/CLI - act.md",
-    "03 - AREAS/Tools/Tools - R/R - modules.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
