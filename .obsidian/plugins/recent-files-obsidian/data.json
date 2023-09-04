@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-04",
+      "path": "03 - AREAS/Journal/Daily/2023-09-04.md"
+    },
+    {
       "basename": "NPM - expo-cli",
       "path": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DRD",
       "path": "04 - RESOURCES/Definitions/DRD.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "03 - AREAS/Meta/Ideas.md"
     }
   ],
   "omittedPaths": [],
