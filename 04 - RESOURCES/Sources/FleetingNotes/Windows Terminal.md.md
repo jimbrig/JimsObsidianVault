@@ -1,9 +1,12 @@
+
+
+
 ---
 ID: "bfd55297-d230-4242-8391-3f484aba24eb"
 Date Created: "2023-03-22"
 Date Modified: "2023-03-22"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Title: "Windows Terminal.md"
+Title: "Windows Terminal"
 Sources: 
   - [""](""): ""
 ImageURL: ""

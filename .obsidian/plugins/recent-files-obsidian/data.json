@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Bash - Quick Tips",
-      "path": "03 - AREAS/Code/Bash/Bash - Quick Tips.md"
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - CLI/_README.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Code/Bash/_README.md"
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/_README.md"
+    },
+    {
+      "basename": "tfenv",
+      "path": "03 - AREAS/Tools/Tools - CLI/Terraform CLI Tools/tfenv.md"
+    },
+    {
+      "basename": "Windows Terminal",
+      "path": "03 - AREAS/Tools/Tools - Windows/Windows Terminal.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
-    },
-    {
-      "basename": "2023-09-04",
-      "path": "03 - AREAS/Journal/Daily/2023-09-04.md"
-    },
-    {
-      "basename": "NPM - expo-cli",
-      "path": "03 - AREAS/Tools/Tools - NPM/NPM - expo-cli.md"
-    },
-    {
-      "basename": "NPM - data-cli",
-      "path": "03 - AREAS/Tools/Tools - NPM/NPM - data-cli.md"
-    },
-    {
-      "basename": "NPM - mermaid-cli",
-      "path": "03 - AREAS/Tools/Tools - NPM/NPM - mermaid-cli.md"
-    },
-    {
-      "basename": "NPM - tfx-cli",
-      "path": "03 - AREAS/Tools/Tools - NPM/NPM - tfx-cli.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - NPM/_README.md"
-    },
-    {
-      "basename": "2023-09-03",
-      "path": "03 - AREAS/Journal/Daily/2023-09-03.md"
-    },
-    {
-      "basename": "2023-09-01",
-      "path": "03 - AREAS/Journal/Daily/2023-09-01.md"
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/_README.md"
     },
     {
       "basename": "R - Setup ShinyApps.io Accounts",
       "path": "03 - AREAS/Code/R/R - Setup ShinyApps.io Accounts.md"
     },
     {
-      "basename": "How To Add Custom Sub-Domain for a Netlify Site",
-      "path": "00 - INBOX/How To Add Custom Sub-Domain for a Netlify Site.md"
-    },
-    {
       "basename": "2023-08-31",
       "path": "03 - AREAS/Journal/Daily/2023-08-31.md"
     },
     {
-      "basename": "ViveTool",
-      "path": "03 - AREAS/Tools/Tools - Windows/Utility/ViveTool.md"
+      "basename": "Bash - Quick Tips",
+      "path": "03 - AREAS/Code/Bash/Bash - Quick Tips.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - Windows/Utility/_README.md"
-    },
-    {
-      "basename": "ViveTool GUI",
-      "path": "03 - AREAS/Tools/Tools - Windows/Utility/ViveTool GUI.md"
+      "path": "03 - AREAS/Code/_README.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/_README.md"
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/_README.md"
     },
     {
-      "basename": "R - packagepal",
-      "path": "03 - AREAS/Tools/Tools - R/R - packagepal.md"
+      "basename": "To Process",
+      "path": "03 - AREAS/Tools/Tools - CLI/To Process.md"
     },
     {
-      "basename": "R - S7",
-      "path": "03 - AREAS/Tools/Tools - R/R - S7.md"
+      "basename": "Vercel CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Vercel CLI.md"
     },
     {
-      "basename": "2023-08-30",
-      "path": "03 - AREAS/Journal/Daily/2023-08-30.md"
+      "basename": "Digital Ocean CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Digital Ocean CLI.md"
     },
     {
-      "basename": "R - rworkflows",
-      "path": "03 - AREAS/Tools/Tools - R/R - rworkflows.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/_README.md"
-    },
-    {
-      "basename": "R - usethis",
-      "path": "03 - AREAS/Tools/Tools - R/R - usethis.md"
+      "basename": "Linode CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Linode CLI.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - Dotfiles/_README.md"
-    },
-    {
-      "basename": "Tools - Command Line Productivity",
-      "path": "03 - AREAS/Tools/Tools - CLI/Tools - Command Line Productivity.md"
-    },
-    {
-      "basename": "CLI - act",
-      "path": "03 - AREAS/Tools/Tools - CLI/CLI - act.md"
-    },
-    {
-      "basename": "R - modules",
-      "path": "03 - AREAS/Tools/Tools - R/R - modules.md"
-    },
-    {
-      "basename": "R - pandoc",
-      "path": "03 - AREAS/Tools/Tools - R/R - pandoc.md"
-    },
-    {
-      "basename": "R - fplyr",
-      "path": "03 - AREAS/Tools/Tools - R/R - fplyr.md"
-    },
-    {
-      "basename": "R - dreamerr",
-      "path": "03 - AREAS/Tools/Tools - R/R - dreamerr.md"
-    },
-    {
-      "basename": "R - shiny.emptystate",
-      "path": "03 - AREAS/Tools/Tools - R/R - shiny.emptystate.md"
-    },
-    {
-      "basename": "R - shinyChatR",
-      "path": "03 - AREAS/Tools/Tools - R/R - shinyChatR.md"
-    },
-    {
-      "basename": "R - wrapr",
-      "path": "03 - AREAS/Tools/Tools - R/R - wrapr.md"
-    },
-    {
-      "basename": "R - osmdata",
-      "path": "03 - AREAS/Tools/Tools - R/R - osmdata.md"
-    },
-    {
-      "basename": "R - jqbr",
-      "path": "03 - AREAS/Tools/Tools - R/R - jqbr.md"
-    },
-    {
-      "basename": "R - screenshot",
-      "path": "03 - AREAS/Tools/Tools - R/R - screenshot.md"
-    },
-    {
-      "basename": "R - bulkreader",
-      "path": "03 - AREAS/Tools/Tools - R/R - bulkreader.md"
-    },
-    {
-      "basename": "0-Slipbox.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/0-Slipbox.md.md"
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/GCP CLI Tools/_README.md"
     },
     {
       "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/_README.md"
     },
     {
-      "basename": "R - easy.utils",
-      "path": "03 - AREAS/Tools/Tools - R/R - easy.utils.md"
+      "basename": "Azure Bicep",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Bicep.md"
     },
     {
-      "basename": "HOME",
-      "path": "HOME.md"
+      "basename": "Azure Terraform Export (aztfexport)",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Terraform Export (aztfexport).md"
     },
     {
-      "basename": "Cursor",
-      "path": "03 - AREAS/Tools/Tools - IDEs and Editors/Cursor.md"
+      "basename": "Azure Terrafy CLI (aztfy)",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Terrafy CLI (aztfy).md"
     },
     {
-      "basename": "2023-08-29",
-      "path": "03 - AREAS/Journal/Daily/2023-08-29.md"
+      "basename": "Azure Storage CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Storage CLI.md"
     },
     {
-      "basename": "Template - Tool - IDE",
-      "path": "04 - RESOURCES/Templates/Tool-Templates/Template - Tool - IDE.md"
+      "basename": "Azure Static Site CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Static Site CLI.md"
     },
     {
-      "basename": "Template-MOC",
-      "path": "04 - RESOURCES/Templates/Core-Templates/Template-MOC.md"
+      "basename": "Azure Development CLI (azd)",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Development CLI (azd).md"
     },
     {
-      "basename": "Template-Development",
-      "path": "04 - RESOURCES/Templates/Core-Templates/Template-Development.md"
+      "basename": "AWS SDK",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS SDK.md"
     },
     {
-      "basename": "Template-Default",
-      "path": "04 - RESOURCES/Templates/Core-Templates/Template-Default.md"
+      "basename": "AWS Auto VPN CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Auto VPN CLI.md"
     },
     {
-      "basename": "Template-Footer",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
+      "basename": "AWS Algo CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Algo CLI.md"
     },
     {
-      "basename": "Template-Frontmatter-Enhanced",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+      "basename": "AWS VPN CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS VPN CLI.md"
+    },
+    {
+      "basename": "AWS Data Wrangler CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Data Wrangler CLI.md"
+    },
+    {
+      "basename": "AWS S3 Direct Upload CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Direct Upload CLI.md"
+    },
+    {
+      "basename": "AWS S3 Disk Util CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Disk Util CLI.md"
+    },
+    {
+      "basename": "AWS s5cmd",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS s5cmd.md"
+    },
+    {
+      "basename": "AWS s3git CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS s3git CLI.md"
+    },
+    {
+      "basename": "AWS S3 Multipart CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Multipart CLI.md"
+    },
+    {
+      "basename": "AWS S3 Filestash CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Filestash CLI.md"
+    },
+    {
+      "basename": "AWS fake-s3",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS fake-s3.md"
+    },
+    {
+      "basename": "AWS s4cmd",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS s4cmd.md"
+    },
+    {
+      "basename": "AWS RedShift Console",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS RedShift Console.md"
+    },
+    {
+      "basename": "AWS Redash",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Redash.md"
+    },
+    {
+      "basename": "Serverless CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/Serverless CLI.md"
+    },
+    {
+      "basename": "AWS Lambdadash",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Lambdadash.md"
+    },
+    {
+      "basename": "AWS Broadside CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Broadside CLI.md"
+    },
+    {
+      "basename": "AWS Dynamic DynamoDB CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Dynamic DynamoDB CLI.md"
+    },
+    {
+      "basename": "AWS Confidant CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Confidant CLI.md"
+    },
+    {
+      "basename": "AWS DynamoDB Lambda Autoscale CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS DynamoDB Lambda Autoscale CLI.md"
+    },
+    {
+      "basename": "AWS DynamoDB IO CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS DynamoDB IO CLI.md"
+    },
+    {
+      "basename": "AWS Cognito Backup CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Cognito Backup CLI.md"
+    },
+    {
+      "basename": "AWS Logs CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Logs CLI.md"
+    },
+    {
+      "basename": "S3 CLI",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/S3 CLI.md"
+    },
+    {
+      "basename": "AWS Autotag",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Autotag.md"
+    },
+    {
+      "basename": "AWS Traildash",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Traildash.md"
+    },
+    {
+      "basename": "AWS Cloud Searcheable",
+      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Cloud Searcheable.md"
     }
   ],
   "omittedPaths": [],
