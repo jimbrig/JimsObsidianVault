@@ -1,3 +1,5 @@
+- 2023-09-05 at 19h34 · [[Developing PowerShell Core Modules Best Practices]]
+- 2023-09-05 at 19h20 · [[2023-09-05]]
 - 2023-09-04 at 21h35 · [[_README]]
 - 2023-09-04 at 21h32 · [[_README]]
 - 2023-09-04 at 21h26 · [[To Process]]
@@ -46,5 +48,3 @@
 - 2023-09-04 at 21h10 · [[AWS Traildash]]
 - 2023-09-04 at 21h10 · [[AWS Cloud Searcheable]]
 - 2023-09-04 at 21h10 · [[AWS CFN Nag]]
-- 2023-09-04 at 21h10 · [[AWS SFN]]
-- 2023-09-04 at 21h10 · [[AWS Stack Master]]

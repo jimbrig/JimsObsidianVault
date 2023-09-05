@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Developing PowerShell Core Modules Best Practices",
+      "path": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
+    },
+    {
+      "basename": "Managing Dotfiles",
+      "path": "00 - INBOX/Managing Dotfiles.md"
+    },
+    {
+      "basename": "PowerShell Module Development Best Practices",
+      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
+    },
+    {
+      "basename": "PowerShell Error Handling",
+      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md"
+    },
+    {
+      "basename": "PowerShell Advanced Functions",
+      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/PowerShell Development/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/_README.md"
+    },
+    {
+      "basename": "0-Slipbox.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/0-Slipbox.md.md"
+    },
+    {
       "basename": "2023-09-05",
       "path": "03 - AREAS/Journal/Daily/2023-09-05.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "AWS Lambdadash",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Lambdadash.md"
-    },
-    {
-      "basename": "AWS Broadside CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Broadside CLI.md"
-    },
-    {
-      "basename": "AWS Dynamic DynamoDB CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Dynamic DynamoDB CLI.md"
-    },
-    {
-      "basename": "AWS Confidant CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Confidant CLI.md"
-    },
-    {
-      "basename": "AWS DynamoDB Lambda Autoscale CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS DynamoDB Lambda Autoscale CLI.md"
-    },
-    {
-      "basename": "AWS DynamoDB IO CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS DynamoDB IO CLI.md"
-    },
-    {
-      "basename": "AWS Cognito Backup CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Cognito Backup CLI.md"
-    },
-    {
-      "basename": "AWS Logs CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Logs CLI.md"
-    },
-    {
-      "basename": "S3 CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/S3 CLI.md"
-    },
-    {
-      "basename": "AWS Autotag",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Autotag.md"
-    },
-    {
-      "basename": "AWS Traildash",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Traildash.md"
     }
   ],
   "omittedPaths": [],
