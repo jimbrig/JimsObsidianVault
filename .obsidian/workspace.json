@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f69e03b42cd47f",
+        "id": "7da095c0455bd3a0",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6840c3e406d1fa",
+            "id": "f6daf7ce86cabdd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - CLI/_README.md",
-                "mode": "preview",
+                "file": "03 - AREAS/Journal/Daily/2023-09-05.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "9a4d79a2503e9b49",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 - AREAS/Tools/Tools - CLI/_README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "03 - AREAS/Tools/Tools - CLI/_README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +127,7 @@
             }
           },
           {
-            "id": "a2f97198d83cac1e",
+            "id": "9694fce9e5e49e1f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -148,7 +135,7 @@
             }
           },
           {
-            "id": "b3211136f64295bb",
+            "id": "4db213abd817c0e8",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -156,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "1ac3153552315a07",
@@ -169,7 +156,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - CLI/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - CLI/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +230,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - CLI/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,16 +308,16 @@
       "gpt3-notes:GPT-3 Notes": false,
       "ai-summary:Summarize referenced notes": false,
       "periodic-notes:Open today's daily note": false,
-      "khoj:Khoj": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "khoj:Khoj": false
     }
   },
-  "active": "9a4d79a2503e9b49",
+  "active": "4db213abd817c0e8",
   "lastOpenFiles": [
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/_README.md",
+    "03 - AREAS/Journal/Daily/2023-09-05.md",
     "03 - AREAS/Tools/Tools - CLI/_README.md",
+    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/_README.md",
     "03 - AREAS/Tools/Tools - CLI/Terraform CLI Tools/tfenv.md",
     "03 - AREAS/Tools/Tools - Windows/Windows Terminal.md",
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/_README.md",
@@ -358,7 +342,6 @@
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS SDK.md",
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Auto VPN CLI.md",
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Algo CLI.md",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS VPN CLI.md",
     "03 - AREAS/Tools/Tools - CLI/Database CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/UNIX CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/Ruby CLI Tools",

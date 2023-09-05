@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-05",
+      "path": "03 - AREAS/Journal/Daily/2023-09-05.md"
+    },
+    {
       "basename": "_README",
       "path": "03 - AREAS/Tools/Tools - CLI/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AWS Traildash",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Traildash.md"
-    },
-    {
-      "basename": "AWS Cloud Searcheable",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Cloud Searcheable.md"
     }
   ],
   "omittedPaths": [],
