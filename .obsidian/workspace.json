@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
-                "mode": "preview",
+                "file": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
+                "file": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
+                "file": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
+                "file": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
+                "file": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
+                "file": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,10 +317,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a13b96ada6a35d33",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "00 - INBOX/Managing Dotfiles.md",
+    "03 - AREAS/Code/GitHub Actions/src/templates/pwsh.template.yml",
+    "03 - AREAS/Code/GitHub Actions/src/templates",
+    "03 - AREAS/Code/GitHub Actions/src/pwsh-psscriptanalyzer.yml",
+    "03 - AREAS/Code/GitHub Actions/src/pwsh-.yml",
+    "03 - AREAS/Code/GitHub Actions/src/pwsh-script.yml",
+    "03 - AREAS/Code/GitHub Actions/_README.md",
+    "03 - AREAS/Code/PowerShell/_README.md",
     "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
+    "00 - INBOX/Managing Dotfiles.md",
     "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
     "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md",
     "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
@@ -342,19 +349,12 @@
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/_README.md",
     "03 - AREAS/Tools/Tools - CLI/To Process.md",
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Vercel CLI.md",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Digital Ocean CLI.md",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Linode CLI.md",
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/GCP CLI Tools/_README.md",
     "03 - AREAS/Tools/Tools - CLI/Database CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/UNIX CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/Ruby CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/Git CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/Terraform CLI Tools",
-    "03 - AREAS/Tools/Tools - CLI/Golang CLI Tools",
-    "03 - AREAS/Tools/Tools - CLI/NPM CLI Tools/Untitled",
-    "03 - AREAS/Tools/Tools - CLI/Utility CLI Tools",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

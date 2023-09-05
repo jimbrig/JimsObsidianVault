@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "GHA - Build PowerShell Module",
+      "path": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/GitHub Actions/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/PowerShell/_README.md"
+    },
+    {
       "basename": "Developing PowerShell Core Modules Best Practices",
       "path": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "AWS RedShift Console",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS RedShift Console.md"
-    },
-    {
-      "basename": "AWS Redash",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Redash.md"
-    },
-    {
-      "basename": "Serverless CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/Serverless CLI.md"
-    },
-    {
-      "basename": "AWS Lambdadash",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Lambdadash.md"
     }
   ],
   "omittedPaths": [],

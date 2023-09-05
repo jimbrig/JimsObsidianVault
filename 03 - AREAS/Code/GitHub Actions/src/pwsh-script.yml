@@ -1,0 +1,14 @@
+name: PowerShell Script
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  script:
+    name: Run Script
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Script
+        run: ./script.ps1
+        shell: pwsh
