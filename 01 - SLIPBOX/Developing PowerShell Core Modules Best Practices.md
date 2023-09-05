@@ -112,12 +112,28 @@ PowerShell Standard Module       psmodule           [C#]              Library/Po
 
 ### Internal Linked Notes
 
+- [[03 - AREAS/Tools/Tools - CLI/PowerShell CLI Tools/PowerShell|PowerShell]]
+- [[PowerShell Core]]
+- [[Windows PowerShell]]
+- [[03 - AREAS/Technology/Computer Science/Operating System/Windows/_README|Windows]]
+- [[MOC - Microsoft Windows|Microsoft Windows]]
+- [[03 - AREAS/Code/PowerShell/_README|PowerShell Code Snippets]]
+- [[MOC - Development|Development]]
+- [[MOC - Technology|Technology]]
+
 ### External References
 
-- *[Writing Portable Modules - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/writing-portable-modules?view=powershell-7.2)*
+- *[Writing Portable Modules - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/writing-portable-modules?view=powershell-7.3)*
 - *[Powershell Module: A Best Practice Guide - the Sysadmin Channel](https://thesysadminchannel.com/powershell-module/)*
 - *[.NET CLI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/tools/?tabs=netcore2x)*
-- 
+- *[Discovering objects, properties, and methods - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/03-discovering-objects?view=powershell-7.3)*
+- *[Functions - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/09-functions?view=powershell-7.3)*
+- *[Script modules - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/10-script-modules?view=powershell-7.3)*
+- *[Displaying progress while multi-threading - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/write-progress-across-multiple-threads?view=powershell-7.3)*
+- *[PowerShell learning resources - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.3)*
+- *[PowerShell module authoring considerations - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/performance/module-authoring-considerations?view=powershell-7.3)*
+- *[How to create a Standard Library Binary Module - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-standard-library-binary-module?view=powershell-7.3)*
+- *[Resolving PowerShell module assembly dependency conflicts - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/resolving-dependency-conflicts?view=powershell-7.3)*
 
 #### Backlinks
 

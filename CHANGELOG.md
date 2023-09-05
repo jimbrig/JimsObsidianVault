@@ -1,4 +1,4 @@
-- 2023-09-05 at 19h34 · [[Developing PowerShell Core Modules Best Practices]]
+- 2023-09-05 at 19h42 · [[Developing PowerShell Core Modules Best Practices]]
 - 2023-09-05 at 19h20 · [[2023-09-05]]
 - 2023-09-04 at 21h35 · [[_README]]
 - 2023-09-04 at 21h32 · [[_README]]
