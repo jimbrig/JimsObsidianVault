@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GitHub Actions Master List",
+      "path": "04 - RESOURCES/Lists/GitHub Actions Master List.md"
+    },
+    {
+      "basename": "Repository",
+      "path": "04 - RESOURCES/Definitions/Repository.md"
+    },
+    {
       "basename": "_README",
       "path": "03 - AREAS/Code/GitHub Actions/_README.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "AWS Data Wrangler CLI",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Data Wrangler CLI.md"
-    },
-    {
-      "basename": "AWS S3 Direct Upload CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Direct Upload CLI.md"
-    },
-    {
-      "basename": "AWS S3 Disk Util CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Disk Util CLI.md"
     }
   ],
   "omittedPaths": [],
