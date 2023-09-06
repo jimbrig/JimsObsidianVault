@@ -18,8 +18,9 @@ Alias: [ "<% (tp.file.title).replace("GHA - ", "") %>" ]
 
 *Link: <<% tp.file.cursor(2) %>>*
 
-```yaml
-
+```embed-yaml
+PATH: "vault://03 - AREAS/Code/GitHub Actions/src/pwsh-sign-scripts.yml"
+TITLE: "SignPowerShellScripts.yml"
 ```
 
 ## Details

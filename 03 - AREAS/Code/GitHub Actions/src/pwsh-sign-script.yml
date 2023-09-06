@@ -1,0 +1,58 @@
+# Based off of original script from:
+# https://gist.github.com/nicolonsky/51338d0a62c88bfd1aba88b9a23eb335#file-signpowershell-yaml
+
+name: Sign PowerShell Scripts
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+env:
+  ARTIFACT_NAME: PowerShell.Workflows.ScriptSigning
+jobs:
+  sign:
+    name: Sign and Publish PowerShell Scripts as Pipeline Artifacts
+    runs-on: windows-latest
+    steps:
+      - name: Import Code-Signing Certificate
+        shell: pwsh
+        run: |
+          $pfxCertFilePath = Join-Path -Path $PSScriptRoot -ChildPath "CodeSigningCertificate.pfx"
+          Set-Content -Value $([System.Convert]::FromBase64String($env:BASE64_PFX)) -Path $pfxCertFilePath -Encoding Byte
+          $params = @{
+            FilePath = $pfxCertFilePath
+            Password = $($env:PFX_PASSWORD | ConvertTo-SecureString -AsPlainText -Force)
+            CertStoreLocation = 'Cert:\CurrentUser\My'
+          }
+          $codeSigningCert = Import-PfxCertificate @params
+        env:
+          BASE64_PFX: ${{ secrets.BASE64_PFX }}
+          PFX_PASSWORD: ${{ secrets.PFX_PASSWORD }}
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Sign Scripts
+        shell: pwsh
+        run: |
+          $cert = Get-ChildItem -Path Cert:\CurrentUser\My -CodeSigningCert | Select-Object -First 1
+          $scripts = Get-ChildItem -Path $PWD -Filter "*.ps1" -Recurse -ErrorAction Stop
+          ForEach ($script in $scripts) {
+            try {
+              $scriptContent = Get-Content -Path $script.FullName -ErrorAction Stop
+              Write-Output "Signing Script: `"$($script.FullName)`" with certificate `"$($cert.Thumbprint)`""
+              $splat = @{
+                Certificate = $cert
+                FilePath = $script.FullName
+                TimestampServer = 'http://timestamp.digicert.com'
+                ErrorAction = 'Stop'
+              }
+              $null = Set-AuthenticodeSignature @splat
+            }
+            catch {
+              Write-Error "Failed to sign script: `"$($script.FullName)`""
+              throw $_
+            }
+          }
+      - name: Publish Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ env.ARTIFACT_NAME }}
+          path: ${{ github.workspace }}

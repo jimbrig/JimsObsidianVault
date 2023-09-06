@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "GHA - Sign PowerShell Scripts",
+      "path": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md"
+    },
+    {
+      "basename": "2023-09-05",
+      "path": "03 - AREAS/Journal/Daily/2023-09-05.md"
+    },
+    {
+      "basename": "Template-Code-GHA",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-GHA.md"
+    },
+    {
+      "basename": "PowerShell - Add-GodModeShortcut",
+      "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/PowerShell/_README.md"
+    },
+    {
+      "basename": "Template-Code-PowerShell",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-PowerShell.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/_README.md"
+    },
+    {
+      "basename": "GHA - Automate Changelog",
+      "path": "03 - AREAS/Code/GitHub Actions/GHA - Automate Changelog.md"
+    },
+    {
       "basename": "GHA - Build PowerShell Module",
       "path": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md"
     },
     {
       "basename": "_README",
       "path": "03 - AREAS/Code/GitHub Actions/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/PowerShell/_README.md"
     },
     {
       "basename": "Developing PowerShell Core Modules Best Practices",
@@ -51,10 +83,6 @@
     {
       "basename": "0-Slipbox.md",
       "path": "04 - RESOURCES/Sources/FleetingNotes/0-Slipbox.md.md"
-    },
-    {
-      "basename": "2023-09-05",
-      "path": "03 - AREAS/Journal/Daily/2023-09-05.md"
     },
     {
       "basename": "_README",
@@ -171,34 +199,6 @@
     {
       "basename": "AWS S3 Disk Util CLI",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Disk Util CLI.md"
-    },
-    {
-      "basename": "AWS s5cmd",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS s5cmd.md"
-    },
-    {
-      "basename": "AWS s3git CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS s3git CLI.md"
-    },
-    {
-      "basename": "AWS S3 Multipart CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Multipart CLI.md"
-    },
-    {
-      "basename": "AWS S3 Filestash CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS S3 Filestash CLI.md"
-    },
-    {
-      "basename": "AWS fake-s3",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS fake-s3.md"
-    },
-    {
-      "basename": "AWS s4cmd",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS s4cmd.md"
-    },
-    {
-      "basename": "AWS RedShift Console",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS RedShift Console.md"
     }
   ],
   "omittedPaths": [],
