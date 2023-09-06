@@ -1,5 +1,5 @@
-- 2023-09-05 at 20h20 · [[Template-Code-GHA]]
-- 2023-09-05 at 20h18 · [[GHA - Sign PowerShell Scripts]]
+- 2023-09-05 at 20h22 · [[GHA - Sign PowerShell Scripts]]
+- 2023-09-05 at 20h21 · [[Template-Code-GHA]]
 - 2023-09-05 at 19h42 · [[Developing PowerShell Core Modules Best Practices]]
 - 2023-09-05 at 19h20 · [[2023-09-05]]
 - 2023-09-04 at 21h35 · [[_README]]

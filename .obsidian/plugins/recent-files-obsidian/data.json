@@ -9,12 +9,12 @@
       "path": "03 - AREAS/Journal/Daily/2023-09-05.md"
     },
     {
-      "basename": "Template-Code-GHA",
-      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-GHA.md"
-    },
-    {
       "basename": "PowerShell - Add-GodModeShortcut",
       "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
+      "basename": "Template-Code-GHA",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-GHA.md"
     },
     {
       "basename": "_README",

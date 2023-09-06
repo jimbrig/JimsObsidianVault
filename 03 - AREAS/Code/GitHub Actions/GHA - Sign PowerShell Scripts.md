@@ -21,11 +21,11 @@ Alias: [ "Sign PowerShell Scripts GitHub Action" ]
 
 *Link: <<% tp.file.cursor(2) %>>*
 
-- [[GitHub Action]] ([[YAML]]):
+- [[GitHub Actions|GitHub Action]] ([[YAML]]):
 
-```
-
-
+```embed-yaml
+PATH: "vault://03%20-%20AREAS/Code/GitHub%20Actions/src/pwsh-sign-scripts.yml"
+TITLE: "SignPowerShellScripts.yml"
 ```
 
 ## Details
