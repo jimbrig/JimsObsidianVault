@@ -319,6 +319,8 @@
   },
   "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "03 - AREAS/Code/GitHub Actions/src/pwsh-sign-script.yml",
+    "03 - AREAS/Code/GitHub Actions/src/pwsh-build-module.yml",
     "03 - AREAS/Code/GitHub Actions/src/templates/pwsh.template.yml",
     "03 - AREAS/Code/GitHub Actions/src/templates",
     "03 - AREAS/Code/GitHub Actions/src/pwsh-psscriptanalyzer.yml",
@@ -353,8 +355,6 @@
     "03 - AREAS/Tools/Tools - CLI/Database CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/UNIX CLI Tools",
     "03 - AREAS/Tools/Tools - CLI/Ruby CLI Tools",
-    "03 - AREAS/Tools/Tools - CLI/Git CLI Tools",
-    "03 - AREAS/Tools/Tools - CLI/Terraform CLI Tools",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

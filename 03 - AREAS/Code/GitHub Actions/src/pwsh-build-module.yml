@@ -1,0 +1,16 @@
+name: Build PowerShell Module
+on:
+  push:
+  pull_request:
+  release:
+    types: [published]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup PowerShell
+        uses: microsoft/setup-powershell@v1
+        with:
+          pwsh-version: '7.1'
