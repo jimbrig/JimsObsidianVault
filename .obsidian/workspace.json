@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md",
+                "file": "03 - AREAS/Code/GitHub Actions/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md"
+                "file": "03 - AREAS/Code/GitHub Actions/_README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md"
+                "file": "03 - AREAS/Code/GitHub Actions/_README.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1ac3153552315a07",
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md",
+                "file": "03 - AREAS/Code/GitHub Actions/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md",
+                "file": "03 - AREAS/Code/GitHub Actions/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md",
+                "file": "03 - AREAS/Code/GitHub Actions/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,8 +266,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -305,10 +304,11 @@
   },
   "active": "f6daf7ce86cabdd8",
   "lastOpenFiles": [
+    "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md",
     "03 - AREAS/Journal/Daily/2023-09-05.md",
+    "03 - AREAS/Code/GitHub Actions/src/pwsh-sign-scripts.yml",
     "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "04 - RESOURCES/Templates/Code-Templates/Template-Code-GHA.md",
-    "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md",
     "03 - AREAS/Code/PowerShell/_README.md",
     "04 - RESOURCES/Templates/Code-Templates/Template-Code-PowerShell.md",
     "04 - RESOURCES/_README.md",
@@ -339,8 +339,6 @@
     "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/_README.md",
     "03 - AREAS/Tools/Tools - CLI/Terraform CLI Tools/tfenv.md",
     "03 - AREAS/Tools/Tools - Windows/Windows Terminal.md",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/_README.md",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/GitHub Actions/_README.md"
+    },
+    {
       "basename": "GHA - Sign PowerShell Scripts",
       "path": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "GHA - Build PowerShell Module",
       "path": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/GitHub Actions/_README.md"
     },
     {
       "basename": "Developing PowerShell Core Modules Best Practices",
