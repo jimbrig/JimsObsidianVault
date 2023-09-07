@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Caddy",
-      "path": "00 - INBOX/Caddy.md"
+      "basename": "2023-09-07",
+      "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
     },
     {
       "basename": "Obsidian Amazing Snippets Repository",
       "path": "00 - INBOX/Obsidian Amazing Snippets Repository.md"
     },
     {
-      "basename": "CSS - Obsidian Banner",
-      "path": "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md"
+      "basename": "Caddy",
+      "path": "00 - INBOX/Caddy.md"
     },
     {
-      "basename": "2023-09-07",
-      "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
+      "basename": "Fonts",
+      "path": "03 - AREAS/Meta/Fonts.md"
+    },
+    {
+      "basename": "Google Fonts",
+      "path": "00 - INBOX/Google Fonts.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Meta/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/_README.md"
+    },
+    {
+      "basename": "Transfronter CSS Font Face Generator",
+      "path": "00 - INBOX/Transfronter CSS Font Face Generator.md"
+    },
+    {
+      "basename": "CSS - Obsidian Banner",
+      "path": "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md"
     },
     {
       "basename": "Bash - Docker Cleanup Volumes",
@@ -75,10 +95,6 @@
     {
       "basename": "_README",
       "path": "03 - AREAS/Tools/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/_README.md"
     },
     {
       "basename": "_README",
@@ -183,22 +199,6 @@
     {
       "basename": "Obsidian Read Later Plugin",
       "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Read Later Plugin.md"
-    },
-    {
-      "basename": "Obsidian Shell Commands Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Shell Commands Plugin.md"
-    },
-    {
-      "basename": "Obsidian Show File Path Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Show File Path Plugin.md"
-    },
-    {
-      "basename": "Obsidian Snippet Downloader Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Snippet Downloader Plugin.md"
-    },
-    {
-      "basename": "Obsidian Style Settings Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Style Settings Plugin.md"
     }
   ],
   "omittedPaths": [],

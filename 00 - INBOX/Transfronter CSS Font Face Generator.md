@@ -5,22 +5,26 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Type: Tool
 Topic: Dev/Tool
 Status: WIP
-Sources: [ "https://github.com/caddyserver/caddy" ]
-Tags: [ "#Type/Tool", "#Topic/Dev/WebDev", "#Status/WIP" ]
-Aliases: [ "Caddy", "Caddy Server" ]
+Sources: [ ]
+Tags: [ "#Type/Tool", "#Topic/Dev", "#Status/WIP" ]
+Aliases: [ "Transfronter CSS Font Face Generator" ]
 cssclasses: [ ]
-cover: "https://i.imgur.com/tN7tRRK.png"
+Cover:
 ---
 
-# Caddy
+# Transfronter CSS Font Face Generator
 
 > [!SOURCE] Sources
-> - *[caddyserver/caddy: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (github.com)](https://github.com/caddyserver/caddy)*
+> - **
+
+## Contents
+
+[TOC]
 
 ## Overview
 
 > [!NOTE] About
-> *Caddy is a tool that...*
+> *Transfronter CSS Font Face Generator is a tool that...*
 
 ***
 
@@ -39,7 +43,7 @@ cover: "https://i.imgur.com/tN7tRRK.png"
 #### Backlinks
 
 ```dataview
-list from [[Caddy]] AND -"CHANGELOG" AND -"//Caddy"
+list from [[Transfronter CSS Font Face Generator]] AND -"CHANGELOG" AND -"00 - INBOX/Transfronter CSS Font Face Generator"
 ```
 
 

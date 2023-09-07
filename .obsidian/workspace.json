@@ -66,22 +66,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "dc17e7718b414022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Caddy.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Caddy.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
               }
             }
           },
@@ -176,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Caddy.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
               }
             }
           },
@@ -213,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Caddy.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Caddy.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Caddy.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,13 +349,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "f390532edb51fa94",
   "lastOpenFiles": [
     "00 - INBOX/Obsidian Amazing Snippets Repository.md",
+    "00 - INBOX/Caddy.md",
+    "03 - AREAS/Meta/Fonts.md",
+    "00 - INBOX/Google Fonts.md",
+    "03 - AREAS/Journal/Daily/2023-09-07.md",
+    "03 - AREAS/Meta/_README.md",
+    "03 - AREAS/_README.md",
+    "00 - INBOX/Transfronter CSS Font Face Generator.md",
     "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md",
     "03 - AREAS/Code/CSS/src/obsidian-icon-image.css",
     "03 - AREAS/Code/CSS/src/obsidian-banner-extended.css",
-    "03 - AREAS/Journal/Daily/2023-09-07.md",
     "03 - AREAS/Code/Bash/Bash - Docker Cleanup Volumes.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Make-MD Plugin.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md",
@@ -388,15 +380,10 @@
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md",
     "03 - AREAS/Tools/_README.md",
-    "00 - INBOX/Caddy.md",
     "03 - AREAS/Code/Bash/src/docker-cleanup-volumes.sh",
-    "03 - AREAS/_README.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities/_README.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Homepage Plugin.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Heatmap Plugin.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Google Photos for Obsidian Plugin.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Google Calendar Plugin.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Obsidian Git",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other",
     "03 - AREAS/Code/GitHub Actions/src/pwsh-sign-scripts.yml",
