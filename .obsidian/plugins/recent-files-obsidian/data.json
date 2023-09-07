@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Time Blocking",
+      "path": "03 - AREAS/Productivity/Time Blocking.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Productivity/_README.md"
+    },
+    {
       "basename": "2023-09-07",
       "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "AWS Auto VPN CLI",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Auto VPN CLI.md"
-    },
-    {
-      "basename": "AWS Algo CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Algo CLI.md"
-    },
-    {
-      "basename": "AWS VPN CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS VPN CLI.md"
     }
   ],
   "omittedPaths": [],

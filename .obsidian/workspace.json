@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
+                "file": "03 - AREAS/Productivity/Time Blocking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
+                "file": "03 - AREAS/Productivity/Time Blocking.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
+                "file": "03 - AREAS/Productivity/Time Blocking.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
+                "file": "03 - AREAS/Productivity/Time Blocking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
+                "file": "03 - AREAS/Productivity/Time Blocking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
+                "file": "03 - AREAS/Productivity/Time Blocking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,11 +313,14 @@
       "gpt3-notes:GPT-3 Notes": false,
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "256a63e2e0acd1f6",
   "lastOpenFiles": [
+    "03 - AREAS/Productivity/_README.md",
+    "03 - AREAS/Productivity/Time Blocking.md",
     "03 - AREAS/Journal/Daily/2023-09-07.md",
     "04 - RESOURCES/Definitions/Repository.md",
     "04 - RESOURCES/Lists/GitHub Actions Master List.md",
@@ -352,8 +355,6 @@
     "03 - AREAS/Guides/_README.md",
     "03 - AREAS/_README.md",
     "04 - RESOURCES/Sources/FleetingNotes/0-Slipbox.md.md",
-    "03 - AREAS/Tools/Tools - CLI/_README.md",
-    "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/_README.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
