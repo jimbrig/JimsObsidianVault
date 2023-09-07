@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ReadWise Templates",
+      "path": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
       "basename": "Time Blocking",
       "path": "03 - AREAS/Productivity/Time Blocking.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Azure Development CLI (azd)",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Development CLI (azd).md"
-    },
-    {
-      "basename": "AWS SDK",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS SDK.md"
-    },
-    {
-      "basename": "AWS Auto VPN CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Auto VPN CLI.md"
     }
   ],
   "omittedPaths": [],
