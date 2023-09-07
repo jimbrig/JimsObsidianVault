@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-07",
+      "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
+    },
+    {
       "basename": "GitHub Actions Master List",
       "path": "04 - RESOURCES/Lists/GitHub Actions Master List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AWS VPN CLI",
       "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS VPN CLI.md"
-    },
-    {
-      "basename": "AWS Data Wrangler CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/AWS Data Wrangler CLI.md"
     }
   ],
   "omittedPaths": [],
