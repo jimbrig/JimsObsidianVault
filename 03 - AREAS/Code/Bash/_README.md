@@ -2,7 +2,7 @@
 Date: 2023-06-01
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "Bash", "Bash Code Snippets", "Bash Scripts", "Bash Code Snippets", "Linux Code Snippets" ]
+Alias: [ "Bash", "Bash Code Snippets", "Bash Scripts", "Bash Code Snippets", "Linux Code Snippets", "Shell Script", "Shell Scripts" ]
 ---
 
 # Bash

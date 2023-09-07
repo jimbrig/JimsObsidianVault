@@ -5,7 +5,7 @@
   "internalEmbedHeight": null,
   "showInPreviewEmbed": true,
   "previewEmbedHeight": null,
-  "frontmatterField": null,
+  "frontmatterField": "cover",
   "bannerDragModifier": "none",
   "iconHorizontalAlignment": "center",
   "iconHorizontalTransform": null,

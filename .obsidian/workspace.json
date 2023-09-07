@@ -8,38 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6daf7ce86cabdd8",
+            "id": "f390532edb51fa94",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Lists/GitHub Actions Master List.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "256a63e2e0acd1f6",
+            "id": "0f6b7d2edeb726be",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md",
+                "file": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f13ca1cd53af2e29",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "3f49b00a6aee5ef1",
+            "id": "a4a4aea9cc00e0aa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Amazing Snippets Repository.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dc17e7718b414022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "module classes",
+                "query": "caddy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
               }
             }
           },
@@ -142,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
               }
             }
           },
@@ -166,12 +200,12 @@
         "dimension": 54.11140583554377,
         "children": [
           {
-            "id": "c4e8022167a0d807",
+            "id": "e80073a52cd1aac2",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,18 +228,10 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012121,
+                  "scale": 0.2588386562181627,
                   "close": true
                 }
               }
-            }
-          },
-          {
-            "id": "f0056ce105b3d8a0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -230,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,13 +319,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,44 +355,43 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "256a63e2e0acd1f6",
+  "active": "dc17e7718b414022",
   "lastOpenFiles": [
+    "Obsidian Amazing Snippets Repository.md",
+    "03 - AREAS/Code/Bash/Bash - Docker Cleanup Volumes.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Make-MD Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Templater/_README.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md",
+    "03 - AREAS/Code/_README.md",
+    "04 - RESOURCES/Templates/Code-Templates/Template-Code-CSS.md",
+    "03 - AREAS/Code/CSS/_README.md",
+    "03 - AREAS/Code/CSS/src/obsidian-banner.css",
+    "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
-    "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md",
-    "03 - AREAS/Productivity/Time Blocking.md",
-    "03 - AREAS/Productivity/_README.md",
+    "04 - RESOURCES/Templates/Code-Templates/Untitled.md",
+    "03 - AREAS/Code/CSS/src",
+    "03 - AREAS/Code/CSS",
     "03 - AREAS/Journal/Daily/2023-09-07.md",
-    "04 - RESOURCES/Definitions/Repository.md",
-    "04 - RESOURCES/Lists/GitHub Actions Master List.md",
-    "03 - AREAS/Code/GitHub Actions/_README.md",
-    "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md",
-    "03 - AREAS/Journal/Daily/2023-09-05.md",
+    "03 - AREAS/Code/Bash/_README.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md",
+    "03 - AREAS/Tools/_README.md",
+    "Caddy.md",
+    "03 - AREAS/Code/Bash/src/docker-cleanup-volumes.sh",
+    "03 - AREAS/_README.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities/_README.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Homepage Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Heatmap Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Google Photos for Obsidian Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Google Calendar Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Obsidian Git",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other",
     "03 - AREAS/Code/GitHub Actions/src/pwsh-sign-scripts.yml",
-    "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "04 - RESOURCES/Templates/Code-Templates/Template-Code-GHA.md",
-    "03 - AREAS/Code/PowerShell/_README.md",
-    "04 - RESOURCES/Templates/Code-Templates/Template-Code-PowerShell.md",
-    "04 - RESOURCES/_README.md",
-    "99 - ARCHIVES/_README.md",
-    "03 - AREAS/Code/GitHub Actions/GHA - Automate Changelog.md",
-    "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md",
     "03 - AREAS/Code/GitHub Actions/src/pwsh-run-script.yml",
     "03 - AREAS/Code/GitHub Actions/src/pwsh-pester.yml",
-    "03 - AREAS/Code/GitHub Actions/src/pwsh-sign-script.yml",
-    "03 - AREAS/Code/GitHub Actions/src/pwsh-build-module.yml",
-    "03 - AREAS/Code/GitHub Actions/src/templates/pwsh.template.yml",
-    "03 - AREAS/Code/GitHub Actions/src/templates",
-    "03 - AREAS/Code/GitHub Actions/src/pwsh-psscriptanalyzer.yml",
-    "03 - AREAS/Code/GitHub Actions/src/pwsh-.yml",
-    "03 - AREAS/Code/GitHub Actions/src/pwsh-script.yml",
-    "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
-    "00 - INBOX/Managing Dotfiles.md",
-    "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development Best Practices.md",
-    "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md",
-    "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md",
-    "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development/_README.md",
-    "03 - AREAS/Guides/PowerShell Development/_README.md",
-    "03 - AREAS/Guides/_README.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

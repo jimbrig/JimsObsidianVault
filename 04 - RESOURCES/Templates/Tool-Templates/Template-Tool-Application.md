@@ -2,14 +2,23 @@
 Date Created: <% tp.file.creation_date("YYYY-MM-DD") %>
 Date Modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Type: Tool/Application
+Topic: Dev/Tool
+Status: WIP
 Tags: [ "#Type/Tool", "#Type/Tool/App", "#Topic/Software" ]
-Alias: [ "<% (tp.file.title).replace("Tool - ", "") %>", "<% (tp.file.title).replace("Tool - ", "") + ' Application' %>" ]
+Aliases: [ 
+  "<% (tp.file.title).replace("Tool - ", "") %>",
+  "<% (tp.file.title).replace("Tool - ", "") + ' Application' %>"
+]
 ---
 
 # <% (tp.file.title).replace("Tool - ", "") %>  
 
 
 ## Overview
+
+> [!SOURCE] Sources
+> - **
 
 <!-- TOC -->
 
@@ -21,7 +30,11 @@ Alias: [ "<% (tp.file.title).replace("Tool - ", "") %>", "<% (tp.file.title).rep
 
 ### Internal Linked Notes
 
+- [[03 - AREAS/Tools/_README|Tools]]
+
 ### External References
+
+- **
 
 #### Backlinks
 
@@ -33,3 +46,5 @@ list from [[<% tp.file.title %>]] AND -"CHANGELOG" AND -"<% tp.file.folder(true)
 ***
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | <% tp.date.now("YYYY") %>
+
+

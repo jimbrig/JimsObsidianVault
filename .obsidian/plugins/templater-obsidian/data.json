@@ -21,6 +21,10 @@
     {
       "folder": "03 - AREAS/Tools/Tools - IDEs and Editors",
       "template": "04 - RESOURCES/Templates/Tool-Templates/Template - Tool - IDE.md"
+    },
+    {
+      "folder": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins",
+      "template": "04 - RESOURCES/Templates/Tool-Templates/Tool - Obsidian Plugin.md"
     }
   ],
   "syntax_highlighting": true,

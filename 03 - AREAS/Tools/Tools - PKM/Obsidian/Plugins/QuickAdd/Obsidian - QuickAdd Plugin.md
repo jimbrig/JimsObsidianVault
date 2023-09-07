@@ -3,10 +3,10 @@ Date Created: 2023-07-05
 Date Modified: 2023-07-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Tool", "#Type/Tool/Obsidian", "#Topic/Obsidian", "#Topic/PKM" ]
-Alias: [ "Obsidian - QuickAdd Plugin", "Obsidian - QuickAdd Plugin Application" ]
+Alias: [ "QuickAdd Plugin", "QuickAdd Obsidian Plugin" ]
 ---
 
-# Obsidian - QuickAdd Plugin  
+# QuickAdd Plugin  
 
 
 ## Overview

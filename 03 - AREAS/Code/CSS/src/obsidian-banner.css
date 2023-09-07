@@ -1,0 +1,22 @@
+.obsidian-banner img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 300px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    user-select: none;
+}
+
+.obsidian-banner .inline-title {
+    margin-top: 300px;
+}
+
+.obsidian-banner.is-readable-line-width img {
+    width: var(--file-line-width);
+}

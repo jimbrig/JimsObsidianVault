@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "ReadWise Templates",
-      "path": "04 - RESOURCES/Templates/Source-Templates/ReadWise Templates.md"
-    },
-    {
-      "basename": "Template-Frontmatter",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
-      "basename": "Time Blocking",
-      "path": "03 - AREAS/Productivity/Time Blocking.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Productivity/_README.md"
-    },
-    {
       "basename": "2023-09-07",
       "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
     },
     {
-      "basename": "GitHub Actions Master List",
-      "path": "04 - RESOURCES/Lists/GitHub Actions Master List.md"
+      "basename": "CSS - Obsidian Banner",
+      "path": "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md"
     },
     {
-      "basename": "Repository",
-      "path": "04 - RESOURCES/Definitions/Repository.md"
+      "basename": "Obsidian Amazing Snippets Repository",
+      "path": "Obsidian Amazing Snippets Repository.md"
     },
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/GitHub Actions/_README.md"
+      "basename": "Bash - Docker Cleanup Volumes",
+      "path": "03 - AREAS/Code/Bash/Bash - Docker Cleanup Volumes.md"
     },
     {
-      "basename": "GHA - Sign PowerShell Scripts",
-      "path": "03 - AREAS/Code/GitHub Actions/GHA - Sign PowerShell Scripts.md"
+      "basename": "Make-MD Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Make-MD Plugin.md"
     },
     {
-      "basename": "2023-09-05",
-      "path": "03 - AREAS/Journal/Daily/2023-09-05.md"
-    },
-    {
-      "basename": "PowerShell - Add-GodModeShortcut",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "Template-Code-GHA",
-      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-GHA.md"
+      "basename": "Obsidian - QuickAdd Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Code/PowerShell/_README.md"
-    },
-    {
-      "basename": "Template-Code-PowerShell",
-      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-PowerShell.md"
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Templater/_README.md"
     },
     {
       "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "99 - ARCHIVES/_README.md"
-    },
-    {
-      "basename": "GHA - Automate Changelog",
-      "path": "03 - AREAS/Code/GitHub Actions/GHA - Automate Changelog.md"
-    },
-    {
-      "basename": "GHA - Build PowerShell Module",
-      "path": "03 - AREAS/Code/GitHub Actions/GHA - Build PowerShell Module.md"
-    },
-    {
-      "basename": "Developing PowerShell Core Modules Best Practices",
-      "path": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
-    },
-    {
-      "basename": "Managing Dotfiles",
-      "path": "00 - INBOX/Managing Dotfiles.md"
-    },
-    {
-      "basename": "PowerShell Module Development Best Practices",
-      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development Best Practices.md"
-    },
-    {
-      "basename": "PowerShell Error Handling",
-      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Error Handling.md"
-    },
-    {
-      "basename": "PowerShell Advanced Functions",
-      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Scripting/PowerShell Advanced Functions.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Guides/PowerShell Development/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Guides/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/_README.md"
-    },
-    {
-      "basename": "0-Slipbox.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/0-Slipbox.md.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - CLI/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/_README.md"
-    },
-    {
-      "basename": "tfenv",
-      "path": "03 - AREAS/Tools/Tools - CLI/Terraform CLI Tools/tfenv.md"
-    },
-    {
-      "basename": "Windows Terminal",
-      "path": "03 - AREAS/Tools/Tools - Windows/Windows Terminal.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/AWS CLI Tools/_README.md"
-    },
-    {
-      "basename": "R - Setup ShinyApps.io Accounts",
-      "path": "03 - AREAS/Code/R/R - Setup ShinyApps.io Accounts.md"
-    },
-    {
-      "basename": "2023-08-31",
-      "path": "03 - AREAS/Journal/Daily/2023-08-31.md"
-    },
-    {
-      "basename": "Bash - Quick Tips",
-      "path": "03 - AREAS/Code/Bash/Bash - Quick Tips.md"
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md"
     },
     {
       "basename": "_README",
       "path": "03 - AREAS/Code/_README.md"
     },
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/_README.md"
-    },
-    {
-      "basename": "To Process",
-      "path": "03 - AREAS/Tools/Tools - CLI/To Process.md"
-    },
-    {
-      "basename": "Vercel CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Vercel CLI.md"
-    },
-    {
-      "basename": "Digital Ocean CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Digital Ocean CLI.md"
-    },
-    {
-      "basename": "Linode CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Other Cloud CLI Tools/Linode CLI.md"
+      "basename": "Template-Code-CSS",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-CSS.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/GCP CLI Tools/_README.md"
+      "path": "03 - AREAS/Code/CSS/_README.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Untitled.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/_README.md"
+      "path": "03 - AREAS/Code/Bash/_README.md"
     },
     {
-      "basename": "Azure Bicep",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Bicep.md"
+      "basename": "Obsidian Banners",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md"
     },
     {
-      "basename": "Azure Terraform Export (aztfexport)",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Terraform Export (aztfexport).md"
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md"
     },
     {
-      "basename": "Azure Terrafy CLI (aztfy)",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Terrafy CLI (aztfy).md"
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md"
     },
     {
-      "basename": "Azure Storage CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Storage CLI.md"
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/_README.md"
     },
     {
-      "basename": "Azure Static Site CLI",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Static Site CLI.md"
+      "basename": "Caddy",
+      "path": "Caddy.md"
     },
     {
-      "basename": "Azure Development CLI (azd)",
-      "path": "03 - AREAS/Tools/Tools - CLI/Cloud CLI Tools/Azure CLI Tools/Azure Development CLI (azd).md"
+      "basename": "_README",
+      "path": "03 - AREAS/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities/_README.md"
+    },
+    {
+      "basename": "Homepage Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Homepage Plugin.md"
+    },
+    {
+      "basename": "Heatmap Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Heatmap Plugin.md"
+    },
+    {
+      "basename": "Google Photos for Obsidian Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Google Photos for Obsidian Plugin.md"
+    },
+    {
+      "basename": "Google Calendar Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Google Calendar Plugin.md"
+    },
+    {
+      "basename": "Fleeting Notes Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Fleeting Notes Plugin.md"
+    },
+    {
+      "basename": "DBFolder Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/DBFolder Plugin.md"
+    },
+    {
+      "basename": "Convert URL to iFrame Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Convert URL to iFrame Plugin.md"
+    },
+    {
+      "basename": "CMDR Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/CMDR Plugin.md"
+    },
+    {
+      "basename": "ChatGPT Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/ChatGPT Plugin.md"
+    },
+    {
+      "basename": "Callout Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Callout Plugin.md"
+    },
+    {
+      "basename": "Calendar Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Calendar Plugin.md"
+    },
+    {
+      "basename": "Breadcrumbs Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Breadcrumbs Plugin.md"
+    },
+    {
+      "basename": "Tool - Obsidian Plugin",
+      "path": "04 - RESOURCES/Templates/Tool-Templates/Tool - Obsidian Plugin.md"
+    },
+    {
+      "basename": "Obsidian Dictionary Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Dictionary Plugin.md"
+    },
+    {
+      "basename": "Obsidian Full Calendar Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Full Calendar Plugin.md"
+    },
+    {
+      "basename": "Obsidian Imgur Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Imgur Plugin.md"
+    },
+    {
+      "basename": "Obsidian Linter Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Linter Plugin.md"
+    },
+    {
+      "basename": "Obsidian Local Images Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Local Images Plugin.md"
+    },
+    {
+      "basename": "Obsidian Local REST API Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Local REST API Plugin.md"
+    },
+    {
+      "basename": "Obsidian Mind Map Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Mind Map Plugin.md"
+    },
+    {
+      "basename": "Obsidian Omnivore Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Omnivore Plugin.md"
+    },
+    {
+      "basename": "Obsidian Pandoc Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Pandoc Plugin.md"
+    },
+    {
+      "basename": "Obsidian TOC Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian TOC Plugin.md"
+    },
+    {
+      "basename": "Obsidian Plugin Update Tracker Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Plugin Update Tracker Plugin.md"
+    },
+    {
+      "basename": "Obsidian Read Later Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Read Later Plugin.md"
+    },
+    {
+      "basename": "Obsidian Shell Commands Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Shell Commands Plugin.md"
+    },
+    {
+      "basename": "Obsidian Show File Path Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Show File Path Plugin.md"
+    },
+    {
+      "basename": "Obsidian Snippet Downloader Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Snippet Downloader Plugin.md"
+    },
+    {
+      "basename": "Obsidian Style Settings Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Style Settings Plugin.md"
     }
   ],
   "omittedPaths": [],

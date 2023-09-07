@@ -1,14 +1,15 @@
 ---
-Date: <% tp.date.now() %>
+Date Created: <% tp.file.creation_date("YYYY-MM-DD") %>
+Date Modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: [ "<% (tp.file.title).replace("PowerShell - ", "") %>" ]
+Tags: [ "#Type/Code/CSS", "#Topic/Dev/CSS" ]
+Aliases: [ "<% (tp.file.title).replace("CSS - ", "") %>" ]
 ---
 
-# <% (tp.file.title).replace("PowerShell - ", "") %>
+# <% (tp.file.title).replace("CSS - ", "") %>
 
-> [!NOTE] About
-> <% tp.file.cursor(1) %>
+> [!SOURCE] Sources:
+> - **
 
 ## Contents
 
@@ -16,9 +17,7 @@ Alias: [ "<% (tp.file.title).replace("PowerShell - ", "") %>" ]
 
 ## Code
 
-*Link: <<% tp.file.cursor(2) %>>*
-
-```powershell
+```css
 
 ```
 
@@ -35,13 +34,13 @@ Alias: [ "<% (tp.file.title).replace("PowerShell - ", "") %>" ]
 
 ### Internal Linked Notes
 
-- [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
-- [[Code/_README|Code Snippets]]
-- [[03 - AREAS/Code/PowerShell/_README|PowerShell Code Snippets]]
-- [[MOCs/Development|Development]]
-- [[MOCs/Technology|Technology]]
-- [[MOCs/Windows|Microsoft Windows]]
-- [[MOCs/Software Engineering|Software Engineering]]
+- [[CSS]]
+- [[03 - AREAS/Code/CSS/_README|CSS Code Snippets]]
+- [[03 - AREAS/Technology/Programming/Web Development/Frontend/HTML|HTML]]
+- [[MOC - Web Development|Web Development]]
+- [[03 - AREAS/Code/_README|Code Snippets]]
+- [[MOC - Development|Development]]
+- [[MOC - Technology|Technology]]
 
 ### External References
 
