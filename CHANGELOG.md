@@ -1,4 +1,4 @@
-- 2023-09-07 at 19h11 · [[CSS - Obsidian Banner]]
+- 2023-09-07 at 19h17 · [[CSS - Obsidian Banner]]
 - 2023-09-07 at 19h08 · [[Template-Code-CSS]]
 - 2023-09-07 at 19h07 · [[_README]]
 - 2023-09-07 at 19h05 · [[Untitled]]

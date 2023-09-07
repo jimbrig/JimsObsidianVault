@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Amazing Snippets Repository.md",
+                "file": "00 - INBOX/Obsidian Amazing Snippets Repository.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
-                "mode": "source",
+                "file": "00 - INBOX/Caddy.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
+                "file": "00 - INBOX/Caddy.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md"
+                "file": "00 - INBOX/Caddy.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac3153552315a07",
@@ -200,12 +200,20 @@
         "dimension": 54.11140583554377,
         "children": [
           {
+            "id": "c3835b56b1249107",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "e80073a52cd1aac2",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
+                "file": "00 - INBOX/Caddy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
+                "file": "00 - INBOX/Caddy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
+                "file": "00 - INBOX/Caddy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,9 +363,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "dc17e7718b414022",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "Obsidian Amazing Snippets Repository.md",
+    "00 - INBOX/Obsidian Amazing Snippets Repository.md",
+    "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md",
+    "03 - AREAS/Code/CSS/src/obsidian-icon-image.css",
+    "03 - AREAS/Code/CSS/src/obsidian-banner-extended.css",
+    "03 - AREAS/Journal/Daily/2023-09-07.md",
     "03 - AREAS/Code/Bash/Bash - Docker Cleanup Volumes.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Make-MD Plugin.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md",
@@ -367,18 +379,16 @@
     "04 - RESOURCES/Templates/Code-Templates/Template-Code-CSS.md",
     "03 - AREAS/Code/CSS/_README.md",
     "03 - AREAS/Code/CSS/src/obsidian-banner.css",
-    "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/Templates/Code-Templates/Untitled.md",
     "03 - AREAS/Code/CSS/src",
     "03 - AREAS/Code/CSS",
-    "03 - AREAS/Journal/Daily/2023-09-07.md",
     "03 - AREAS/Code/Bash/_README.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md",
     "03 - AREAS/Tools/_README.md",
-    "Caddy.md",
+    "00 - INBOX/Caddy.md",
     "03 - AREAS/Code/Bash/src/docker-cleanup-volumes.sh",
     "03 - AREAS/_README.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities/_README.md",
@@ -390,8 +400,6 @@
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Obsidian Git",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other",
     "03 - AREAS/Code/GitHub Actions/src/pwsh-sign-scripts.yml",
-    "03 - AREAS/Code/GitHub Actions/src/pwsh-run-script.yml",
-    "03 - AREAS/Code/GitHub Actions/src/pwsh-pester.yml",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
