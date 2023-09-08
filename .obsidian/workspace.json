@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md",
+                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md"
+                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md"
+                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md",
+                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md",
+                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md",
+                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,42 +378,42 @@
   },
   "active": "c820b148d97e9eb9",
   "lastOpenFiles": [
+    "03 - AREAS/Code/PowerShell/src/templates/build.script.template.ps1",
+    "03 - AREAS/Code/PowerShell/src/templates/requirements.template.ps1",
+    "03 - AREAS/Code/PowerShell/src/templates/build.script.ps1",
+    "03 - AREAS/Code/PowerShell/src/templates/custom.format.template.ps1xml",
+    "03 - AREAS/Code/PowerShell/src/templates/custom.types.template.ps1xml",
+    "03 - AREAS/Code/PowerShell/src/templates/pester.test.template.ps1",
+    "03 - AREAS/Code/PowerShell/src/templates/build.task.template.ps1",
+    "03 - AREAS/Code/PowerShell/src/templates/configuration.template.psd1",
+    "03 - AREAS/Code/PowerShell/src/templates/module-script.template.psm1",
+    "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1",
+    "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1",
+    "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
+    "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
+    "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1.md",
     "03 - AREAS/Code/CSS/_README.md",
+    "03 - AREAS/Meta/Meta - Templates.md",
+    "03 - AREAS/Meta/Workflows/Workflows.md",
+    "03 - AREAS/Meta/Tags.md",
+    "03 - AREAS/Meta/Sources.md",
+    "03 - AREAS/Meta/Settings.md",
+    "03 - AREAS/Meta/References.md",
+    "03 - AREAS/Meta/Ideas.md",
+    "03 - AREAS/Meta/Fonts.md",
+    "03 - AREAS/Meta/Folders.md",
+    "03 - AREAS/Meta/_README.md",
+    "04 - RESOURCES/Templates/Utility-Templates/Template-Definition.md",
+    "04 - RESOURCES/Templates/Utility-Templates/Template-Checklist.md",
+    "04 - RESOURCES/Templates/Life-Templates/Template-Quarterly.md",
+    "04 - RESOURCES/Templates/Life-Templates/Template-Project.md",
+    "04 - RESOURCES/Templates/Utility-Templates/Template-List.md",
+    "04 - RESOURCES/_README.md",
     "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md",
     "03 - AREAS/Code/_README.md",
     "03 - AREAS/_README.md",
     "HOME.md",
-    "03 - AREAS/Code/SQL/Presto",
-    "03 - AREAS/Code/SQL/KSQL",
-    "03 - AREAS/Code/SQL/Vanilla",
-    "03 - AREAS/Code/SQL/Dataview/src/latest-modified-files.dataview.sql",
-    "03 - AREAS/Code/SQL/Dataview/src/latest-modified-files.dataview.js",
-    "03 - AREAS/Code/SQL/Dataview/src",
-    "03 - AREAS/Code/SQL/Dataview",
-    "03 - AREAS/Code/SQL/PLpgSQL/src",
-    "03 - AREAS/Code/SQL/PLpgSQL",
-    "03 - AREAS/Code/SQL/TSQL/src",
-    "04 - RESOURCES/_README.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Full Calendar Plugin.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md",
-    "03 - AREAS/Tools/_README.md",
-    "03 - AREAS/Code/JavaScript/DataviewJS/Dataview - Search and Display List of Callouts.md",
-    "03 - AREAS/Code/JavaScript/_README.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Enhancing Export Plugin.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md",
-    "03 - AREAS/Journal/Daily/2023-09-07.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities/_README.md",
-    "00 - INBOX/Obsidian Amazing Snippets Repository.md",
-    "00 - INBOX/Caddy.md",
-    "03 - AREAS/Meta/Fonts.md",
-    "00 - INBOX/Google Fonts.md",
-    "03 - AREAS/Meta/_README.md",
-    "00 - INBOX/Transfronter CSS Font Face Generator.md",
-    "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md",
-    "03 - AREAS/Code/Bash/Bash - Docker Cleanup Volumes.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Make-MD Plugin.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

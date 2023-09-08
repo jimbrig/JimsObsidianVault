@@ -1,3 +1,6 @@
+- 2023-09-07 at 21h25 · [[Untitled]]
+- 2023-09-07 at 21h23 · [[Meta - Templates]]
+- 2023-09-07 at 21h11 · [[_README]]
 - 2023-09-07 at 20h44 · [[CSS - Obsidian Full Length Note]]
 - 2023-09-07 at 20h39 · [[HOME]]
 - 2023-09-07 at 20h36 · [[Full Calendar Plugin]]
@@ -45,6 +48,3 @@
 - 2023-09-07 at 18h31 · [[Obsidian TOC Plugin]]
 - 2023-09-07 at 18h31 · [[Obsidian Pandoc Plugin]]
 - 2023-09-07 at 18h30 · [[Obsidian Omnivore Plugin]]
-- 2023-09-07 at 18h30 · [[Obsidian Mind Map Plugin]]
-- 2023-09-07 at 18h30 · [[Obsidian Local REST API Plugin]]
-- 2023-09-07 at 18h30 · [[Obsidian Local Images Plugin]]
