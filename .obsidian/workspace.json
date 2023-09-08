@@ -378,6 +378,7 @@
   },
   "active": "c820b148d97e9eb9",
   "lastOpenFiles": [
+    "03 - AREAS/Code/PowerShell/src/templates/about_Topic.Help.template.txt",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/requirements.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.ps1",
@@ -388,7 +389,6 @@
     "03 - AREAS/Code/PowerShell/src/templates/configuration.template.psd1",
     "03 - AREAS/Code/PowerShell/src/templates/module-script.template.psm1",
     "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1",
-    "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1",
     "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
     "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
     "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1.md",
