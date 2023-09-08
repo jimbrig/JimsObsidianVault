@@ -3,7 +3,7 @@ cssclass: homepage
 banner_x: 0.65
 banner_y: 0.35
 target: 10000
-banner: "Assets/Banners/programming.gif"
+banner: "04 - RESOURCES/Assets/Banners/programming.gif"
 banner_icon: 💻
 ---
 
@@ -32,16 +32,16 @@ banner_icon: 💻
 ## 🗺️ Maps of Content
 
 ```dataview
-LIST FROM "MOCs" AND -"CHANGELOG" AND -"MOCs/_README"
+LIST FROM "03 - AREAS/MOCs" AND -"CHANGELOG" AND -"03 - AREAS/MOCs/_README"
 ```
 
 ## Latest Modified Files
 
-> [!NOTE] Latest 10 Modified Files in the Vault.
+> [!NOTE] Latest 10 Modified Files in the Vault (excluding [[CHANGELOG]]):
 
 ```dataview  
 table file.ctime as Created, file.mtime as "Last modified"  
-where file.name != this.file.name  
+where file.name != this.file.name and file.name !="CHANGELOG"
 sort file.mtime DESC  
 limit 10  
 ```
