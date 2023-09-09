@@ -9,17 +9,24 @@ Sources: [ ]
 Tags: [ "#Type/Tool/Obsidian", "#Topic/Dev", "#Status/WIP" ]
 Aliases: [ "Obsidian Banners Plugin" ]
 cssclasses: [ ]
-Cover:
 ---
 
 # Obsidian Banners Plugin
 
 > [!SOURCE] Sources
-> - **
+> - *[noatpad/obsidian-banners: An Obsidian plugin that adds banners to your notes (github.com)](https://github.com/noatpad/obsidian-banners)*
+
+![](https: //i.imgur.com/yXLESKT.png)
+
 
 ## Contents
 
-[TOC]
+- [Overview](#overview)
+- [Appendix: Links and References](#appendix-links-and-references)
+	- [Internal Linked Notes](#internal-linked-notes)
+	- [External References](#external-references)
+		- [Backlinks](#backlinks)
+
 
 ## Overview
 
@@ -35,6 +42,7 @@ Cover:
 ### Internal Linked Notes
 
 - [[03 - AREAS/Tools/_README|Tools]]
+- [[03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README|Obsidian Plugins]]
 
 ### External References
 

@@ -38,21 +38,6 @@
             }
           },
           {
-            "id": "f13ca1cd53af2e29",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "a4a4aea9cc00e0aa",
             "type": "leaf",
             "pinned": true,
@@ -73,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
-                "mode": "source",
+                "file": "03 - AREAS/MOCs/MOC - Development.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -94,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-09.md"
+                "file": "03 - AREAS/MOCs/MOC - Development.md"
               }
             }
           },
@@ -189,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-09.md"
+                "file": "03 - AREAS/MOCs/MOC - Development.md"
               }
             }
           },
@@ -205,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "1ac3153552315a07",
@@ -226,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
+                "file": "03 - AREAS/MOCs/MOC - Development.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
+                "file": "03 - AREAS/MOCs/MOC - Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
+                "file": "03 - AREAS/MOCs/MOC - Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +325,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -378,8 +364,21 @@
   },
   "active": "c820b148d97e9eb9",
   "lastOpenFiles": [
-    "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
+    "03 - AREAS/MOCs/_README.md",
+    "03 - AREAS/Meta/_README.md",
+    "03 - AREAS/Meta/Obsidian Templates.md",
+    "03 - AREAS/Meta/Integrations/_README.md",
+    "03 - AREAS/Meta/Obsidian Integrations.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations/Obsidian Hackernews Plugin.md",
+    "03 - AREAS/Meta/Integrations",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners Plugin.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md",
     "03 - AREAS/Journal/Daily/2023-09-09.md",
+    "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
     "03 - AREAS/Code/PowerShell/src/templates/about_Topic.Help.template.txt",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/requirements.template.ps1",
@@ -388,12 +387,9 @@
     "03 - AREAS/Code/PowerShell/src/templates/custom.types.template.ps1xml",
     "03 - AREAS/Code/PowerShell/src/templates/pester.test.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/build.task.template.ps1",
-    "03 - AREAS/Code/PowerShell/src/templates/configuration.template.psd1",
-    "03 - AREAS/Code/PowerShell/src/templates/module-script.template.psm1",
     "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
     "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1.md",
     "03 - AREAS/Code/CSS/_README.md",
-    "03 - AREAS/Meta/Meta - Templates.md",
     "03 - AREAS/Meta/Workflows/Workflows.md",
     "03 - AREAS/Meta/Tags.md",
     "03 - AREAS/Meta/Sources.md",
@@ -402,18 +398,8 @@
     "03 - AREAS/Meta/Ideas.md",
     "03 - AREAS/Meta/Fonts.md",
     "03 - AREAS/Meta/Folders.md",
-    "03 - AREAS/Meta/_README.md",
     "04 - RESOURCES/Templates/Utility-Templates/Template-Definition.md",
     "04 - RESOURCES/Templates/Utility-Templates/Template-Checklist.md",
-    "04 - RESOURCES/Templates/Life-Templates/Template-Quarterly.md",
-    "04 - RESOURCES/Templates/Life-Templates/Template-Project.md",
-    "04 - RESOURCES/Templates/Utility-Templates/Template-List.md",
-    "04 - RESOURCES/_README.md",
-    "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md",
-    "03 - AREAS/Code/_README.md",
-    "03 - AREAS/_README.md",
-    "HOME.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Full Calendar Plugin.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC - Development",
+      "path": "03 - AREAS/MOCs/MOC - Development.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/MOCs/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Meta/_README.md"
+    },
+    {
+      "basename": "Obsidian Templates",
+      "path": "03 - AREAS/Meta/Obsidian Templates.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Meta/Integrations/_README.md"
+    },
+    {
+      "basename": "Obsidian Hackernews Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations/Obsidian Hackernews Plugin.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md"
+    },
+    {
+      "basename": "Obsidian Code Emitter Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md"
+    },
+    {
+      "basename": "Obsidian Banners Plugin",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners Plugin.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md"
+    },
+    {
       "basename": "2023-09-09",
       "path": "03 - AREAS/Journal/Daily/2023-09-09.md"
     },
@@ -11,10 +51,6 @@
     {
       "basename": "_README",
       "path": "03 - AREAS/Code/CSS/_README.md"
-    },
-    {
-      "basename": "Meta - Templates",
-      "path": "03 - AREAS/Meta/Meta - Templates.md"
     },
     {
       "basename": "Workflows",
@@ -47,10 +83,6 @@
     {
       "basename": "Folders",
       "path": "03 - AREAS/Meta/Folders.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Meta/_README.md"
     },
     {
       "basename": "Template-Definition",
@@ -98,15 +130,7 @@
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md"
-    },
-    {
-      "basename": "_README",
       "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md"
     },
     {
       "basename": "_README",
@@ -123,10 +147,6 @@
     {
       "basename": "Obsidian Enhancing Export Plugin",
       "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Enhancing Export Plugin.md"
-    },
-    {
-      "basename": "Obsidian Code Emitter Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md"
     },
     {
       "basename": "2023-09-07",
@@ -179,22 +199,6 @@
     {
       "basename": "Template-Frontmatter",
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "04 - RESOURCES/Templates/Code-Templates/Untitled.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/Bash/_README.md"
-    },
-    {
-      "basename": "Obsidian Banners",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md"
-    },
-    {
-      "basename": "Homepage Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Homepage Plugin.md"
     }
   ],
   "omittedPaths": [],
