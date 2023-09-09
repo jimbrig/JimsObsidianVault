@@ -1,3 +1,6 @@
+- 2023-09-09 at 19h46 · [[Guide - Using Git Sparse Checkout]]
+- 2023-09-09 at 19h26 · [[Git - Sparse Checkout]]
+- 2023-09-09 at 19h16 · [[_README]]
 - 2023-09-09 at 15h26 · [[_README]]
 - 2023-09-09 at 15h21 · [[Obsidian Hackernews Plugin]]
 - 2023-09-09 at 15h17 · [[Community Plugins]]
@@ -45,6 +48,3 @@
 - 2023-09-07 at 18h32 · [[Tool - Obsidian Plugin]]
 - 2023-09-07 at 18h31 · [[Obsidian Style Settings Plugin]]
 - 2023-09-07 at 18h31 · [[Obsidian Snippet Downloader Plugin]]
-- 2023-09-07 at 18h31 · [[Obsidian Show File Path Plugin]]
-- 2023-09-07 at 18h31 · [[Obsidian Shell Commands Plugin]]
-- 2023-09-07 at 18h31 · [[Obsidian Read Later Plugin]]

@@ -58,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/MOCs/MOC - Development.md",
-                "mode": "preview",
+                "file": "00 - INBOX/Git - Sparse Checkout.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md",
+                "file": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/MOCs/MOC - Development.md"
+                "file": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/MOCs/MOC - Development.md"
+                "file": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/MOCs/MOC - Development.md",
+                "file": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/MOCs/MOC - Development.md",
+                "file": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/MOCs/MOC - Development.md",
+                "file": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,8 +362,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c820b148d97e9eb9",
+  "active": "831118b9d62640e8",
   "lastOpenFiles": [
+    "00 - INBOX/Git - Sparse Checkout.md",
+    "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
+    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md",
+    "00 - INBOX/Obsidian Amazing Snippets Repository.md",
+    "03 - AREAS/Code/Git/_README.md",
+    "00 - INBOX/An Exploration of Data vs Metadata.md",
+    "03 - AREAS/Code/registry",
+    "03 - AREAS/MOCs/MOC - Development.md",
     "03 - AREAS/MOCs/_README.md",
     "03 - AREAS/Meta/_README.md",
     "03 - AREAS/Meta/Obsidian Templates.md",
@@ -372,7 +380,6 @@
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations/Obsidian Hackernews Plugin.md",
     "03 - AREAS/Meta/Integrations",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners Plugin.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations",
@@ -386,7 +393,6 @@
     "03 - AREAS/Code/PowerShell/src/templates/custom.format.template.ps1xml",
     "03 - AREAS/Code/PowerShell/src/templates/custom.types.template.ps1xml",
     "03 - AREAS/Code/PowerShell/src/templates/pester.test.template.ps1",
-    "03 - AREAS/Code/PowerShell/src/templates/build.task.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
     "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1.md",
     "03 - AREAS/Code/CSS/_README.md",
@@ -394,12 +400,6 @@
     "03 - AREAS/Meta/Tags.md",
     "03 - AREAS/Meta/Sources.md",
     "03 - AREAS/Meta/Settings.md",
-    "03 - AREAS/Meta/References.md",
-    "03 - AREAS/Meta/Ideas.md",
-    "03 - AREAS/Meta/Fonts.md",
-    "03 - AREAS/Meta/Folders.md",
-    "04 - RESOURCES/Templates/Utility-Templates/Template-Definition.md",
-    "04 - RESOURCES/Templates/Utility-Templates/Template-Checklist.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
