@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-09.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-09.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,6 +378,8 @@
   },
   "active": "c820b148d97e9eb9",
   "lastOpenFiles": [
+    "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
+    "03 - AREAS/Journal/Daily/2023-09-09.md",
     "03 - AREAS/Code/PowerShell/src/templates/about_Topic.Help.template.txt",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/requirements.template.ps1",
@@ -388,9 +390,7 @@
     "03 - AREAS/Code/PowerShell/src/templates/build.task.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/configuration.template.psd1",
     "03 - AREAS/Code/PowerShell/src/templates/module-script.template.psm1",
-    "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
-    "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
     "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1.md",
     "03 - AREAS/Code/CSS/_README.md",
     "03 - AREAS/Meta/Meta - Templates.md",
