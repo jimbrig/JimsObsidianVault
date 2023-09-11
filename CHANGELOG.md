@@ -1,3 +1,4 @@
+- 2023-09-11 at 18h27 · [[Startup Funding and Obtaining Business Capital]]
 - 2023-09-09 at 19h46 · [[Guide - Using Git Sparse Checkout]]
 - 2023-09-09 at 19h26 · [[Git - Sparse Checkout]]
 - 2023-09-09 at 19h16 · [[_README]]
@@ -47,4 +48,3 @@
 - 2023-09-07 at 18h32 · [[Breadcrumbs Plugin]]
 - 2023-09-07 at 18h32 · [[Tool - Obsidian Plugin]]
 - 2023-09-07 at 18h31 · [[Obsidian Style Settings Plugin]]
-- 2023-09-07 at 18h31 · [[Obsidian Snippet Downloader Plugin]]

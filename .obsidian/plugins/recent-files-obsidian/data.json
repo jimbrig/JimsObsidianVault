@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Startup Funding and Obtaining Business Capital",
+      "path": "Startup Funding and Obtaining Business Capital.md"
+    },
+    {
       "basename": "Guide - Using Git Sparse Checkout",
       "path": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Make-MD Plugin",
       "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Make-MD Plugin.md"
-    },
-    {
-      "basename": "Obsidian - QuickAdd Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/QuickAdd/Obsidian - QuickAdd Plugin.md"
     }
   ],
   "omittedPaths": [],
