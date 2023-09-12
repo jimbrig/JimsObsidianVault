@@ -84,15 +84,64 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Startup Funding and Obtaining Business Capital.md",
+                "file": "00 - INBOX/Startup Funding and Obtaining Business Capital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "c6a4149e5d6312b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/CleanMgr+.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e67fb71611d886bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6038edd9a1a3fca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/Windows Disk Cleanup Tool (CleanMgr.exe).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a06be6c2c562f5e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Startup Funding and Obtaining Business Capital.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-12.md"
               }
             }
           },
@@ -187,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Startup Funding and Obtaining Business Capital.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-12.md"
               }
             }
           },
@@ -224,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Startup Funding and Obtaining Business Capital.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startup Funding and Obtaining Business Capital.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Startup Funding and Obtaining Business Capital.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,10 +424,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e80b9d8cc6c71c05",
+  "active": "e67fb71611d886bf",
   "lastOpenFiles": [
+    "00 - INBOX/Guide - Cleanup Windows.md",
+    "00 - INBOX/CleanMgr+.md",
+    "00 - INBOX/Windows Disk Cleanup Tool (CleanMgr.exe).md",
+    "00 - INBOX/Startup Funding and Obtaining Business Capital.md",
     "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
-    "Startup Funding and Obtaining Business Capital.md",
     "00 - INBOX/Git - Sparse Checkout.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md",
     "00 - INBOX/Obsidian Amazing Snippets Repository.md",
@@ -410,9 +462,6 @@
     "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
     "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1.md",
     "03 - AREAS/Code/CSS/_README.md",
-    "03 - AREAS/Meta/Workflows/Workflows.md",
-    "03 - AREAS/Meta/Tags.md",
-    "03 - AREAS/Meta/Sources.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

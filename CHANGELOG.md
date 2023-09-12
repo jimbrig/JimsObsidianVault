@@ -1,3 +1,6 @@
+- 2023-09-12 at 18h36 · [[Guide - Cleanup Windows]]
+- 2023-09-12 at 18h30 · [[Windows Disk Cleanup Tool (CleanMgr.exe)]]
+- 2023-09-12 at 18h29 · [[CleanMgr+]]
 - 2023-09-11 at 18h27 · [[Startup Funding and Obtaining Business Capital]]
 - 2023-09-09 at 19h46 · [[Guide - Using Git Sparse Checkout]]
 - 2023-09-09 at 19h26 · [[Git - Sparse Checkout]]
@@ -45,6 +48,3 @@
 - 2023-09-07 at 18h33 · [[ChatGPT Plugin]]
 - 2023-09-07 at 18h33 · [[Callout Plugin]]
 - 2023-09-07 at 18h33 · [[Calendar Plugin]]
-- 2023-09-07 at 18h32 · [[Breadcrumbs Plugin]]
-- 2023-09-07 at 18h32 · [[Tool - Obsidian Plugin]]
-- 2023-09-07 at 18h31 · [[Obsidian Style Settings Plugin]]

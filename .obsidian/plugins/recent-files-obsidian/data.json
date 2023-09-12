@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-12",
+      "path": "03 - AREAS/Journal/Daily/2023-09-12.md"
+    },
+    {
+      "basename": "2023-09-07",
+      "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
+    },
+    {
+      "basename": "An Exploration of Data vs Metadata",
+      "path": "00 - INBOX/An Exploration of Data vs Metadata.md"
+    },
+    {
+      "basename": "Guide - Cleanup Windows",
+      "path": "00 - INBOX/Guide - Cleanup Windows.md"
+    },
+    {
+      "basename": "CleanMgr+",
+      "path": "00 - INBOX/CleanMgr+.md"
+    },
+    {
+      "basename": "Windows Disk Cleanup Tool (CleanMgr.exe)",
+      "path": "00 - INBOX/Windows Disk Cleanup Tool (CleanMgr.exe).md"
+    },
+    {
       "basename": "Startup Funding and Obtaining Business Capital",
-      "path": "Startup Funding and Obtaining Business Capital.md"
+      "path": "00 - INBOX/Startup Funding and Obtaining Business Capital.md"
     },
     {
       "basename": "Guide - Using Git Sparse Checkout",
@@ -19,10 +43,6 @@
     {
       "basename": "Obsidian Amazing Snippets Repository",
       "path": "00 - INBOX/Obsidian Amazing Snippets Repository.md"
-    },
-    {
-      "basename": "An Exploration of Data vs Metadata",
-      "path": "00 - INBOX/An Exploration of Data vs Metadata.md"
     },
     {
       "basename": "MOC - Development",
@@ -169,10 +189,6 @@
       "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Enhancing Export Plugin.md"
     },
     {
-      "basename": "2023-09-07",
-      "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
-    },
-    {
       "basename": "_README",
       "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities/_README.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Google Fonts",
       "path": "00 - INBOX/Google Fonts.md"
-    },
-    {
-      "basename": "Transfronter CSS Font Face Generator",
-      "path": "00 - INBOX/Transfronter CSS Font Face Generator.md"
-    },
-    {
-      "basename": "CSS - Obsidian Banner",
-      "path": "03 - AREAS/Code/CSS/CSS - Obsidian Banner.md"
-    },
-    {
-      "basename": "Bash - Docker Cleanup Volumes",
-      "path": "03 - AREAS/Code/Bash/Bash - Docker Cleanup Volumes.md"
-    },
-    {
-      "basename": "Make-MD Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Make-MD Plugin.md"
     }
   ],
   "omittedPaths": [],
