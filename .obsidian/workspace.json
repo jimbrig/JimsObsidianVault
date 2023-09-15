@@ -118,6 +118,16 @@
             }
           },
           {
+            "id": "048b35c55ef2370c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "6038edd9a1a3fca1",
             "type": "leaf",
             "state": {
@@ -141,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -420,11 +430,10 @@
       "gpt3-notes:GPT-3 Notes": false,
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e67fb71611d886bf",
+  "active": "048b35c55ef2370c",
   "lastOpenFiles": [
     "03 - AREAS/Journal/Daily/2023-09-12.md",
     "03 - AREAS/Journal/Daily/2023-09-15.md",
