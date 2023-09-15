@@ -11,7 +11,7 @@ Alias: [ "DISKPART" ]
 > 
 
 > [!INFO]
-> See Also: [[How To use DISKPART on Windows|How to use DISKPART]]
+> See Also: [[Guide - How To use DISKPART on Windows|How to use DISKPART]]
 
 ## Contents
 

@@ -57,7 +57,7 @@ tgrosinger.
 
 ***
 
-Links: [[Obsidian Setup.md]]
+Links: [[Guide - Obsidian Setup]]
 
 Sources: [advanced-tables-obsidian/help.md at main Â· tgrosinger/advanced-tables-obsidian (github.com)](https://github.com/tgrosinger/advanced-tables-obsidian/blob/main/docs/help.md)
 

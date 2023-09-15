@@ -28,7 +28,7 @@ Use this code:
 
 ***
 
-Links: [[Obsidian Setup]]
+Links: [[Guide - Obsidian Setup]]
 
 Sources:
 

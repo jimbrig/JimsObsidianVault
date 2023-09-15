@@ -1,6 +1,170 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "03 - AREAS/Personal/Learning/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Personal/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Logs/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/_README.md"
+    },
+    {
+      "basename": "Guide - Customize Windows Context Menu",
+      "path": "03 - AREAS/Guides/Windows/Guide - Customize Windows Context Menu.md"
+    },
+    {
+      "basename": "Guide - Customize Windows Explorer",
+      "path": "03 - AREAS/Guides/Windows/Guide - Customize Windows Explorer.md"
+    },
+    {
+      "basename": "Guide - Setting up WSL",
+      "path": "03 - AREAS/Guides/Windows/Guide - Setting up WSL.md"
+    },
+    {
+      "basename": "Windows Recovery Environment (WinRE)",
+      "path": "00 - INBOX/Windows Recovery Environment (WinRE).md"
+    },
+    {
+      "basename": "Guide - How To use DISKPART on Windows",
+      "path": "03 - AREAS/Guides/Windows/Guide - How To use DISKPART on Windows.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/Windows/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/Git and GitHub/_README.md"
+    },
+    {
+      "basename": "Guide - Git Configuration",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Git Configuration.md"
+    },
+    {
+      "basename": "Guide - Git-Flow",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Git-Flow.md"
+    },
+    {
+      "basename": "Guide - Git-LFS",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Git-LFS.md"
+    },
+    {
+      "basename": "Guide - Git-Crypt",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Git-Crypt.md"
+    },
+    {
+      "basename": "Guide - Automating Git Changelog",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Automating Git Changelog.md"
+    },
+    {
+      "basename": "Guide - Conventional Commits",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Conventional Commits.md"
+    },
+    {
+      "basename": "Guide - Git Tagging and Release Management",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Git Tagging and Release Management.md"
+    },
+    {
+      "basename": "Guide - Fork and Submit Pull Request",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Fork and Submit Pull Request.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/Python Flask Development/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/PowerShell Development/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/Obsidian Note Taking/_README.md"
+    },
+    {
+      "basename": "Guide - Obsidian Setup",
+      "path": "03 - AREAS/Guides/Obsidian Note Taking/Guide - Obsidian Setup.md"
+    },
+    {
+      "basename": "Guide - Obsidian Plugins",
+      "path": "03 - AREAS/Guides/Obsidian Note Taking/Guide - Obsidian Plugins.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/Excel/_README.md"
+    },
+    {
+      "basename": "Guide - Customize VBE",
+      "path": "03 - AREAS/Guides/Excel/Guide - Customize VBE.md"
+    },
+    {
+      "basename": "Guide - Customize Excel Ribbon and QAT",
+      "path": "03 - AREAS/Guides/Excel/Guide - Customize Excel Ribbon and QAT.md"
+    },
+    {
+      "basename": "Guide - Initializing a New VBA Excel Project",
+      "path": "03 - AREAS/Guides/Excel/Guide - Initializing a New VBA Excel Project.md"
+    },
+    {
+      "basename": "Guide - How to Document Spreadsheets",
+      "path": "03 - AREAS/Guides/Excel/Guide - How to Document Spreadsheets.md"
+    },
+    {
+      "basename": "Guide - Synchronize Windows and WSL Git Setup",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Synchronize Windows and WSL Git Setup.md"
+    },
+    {
+      "basename": "Guide - Install and Configure Git",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Install and Configure Git.md"
+    },
+    {
+      "basename": "Guide - Setup GPG Keys for Git",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup GPG Keys for Git.md"
+    },
+    {
+      "basename": "Guide - Setup Common GitHub Action Workflows",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup Common GitHub Action Workflows.md"
+    },
+    {
+      "basename": "Guide - Setup GitHub CLI",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup GitHub CLI.md"
+    },
+    {
+      "basename": "Guide - Setup SSH for Git",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup SSH for Git.md"
+    },
+    {
+      "basename": "Guide - Setup GitHub Repository Issue Labels",
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup GitHub Repository Issue Labels.md"
+    },
+    {
+      "basename": "GitHub Common Workflows for GitHub Actions",
+      "path": "03 - AREAS/Guides/Git and GitHub/GitHub Common Workflows for GitHub Actions.md"
+    },
+    {
+      "basename": "_README",
+      "path": "01 - SLIPBOX/_README.md"
+    },
+    {
+      "basename": "An Exploration of Data vs Metadata",
+      "path": "00 - INBOX/An Exploration of Data vs Metadata.md"
+    },
+    {
+      "basename": "_README",
+      "path": "00 - INBOX/_README.md"
+    },
+    {
       "basename": "2023-09-15",
       "path": "03 - AREAS/Journal/Daily/2023-09-15.md"
     },
@@ -11,10 +175,6 @@
     {
       "basename": "2023-09-07",
       "path": "03 - AREAS/Journal/Daily/2023-09-07.md"
-    },
-    {
-      "basename": "An Exploration of Data vs Metadata",
-      "path": "00 - INBOX/An Exploration of Data vs Metadata.md"
     },
     {
       "basename": "Guide - Cleanup Windows",
@@ -34,171 +194,11 @@
     },
     {
       "basename": "Guide - Using Git Sparse Checkout",
-      "path": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md"
+      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Using Git Sparse Checkout.md"
     },
     {
       "basename": "Git - Sparse Checkout",
       "path": "00 - INBOX/Git - Sparse Checkout.md"
-    },
-    {
-      "basename": "Obsidian Code Emitter Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md"
-    },
-    {
-      "basename": "Obsidian Amazing Snippets Repository",
-      "path": "00 - INBOX/Obsidian Amazing Snippets Repository.md"
-    },
-    {
-      "basename": "MOC - Development",
-      "path": "03 - AREAS/MOCs/MOC - Development.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/MOCs/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Meta/_README.md"
-    },
-    {
-      "basename": "Obsidian Templates",
-      "path": "03 - AREAS/Meta/Obsidian Templates.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Meta/Integrations/_README.md"
-    },
-    {
-      "basename": "Obsidian Hackernews Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations/Obsidian Hackernews Plugin.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md"
-    },
-    {
-      "basename": "Obsidian Banners Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners Plugin.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md"
-    },
-    {
-      "basename": "2023-09-09",
-      "path": "03 - AREAS/Journal/Daily/2023-09-09.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "03 - AREAS/Code/PowerShell/src/templates/Untitled.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/CSS/_README.md"
-    },
-    {
-      "basename": "Workflows",
-      "path": "03 - AREAS/Meta/Workflows/Workflows.md"
-    },
-    {
-      "basename": "Tags",
-      "path": "03 - AREAS/Meta/Tags.md"
-    },
-    {
-      "basename": "Sources",
-      "path": "03 - AREAS/Meta/Sources.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "03 - AREAS/Meta/Settings.md"
-    },
-    {
-      "basename": "References",
-      "path": "03 - AREAS/Meta/References.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "03 - AREAS/Meta/Ideas.md"
-    },
-    {
-      "basename": "Fonts",
-      "path": "03 - AREAS/Meta/Fonts.md"
-    },
-    {
-      "basename": "Folders",
-      "path": "03 - AREAS/Meta/Folders.md"
-    },
-    {
-      "basename": "Template-Definition",
-      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Definition.md"
-    },
-    {
-      "basename": "Template-Checklist",
-      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Checklist.md"
-    },
-    {
-      "basename": "Template-Quarterly",
-      "path": "04 - RESOURCES/Templates/Life-Templates/Template-Quarterly.md"
-    },
-    {
-      "basename": "Template-Project",
-      "path": "04 - RESOURCES/Templates/Life-Templates/Template-Project.md"
-    },
-    {
-      "basename": "Template-List",
-      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-List.md"
-    },
-    {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
-    },
-    {
-      "basename": "CSS - Obsidian Full Length Note",
-      "path": "03 - AREAS/Code/CSS/CSS - Obsidian Full Length Note.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/_README.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
-      "basename": "Full Calendar Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Full Calendar Plugin.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/_README.md"
-    },
-    {
-      "basename": "Dataview - Search and Display List of Callouts",
-      "path": "03 - AREAS/Code/JavaScript/DataviewJS/Dataview - Search and Display List of Callouts.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/JavaScript/_README.md"
-    },
-    {
-      "basename": "Obsidian Enhancing Export Plugin",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Enhancing Export Plugin.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - PKM/Obsidian/Utilities/_README.md"
-    },
-    {
-      "basename": "Caddy",
-      "path": "00 - INBOX/Caddy.md"
     }
   ],
   "omittedPaths": [],

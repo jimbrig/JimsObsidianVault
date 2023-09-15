@@ -41,7 +41,7 @@ iOS Shortcuts
 
 ***
 
-Links: [[2021-08-06]] | [[Obsidian Setup]] | [[MOC - Obsidian]] | [[MOC - PKM]] | [[MOC - Setup]] | [[MOC - Links]]
+Links: [[2021-08-06]] | [[Guide - Obsidian Setup]] | [[MOC - Obsidian]] | [[MOC - PKM]] | [[MOC - Setup]] | [[MOC - Links]]
 
 Sources:
 - [iOS Shortcuts - Share your ideas! - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/ios-shortcuts-share-your-ideas/15149)

@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
+                "file": "03 - AREAS/Guides/Git and GitHub/Guide - Using Git Sparse Checkout.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -121,9 +121,12 @@
             "id": "048b35c55ef2370c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "03 - AREAS/Personal/Learning/_README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -226,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-15.md"
+                "file": "03 - AREAS/Personal/Learning/_README.md"
               }
             }
           },
@@ -246,7 +249,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-15.md"
+                "file": "03 - AREAS/Personal/Learning/_README.md"
               }
             }
           },
@@ -283,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
+                "file": "03 - AREAS/Personal/Learning/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -334,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
+                "file": "03 - AREAS/Personal/Learning/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +354,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
+                "file": "03 - AREAS/Personal/Learning/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,47 +433,48 @@
       "gpt3-notes:GPT-3 Notes": false,
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "048b35c55ef2370c",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-09-12.md",
-    "03 - AREAS/Journal/Daily/2023-09-15.md",
-    "00 - INBOX/Guide - Cleanup Windows.md",
-    "00 - INBOX/CleanMgr+.md",
-    "00 - INBOX/Windows Disk Cleanup Tool (CleanMgr.exe).md",
-    "00 - INBOX/Startup Funding and Obtaining Business Capital.md",
-    "03 - AREAS/Guides/Guide - Using Git Sparse Checkout.md",
-    "00 - INBOX/Git - Sparse Checkout.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Code Emitter Plugin.md",
-    "00 - INBOX/Obsidian Amazing Snippets Repository.md",
-    "03 - AREAS/Code/Git/_README.md",
-    "00 - INBOX/An Exploration of Data vs Metadata.md",
+    "03 - AREAS/Personal/_README.md",
+    "03 - AREAS/Logs/_README.md",
+    "03 - AREAS/Guides/_README.md",
+    "03 - AREAS/Guides/Windows/Guide - Customize Windows Context Menu.md",
+    "03 - AREAS/Guides/Windows/Guide - Customize Windows Explorer.md",
+    "03 - AREAS/Guides/Windows/Guide - Setting up WSL.md",
+    "00 - INBOX/Windows Recovery Environment (WinRE).md",
+    "03 - AREAS/Guides/Windows/Guide - How To use DISKPART on Windows.md",
+    "03 - AREAS/Guides/Windows/_README.md",
+    "03 - AREAS/Guides/Git and GitHub/_README.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Git Configuration.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Git-Flow.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Git-LFS.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Git-Crypt.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Automating Git Changelog.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Conventional Commits.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Git Tagging and Release Management.md",
+    "03 - AREAS/Guides/Git and GitHub/Guide - Fork and Submit Pull Request.md",
+    "03 - AREAS/Guides/Python Flask Development/_README.md",
+    "03 - AREAS/Guides/PowerShell Development/_README.md",
+    "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development/_README.md",
+    "03 - AREAS/Guides/Obsidian Note Taking/_README.md",
+    "03 - AREAS/Guides/Obsidian Note Taking/Guide - Obsidian Setup.md",
+    "03 - AREAS/Guides/Obsidian Note Taking/Guide - Obsidian Plugins.md",
+    "03 - AREAS/Guides/Excel/_README.md",
+    "03 - AREAS/Guides/Excel/Guide - Customize VBE.md",
+    "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
-    "03 - AREAS/MOCs/MOC - Development.md",
-    "03 - AREAS/MOCs/_README.md",
-    "03 - AREAS/Meta/_README.md",
-    "03 - AREAS/Meta/Obsidian Templates.md",
-    "03 - AREAS/Meta/Integrations/_README.md",
-    "03 - AREAS/Meta/Obsidian Integrations.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations/Obsidian Hackernews Plugin.md",
     "03 - AREAS/Meta/Integrations",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/_README.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners Plugin.md",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Other/Obsidian Banners.md",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations",
-    "03 - AREAS/Tools/Tools - PKM/Obsidian/_README.md",
-    "03 - AREAS/Journal/Daily/2023-09-09.md",
-    "03 - AREAS/Code/PowerShell/src/templates/Untitled.md",
     "03 - AREAS/Code/PowerShell/src/templates/about_Topic.Help.template.txt",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/requirements.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/custom.format.template.ps1xml",
     "03 - AREAS/Code/PowerShell/src/templates/custom.types.template.ps1xml",
-    "03 - AREAS/Code/PowerShell/src/templates/pester.test.template.ps1",
-    "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

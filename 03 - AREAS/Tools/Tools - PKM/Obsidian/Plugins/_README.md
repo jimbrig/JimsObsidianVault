@@ -23,7 +23,7 @@ Alias: [ "Obsidian Plugins", "Obsidian Plugin" ]
 
 *See [[Community Plugins]]*.
 
-More significant plugins such as [[Dataview]], [[03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Templater/_README|Templater]], [[03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/QuickAdd/_README|QuickAdd]], etc. have their own separate folders while most remaining [[Community Plugins]] reside in the [[_README|Other]] folder.
+More significant plugins such as [[Dataview]], [[03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Templater/_README|Templater]], [[03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/QuickAdd/_README|QuickAdd]], etc. have their own separate folders while most remaining [[Community Plugins]] reside in the [[03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README|Other]] folder.
 
 ### DataView
 
