@@ -1,3 +1,5 @@
+- 2023-09-15 at 14h04 · [[2023-09-15]]
+- 2023-09-12 at 18h37 · [[2023-09-12]]
 - 2023-09-12 at 18h36 · [[Guide - Cleanup Windows]]
 - 2023-09-12 at 18h30 · [[Windows Disk Cleanup Tool (CleanMgr.exe)]]
 - 2023-09-12 at 18h29 · [[CleanMgr+]]
@@ -46,5 +48,3 @@
 - 2023-09-07 at 18h33 · [[Convert URL to iFrame Plugin]]
 - 2023-09-07 at 18h33 · [[CMDR Plugin]]
 - 2023-09-07 at 18h33 · [[ChatGPT Plugin]]
-- 2023-09-07 at 18h33 · [[Callout Plugin]]
-- 2023-09-07 at 18h33 · [[Calendar Plugin]]

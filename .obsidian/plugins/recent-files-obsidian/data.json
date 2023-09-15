@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-15",
+      "path": "03 - AREAS/Journal/Daily/2023-09-15.md"
+    },
+    {
       "basename": "2023-09-12",
       "path": "03 - AREAS/Journal/Daily/2023-09-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Caddy",
       "path": "00 - INBOX/Caddy.md"
-    },
-    {
-      "basename": "Google Fonts",
-      "path": "00 - INBOX/Google Fonts.md"
     }
   ],
   "omittedPaths": [],

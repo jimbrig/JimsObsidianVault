@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-12.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-15.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-12.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-15.md"
               }
             }
           },
@@ -273,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-12.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,6 +426,8 @@
   },
   "active": "e67fb71611d886bf",
   "lastOpenFiles": [
+    "03 - AREAS/Journal/Daily/2023-09-12.md",
+    "03 - AREAS/Journal/Daily/2023-09-15.md",
     "00 - INBOX/Guide - Cleanup Windows.md",
     "00 - INBOX/CleanMgr+.md",
     "00 - INBOX/Windows Disk Cleanup Tool (CleanMgr.exe).md",
@@ -460,8 +462,6 @@
     "03 - AREAS/Code/PowerShell/src/templates/custom.types.template.ps1xml",
     "03 - AREAS/Code/PowerShell/src/templates/pester.test.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/module-manifest.template.psd1.md",
-    "03 - AREAS/Code/PowerShell/src/templates/script.template.ps1.md",
-    "03 - AREAS/Code/CSS/_README.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
