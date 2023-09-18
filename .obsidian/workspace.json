@@ -4,157 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7da095c0455bd3a0",
+        "id": "dc41e3c7d8187696",
         "type": "tabs",
         "children": [
           {
-            "id": "f390532edb51fa94",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-07.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0f6b7d2edeb726be",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/_README.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a4a4aea9cc00e0aa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Obsidian Amazing Snippets Repository.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c820b148d97e9eb9",
+            "id": "d3ab8fb47995d440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Git - Sparse Checkout.md",
+                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "831118b9d62640e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Guides/Git and GitHub/Guide - Using Git Sparse Checkout.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e80b9d8cc6c71c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Startup Funding and Obtaining Business Capital.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c6a4149e5d6312b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/CleanMgr+.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e67fb71611d886bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "048b35c55ef2370c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Personal/Learning/_README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6038edd9a1a3fca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Windows Disk Cleanup Tool (CleanMgr.exe).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a06be6c2c562f5e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Personal/Learning/_README.md"
+                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md"
               }
             }
           },
@@ -249,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Personal/Learning/_README.md"
+                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md"
               }
             }
           },
@@ -265,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "1ac3153552315a07",
@@ -286,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Personal/Learning/_README.md",
+                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -337,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Personal/Learning/_README.md",
+                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Personal/Learning/_README.md",
+                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -400,8 +266,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -437,8 +302,21 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "d3ab8fb47995d440",
   "lastOpenFiles": [
+    "02 - PROJECTS/Personal Projects/Obsidian Projects/_README.md",
+    "02 - PROJECTS/Personal Projects/Development Projects/Terraform Projects/_README.md",
+    "02 - PROJECTS/Personal Projects/Development Projects/R Projects/_README.md",
+    "02 - PROJECTS/Personal Projects/Development Projects/Python Projects/_README.md",
+    "02 - PROJECTS/Personal Projects/Development Projects/PowerShell Projects/_README.md",
+    "02 - PROJECTS/Personal Projects/Development Projects/Microsoft Projects/_README.md",
+    "02 - PROJECTS/Personal Projects/_README.md",
+    "02 - PROJECTS/_README.md",
+    "HOME.md",
+    "99 - ARCHIVES/_README.md",
+    "04 - RESOURCES/_README.md",
+    "03 - AREAS/_README.md",
+    "03 - AREAS/Personal/Learning/_README.md",
     "03 - AREAS/Personal/_README.md",
     "03 - AREAS/Logs/_README.md",
     "03 - AREAS/Guides/_README.md",
@@ -452,19 +330,6 @@
     "03 - AREAS/Guides/Git and GitHub/Guide - Git Configuration.md",
     "03 - AREAS/Guides/Git and GitHub/Guide - Git-Flow.md",
     "03 - AREAS/Guides/Git and GitHub/Guide - Git-LFS.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Git-Crypt.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Automating Git Changelog.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Conventional Commits.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Git Tagging and Release Management.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Fork and Submit Pull Request.md",
-    "03 - AREAS/Guides/Python Flask Development/_README.md",
-    "03 - AREAS/Guides/PowerShell Development/_README.md",
-    "03 - AREAS/Guides/PowerShell Development/PowerShell Module Development/_README.md",
-    "03 - AREAS/Guides/Obsidian Note Taking/_README.md",
-    "03 - AREAS/Guides/Obsidian Note Taking/Guide - Obsidian Setup.md",
-    "03 - AREAS/Guides/Obsidian Note Taking/Guide - Obsidian Plugins.md",
-    "03 - AREAS/Guides/Excel/_README.md",
-    "03 - AREAS/Guides/Excel/Guide - Customize VBE.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",

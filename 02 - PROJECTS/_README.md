@@ -2,7 +2,7 @@
 Date: 2023-08-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "02 - PROJECTS" ]
+Alias: [ "Projects", "My Projects" ]
 ---
 
 # 02 - PROJECTS

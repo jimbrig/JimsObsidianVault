@@ -1,11 +1,34 @@
 ---
-cssclass: homepage
+Date Created: 2023-06-21
+Date Modified: 2023-09-17
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: [ "#Type/Home", "#Topic/Obsidian", "#Status/Ongoing" ]
+Aliases: [ "HOME", "Home", "Dashboard", "Start", "Homepage" ]
+Type: Home
+Topic: Obsidian
+Status: Ongoing 
+Sources: "N/A"
+banner: "04 - RESOURCES/Assets/Banners/programming.gif"
+cssclasses: [ "homepage" ]
 banner_x: 0.65
 banner_y: 0.35
 target: 10000
-banner: "04 - RESOURCES/Assets/Banners/programming.gif"
 banner_icon: 💻
 ---
+
+# Jim's Obsidian Vault - HOME
+
+> [!TIP] This is my [[Obsidian]] Vault's Homepage Dashboard Note.
+
+## PARA
+
+- [[02 - PROJECTS/_README|Projects]]
+- [[03 - AREAS/_README|Areas]]
+- [[04 - RESOURCES/_README|Resources]]
+- [[99 - ARCHIVES/_README|Archives]]
+
+
+
 
 > [!multi-column]
 >

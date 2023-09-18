@@ -2,7 +2,7 @@
 Date: 2023-08-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "03 - AREAS" ]
+Aliases: [ "Areas", "Areas of Responsibility", "Areas of Focus", "My Areas" ]
 ---
 
 # 03 - AREAS
