@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - PROJECTS/PSProfileTools.md",
+                "file": "02 - PROJECTS/PowerShell - PSProfileTools Module.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - PROJECTS/Obsidian Vault Consolidation and Organization.md",
+                "file": "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - ARCHIVES/_README.md",
+                "file": "02 - PROJECTS/_README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - ARCHIVES/_README.md"
+                "file": "02 - PROJECTS/_README.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "99 - ARCHIVES/_README.md"
+                "file": "02 - PROJECTS/_README.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - ARCHIVES/_README.md",
+                "file": "02 - PROJECTS/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - ARCHIVES/_README.md",
+                "file": "02 - PROJECTS/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - ARCHIVES/_README.md",
+                "file": "02 - PROJECTS/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,32 +344,32 @@
   },
   "active": "0b1c80ad99790cbe",
   "lastOpenFiles": [
+    "02 - PROJECTS/LCHC - Map.md",
+    "02 - PROJECTS/LCHC - M365 Admin.md",
+    "02 - PROJECTS/LCHC - Shopify Webstore.md",
+    "02 - PROJECTS/Python - Flask Web App and API Demo.md",
+    "02 - PROJECTS/R - lossrx Package.md",
+    "02 - PROJECTS/Development - dotfiles.md",
+    "01 - SLIPBOX/HTTP Status Codes.md",
+    "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md",
+    "02 - PROJECTS/R - pkgdev Package.md",
+    "02 - PROJECTS/R - buildtools Package.md",
+    "02 - PROJECTS/R - jimstools Package.md",
+    "02 - PROJECTS/PowerShell - PSScripts Collection.md",
+    "02 - PROJECTS/PowerShell - PSCompletions Module.md",
+    "02 - PROJECTS/PowerShell - PSWindowsSetup Module.md",
+    "02 - PROJECTS/PowerShell - PSGitFiles Module.md",
+    "02 - PROJECTS/PowerShell - PowerShell Profile.md",
+    "02 - PROJECTS/PowerShell - PSXLDevTools Module.md",
+    "02 - PROJECTS/PowerShell - PSClearHost Module.md",
+    "02 - PROJECTS/PowerShell - PSObsidianTools Module.md",
     "02 - PROJECTS/_README.md",
-    "02 - PROJECTS/PSProfileTools.md",
-    "02 - PROJECTS/Obsidian Vault Consolidation and Organization.md",
-    "03 - AREAS/PowerShell.md",
-    "99 - ARCHIVES/_README.md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/_README.md",
-    "04 - RESOURCES/_README.md",
-    "03 - AREAS/Personal Knowledge Management (PKM).md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/Project - MetaMate.md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/Obsidian Projects/_README.md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Terraform Projects/_README.md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/R Projects/_README.md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Python Projects/_README.md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/PowerShell Projects/_README.md",
-    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Microsoft Projects/_README.md",
-    "HOME.md",
-    "03 - AREAS/_README.md",
-    "03 - AREAS/Personal/Learning/_README.md",
-    "03 - AREAS/Personal/_README.md",
-    "03 - AREAS/Logs/_README.md",
-    "03 - AREAS/Guides/_README.md",
-    "03 - AREAS/Guides/Windows/Guide - Customize Windows Context Menu.md",
-    "03 - AREAS/Guides/Windows/Guide - Customize Windows Explorer.md",
-    "03 - AREAS/Guides/Windows/Guide - Setting up WSL.md",
-    "00 - INBOX/Windows Recovery Environment (WinRE).md",
-    "03 - AREAS/Guides/Windows/Guide - How To use DISKPART on Windows.md",
+    "03 - AREAS/Tools/Tools - R Packages/R - rhino.md",
+    "03 - AREAS/Tools/Tools - R Packages/R - postgres.md",
+    "03 - AREAS/Tools/Tools - R Packages/R - odbc.md",
+    "03 - AREAS/Tools/Tools - R Packages/R - cli.md",
+    "03 - AREAS/Tools/Tools - R Packages/R - pacman.md",
+    "03 - AREAS/Tools/Tools - R Packages/R - here.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",
