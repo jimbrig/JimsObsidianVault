@@ -17,16 +17,16 @@ Alias: [ "PowerShell Module Development" ]
 
 In order to get acquainted with the concepts, workflows, and best practices for developing robust, reusable, and useful [[PowerShell Modules]], one first must understand the concept of [[PowerShell Functions, CmdLets, and Scripts]].
 
-- In [[PowerShell]], a [[function]] (which is what a [[module]] is typically comprised of), can be best described as *"a block of code that will run a specific task"*.
+- In [[03 - AREAS/Tools/Tools - CLI/PowerShell CLI Tools/PowerShell]], a [[function]] (which is what a [[module]] is typically comprised of), can be best described as *"a block of code that will run a specific task"*.
 - Functions are especially useful for running repetitive blocks of code without having to necessarily write the same code multiple times.
-- Furthermore, functions are not specific to [[PowerShell]] so we can think of it as something universal to any [[programming language]]. 
+- Furthermore, functions are not specific to [[03 - AREAS/Tools/Tools - CLI/PowerShell CLI Tools/PowerShell]] so we can think of it as something universal to any [[programming language]]. 
 - Functions are one of the most basic, fundamental concepts one learns when getting into the programming world.
 
 > [!NOTE] See Also: *[Powershell Template For Creating The Perfect Function (thesysadminchannel.com)](https://thesysadminchannel.com/powershell-template/)*
 
 ## Importing Functions
 
-To import a function (or any [[PowerShell]] source file) into the current session, utilize what is called *dot sourcing*:
+To import a function (or any [[03 - AREAS/Tools/Tools - CLI/PowerShell CLI Tools/PowerShell]] source file) into the current session, utilize what is called *dot sourcing*:
 
 ```powershell
 # import the function from file: test.ps1
@@ -50,7 +50,7 @@ Once the function is dot sourced (loaded into memory) you can now call the funct
 
 ## Creating PowerShell Modules
 
-- Creating a [[PowerShell]] module can be very simple, one simply needs to convert their `.ps1` file into a `.psm1` module file by changing its extension.
+- Creating a [[03 - AREAS/Tools/Tools - CLI/PowerShell CLI Tools/PowerShell]] module can be very simple, one simply needs to convert their `.ps1` file into a `.psm1` module file by changing its extension.
 
 - However, proper modules should do more than simply define functions, they should:
 	1. Declare and document function parameters and parameter types

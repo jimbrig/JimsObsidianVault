@@ -25,7 +25,7 @@ Alias: "Digital Garden"
 
 #### Related
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 
 *Backlinks:*
 

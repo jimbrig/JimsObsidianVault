@@ -31,7 +31,7 @@ TITLE: "SignPowerShellScripts.yml"
 
 > Details about what the code does.
 
-1. Imports a `.pfx` [[Code Signing Certificate]] into the [[PowerShell]] session.
+1. Imports a `.pfx` [[Code Signing Certificate]] into the [[03 - AREAS/Tools/Tools - CLI/PowerShell CLI Tools/PowerShell]] session.
 2. Converts the certificate's signature through byte-encoding and decrypts the byte-encoded signature
 3. Saves the certificate in the [[Windows Certificate Manager]] (`(certmgr.msc)`) under the path: `Cert:\CurrentUser\My`
 4. Imports the saved certificate

@@ -85,7 +85,7 @@ Tiago shows a table of content for a sample of his notes in about two months
 
 ## Appendix: Related
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Productivity]]
 - [[Tiago Forte]]
 

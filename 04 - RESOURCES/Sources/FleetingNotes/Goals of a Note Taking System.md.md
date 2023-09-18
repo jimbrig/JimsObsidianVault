@@ -27,7 +27,7 @@ Lastly, the note organizing system should help you organize and browse your note
 
 ## Appendix: Links
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Productivity]]
 - [[Zettelkasten]]
 - [[Note Taking and The Internet Best Practices]]

@@ -40,7 +40,7 @@ To counter the fallacy, one must merge the contents, information, ideas, and tho
 
 #### Related
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Zettelkasten]]
 
 *Backlinks:*

@@ -18,7 +18,7 @@ Aliases:
 
 ***
 
-Related: [Information Overload](Information%20Overload.md) | [Collectors Fallacy](Collectors%20Fallacy.md) | [Productivity](Productivity) | [Personal Knowledge Management](Personal%20Knowledge%20Management) | [Building a Second Brain](Building%20a%20Second%20Brain.md)
+Related: [Information Overload](Information%20Overload.md) | [Collectors Fallacy](Collectors%20Fallacy.md) | [Productivity](Productivity) | [Personal Knowledge Management (PKM)](Personal%20Knowledge%20Management%20(PKM).md) | [Building a Second Brain](Building%20a%20Second%20Brain.md)
 
 ***
 
@@ -75,7 +75,7 @@ Mindfulness requires more than action, it require deep behavioral and psychologi
 
 ## Trust Your *First Brain*
 
-Recently, there has been a surge around the realm of [Personal Knowledge Management](Personal%20Knowledge%20Management) and [Building a Second Brain](Building%20a%20Second%20Brain.md). 
+Recently, there has been a surge around the realm of [Personal Knowledge Management (PKM)](Personal%20Knowledge%20Management%20(PKM).md) and [Building a Second Brain](Building%20a%20Second%20Brain.md). 
 
 As much as I personally enjoy these topics, I have found that the exciting pursuit of new information and knowledge can interfere with my ability to simply get things done. 
 

@@ -204,7 +204,7 @@ Check in with your team by  [](https://docs.microsoft.com/en-us/microsoftteams/b
 
 ## Appendix: Links
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Windows]]
 - [[Digital Declutter]]
 

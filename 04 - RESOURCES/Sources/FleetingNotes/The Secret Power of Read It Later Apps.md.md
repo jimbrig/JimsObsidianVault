@@ -308,7 +308,7 @@ Join 50,000+ people receiving my best ideas on learning, productivity & knowledg
 - [[Tiago Forte]]
 - [[Tools]]
 - [[Productivity]]
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Feedly]]
 - [[Evernote]]
 - [[3-Resources/Highlights/Readwise 1/Articles/Digital Tools I Wish Existed]]

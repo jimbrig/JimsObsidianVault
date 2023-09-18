@@ -1,44 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Project - MetaMate",
-      "path": "02 - PROJECTS/Personal Projects/Project - MetaMate.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/Personal Projects/Obsidian Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/Personal Projects/Development Projects/Terraform Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/Personal Projects/Development Projects/R Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/Personal Projects/Development Projects/Python Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/Personal Projects/Development Projects/PowerShell Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/Personal Projects/Development Projects/Microsoft Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/Personal Projects/_README.md"
-    },
-    {
       "basename": "_README",
       "path": "02 - PROJECTS/_README.md"
     },
     {
-      "basename": "HOME",
-      "path": "HOME.md"
+      "basename": "PSProfileTools",
+      "path": "02 - PROJECTS/PSProfileTools.md"
+    },
+    {
+      "basename": "Obsidian Vault Consolidation and Organization",
+      "path": "02 - PROJECTS/Obsidian Vault Consolidation and Organization.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "03 - AREAS/PowerShell.md"
     },
     {
       "basename": "_README",
@@ -46,7 +22,47 @@
     },
     {
       "basename": "_README",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/_README.md"
+    },
+    {
+      "basename": "_README",
       "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "Personal Knowledge Management (PKM)",
+      "path": "03 - AREAS/Personal Knowledge Management (PKM).md"
+    },
+    {
+      "basename": "Project - MetaMate",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/Project - MetaMate.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/Obsidian Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Terraform Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/R Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Python Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/PowerShell Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Microsoft Projects/_README.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
     },
     {
       "basename": "_README",
@@ -183,22 +199,6 @@
     {
       "basename": "Guide - Setup GPG Keys for Git",
       "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup GPG Keys for Git.md"
-    },
-    {
-      "basename": "Guide - Setup Common GitHub Action Workflows",
-      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup Common GitHub Action Workflows.md"
-    },
-    {
-      "basename": "Guide - Setup GitHub CLI",
-      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup GitHub CLI.md"
-    },
-    {
-      "basename": "Guide - Setup SSH for Git",
-      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup SSH for Git.md"
-    },
-    {
-      "basename": "Guide - Setup GitHub Repository Issue Labels",
-      "path": "03 - AREAS/Guides/Git and GitHub/Guide - Setup GitHub Repository Issue Labels.md"
     }
   ],
   "omittedPaths": [],

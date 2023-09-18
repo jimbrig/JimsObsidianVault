@@ -1,9 +1,27 @@
 ---
-Date: 2023-08-17
+Date Created: 2023-08-17
+Date Modified: 2023-09-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Type/Project", "#Type/Meta", "#Topic/Dev/PowerShell", "#Topic/Dev/Windows" ]
-Alias: [ "PSProfileTools", "PSProfile Tools Project", "PSProfileTools Module" ]
+Tags: 
+  - "#Type/Project"
+  - "#Topic/Dev/PowerShell"
+  - "#Topic/Dev/Windows"
+Aliases: 
+  - "PSProfileTools"
+  - "PSProfile Tools Project"
+  - "PSProfileTools Module"
+Links:
+  - "[[02 - PROJECTS/_README|Projects]]"
+Areas:
+  - "[[03 - AREAS/PowerShell|PowerShell]]"
+Type: Development
+Topic: PowerShell
+Deadline: 2023-10-01
+Status: WIP
+Priority: 3
+Progress: 9%
 ---
+
 
 # PSProfileTools
 

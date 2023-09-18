@@ -25,7 +25,7 @@ Alias: "Building a Second Brain"
 
 #### Related
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Tiago Forte]]
 - [[PARA Method]]
 - [[Progressive Summarization]]

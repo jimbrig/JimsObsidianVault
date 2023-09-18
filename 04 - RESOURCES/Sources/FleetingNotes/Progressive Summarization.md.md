@@ -27,7 +27,7 @@ Alias: "Progressive Summarization"
 
 - [[Tiago Forte]]
 - [[Productivity]]
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 
 *Backlinks:*
 

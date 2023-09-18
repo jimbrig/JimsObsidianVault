@@ -8,19 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3ab8fb47995d440",
+            "id": "3b320d01ae3c3d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
+                "file": "02 - PROJECTS/PSProfileTools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "2af1f46c04c3772f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/PowerShell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b183de5f5e911b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - PROJECTS/Obsidian Vault Consolidation and Organization.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0b1c80ad99790cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - PROJECTS/_README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md"
+                "file": "02 - PROJECTS/_README.md"
               }
             }
           },
@@ -115,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md"
+                "file": "02 - PROJECTS/_README.md"
               }
             }
           },
@@ -131,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac3153552315a07",
@@ -152,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
+                "file": "02 - PROJECTS/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
+                "file": "02 - PROJECTS/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - PROJECTS/Personal Projects/Project - MetaMate.md",
+                "file": "02 - PROJECTS/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,19 +342,24 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d3ab8fb47995d440",
+  "active": "0b1c80ad99790cbe",
   "lastOpenFiles": [
-    "02 - PROJECTS/Personal Projects/Obsidian Projects/_README.md",
-    "02 - PROJECTS/Personal Projects/Development Projects/Terraform Projects/_README.md",
-    "02 - PROJECTS/Personal Projects/Development Projects/R Projects/_README.md",
-    "02 - PROJECTS/Personal Projects/Development Projects/Python Projects/_README.md",
-    "02 - PROJECTS/Personal Projects/Development Projects/PowerShell Projects/_README.md",
-    "02 - PROJECTS/Personal Projects/Development Projects/Microsoft Projects/_README.md",
-    "02 - PROJECTS/Personal Projects/_README.md",
+    "02 - PROJECTS/PSProfileTools.md",
     "02 - PROJECTS/_README.md",
-    "HOME.md",
+    "02 - PROJECTS/Obsidian Vault Consolidation and Organization.md",
+    "03 - AREAS/PowerShell.md",
     "99 - ARCHIVES/_README.md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/_README.md",
     "04 - RESOURCES/_README.md",
+    "03 - AREAS/Personal Knowledge Management (PKM).md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/Project - MetaMate.md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/Obsidian Projects/_README.md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Terraform Projects/_README.md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/R Projects/_README.md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Python Projects/_README.md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/PowerShell Projects/_README.md",
+    "99 - ARCHIVES/Archived Projects/Personal Projects/Development Projects/Microsoft Projects/_README.md",
+    "HOME.md",
     "03 - AREAS/_README.md",
     "03 - AREAS/Personal/Learning/_README.md",
     "03 - AREAS/Personal/_README.md",
@@ -325,11 +370,6 @@
     "03 - AREAS/Guides/Windows/Guide - Setting up WSL.md",
     "00 - INBOX/Windows Recovery Environment (WinRE).md",
     "03 - AREAS/Guides/Windows/Guide - How To use DISKPART on Windows.md",
-    "03 - AREAS/Guides/Windows/_README.md",
-    "03 - AREAS/Guides/Git and GitHub/_README.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Git Configuration.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Git-Flow.md",
-    "03 - AREAS/Guides/Git and GitHub/Guide - Git-LFS.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",

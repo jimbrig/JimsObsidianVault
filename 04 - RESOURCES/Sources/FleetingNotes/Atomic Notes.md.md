@@ -25,7 +25,7 @@ Alias: "Atomic Notes"
 
 #### Related
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Zettelkasten]]
 
 *Backlinks:*

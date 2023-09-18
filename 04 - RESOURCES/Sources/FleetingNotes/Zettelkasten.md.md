@@ -25,7 +25,7 @@ Alias: "Zettelkasten"
 
 #### Related
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Niklas Luhmann]]
 - [[Collectors Fallacy]]
 

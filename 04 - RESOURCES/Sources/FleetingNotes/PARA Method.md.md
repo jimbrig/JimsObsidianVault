@@ -25,7 +25,7 @@ Alias: "PARA Method"
 
 #### Related
 
-- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
 - [[Productivity]]
 - [[Tiago Forte]]
 
