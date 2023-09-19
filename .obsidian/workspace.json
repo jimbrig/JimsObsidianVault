@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - PROJECTS/_README.md",
-                "mode": "preview",
+                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - PROJECTS/_README.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-19.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - PROJECTS/_README.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-19.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - PROJECTS/_README.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - PROJECTS/_README.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - PROJECTS/_README.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,12 +338,15 @@
       "gpt3-notes:GPT-3 Notes": false,
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "0b1c80ad99790cbe",
   "lastOpenFiles": [
+    "04 - RESOURCES/_README.md",
+    "03 - AREAS/Journal/Daily/2023-09-19.md",
+    "03 - AREAS/_README.md",
+    "02 - PROJECTS/_README.md",
     "02 - PROJECTS/LCHC - Map.md",
     "02 - PROJECTS/LCHC - M365 Admin.md",
     "02 - PROJECTS/LCHC - Shopify Webstore.md",
@@ -363,13 +366,9 @@
     "02 - PROJECTS/PowerShell - PSXLDevTools Module.md",
     "02 - PROJECTS/PowerShell - PSClearHost Module.md",
     "02 - PROJECTS/PowerShell - PSObsidianTools Module.md",
-    "02 - PROJECTS/_README.md",
     "03 - AREAS/Tools/Tools - R Packages/R - rhino.md",
     "03 - AREAS/Tools/Tools - R Packages/R - postgres.md",
     "03 - AREAS/Tools/Tools - R Packages/R - odbc.md",
-    "03 - AREAS/Tools/Tools - R Packages/R - cli.md",
-    "03 - AREAS/Tools/Tools - R Packages/R - pacman.md",
-    "03 - AREAS/Tools/Tools - R Packages/R - here.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",

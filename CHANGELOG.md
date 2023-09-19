@@ -1,3 +1,4 @@
+- 2023-09-19 at 19h53 · [[2023-09-19]]
 - 2023-09-17 at 21h01 · [[LCHC - Map]]
 - 2023-09-17 at 21h00 · [[LCHC - M365 Admin]]
 - 2023-09-17 at 21h00 · [[LCHC - Shopify Webstore]]
@@ -47,4 +48,3 @@
 - 2023-09-17 at 20h41 · [[R - testdown]]
 - 2023-09-17 at 20h41 · [[R - testthat]]
 - 2023-09-17 at 20h39 · [[R - Integrate testdown with pkgdown]]
-- 2023-09-17 at 20h30 · [[_README]]

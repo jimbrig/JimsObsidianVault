@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-19",
+      "path": "03 - AREAS/Journal/Daily/2023-09-19.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/_README.md"
+    },
+    {
       "basename": "_README",
       "path": "02 - PROJECTS/_README.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "R - lozen",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - lozen.md"
-    },
-    {
-      "basename": "R - testthis",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - testthis.md"
-    },
-    {
-      "basename": "R - testdown",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - testdown.md"
-    },
-    {
-      "basename": "R - testthat",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - testthat.md"
     }
   ],
   "omittedPaths": [],
