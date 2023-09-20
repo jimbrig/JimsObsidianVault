@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-09-19",
-      "path": "03 - AREAS/Journal/Daily/2023-09-19.md"
+      "basename": "MOC - Technology",
+      "path": "03 - AREAS/MOCs/MOC - Technology.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/MOCs/_README.md"
+    },
+    {
+      "basename": "Data API Builder CLI (dab)",
+      "path": "03 - AREAS/Tools/Tools - CLI/CLI Tools/Data API Builder CLI (dab).md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - CLI/CLI Tools/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - CLI/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/_README.md"
     },
     {
       "basename": "_README",
       "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "2023-09-19",
+      "path": "03 - AREAS/Journal/Daily/2023-09-19.md"
     },
     {
       "basename": "_README",
@@ -175,30 +199,6 @@
     {
       "basename": "R - shiny",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - shiny.md"
-    },
-    {
-      "basename": "R - shinydashboardPlus",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - shinydashboardPlus.md"
-    },
-    {
-      "basename": "R - purrr",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - purrr.md"
-    },
-    {
-      "basename": "R - knitr",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - knitr.md"
-    },
-    {
-      "basename": "R - pak",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - pak.md"
-    },
-    {
-      "basename": "R - attachment",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - attachment.md"
-    },
-    {
-      "basename": "R - lozen",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - lozen.md"
     }
   ],
   "omittedPaths": [],

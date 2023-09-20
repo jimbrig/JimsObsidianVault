@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
+                "file": "03 - AREAS/MOCs/MOC - Technology.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eaf4499c6c3b988a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/MOCs/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-19.md"
+                "file": "03 - AREAS/MOCs/MOC - Technology.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-19.md"
+                "file": "03 - AREAS/MOCs/MOC - Technology.md"
               }
             }
           },
@@ -192,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
+                "file": "03 - AREAS/MOCs/MOC - Technology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
+                "file": "03 - AREAS/MOCs/MOC - Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-19.md",
+                "file": "03 - AREAS/MOCs/MOC - Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,11 +351,18 @@
       "gpt3-notes:GPT-3 Notes": false,
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "0b1c80ad99790cbe",
   "lastOpenFiles": [
+    "03 - AREAS/MOCs/_README.md",
+    "03 - AREAS/MOCs/MOC - Technology.md",
+    "03 - AREAS/Tools/Tools - CLI/CLI Tools/Data API Builder CLI (dab).md",
+    "03 - AREAS/Tools/Tools - CLI/CLI Tools/_README.md",
+    "03 - AREAS/Tools/Tools - CLI/_README.md",
+    "03 - AREAS/Tools/_README.md",
     "04 - RESOURCES/_README.md",
     "03 - AREAS/Journal/Daily/2023-09-19.md",
     "03 - AREAS/_README.md",
@@ -363,12 +383,6 @@
     "02 - PROJECTS/PowerShell - PSWindowsSetup Module.md",
     "02 - PROJECTS/PowerShell - PSGitFiles Module.md",
     "02 - PROJECTS/PowerShell - PowerShell Profile.md",
-    "02 - PROJECTS/PowerShell - PSXLDevTools Module.md",
-    "02 - PROJECTS/PowerShell - PSClearHost Module.md",
-    "02 - PROJECTS/PowerShell - PSObsidianTools Module.md",
-    "03 - AREAS/Tools/Tools - R Packages/R - rhino.md",
-    "03 - AREAS/Tools/Tools - R Packages/R - postgres.md",
-    "03 - AREAS/Tools/Tools - R Packages/R - odbc.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",
