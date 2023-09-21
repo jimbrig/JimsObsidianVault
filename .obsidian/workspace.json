@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-21.md",
+                "file": "Windows Startup Process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-21.md"
+                "file": "Windows Startup Process.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-21.md"
+                "file": "Windows Startup Process.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-21.md",
+                "file": "Windows Startup Process.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-21.md",
+                "file": "Windows Startup Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-21.md",
+                "file": "Windows Startup Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,8 +357,9 @@
   },
   "active": "0b1c80ad99790cbe",
   "lastOpenFiles": [
-    "03 - AREAS/MOCs/MOC - Technology.md",
     "03 - AREAS/Journal/Daily/2023-09-21.md",
+    "Windows Startup Process.md",
+    "03 - AREAS/MOCs/MOC - Technology.md",
     "03 - AREAS/MOCs/_README.md",
     "03 - AREAS/Tools/Tools - CLI/CLI Tools/Data API Builder CLI (dab).md",
     "03 - AREAS/Tools/Tools - CLI/CLI Tools/_README.md",
@@ -382,7 +383,6 @@
     "02 - PROJECTS/PowerShell - PSScripts Collection.md",
     "02 - PROJECTS/PowerShell - PSCompletions Module.md",
     "02 - PROJECTS/PowerShell - PSWindowsSetup Module.md",
-    "02 - PROJECTS/PowerShell - PSGitFiles Module.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",

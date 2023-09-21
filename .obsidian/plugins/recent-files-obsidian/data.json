@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows Startup Process",
+      "path": "Windows Startup Process.md"
+    },
+    {
       "basename": "2023-09-21",
       "path": "03 - AREAS/Journal/Daily/2023-09-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "R - plumber",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - plumber.md"
-    },
-    {
-      "basename": "R - shinydashboard",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - shinydashboard.md"
     }
   ],
   "omittedPaths": [],
