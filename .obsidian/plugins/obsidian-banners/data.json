@@ -1,19 +1,16 @@
 {
-  "height": null,
   "style": "solid",
   "showInInternalEmbed": true,
-  "internalEmbedHeight": null,
-  "showInPreviewEmbed": true,
-  "previewEmbedHeight": null,
-  "frontmatterField": null,
-  "bannerDragModifier": "none",
-  "iconHorizontalAlignment": "center",
-  "iconHorizontalTransform": null,
-  "iconVerticalAlignment": "center",
-  "iconVerticalTransform": null,
+  "showInPopover": true,
+  "bannerDragModifier": "None",
+  "enableDragInInternalEmbed": false,
+  "enableDragInPopover": false,
+  "enableLockButton": true,
+  "headerDecor": "shadow",
+  "headerHorizontalAlignment": "center",
+  "headerVerticalAlignment": "edge",
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
-  "localSuggestionsLimit": null,
   "bannersFolder": "04 - Resources/Assets/Banners",
-  "allowMobileDrag": false
+  "version": "2.0.2-beta"
 }

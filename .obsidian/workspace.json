@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Startup Process.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Startup Process.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-26.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Windows Startup Process.md"
+                "file": "03 - AREAS/Journal/Daily/2023-09-26.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Windows Startup Process.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Startup Process.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Startup Process.md",
+                "file": "03 - AREAS/Journal/Daily/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -345,20 +345,21 @@
       "smart-random-note:Open Random Note from Search": false,
       "workbench-obsidian:Workbench": false,
       "open-vscode:VSCode": false,
-      "obsidian-omnivore:Omnivore": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "gpt3-notes:GPT-3 Notes": false,
       "periodic-notes:Open today's daily note": false,
       "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "0b1c80ad99790cbe",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-09-21.md",
     "Windows Startup Process.md",
+    "03 - AREAS/Journal/Daily/2023-09-26.md",
+    "03 - AREAS/Journal/Daily/2023-09-21.md",
     "03 - AREAS/MOCs/MOC - Technology.md",
     "03 - AREAS/MOCs/_README.md",
     "03 - AREAS/Tools/Tools - CLI/CLI Tools/Data API Builder CLI (dab).md",
@@ -382,7 +383,6 @@
     "02 - PROJECTS/R - jimstools Package.md",
     "02 - PROJECTS/PowerShell - PSScripts Collection.md",
     "02 - PROJECTS/PowerShell - PSCompletions Module.md",
-    "02 - PROJECTS/PowerShell - PSWindowsSetup Module.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",

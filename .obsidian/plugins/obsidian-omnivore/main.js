@@ -12390,10 +12390,12 @@ var functionMap = {
   upperCaseFirst
 };
 var renderFilename = (article, filename, dateFormat) => {
+  var _a;
   const date = formatDate(article.savedAt, dateFormat);
   const datePublished = article.publishedAt ? formatDate(article.publishedAt, dateFormat).trim() : void 0;
   const renderedFilename = mustache_default.render(filename, {
     title: article.title,
+    author: (_a = article.author) != null ? _a : "unknown-author",
     date,
     dateSaved: date,
     datePublished
@@ -12517,12 +12519,14 @@ ${frontMatterYaml}---`;
 ${contentWithoutFrontMatter}`;
 };
 var renderFolderName = (article, template, dateFormat) => {
+  var _a;
   const date = formatDate(article.savedAt, dateFormat);
   const datePublished = article.publishedAt ? formatDate(article.publishedAt, dateFormat).trim() : void 0;
   return mustache_default.render(template, {
     date,
     dateSaved: date,
-    datePublished
+    datePublished,
+    author: (_a = article.author) != null ? _a : "unknown-author"
   });
 };
 var preParseTemplate = (template) => {
@@ -14424,7 +14428,7 @@ var OmnivoreSettingTab = class extends import_obsidian6.PluginSettingTab {
       fragment.append("See ", fragment.createEl("a", {
         text: "https://omnivore.app/help/search",
         href: "https://omnivore.app/help/search"
-      }), " for more info on search query syntax");
+      }), " for more info on search query syntax. Make sure your Filter (in the section above) is set to advanced when using a custom query.");
     })).addText((text) => text.setPlaceholder("Enter an Omnivore custom search query if advanced filter is selected").setValue(this.plugin.settings.customQuery).onChange(async (value) => {
       this.plugin.settings.customQuery = value;
       await this.plugin.saveSettings();

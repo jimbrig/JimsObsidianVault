@@ -1,6 +1,8 @@
 {
   "endpoint": "https://api.openai.com",
-  "api_key": "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",
+  "models": {},
+  "api_key": "",
+  "encrypt_keys": true,
   "engine": "gpt-3.5-turbo",
   "max_tokens": 500,
   "temperature": 0.7,
@@ -8,6 +10,7 @@
   "prompt": "",
   "showStatusBar": true,
   "outputToBlockQuote": false,
+  "freeCursorOnStreaming": true,
   "promptsPath": "textgenerator/prompts",
   "prefix": "\n\n",
   "stream": false,
@@ -60,5 +63,14 @@
     "ImageExtractor": true
   },
   "displayErrorInEditor": true,
-  "models": {}
+  "LLMProviderOptions": {
+    "whisper": {
+      "base_path": "https://api.openai.com/v1"
+    },
+    "Chatgpt (Langchain)": {
+      "basePath": "https://api.openai.com/v1"
+    }
+  },
+  "LLMProviderOptionsKeysHashed": {},
+  "selectedProvider": "Chatgpt (Langchain)"
 }

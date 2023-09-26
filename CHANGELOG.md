@@ -1,3 +1,4 @@
+- 2023-09-26 at 15h55 · [[2023-09-26]]
 - 2023-09-21 at 13h07 · [[Windows Startup Process]]
 - 2023-09-21 at 13h01 · [[2023-09-21]]
 - 2023-09-19 at 20h35 · [[MOC - Technology]]
@@ -47,4 +48,3 @@
 - 2023-09-17 at 20h42 · [[R - shinydashboardPlus]]
 - 2023-09-17 at 20h42 · [[R - purrr]]
 - 2023-09-17 at 20h42 · [[R - knitr]]
-- 2023-09-17 at 20h42 · [[R - pak]]
