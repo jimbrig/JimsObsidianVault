@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "R - pkgdev Package",
+      "path": "02 - PROJECTS/R - pkgdev Package.md"
+    },
+    {
       "basename": "2023-09-26",
       "path": "03 - AREAS/Journal/Daily/2023-09-26.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "Obsidian - Vault Consolidation and Organization",
       "path": "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md"
-    },
-    {
-      "basename": "R - pkgdev Package",
-      "path": "02 - PROJECTS/R - pkgdev Package.md"
     },
     {
       "basename": "R - buildtools Package",
