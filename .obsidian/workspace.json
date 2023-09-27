@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
-                "mode": "source",
+                "file": "00 - INBOX/PowerShell - PackageManagement.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md"
+                "file": "00 - INBOX/PowerShell - PackageManagement.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md"
+                "file": "00 - INBOX/PowerShell - PackageManagement.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
+                "file": "00 - INBOX/PowerShell - PackageManagement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
+                "file": "00 - INBOX/PowerShell - PackageManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
+                "file": "00 - INBOX/PowerShell - PackageManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,8 +357,11 @@
   },
   "active": "0b1c80ad99790cbe",
   "lastOpenFiles": [
+    "00 - INBOX/_README.md",
+    "00 - INBOX/PowerShell - PackageManagement.md",
+    "02 - PROJECTS/R - pkgdev Package.md",
     "03 - AREAS/Journal/Daily/2023-09-26.md",
-    "Windows Startup Process.md",
+    "00 - INBOX/Windows Startup Process.md",
     "03 - AREAS/Journal/Daily/2023-09-21.md",
     "03 - AREAS/MOCs/MOC - Technology.md",
     "03 - AREAS/MOCs/_README.md",
@@ -378,11 +381,8 @@
     "02 - PROJECTS/Development - dotfiles.md",
     "01 - SLIPBOX/HTTP Status Codes.md",
     "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md",
-    "02 - PROJECTS/R - pkgdev Package.md",
     "02 - PROJECTS/R - buildtools Package.md",
     "02 - PROJECTS/R - jimstools Package.md",
-    "02 - PROJECTS/PowerShell - PSScripts Collection.md",
-    "02 - PROJECTS/PowerShell - PSCompletions Module.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - PackageManagement",
+      "path": "00 - INBOX/PowerShell - PackageManagement.md"
+    },
+    {
+      "basename": "_README",
+      "path": "00 - INBOX/_README.md"
+    },
+    {
       "basename": "R - pkgdev Package",
       "path": "02 - PROJECTS/R - pkgdev Package.md"
     },
@@ -10,7 +18,7 @@
     },
     {
       "basename": "Windows Startup Process",
-      "path": "Windows Startup Process.md"
+      "path": "00 - INBOX/Windows Startup Process.md"
     },
     {
       "basename": "2023-09-21",
@@ -191,14 +199,6 @@
     {
       "basename": "R - pkgdown",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - pkgdown.md"
-    },
-    {
-      "basename": "R - rcpp",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - rcpp.md"
-    },
-    {
-      "basename": "R - DBI",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - DBI.md"
     }
   ],
   "omittedPaths": [],
