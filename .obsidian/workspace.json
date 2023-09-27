@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/PowerShell - PackageManagement.md",
+                "file": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/PowerShell - PackageManagement.md"
+                "file": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/PowerShell - PackageManagement.md"
+                "file": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/PowerShell - PackageManagement.md",
+                "file": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/PowerShell - PackageManagement.md",
+                "file": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/PowerShell - PackageManagement.md",
+                "file": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,10 +355,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0b1c80ad99790cbe",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
     "00 - INBOX/_README.md",
-    "00 - INBOX/PowerShell - PackageManagement.md",
+    "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
     "02 - PROJECTS/R - pkgdev Package.md",
     "03 - AREAS/Journal/Daily/2023-09-26.md",
     "00 - INBOX/Windows Startup Process.md",
