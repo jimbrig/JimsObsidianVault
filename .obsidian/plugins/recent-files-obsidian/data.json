@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-28",
+      "path": "03 - AREAS/Journal/Daily/2023-09-28.md"
+    },
+    {
       "basename": "PowerShell Module - PackageManagement",
       "path": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "R - devtools",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - devtools.md"
-    },
-    {
-      "basename": "R - pkgdown",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - pkgdown.md"
     }
   ],
   "omittedPaths": [],

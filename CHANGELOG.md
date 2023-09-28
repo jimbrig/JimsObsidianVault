@@ -1,3 +1,4 @@
+- 2023-09-28 at 16h55 · [[2023-09-28]]
 - 2023-09-27 at 18h52 · [[PowerShell Module - PackageManagement]]
 - 2023-09-26 at 16h20 · [[R - pkgdev Package]]
 - 2023-09-26 at 16h00 · [[2023-09-26]]
@@ -47,4 +48,3 @@
 - 2023-09-17 at 20h42 · [[R - shinydashboard]]
 - 2023-09-17 at 20h42 · [[R - shiny]]
 - 2023-09-17 at 20h42 · [[R - shinydashboardPlus]]
-- 2023-09-17 at 20h42 · [[R - purrr]]
