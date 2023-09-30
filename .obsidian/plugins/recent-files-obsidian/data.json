@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Shapefiles (ArcGIS)",
+      "path": "Shapefiles (ArcGIS).md"
+    },
+    {
       "basename": "2023-09-28",
       "path": "03 - AREAS/Journal/Daily/2023-09-28.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "R - golem",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - golem.md"
-    },
-    {
-      "basename": "R - devtools",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - devtools.md"
     }
   ],
   "omittedPaths": [],

@@ -84,9 +84,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "17a090da927605cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shapefiles (ArcGIS).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-28.md"
+                "file": "Shapefiles (ArcGIS).md"
               }
             }
           },
@@ -181,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-28.md"
+                "file": "Shapefiles (ArcGIS).md"
               }
             }
           },
@@ -218,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-28.md",
+                "file": "Shapefiles (ArcGIS).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-28.md",
+                "file": "Shapefiles (ArcGIS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-28.md",
+                "file": "Shapefiles (ArcGIS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,12 +377,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-omnivore:Omnivore": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d0b17891af3c1413",
+  "active": "17a090da927605cf",
   "lastOpenFiles": [
     "03 - AREAS/Journal/Daily/2023-09-28.md",
+    "Shapefiles (ArcGIS).md",
     "00 - INBOX/_README.md",
     "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
     "02 - PROJECTS/R - pkgdev Package.md",
@@ -394,7 +409,6 @@
     "02 - PROJECTS/Development - dotfiles.md",
     "01 - SLIPBOX/HTTP Status Codes.md",
     "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md",
-    "02 - PROJECTS/R - buildtools Package.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",
