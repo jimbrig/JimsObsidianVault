@@ -1,5 +1,16 @@
 {
-  "cSpell.words": ["dataframe", "dropna", "fopen", "openai", "ujjwal"],
+  "cSpell.words": [
+    "dataframe",
+    "dropna",
+    "fopen",
+    "openai",
+    "pythonmisc",
+    "ujjwal",
+    "xlclass",
+    "xlcomponent",
+    "xlform",
+    "xlmodule"
+  ],
   "obsidian-code.vaultName": "JimsVault",
   "obsidianmd.excludedDirectories": [],
   "workbench.colorTheme": "Default Dark Modern",
