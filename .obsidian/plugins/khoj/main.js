@@ -4526,6 +4526,7 @@ ${error}`);
   let khojDefaultChatModelName = defaultConfig["processor"]["conversation"]["openai"]["chat-model"];
   await (0, import_obsidian2.request)(khoj_already_configured ? khojConfigUrl : `${khojConfigUrl}/default`).then((response) => JSON.parse(response)).then((data) => {
     var _a4, _b, _c, _d2, _e, _f, _g;
+    khoj_already_configured = data["content-type"] != null;
     if (!khoj_already_configured) {
       data["content-type"] = {
         "markdown": {

@@ -1,5 +1,6 @@
 {
   "style": "solid",
+  "adjustWidthToReadableLineWidth": false,
   "showInInternalEmbed": true,
   "showInPopover": true,
   "bannerDragModifier": "None",
@@ -9,8 +10,9 @@
   "headerDecor": "shadow",
   "headerHorizontalAlignment": "center",
   "headerVerticalAlignment": "edge",
+  "useHeaderByDefault": false,
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
   "bannersFolder": "04 - Resources/Assets/Banners",
-  "version": "2.0.2-beta"
+  "version": "2.0.3-beta"
 }

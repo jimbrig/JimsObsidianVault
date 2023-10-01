@@ -282,6 +282,62 @@ html {
 		max-width: 1536px;
 	}
 }
+.dz-collapse:not(td):not(tr):not(colgroup) {
+	visibility: visible;
+}
+.dz-collapse {
+	position: relative;
+	display: grid;
+	overflow: hidden;
+	grid-template-rows: auto 0fr;
+	transition: grid-template-rows 0.2s;
+	width: 100%;
+	border-radius: var(--rounded-box, 1rem);
+}
+.dz-collapse-title,
+.dz-collapse > input[type="checkbox"],
+.dz-collapse > input[type="radio"],
+.dz-collapse-content {
+	grid-column-start: 1;
+	grid-row-start: 1;
+}
+.dz-collapse > input[type="checkbox"],
+.dz-collapse > input[type="radio"] {
+	-webkit-appearance: none;
+	   -moz-appearance: none;
+	        appearance: none;
+	opacity: 0;
+}
+.dz-collapse-content {
+	visibility: hidden;
+	grid-column-start: 1;
+	grid-row-start: 2;
+	min-height: 0px;
+	transition: visibility 0.2s;
+	transition: padding 0.2s ease-out,
+    background-color 0.2s ease-out;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	cursor: unset;
+}
+.dz-collapse[open],
+.dz-collapse-open,
+.dz-collapse:focus:not(.dz-collapse-close) {
+	grid-template-rows: auto 1fr;
+}
+.dz-collapse:not(.dz-collapse-close):has(> input[type="checkbox"]:checked),
+.dz-collapse:not(.dz-collapse-close):has(> input[type="radio"]:checked) {
+	grid-template-rows: auto 1fr;
+}
+.dz-collapse[open] > .dz-collapse-content,
+.dz-collapse-open > .dz-collapse-content,
+.dz-collapse:focus:not(.dz-collapse-close) > .dz-collapse-content,
+.dz-collapse:not(.dz-collapse-close) > input[type="checkbox"]:checked ~ .dz-collapse-content,
+.dz-collapse:not(.dz-collapse-close) > input[type="radio"]:checked ~ .dz-collapse-content {
+	visibility: visible;
+	min-height: -moz-fit-content;
+	min-height: fit-content;
+}
 .dz-input {
 	flex-shrink: 1;
 	height: 3rem;
@@ -385,6 +441,127 @@ html {
 		background-position-y: 0;
 	}
 }
+details.dz-collapse {
+	width: 100%;
+}
+details.dz-collapse summary {
+	position: relative;
+	display: block;
+	outline: 2px solid transparent;
+	outline-offset: 2px;
+}
+details.dz-collapse summary::-webkit-details-marker {
+	display: none;
+}
+.dz-collapse:focus-visible {
+	outline-style: solid;
+	outline-width: 2px;
+	outline-offset: 2px;
+	outline-color: hsl(var(--bc) / 1);
+}
+.dz-collapse:has(.dz-collapse-title:focus-visible),
+.dz-collapse:has(> input[type="checkbox"]:focus-visible),
+.dz-collapse:has(> input[type="radio"]:focus-visible) {
+	outline-style: solid;
+	outline-width: 2px;
+	outline-offset: 2px;
+	outline-color: hsl(var(--bc) / 1);
+}
+.dz-collapse-arrow > .dz-collapse-title:after {
+	position: absolute;
+	display: block;
+	height: 0.5rem;
+	width: 0.5rem;
+	--tw-translate-y: -100%;
+	--tw-rotate: 45deg;
+	transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+	transition-duration: 150ms;
+	transition-duration: 0.2s;
+	top: 50%;
+	right: 1.4rem;
+	content: "";
+	transform-origin: 75% 75%;
+	box-shadow: 2px 2px;
+	pointer-events: none;
+}
+[dir="rtl"] .dz-collapse-arrow > .dz-collapse-title:after {
+	--tw-rotate: -45deg;
+}
+.dz-collapse-plus > .dz-collapse-title:after {
+	position: absolute;
+	display: block;
+	height: 0.5rem;
+	width: 0.5rem;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+	transition-duration: 300ms;
+	top: 0.9rem;
+	right: 1.4rem;
+	content: "+";
+	pointer-events: none;
+}
+.dz-collapse:not(.dz-collapse-open):not(.dz-collapse-close) > input[type="checkbox"],
+.dz-collapse:not(.dz-collapse-open):not(.dz-collapse-close) > input[type="radio"]:not(:checked),
+.dz-collapse:not(.dz-collapse-open):not(.dz-collapse-close) > .dz-collapse-title {
+	cursor: pointer;
+}
+.dz-collapse:focus:not(.dz-collapse-open):not(.dz-collapse-close):not(.dz-collapse[open]) > .dz-collapse-title {
+	cursor: unset;
+}
+.dz-collapse-title {
+	position: relative;
+}
+:where(.dz-collapse > input[type="checkbox"]),
+:where(.dz-collapse > input[type="radio"]) {
+	z-index: 1;
+}
+.dz-collapse-title,
+:where(.dz-collapse > input[type="checkbox"]),
+:where(.dz-collapse > input[type="radio"]) {
+	width: 100%;
+	padding: 1rem;
+	padding-right: 3rem;
+	min-height: 3.75rem;
+	transition: background-color 0.2s ease-out;
+}
+.dz-collapse[open] > :where(.dz-collapse-content),
+.dz-collapse-open > :where(.dz-collapse-content),
+.dz-collapse:focus:not(.dz-collapse-close) > :where(.dz-collapse-content),
+.dz-collapse:not(.dz-collapse-close) > :where(input[type="checkbox"]:checked ~ .dz-collapse-content),
+.dz-collapse:not(.dz-collapse-close) > :where(input[type="radio"]:checked ~ .dz-collapse-content) {
+	padding-bottom: 1rem;
+	transition: padding 0.2s ease-out,
+    background-color 0.2s ease-out;
+}
+.dz-collapse[open].dz-collapse-arrow > .dz-collapse-title:after,
+.dz-collapse-open.dz-collapse-arrow > .dz-collapse-title:after,
+.dz-collapse-arrow:focus:not(.dz-collapse-close) > .dz-collapse-title:after,
+.dz-collapse-arrow:not(.dz-collapse-close) > input[type="checkbox"]:checked ~ .dz-collapse-title:after,
+.dz-collapse-arrow:not(.dz-collapse-close) > input[type="radio"]:checked ~ .dz-collapse-title:after {
+	--tw-translate-y: -50%;
+	--tw-rotate: 225deg;
+	transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+[dir="rtl"] .dz-collapse[open].dz-collapse-arrow > .dz-collapse-title:after,
+[dir="rtl"] .dz-collapse-open.dz-collapse-arrow > .dz-collapse-title:after,
+[dir="rtl"] .dz-collapse-arrow:focus:not(.dz-collapse-close) .dz-collapse-title:after,
+[dir="rtl"]
+  .dz-collapse-arrow:not(.dz-collapse-close)
+  input[type="checkbox"]:checked
+  ~ .dz-collapse-title:after {
+	--tw-rotate: 135deg;
+}
+.dz-collapse[open].dz-collapse-plus > .dz-collapse-title:after,
+.dz-collapse-open.dz-collapse-plus > .dz-collapse-title:after,
+.dz-collapse-plus:focus:not(.dz-collapse-close) > .dz-collapse-title:after,
+.dz-collapse-plus:not(.dz-collapse-close) > input[type="checkbox"]:checked ~ .dz-collapse-title:after,
+.dz-collapse-plus:not(.dz-collapse-close) > input[type="radio"]:checked ~ .dz-collapse-title:after {
+	content: "−";
+}
 .dz-input[list]::-webkit-calendar-picker-indicator {
 	line-height: 1em;
 }
@@ -446,8 +623,8 @@ html {
 .dz-mockup-browser .dz-mockup-browser-toolbar .dz-input:before {
 	content: "";
 	position: absolute;
-	top: 50%;
 	left: 0.5rem;
+	top: 50%;
 	aspect-ratio: 1 / 1;
 	height: 0.75rem;
 	--tw-translate-y: -50%;
@@ -460,8 +637,8 @@ html {
 .dz-mockup-browser .dz-mockup-browser-toolbar .dz-input:after {
 	content: "";
 	position: absolute;
-	top: 50%;
 	left: 1.25rem;
+	top: 50%;
 	height: 0.5rem;
 	--tw-translate-y: 25%;
 	--tw-rotate: -45deg;
@@ -795,9 +972,8 @@ html {
 .h-full {
 	height: 100%;
 }
-.min-h-max {
-	min-height: -moz-max-content;
-	min-height: max-content;
+.max-h-16 {
+	max-height: 4rem;
 }
 .w-3 {
 	width: 0.75rem;
@@ -834,11 +1010,11 @@ html {
 .resize-none {
 	resize: none;
 }
-.resize {
-	resize: both;
-}
 .flex-col {
 	flex-direction: column;
+}
+.flex-wrap {
+	flex-wrap: wrap;
 }
 .items-center {
 	align-items: center;
@@ -900,9 +1076,6 @@ html {
 }
 .border-l {
 	border-left-width: 1px;
-}
-.border-gray-100\/10 {
-	border-color: rgb(243 244 246 / 0.1);
 }
 .border-gray-300 {
 	--tw-border-opacity: 1;
@@ -1070,11 +1243,6 @@ html {
 	transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
 	transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
 	transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
-	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-	transition-duration: 150ms;
-}
-.transition-all {
-	transition-property: all;
 	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 	transition-duration: 150ms;
 }
@@ -1650,9 +1818,6 @@ body.react-confirm-alert-body-element {
 :is([class*="theme-dark"] .dark\:divide-gray-700) > :not([hidden]) ~ :not([hidden]) {
 	--tw-divide-opacity: 1;
 	border-color: rgb(55 65 81 / var(--tw-divide-opacity));
-}
-:is([class*="theme-dark"] .dark\:border-white\/10) {
-	border-color: rgb(255 255 255 / 0.1);
 }
 :is([class*="theme-dark"] .dark\:text-white) {
 	--tw-text-opacity: 1;
