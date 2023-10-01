@@ -60,3 +60,27 @@ Sub RaiseError( _
     Err.Raise ErrorNumber, Src, Description
 
 End Sub
+
+Sub DisplayError( _
+    ByVal Source As String, _
+    ByVal Description As String, _
+    ByVal ProcedureName As String _
+)
+
+    Dim Src As String
+
+    If AlreadyUsed = False Then
+        Src = vbNullString
+    End If
+
+    Dim Msg As String
+
+    Msg = "The following Error Ocurred: " & vbNewLine & Err.Description _
+        & vbNewLine & vbNewLine & "Error Location: " & Source _
+        & vbNewLine & vbNewLine & "Procedure: " & ProcedureName
+
+    MsgBox Msg, vbCritical, "Error " & Err.Number, Title:="ERROR"
+
+    AlreadyUsed = False
+
+End Sub
