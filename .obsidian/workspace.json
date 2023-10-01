@@ -97,9 +97,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "860c0e8a3d39e60c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Code/VBScript/src/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shapefiles (ArcGIS).md"
+                "file": "03 - AREAS/Code/VBScript/src/Untitled.md"
               }
             }
           },
@@ -194,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Shapefiles (ArcGIS).md"
+                "file": "03 - AREAS/Code/VBScript/src/Untitled.md"
               }
             }
           },
@@ -231,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Shapefiles (ArcGIS).md",
+                "file": "03 - AREAS/Code/VBScript/src/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shapefiles (ArcGIS).md",
+                "file": "03 - AREAS/Code/VBScript/src/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shapefiles (ArcGIS).md",
+                "file": "03 - AREAS/Code/VBScript/src/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,10 +394,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "17a090da927605cf",
+  "active": "860c0e8a3d39e60c",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-09-28.md",
+    "03 - AREAS/Code/PowerShell/src/Export-ExcelVBAProject.ps1",
+    "03 - AREAS/Code/VBScript/src/svc_curr_state_2023-10-01.bat",
+    "03 - AREAS/Code/VBScript/src/svc_curr_state_2023-10-01.reg",
+    "03 - AREAS/Journal/Daily/2023-10-01.md",
+    "03 - AREAS/Code/VBScript/src/Untitled.md",
+    "03 - AREAS/Code/VBScript/src/Backup-StartupServicesConfig.vbs",
     "Shapefiles (ArcGIS).md",
+    "03 - AREAS/Journal/Daily/2023-09-28.md",
     "00 - INBOX/_README.md",
     "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
     "02 - PROJECTS/R - pkgdev Package.md",
@@ -406,9 +425,6 @@
     "02 - PROJECTS/LCHC - Shopify Webstore.md",
     "02 - PROJECTS/Python - Flask Web App and API Demo.md",
     "02 - PROJECTS/R - lossrx Package.md",
-    "02 - PROJECTS/Development - dotfiles.md",
-    "01 - SLIPBOX/HTTP Status Codes.md",
-    "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",
@@ -416,9 +432,6 @@
     "03 - AREAS/Code/PowerShell/src/templates/about_Topic.Help.template.txt",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.template.ps1",
     "03 - AREAS/Code/PowerShell/src/templates/requirements.template.ps1",
-    "03 - AREAS/Code/PowerShell/src/templates/build.script.ps1",
-    "03 - AREAS/Code/PowerShell/src/templates/custom.format.template.ps1xml",
-    "03 - AREAS/Code/PowerShell/src/templates/custom.types.template.ps1xml",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

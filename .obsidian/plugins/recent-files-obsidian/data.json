@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "03 - AREAS/Code/VBScript/src/Untitled.md"
+    },
+    {
+      "basename": "2023-10-01",
+      "path": "03 - AREAS/Journal/Daily/2023-10-01.md"
+    },
+    {
       "basename": "Shapefiles (ArcGIS)",
       "path": "Shapefiles (ArcGIS).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "R - qs",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - qs.md"
-    },
-    {
-      "basename": "R - lobstr",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - lobstr.md"
-    },
-    {
-      "basename": "R - golem",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - golem.md"
     }
   ],
   "omittedPaths": [],
