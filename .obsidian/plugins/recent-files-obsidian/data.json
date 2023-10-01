@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Python Excel Libraries and Packages",
+      "path": "Python Excel Libraries and Packages.md"
+    },
+    {
+      "basename": "Python - git-xl",
+      "path": "Python - git-xl.md"
+    },
+    {
+      "basename": "Python - pyexcel",
+      "path": "Python - pyexcel.md"
+    },
+    {
+      "basename": "Python - XLRD",
+      "path": "Python - XLRD.md"
+    },
+    {
+      "basename": "Python - XLWT",
+      "path": "Python - XLWT.md"
+    },
+    {
+      "basename": "Python - XLWings",
+      "path": "Python - XLWings.md"
+    },
+    {
+      "basename": "Python - XlsxWriter",
+      "path": "Python - XlsxWriter.md"
+    },
+    {
+      "basename": "Python - OpenPyXL",
+      "path": "Python - OpenPyXL.md"
+    },
+    {
       "basename": "2023-10-01",
       "path": "03 - AREAS/Journal/Daily/2023-10-01.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "R - cli",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - cli.md"
-    },
-    {
-      "basename": "R - pacman",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - pacman.md"
-    },
-    {
-      "basename": "R - here",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - here.md"
-    },
-    {
-      "basename": "R - rprojroot",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - rprojroot.md"
-    },
-    {
-      "basename": "R - rcmdcheck",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - rcmdcheck.md"
-    },
-    {
-      "basename": "R - pkgbuild",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - pkgbuild.md"
-    },
-    {
-      "basename": "R - lubridate",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - lubridate.md"
-    },
-    {
-      "basename": "R - openxlsx",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - openxlsx.md"
-    },
-    {
-      "basename": "R - qs",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - qs.md"
     }
   ],
   "omittedPaths": [],

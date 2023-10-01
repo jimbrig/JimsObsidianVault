@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-01.md",
+                "file": "Python Excel Libraries and Packages.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-01.md"
+                "file": "Python Excel Libraries and Packages.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-01.md"
+                "file": "Python Excel Libraries and Packages.md"
               }
             }
           },
@@ -244,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-01.md",
+                "file": "Python Excel Libraries and Packages.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-01.md",
+                "file": "Python Excel Libraries and Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-01.md",
+                "file": "Python Excel Libraries and Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -396,10 +396,18 @@
   },
   "active": "860c0e8a3d39e60c",
   "lastOpenFiles": [
+    "Python - git-xl.md",
+    "Python Excel Libraries and Packages.md",
+    "Python - pyexcel.md",
+    "Python - XLRD.md",
+    "Python - XLWT.md",
+    "Python - XLWings.md",
+    "Python - XlsxWriter.md",
+    "Python - OpenPyXL.md",
+    "03 - AREAS/Journal/Daily/2023-10-01.md",
     "03 - AREAS/Code/PowerShell/src/Export-ExcelVBAProject.ps1",
     "03 - AREAS/Code/VBScript/src/svc_curr_state_2023-10-01.bat",
     "03 - AREAS/Code/VBScript/src/svc_curr_state_2023-10-01.reg",
-    "03 - AREAS/Journal/Daily/2023-10-01.md",
     "03 - AREAS/Code/VBScript/src/Untitled.md",
     "03 - AREAS/Code/VBScript/src/Backup-StartupServicesConfig.vbs",
     "Shapefiles (ArcGIS).md",
@@ -418,20 +426,12 @@
     "03 - AREAS/Tools/_README.md",
     "04 - RESOURCES/_README.md",
     "03 - AREAS/Journal/Daily/2023-09-19.md",
-    "03 - AREAS/_README.md",
-    "02 - PROJECTS/_README.md",
-    "02 - PROJECTS/LCHC - Map.md",
-    "02 - PROJECTS/LCHC - M365 Admin.md",
-    "02 - PROJECTS/LCHC - Shopify Webstore.md",
-    "02 - PROJECTS/Python - Flask Web App and API Demo.md",
-    "02 - PROJECTS/R - lossrx Package.md",
     "03 - AREAS/Guides/Git and GitHub",
     "03 - AREAS/Code/registry",
     "03 - AREAS/Meta/Integrations",
     "03 - AREAS/Tools/Tools - PKM/Obsidian/Plugins/Integrations",
     "03 - AREAS/Code/PowerShell/src/templates/about_Topic.Help.template.txt",
     "03 - AREAS/Code/PowerShell/src/templates/build.script.template.ps1",
-    "03 - AREAS/Code/PowerShell/src/templates/requirements.template.ps1",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
