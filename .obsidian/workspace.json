@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Excel Libraries and Packages.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Excel Libraries and Packages.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-04.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python Excel Libraries and Packages.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-04.md"
               }
             }
           },
@@ -244,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python Excel Libraries and Packages.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Excel Libraries and Packages.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Excel Libraries and Packages.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -396,6 +396,18 @@
   },
   "active": "860c0e8a3d39e60c",
   "lastOpenFiles": [
+    "02 - PROJECTS/PowerShell - PSProfileTools Module.md",
+    "03 - AREAS/Journal/Daily/2023-10-04.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+    "04 - RESOURCES/Templates/Code-Templates/Untitled.md",
+    "04 - RESOURCES/Templates/Code-Templates/Template-Code-Bash.md",
+    "04 - RESOURCES/Templates/Code-Templates/Template-Code.md",
+    "04 - RESOURCES/_README.md",
+    "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
+    "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+    "Python Excel Libraries and Packages.md",
     "03 - AREAS/Code/VBA/src/modGlobals.bas",
     "03 - AREAS/Code/VBA/src/modStartUp.bas",
     "03 - AREAS/Code/VBA/src/modErrorHandling.bas",
@@ -406,9 +418,7 @@
     "03 - AREAS/Code/PowerQuery",
     "03 - AREAS/Code/Registry",
     "requirements.txt",
-    "03 - AREAS/Code/Python/src/ExcelVBAClass.py.27a12aecf75223ef4fe463b57aff4ea1.tmp",
     "Python - git-xl.md",
-    "Python Excel Libraries and Packages.md",
     "Python - pyexcel.md",
     "Python - XLRD.md",
     "Python - XLWT.md",
@@ -422,16 +432,6 @@
     "00 - INBOX/_README.md",
     "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
     "02 - PROJECTS/R - pkgdev Package.md",
-    "03 - AREAS/Journal/Daily/2023-09-26.md",
-    "00 - INBOX/Windows Startup Process.md",
-    "03 - AREAS/Journal/Daily/2023-09-21.md",
-    "03 - AREAS/MOCs/MOC - Technology.md",
-    "03 - AREAS/MOCs/_README.md",
-    "03 - AREAS/Tools/Tools - CLI/CLI Tools/Data API Builder CLI (dab).md",
-    "03 - AREAS/Tools/Tools - CLI/CLI Tools/_README.md",
-    "03 - AREAS/Tools/Tools - CLI/_README.md",
-    "03 - AREAS/Tools/_README.md",
-    "04 - RESOURCES/_README.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

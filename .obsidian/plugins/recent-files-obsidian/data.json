@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-04",
+      "path": "03 - AREAS/Journal/Daily/2023-10-04.md"
+    },
+    {
+      "basename": "PowerShell - PSProfileTools Module",
+      "path": "02 - PROJECTS/PowerShell - PSProfileTools Module.md"
+    },
+    {
+      "basename": "Template-Frontmatter-Enhanced",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Untitled.md"
+    },
+    {
+      "basename": "Template-Code-Bash",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-Bash.md"
+    },
+    {
+      "basename": "Template-Code",
+      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "PowerShell - ConvertTo-Markdown",
+      "path": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
+    },
+    {
+      "basename": "PowerShell - Add-GodModeShortcut",
+      "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
       "basename": "Python Excel Libraries and Packages",
       "path": "Python Excel Libraries and Packages.md"
     },
@@ -97,10 +141,6 @@
       "path": "03 - AREAS/Tools/_README.md"
     },
     {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
-    },
-    {
       "basename": "2023-09-19",
       "path": "03 - AREAS/Journal/Daily/2023-09-19.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "PowerShell - PSCompletions Module",
       "path": "02 - PROJECTS/PowerShell - PSCompletions Module.md"
-    },
-    {
-      "basename": "PowerShell - PSWindowsSetup Module",
-      "path": "02 - PROJECTS/PowerShell - PSWindowsSetup Module.md"
-    },
-    {
-      "basename": "PowerShell - PSGitFiles Module",
-      "path": "02 - PROJECTS/PowerShell - PSGitFiles Module.md"
-    },
-    {
-      "basename": "PowerShell - PowerShell Profile",
-      "path": "02 - PROJECTS/PowerShell - PowerShell Profile.md"
-    },
-    {
-      "basename": "PowerShell - PSXLDevTools Module",
-      "path": "02 - PROJECTS/PowerShell - PSXLDevTools Module.md"
-    },
-    {
-      "basename": "PowerShell - PSClearHost Module",
-      "path": "02 - PROJECTS/PowerShell - PSClearHost Module.md"
-    },
-    {
-      "basename": "PowerShell - PSObsidianTools Module",
-      "path": "02 - PROJECTS/PowerShell - PSObsidianTools Module.md"
-    },
-    {
-      "basename": "R - rhino",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - rhino.md"
-    },
-    {
-      "basename": "R - postgres",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - postgres.md"
-    },
-    {
-      "basename": "R - odbc",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - odbc.md"
-    },
-    {
-      "basename": "R - cli",
-      "path": "03 - AREAS/Tools/Tools - R Packages/R - cli.md"
     }
   ],
   "omittedPaths": [],
