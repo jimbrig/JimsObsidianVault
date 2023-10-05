@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shapefiles (ArcGIS).md",
+                "file": "00 - INBOX/Shapefiles (ArcGIS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -110,9 +110,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "920f0654e46401b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-04.md"
+                "file": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md"
               }
             }
           },
@@ -207,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-04.md"
+                "file": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md"
               }
             }
           },
@@ -221,9 +234,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "0f55b21b2fcb58ae",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "1ac3153552315a07",
@@ -244,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
+                "file": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
+                "file": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
+                "file": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,10 +415,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "860c0e8a3d39e60c",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "02 - PROJECTS/PowerShell - PSProfileTools Module.md",
+    "03 - AREAS/Tools/Tools - Python Packages/_README.md",
+    "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
+    "03 - AREAS/Tools/Tools - Python Packages",
+    "00 - INBOX/Untitled.md",
+    "Assets/Videos",
+    "Assets/Images",
+    "Assets/PDFs",
+    "Assets",
+    "Assets/PDFs/Loss Map Graphic.pdf",
     "03 - AREAS/Journal/Daily/2023-10-04.md",
+    "02 - PROJECTS/PowerShell - PSProfileTools Module.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
@@ -407,31 +437,22 @@
     "04 - RESOURCES/_README.md",
     "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "Python Excel Libraries and Packages.md",
+    "04 - RESOURCES/Lists/Python Excel Libraries and Packages.md",
     "03 - AREAS/Code/VBA/src/modGlobals.bas",
     "03 - AREAS/Code/VBA/src/modStartUp.bas",
     "03 - AREAS/Code/VBA/src/modErrorHandling.bas",
     "03 - AREAS/Code/PowerQuery/src/PowerQueryFunction.Template.pq",
-    "03 - AREAS/Code/PowerQuery/src/List_Combinations.pq",
-    "03 - AREAS/Code/PowerQuery/src/CurrentWorkbook_NamedRange.pq",
-    "03 - AREAS/Code/PowerQuery/src",
-    "03 - AREAS/Code/PowerQuery",
-    "03 - AREAS/Code/Registry",
-    "requirements.txt",
-    "Python - git-xl.md",
-    "Python - pyexcel.md",
-    "Python - XLRD.md",
-    "Python - XLWT.md",
-    "Python - XLWings.md",
-    "Python - XlsxWriter.md",
-    "Python - OpenPyXL.md",
+    "03 - AREAS/Tools/Tools - Python Packages/Python - pyexcel.md",
+    "03 - AREAS/Tools/Tools - Python Packages/Python - XLRD.md",
+    "03 - AREAS/Tools/Tools - Python Packages/Python - XLWT.md",
+    "03 - AREAS/Tools/Tools - Python Packages/Python - XLWings.md",
+    "03 - AREAS/Tools/Tools - Python Packages/Python - XlsxWriter.md",
+    "03 - AREAS/Tools/Tools - Python Packages/Python - OpenPyXL.md",
     "03 - AREAS/Journal/Daily/2023-10-01.md",
     "03 - AREAS/Code/VBScript/src/Untitled.md",
-    "Shapefiles (ArcGIS).md",
+    "00 - INBOX/Shapefiles (ArcGIS).md",
     "03 - AREAS/Journal/Daily/2023-09-28.md",
     "00 - INBOX/_README.md",
-    "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
-    "02 - PROJECTS/R - pkgdev Package.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

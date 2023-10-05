@@ -1,3 +1,0 @@
--e git+https://github.com/davikawasaki/python-misc-module-library#egg=pythonmisc
-pypiwin32
-pywin32

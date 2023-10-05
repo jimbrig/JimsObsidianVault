@@ -1,3 +1,5 @@
+- 2023-10-05 at 13h07 · [[_README]]
+- 2023-10-05 at 13h05 · [[Untitled]]
 - 2023-10-04 at 19h51 · [[2023-10-04]]
 - 2023-10-01 at 18h26 · [[Python Excel Libraries and Packages]]
 - 2023-10-01 at 18h26 · [[Python - git-xl]]
@@ -46,5 +48,3 @@
 - 2023-09-17 at 20h44 · [[R - here]]
 - 2023-09-17 at 20h44 · [[R - rprojroot]]
 - 2023-09-17 at 20h44 · [[R - rcmdcheck]]
-- 2023-09-17 at 20h44 · [[R - pkgbuild]]
-- 2023-09-17 at 20h44 · [[R - lubridate]]

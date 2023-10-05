@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Python - git-xl",
+      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Tools/Tools - Python Packages/_README.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00 - INBOX/Untitled.md"
+    },
+    {
       "basename": "2023-10-04",
       "path": "03 - AREAS/Journal/Daily/2023-10-04.md"
     },
@@ -46,35 +58,31 @@
     },
     {
       "basename": "Python Excel Libraries and Packages",
-      "path": "Python Excel Libraries and Packages.md"
-    },
-    {
-      "basename": "Python - git-xl",
-      "path": "Python - git-xl.md"
+      "path": "04 - RESOURCES/Lists/Python Excel Libraries and Packages.md"
     },
     {
       "basename": "Python - pyexcel",
-      "path": "Python - pyexcel.md"
+      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - pyexcel.md"
     },
     {
       "basename": "Python - XLRD",
-      "path": "Python - XLRD.md"
+      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLRD.md"
     },
     {
       "basename": "Python - XLWT",
-      "path": "Python - XLWT.md"
+      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLWT.md"
     },
     {
       "basename": "Python - XLWings",
-      "path": "Python - XLWings.md"
+      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLWings.md"
     },
     {
       "basename": "Python - XlsxWriter",
-      "path": "Python - XlsxWriter.md"
+      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XlsxWriter.md"
     },
     {
       "basename": "Python - OpenPyXL",
-      "path": "Python - OpenPyXL.md"
+      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - OpenPyXL.md"
     },
     {
       "basename": "2023-10-01",
@@ -86,7 +94,7 @@
     },
     {
       "basename": "Shapefiles (ArcGIS)",
-      "path": "Shapefiles (ArcGIS).md"
+      "path": "00 - INBOX/Shapefiles (ArcGIS).md"
     },
     {
       "basename": "2023-09-28",
@@ -191,14 +199,6 @@
     {
       "basename": "R - jimstools Package",
       "path": "02 - PROJECTS/R - jimstools Package.md"
-    },
-    {
-      "basename": "PowerShell - PSScripts Collection",
-      "path": "02 - PROJECTS/PowerShell - PSScripts Collection.md"
-    },
-    {
-      "basename": "PowerShell - PSCompletions Module",
-      "path": "02 - PROJECTS/PowerShell - PSCompletions Module.md"
     }
   ],
   "omittedPaths": [],
