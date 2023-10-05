@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Actuarial Relational Database Sample",
+      "path": "Actuarial Relational Database Sample.md"
+    },
+    {
       "basename": "Python - git-xl",
       "path": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "R - buildtools Package",
       "path": "02 - PROJECTS/R - buildtools Package.md"
-    },
-    {
-      "basename": "R - jimstools Package",
-      "path": "02 - PROJECTS/R - jimstools Package.md"
     }
   ],
   "omittedPaths": [],
