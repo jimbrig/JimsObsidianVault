@@ -1,0 +1,13 @@
+services:
+  nginx:
+    image: nginx:alpine
+    environment:
+      TZ: America/New_York
+    ports:
+      - '80:80'
+      - '443:443'
+    container_name: nginx
+    volumes:
+      - '$PWD/certificate:/home/certificate'
+      - '$PWD/html:/usr/share/nginx/html'
+      - '$PWD/config:/etc/nginx/conf.d'
