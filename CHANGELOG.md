@@ -1,3 +1,5 @@
+- 2023-10-09 at 09h58 · [[Lets Encrypt]]
+- 2023-10-09 at 09h53 · [[R - Shiny Server Deployment]]
 - 2023-10-09 at 09h35 · [[2023-10-09]]
 - 2023-10-05 at 15h49 · [[Docker - Compose - Nginx]]
 - 2023-10-05 at 15h49 · [[Docker - Compose - PostgreSQL]]
@@ -46,5 +48,3 @@
 - 2023-09-17 at 20h46 · [[PowerShell - PSObsidianTools Module]]
 - 2023-09-17 at 20h45 · [[R - rhino]]
 - 2023-09-17 at 20h45 · [[R - postgres]]
-- 2023-09-17 at 20h45 · [[R - odbc]]
-- 2023-09-17 at 20h44 · [[R - cli]]

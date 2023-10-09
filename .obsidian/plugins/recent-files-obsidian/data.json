@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lets Encrypt",
+      "path": "Lets Encrypt.md"
+    },
+    {
+      "basename": "R - Shiny Server Deployment",
+      "path": "R - Shiny Server Deployment.md"
+    },
+    {
       "basename": "2023-10-09",
       "path": "03 - AREAS/Journal/Daily/2023-10-09.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Development - dotfiles",
       "path": "02 - PROJECTS/Development - dotfiles.md"
-    },
-    {
-      "basename": "HTTP Status Codes",
-      "path": "01 - SLIPBOX/HTTP Status Codes.md"
-    },
-    {
-      "basename": "Obsidian - Vault Consolidation and Organization",
-      "path": "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md"
     }
   ],
   "omittedPaths": [],

@@ -136,9 +136,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a6a8892328411cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lets Encrypt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-09.md"
+                "file": "Lets Encrypt.md"
               }
             }
           },
@@ -233,7 +246,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-09.md"
+                "file": "Lets Encrypt.md"
               }
             }
           },
@@ -278,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
+                "file": "Lets Encrypt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
+                "file": "Lets Encrypt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
+                "file": "Lets Encrypt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,10 +441,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "af4dd60605819f45",
+  "active": "a6a8892328411cb4",
   "lastOpenFiles": [
-    "Actuarial Relational Database Sample.md",
+    "R - Shiny Server Deployment.md",
+    "Lets Encrypt.md",
     "03 - AREAS/Journal/Daily/2023-10-09.md",
+    "Actuarial Relational Database Sample.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
@@ -470,8 +485,6 @@
     "04 - RESOURCES/Lists/Python Excel Libraries and Packages.md",
     "03 - AREAS/Tools/Tools - Python Packages/Python - pyexcel.md",
     "03 - AREAS/Tools/Tools - Python Packages/Python - XLRD.md",
-    "03 - AREAS/Tools/Tools - Python Packages/Python - XLWT.md",
-    "03 - AREAS/Tools/Tools - Python Packages/Python - XLWings.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
