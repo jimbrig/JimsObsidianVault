@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actuarial Relational Database Sample.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-09.md"
               }
             }
           },
@@ -233,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Actuarial Relational Database Sample.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-09.md"
               }
             }
           },
@@ -278,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +346,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,6 +430,8 @@
   },
   "active": "af4dd60605819f45",
   "lastOpenFiles": [
+    "Actuarial Relational Database Sample.md",
+    "03 - AREAS/Journal/Daily/2023-10-09.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
@@ -452,7 +454,6 @@
     "03 - AREAS/Code/Docker/Docker - Compose - PostgreSQL.md",
     "03 - AREAS/Code/Docker/Docker - Compose - MSSQL.md",
     "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
-    "Actuarial Relational Database Sample.md",
     "03 - AREAS/Tools/Tools - Python Packages/_README.md",
     "00 - INBOX/Untitled.md",
     "03 - AREAS/Journal/Daily/2023-10-04.md",

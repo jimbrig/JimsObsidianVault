@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-09",
+      "path": "03 - AREAS/Journal/Daily/2023-10-09.md"
+    },
+    {
       "basename": "Actuarial Relational Database Sample",
       "path": "Actuarial Relational Database Sample.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian - Vault Consolidation and Organization",
       "path": "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md"
-    },
-    {
-      "basename": "R - buildtools Package",
-      "path": "02 - PROJECTS/R - buildtools Package.md"
     }
   ],
   "omittedPaths": [],

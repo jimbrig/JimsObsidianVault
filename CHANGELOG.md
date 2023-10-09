@@ -1,3 +1,4 @@
+- 2023-10-09 at 09h35 · [[2023-10-09]]
 - 2023-10-05 at 15h49 · [[Docker - Compose - Nginx]]
 - 2023-10-05 at 15h49 · [[Docker - Compose - PostgreSQL]]
 - 2023-10-05 at 13h14 · [[Actuarial Relational Database Sample]]
@@ -47,4 +48,3 @@
 - 2023-09-17 at 20h45 · [[R - postgres]]
 - 2023-09-17 at 20h45 · [[R - odbc]]
 - 2023-09-17 at 20h44 · [[R - cli]]
-- 2023-09-17 at 20h44 · [[R - pacman]]

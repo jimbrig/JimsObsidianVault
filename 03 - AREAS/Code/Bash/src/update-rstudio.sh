@@ -29,5 +29,5 @@ echo "Do you want to install RStudio? [N/y]"
 read INSTALL
 
 if [[ $INSTALL == 'y' ]]; then
-	sudo dpkg -i ~/Downloads/new-rstudio.deb
+    sudo dpkg -i ~/Downloads/new-rstudio.deb
 fi
