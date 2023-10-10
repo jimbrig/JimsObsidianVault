@@ -7,5 +7,7 @@
   "showLineNumber": true,
   "legacyEditor": false,
   "attachmentFolderPath": "Assets",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - INBOX"
 }

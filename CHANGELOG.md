@@ -1,3 +1,5 @@
+- 2023-10-10 at 12h35 · [[R - Tidy Evaluation and Programming with dplyr]]
+- 2023-10-10 at 12h22 · [[2023-10-10]]
 - 2023-10-09 at 09h58 · [[Lets Encrypt]]
 - 2023-10-09 at 09h53 · [[R - Shiny Server Deployment]]
 - 2023-10-09 at 09h35 · [[2023-10-09]]
@@ -46,5 +48,3 @@
 - 2023-09-17 at 20h46 · [[PowerShell - PSXLDevTools Module]]
 - 2023-09-17 at 20h46 · [[PowerShell - PSClearHost Module]]
 - 2023-09-17 at 20h46 · [[PowerShell - PSObsidianTools Module]]
-- 2023-09-17 at 20h45 · [[R - rhino]]
-- 2023-09-17 at 20h45 · [[R - postgres]]
