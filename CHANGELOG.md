@@ -1,3 +1,5 @@
+- 2023-10-13 at 10h18 · [[Template-Readwise]]
+- 2023-10-13 at 10h16 · [[2023-09-07]]
 - 2023-10-13 at 10h08 · [[2023-10-13]]
 - 2023-10-10 at 11h35 · [[R - Tidy Evaluation and Programming with dplyr]]
 - 2023-10-10 at 11h22 · [[2023-10-10]]
@@ -46,5 +48,3 @@
 - 2023-09-17 at 19h47 · [[PowerShell - PSWindowsSetup Module]]
 - 2023-09-17 at 19h47 · [[PowerShell - PSGitFiles Module]]
 - 2023-09-17 at 19h47 · [[PowerShell - PowerShell Profile]]
-- 2023-09-17 at 19h46 · [[PowerShell - PSXLDevTools Module]]
-- 2023-09-17 at 19h46 · [[PowerShell - PSClearHost Module]]

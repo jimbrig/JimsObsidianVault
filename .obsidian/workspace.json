@@ -8,189 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b320d01ae3c3d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - PROJECTS/PowerShell - PSProfileTools Module.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2af1f46c04c3772f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/PowerShell.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b183de5f5e911b92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0b1c80ad99790cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eaf4499c6c3b988a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/MOCs/_README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0b17891af3c1413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-09-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17a090da927605cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Shapefiles (ArcGIS).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "860c0e8a3d39e60c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-04.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "920f0654e46401b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "af4dd60605819f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a6a8892328411cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Lets Encrypt.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4ffc06188d804cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e148c008e794ce0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "877bc096c1c3d490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
+                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-13.md"
+                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
               }
             }
           },
@@ -285,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-13.md"
+                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
               }
             }
           },
@@ -308,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac3153552315a07",
@@ -330,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-13.md",
+                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -381,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-13.md",
+                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-13.md",
+                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -448,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -482,8 +312,10 @@
   },
   "active": "e148c008e794ce0e",
   "lastOpenFiles": [
-    "00 - INBOX/R - Tidy Evaluation and Programming with dplyr.md",
     "03 - AREAS/Journal/Daily/2023-10-13.md",
+    "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
+    "04 - RESOURCES/Templates/Plugin-Templates",
+    "00 - INBOX/R - Tidy Evaluation and Programming with dplyr.md",
     "HOME.md",
     "03 - AREAS/Journal/Daily/2023-10-10.md",
     "00 - INBOX/Actuarial Relational Database Sample.md",
@@ -505,7 +337,6 @@
     "03 - AREAS/Code/HTML/src/landing-page/assets/js",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img",
     "03 - AREAS/Code/HTML/src/landing-page/assets",
-    "03 - AREAS/Code/HTML/src/landing-page/index.html",
     "03 - AREAS/Code/Docker/Docker - Compose - Nginx.md",
     "03 - AREAS/Code/Docker/_README.md",
     "03 - AREAS/Code/Docker/Docker Compose/Docker - Compose - Nginx.md",
@@ -523,7 +354,6 @@
     "04 - RESOURCES/Templates/Code-Templates/Template-Code-Bash.md",
     "04 - RESOURCES/Templates/Code-Templates/Template-Code.md",
     "04 - RESOURCES/_README.md",
-    "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
