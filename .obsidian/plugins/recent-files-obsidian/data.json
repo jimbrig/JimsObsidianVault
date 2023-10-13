@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-13",
+      "path": "03 - AREAS/Journal/Daily/2023-10-13.md"
+    },
+    {
       "basename": "R - Tidy Evaluation and Programming with dplyr",
       "path": "00 - INBOX/R - Tidy Evaluation and Programming with dplyr.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "LCHC - M365 Admin",
       "path": "02 - PROJECTS/LCHC - M365 Admin.md"
-    },
-    {
-      "basename": "LCHC - Shopify Webstore",
-      "path": "02 - PROJECTS/LCHC - Shopify Webstore.md"
     }
   ],
   "omittedPaths": [],
