@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d6bd2aae53ce0907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-16.md"
               }
             }
           },
@@ -115,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-16.md"
               }
             }
           },
@@ -159,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,12 +320,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-omnivore:Omnivore": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e148c008e794ce0e",
+  "active": "d6bd2aae53ce0907",
   "lastOpenFiles": [
+    "03 - AREAS/Journal/Daily/2023-10-16.md",
     "03 - AREAS/Journal/Daily/2023-10-13.md",
     "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
     "04 - RESOURCES/Templates/Plugin-Templates",
@@ -353,7 +367,6 @@
     "04 - RESOURCES/Templates/Code-Templates/Untitled.md",
     "04 - RESOURCES/Templates/Code-Templates/Template-Code-Bash.md",
     "04 - RESOURCES/Templates/Code-Templates/Template-Code.md",
-    "04 - RESOURCES/_README.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

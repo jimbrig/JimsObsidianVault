@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-16",
+      "path": "03 - AREAS/Journal/Daily/2023-10-16.md"
+    },
+    {
       "basename": "Template-Readwise",
       "path": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "02 - PROJECTS/_README.md"
-    },
-    {
-      "basename": "LCHC - Map",
-      "path": "02 - PROJECTS/LCHC - Map.md"
     }
   ],
   "omittedPaths": [],
