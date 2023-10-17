@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
+                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e60b9622eac354c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "afd749b6dd78ce04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -109,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-16.md"
+                "file": "00 - INBOX/Actuarial Relational Database Sample.md"
               }
             }
           },
@@ -129,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-16.md"
+                "file": "00 - INBOX/Actuarial Relational Database Sample.md"
               }
             }
           },
@@ -173,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
+                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
+                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-16.md",
+                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,11 +346,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-omnivore:Omnivore": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "d6bd2aae53ce0907",
   "lastOpenFiles": [
+    "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+    "00 - INBOX/Loss Reserving Mind Map.md",
+    "00 - INBOX/Azure Naming Tool.md",
+    "00 - INBOX/_README.md",
+    "04 - RESOURCES/_README.md",
+    "00 - INBOX/Actuarial Relational Database Sample.md",
     "03 - AREAS/Journal/Daily/2023-10-16.md",
     "03 - AREAS/Journal/Daily/2023-10-13.md",
     "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
@@ -332,7 +368,6 @@
     "00 - INBOX/R - Tidy Evaluation and Programming with dplyr.md",
     "HOME.md",
     "03 - AREAS/Journal/Daily/2023-10-10.md",
-    "00 - INBOX/Actuarial Relational Database Sample.md",
     "00 - INBOX/R - Shiny Server Deployment.md",
     "00 - INBOX/Lets Encrypt.md",
     "03 - AREAS/Journal/Daily/2023-10-09.md",
@@ -358,15 +393,7 @@
     "03 - AREAS/Code/Docker/Docker - Compose - MSSQL.md",
     "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
     "03 - AREAS/Tools/Tools - Python Packages/_README.md",
-    "00 - INBOX/Untitled.md",
     "03 - AREAS/Journal/Daily/2023-10-04.md",
-    "02 - PROJECTS/PowerShell - PSProfileTools Module.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
-    "04 - RESOURCES/Templates/Code-Templates/Untitled.md",
-    "04 - RESOURCES/Templates/Code-Templates/Template-Code-Bash.md",
-    "04 - RESOURCES/Templates/Code-Templates/Template-Code.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

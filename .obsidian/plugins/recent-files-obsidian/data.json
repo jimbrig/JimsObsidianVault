@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Actuarial Relational Database Sample",
+      "path": "00 - INBOX/Actuarial Relational Database Sample.md"
+    },
+    {
+      "basename": "Template-Brainstorm",
+      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "Template-Frontmatter-Enhanced",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+    },
+    {
+      "basename": "Loss Reserving Mind Map",
+      "path": "00 - INBOX/Loss Reserving Mind Map.md"
+    },
+    {
+      "basename": "Azure Naming Tool",
+      "path": "00 - INBOX/Azure Naming Tool.md"
+    },
+    {
+      "basename": "_README",
+      "path": "00 - INBOX/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
       "basename": "2023-10-16",
       "path": "03 - AREAS/Journal/Daily/2023-10-16.md"
     },
@@ -25,10 +61,6 @@
       "path": "03 - AREAS/Journal/Daily/2023-10-10.md"
     },
     {
-      "basename": "Actuarial Relational Database Sample",
-      "path": "00 - INBOX/Actuarial Relational Database Sample.md"
-    },
-    {
       "basename": "R - Shiny Server Deployment",
       "path": "00 - INBOX/R - Shiny Server Deployment.md"
     },
@@ -49,28 +81,12 @@
       "path": "03 - AREAS/Tools/Tools - Python Packages/_README.md"
     },
     {
-      "basename": "Untitled",
-      "path": "00 - INBOX/Untitled.md"
-    },
-    {
       "basename": "2023-10-04",
       "path": "03 - AREAS/Journal/Daily/2023-10-04.md"
     },
     {
       "basename": "PowerShell - PSProfileTools Module",
       "path": "02 - PROJECTS/PowerShell - PSProfileTools Module.md"
-    },
-    {
-      "basename": "Template-Frontmatter-Enhanced",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
-    },
-    {
-      "basename": "Template-Frontmatter",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
     },
     {
       "basename": "Untitled",
@@ -83,10 +99,6 @@
     {
       "basename": "Template-Code",
       "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
     },
     {
       "basename": "PowerShell - ConvertTo-Markdown",
@@ -145,10 +157,6 @@
       "path": "03 - AREAS/Tools/Tools - PowerShell Modules/PowerShell Module - PackageManagement.md"
     },
     {
-      "basename": "_README",
-      "path": "00 - INBOX/_README.md"
-    },
-    {
       "basename": "R - pkgdev Package",
       "path": "02 - PROJECTS/R - pkgdev Package.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2023-09-19",
       "path": "03 - AREAS/Journal/Daily/2023-09-19.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/_README.md"
     }
   ],
   "omittedPaths": [],
