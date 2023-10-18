@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Business/Finance/ECommerce.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md",
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Actuarial Relational Database Sample.md"
+                "file": "03 - AREAS/Business/Finance/ECommerce.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Actuarial Relational Database Sample.md"
+                "file": "03 - AREAS/Business/Finance/ECommerce.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Business/Finance/ECommerce.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Business/Finance/ECommerce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Actuarial Relational Database Sample.md",
+                "file": "03 - AREAS/Business/Finance/ECommerce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,27 +350,35 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d6bd2aae53ce0907",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
-    "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
+    "03 - AREAS/Business/Startups/Funding.md",
+    "03 - AREAS/Business/SaaS.md",
+    "03 - AREAS/Business/Products.md",
+    "03 - AREAS/Business/DAO.md",
+    "03 - AREAS/Business/Business.md",
+    "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md",
+    "02 - PROJECTS/LCHC - Shopify Webstore.md",
+    "02 - PROJECTS/LCHC - Map.md",
+    "02 - PROJECTS/LCHC - M365 Admin.md",
+    "02 - PROJECTS/Development - dotfiles.md",
+    "02 - PROJECTS/Active Projects.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+    "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md",
+    "02 - PROJECTS/_README.md",
+    "00 - INBOX/Actuarial Relational Database Sample.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
     "00 - INBOX/Loss Reserving Mind Map.md",
     "00 - INBOX/Azure Naming Tool.md",
     "00 - INBOX/_README.md",
     "04 - RESOURCES/_README.md",
-    "00 - INBOX/Actuarial Relational Database Sample.md",
     "03 - AREAS/Journal/Daily/2023-10-16.md",
     "03 - AREAS/Journal/Daily/2023-10-13.md",
     "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
     "04 - RESOURCES/Templates/Plugin-Templates",
     "00 - INBOX/R - Tidy Evaluation and Programming with dplyr.md",
     "HOME.md",
-    "03 - AREAS/Journal/Daily/2023-10-10.md",
-    "00 - INBOX/R - Shiny Server Deployment.md",
-    "00 - INBOX/Lets Encrypt.md",
-    "03 - AREAS/Journal/Daily/2023-10-09.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
@@ -386,14 +394,6 @@
     "03 - AREAS/Code/HTML/src/landing-page/assets/js",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img",
     "03 - AREAS/Code/HTML/src/landing-page/assets",
-    "03 - AREAS/Code/Docker/Docker - Compose - Nginx.md",
-    "03 - AREAS/Code/Docker/_README.md",
-    "03 - AREAS/Code/Docker/Docker Compose/Docker - Compose - Nginx.md",
-    "03 - AREAS/Code/Docker/Docker - Compose - PostgreSQL.md",
-    "03 - AREAS/Code/Docker/Docker - Compose - MSSQL.md",
-    "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md",
-    "03 - AREAS/Tools/Tools - Python Packages/_README.md",
-    "03 - AREAS/Journal/Daily/2023-10-04.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
