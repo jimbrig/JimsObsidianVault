@@ -10,9 +10,9 @@ Alias: [ "FSUTIL" ]
 > [!NOTE] About
 > Windows includes a [[command line]] tool for file, system, and disk management, called **Fsutil**. This utility helps you to change the short name of a file, find files by [SID’s (Security Identifier)](https://www.thewindowsclub.com/what-are-windows-security-identifiers-and-how-to-resolve-sids) and perform other complex tasks.
 
-*See Also: [[Cmd - DISKPART|DISKPART]]*.
+*See Also: [[03 - AREAS/Code/Cmd/Cmd - DISKPART|DISKPART]]*.
 
-[[FSUTIL]] and [[Cmd - DISKPART|DISKPART]] are powerful, but not for inexperienced [[Reference/Technology/Computer Science/Operating System/Windows]] users.
+[[FSUTIL]] and [[03 - AREAS/Code/Cmd/Cmd - DISKPART|DISKPART]] are powerful, but not for inexperienced [[Reference/Technology/Computer Science/Operating System/Windows]] users.
 
 ## Contents
 

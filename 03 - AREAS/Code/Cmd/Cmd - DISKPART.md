@@ -1,14 +1,15 @@
 ---
-Date: 2023-06-20
+Date Created: 2023-06-20
+Date Modified: 2023-10-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/Cmd", "#Topic/Dev/Cmd"]
-Alias: [ "DISKPART" ]
+Aliases: [ "DiskPart" ]
 ---
 
-# DISKPART
+# DiskPart
 
-> [!NOTE] About
-> 
+> [!SOURCE] Sources:
+> - *[Mount or Unmount VHD or VHDX File in Windows 10 (winaero.com)](https://winaero.com/mount-or-unmount-vhd-or-vhdx-file-in-windows-10/)*
 
 > [!INFO]
 > See Also: [[Guide - How To use DISKPART on Windows|How to use DISKPART]]
@@ -19,10 +20,24 @@ Alias: [ "DISKPART" ]
 
 ## Code
 
-*Link: <<% tp.file.cursor(2) %>>*
+*Link: *
 
 ```powershell
+# Launch diskpart shell
+& DISKPART
 
+# Within DISKPART (i.e. "DISKPART>"):
+SELECT VDISK FILE="Path/to/vhdx"
+ATTACH VDISK
+Exit
+```
+
+Similarly, to detach:
+
+```powershell
+SELECT VDISK FILE="Path/to/vhdx"
+DETACH VDISK
+Exit
 ```
 
 ## Details

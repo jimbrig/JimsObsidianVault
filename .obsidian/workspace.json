@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dc41e3c7d8187696",
+        "id": "7aa278eef1de7ca1",
         "type": "tabs",
         "children": [
           {
-            "id": "e148c008e794ce0e",
+            "id": "0a1bda8493a099ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d6bd2aae53ce0907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b284a4951f022a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e60b9622eac354c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "afd749b6dd78ce04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
+                "file": "00 - INBOX/Geographic Information System (GIS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Untitled.md"
+                "file": "00 - INBOX/Geographic Information System (GIS).md"
               }
             }
           },
@@ -168,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Untitled.md"
+                "file": "00 - INBOX/Geographic Information System (GIS).md"
               }
             }
           },
@@ -212,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Untitled.md",
+                "file": "00 - INBOX/Geographic Information System (GIS).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Untitled.md",
+                "file": "00 - INBOX/Geographic Information System (GIS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Untitled.md",
+                "file": "00 - INBOX/Geographic Information System (GIS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,11 +311,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b284a4951f022a59",
+  "active": "0a1bda8493a099ac",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-10-18.md",
-    "00 - INBOX/Untitled.md",
+    "00 - INBOX/Geographic Information System (GIS).md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
+    "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md",
+    "03 - AREAS/Code/Cmd/Cmd - DISKPART.md",
+    "03 - AREAS/Journal/Daily/2023-10-18.md",
+    "03 - AREAS/Code/Cmd/src/CMD - DiskPart.md",
+    "03 - AREAS/Code/_README.md",
     "03 - AREAS/Business/Startups/Funding.md",
     "03 - AREAS/Business/SaaS.md",
     "03 - AREAS/Business/Products.md",
@@ -379,18 +333,12 @@
     "02 - PROJECTS/LCHC - M365 Admin.md",
     "02 - PROJECTS/Development - dotfiles.md",
     "02 - PROJECTS/Active Projects.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md",
     "02 - PROJECTS/_README.md",
     "00 - INBOX/Actuarial Relational Database Sample.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
     "00 - INBOX/Loss Reserving Mind Map.md",
     "00 - INBOX/Azure Naming Tool.md",
-    "00 - INBOX/_README.md",
-    "04 - RESOURCES/_README.md",
-    "03 - AREAS/Journal/Daily/2023-10-16.md",
-    "03 - AREAS/Journal/Daily/2023-10-13.md",
     "04 - RESOURCES/Templates/Plugin-Templates",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",

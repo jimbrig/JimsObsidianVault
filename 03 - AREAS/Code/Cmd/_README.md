@@ -13,7 +13,7 @@ Alias: [ "CMD", "Cmd", "Command Line", "Command Promp", "DOS Shell", "Command Li
 ## Snippets / Code
 
 [[Cmd - DISM]]
-[[Cmd - DISKPART]]
+[[03 - AREAS/Code/Cmd/Cmd - DISKPART]]
 [[Cmd - Restart Explorer and Start Menu]]
 [[Cmd - Extended Disk Cleanup]]
 [[Cmd - Retrieve Windows Credential Manager Stored Secrets]]

@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "00 - INBOX/Untitled.md"
+      "basename": "Geographic Information System (GIS)",
+      "path": "00 - INBOX/Geographic Information System (GIS).md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "Template-Readwise",
+      "path": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
+    },
+    {
+      "basename": "PowerShell - Mount Virtual Hard Disk (VHD)",
+      "path": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
+    },
+    {
+      "basename": "Cmd - DISKPART",
+      "path": "03 - AREAS/Code/Cmd/Cmd - DISKPART.md"
     },
     {
       "basename": "2023-10-18",
       "path": "03 - AREAS/Journal/Daily/2023-10-18.md"
     },
     {
-      "basename": "Template-Readwise",
-      "path": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
+      "basename": "_README",
+      "path": "03 - AREAS/Code/_README.md"
     },
     {
       "basename": "ECommerce",
@@ -61,10 +81,6 @@
       "path": "02 - PROJECTS/Active Projects.md"
     },
     {
-      "basename": "Template-Frontmatter",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
       "basename": "Template-Brainstorm",
       "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md"
     },
@@ -75,10 +91,6 @@
     {
       "basename": "Actuarial Relational Database Sample",
       "path": "00 - INBOX/Actuarial Relational Database Sample.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
     },
     {
       "basename": "Template-Frontmatter-Enhanced",
@@ -187,18 +199,6 @@
     {
       "basename": "Python - XLWings",
       "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLWings.md"
-    },
-    {
-      "basename": "Python - XlsxWriter",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XlsxWriter.md"
-    },
-    {
-      "basename": "Python - OpenPyXL",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - OpenPyXL.md"
-    },
-    {
-      "basename": "2023-10-01",
-      "path": "03 - AREAS/Journal/Daily/2023-10-01.md"
     }
   ],
   "omittedPaths": [],
