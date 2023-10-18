@@ -1,3 +1,4 @@
+- 2023-10-18 at 18h20 · [[2023-10-18]]
 - 2023-10-17 at 19h59 · [[Active Projects]]
 - 2023-10-16 at 21h53 · [[Actuarial Relational Database Sample]]
 - 2023-10-16 at 21h45 · [[Template-Brainstorm]]
@@ -47,4 +48,3 @@
 - 2023-09-17 at 20h48 · [[R - buildtools Package]]
 - 2023-09-17 at 20h48 · [[R - jimstools Package]]
 - 2023-09-17 at 20h48 · [[PowerShell - PSScripts Collection]]
-- 2023-09-17 at 20h48 · [[PowerShell - PSCompletions Module]]

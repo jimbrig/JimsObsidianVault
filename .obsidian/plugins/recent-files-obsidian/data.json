@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "00 - INBOX/Untitled.md"
+    },
+    {
+      "basename": "2023-10-18",
+      "path": "03 - AREAS/Journal/Daily/2023-10-18.md"
+    },
+    {
+      "basename": "Template-Readwise",
+      "path": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
+    },
+    {
       "basename": "ECommerce",
       "path": "03 - AREAS/Business/Finance/ECommerce.md"
     },
@@ -91,10 +103,6 @@
     {
       "basename": "2023-10-16",
       "path": "03 - AREAS/Journal/Daily/2023-10-16.md"
-    },
-    {
-      "basename": "Template-Readwise",
-      "path": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
     },
     {
       "basename": "2023-10-13",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-10-01",
       "path": "03 - AREAS/Journal/Daily/2023-10-01.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "03 - AREAS/Code/VBScript/src/Untitled.md"
-    },
-    {
-      "basename": "Shapefiles (ArcGIS)",
-      "path": "00 - INBOX/Shapefiles (ArcGIS).md"
     }
   ],
   "omittedPaths": [],
