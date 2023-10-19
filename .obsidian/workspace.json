@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a7d69d3f23bfc6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/RStudio Community Answers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Geographic Information System (GIS).md"
+                "file": "00 - INBOX/RStudio Community Answers.md"
               }
             }
           },
@@ -116,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Geographic Information System (GIS).md"
+                "file": "00 - INBOX/RStudio Community Answers.md"
               }
             }
           },
@@ -160,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Geographic Information System (GIS).md",
+                "file": "00 - INBOX/RStudio Community Answers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Geographic Information System (GIS).md",
+                "file": "00 - INBOX/RStudio Community Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Geographic Information System (GIS).md",
+                "file": "00 - INBOX/RStudio Community Answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,9 +325,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0a1bda8493a099ac",
+  "active": "a7d69d3f23bfc6da",
   "lastOpenFiles": [
     "00 - INBOX/Geographic Information System (GIS).md",
+    "00 - INBOX/RStudio Community Answers.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
@@ -338,7 +353,6 @@
     "00 - INBOX/Actuarial Relational Database Sample.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
     "00 - INBOX/Loss Reserving Mind Map.md",
-    "00 - INBOX/Azure Naming Tool.md",
     "04 - RESOURCES/Templates/Plugin-Templates",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",

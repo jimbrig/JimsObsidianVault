@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RStudio Community Answers",
+      "path": "00 - INBOX/RStudio Community Answers.md"
+    },
+    {
       "basename": "Geographic Information System (GIS)",
       "path": "00 - INBOX/Geographic Information System (GIS).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python - XLWT",
       "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLWT.md"
-    },
-    {
-      "basename": "Python - XLWings",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLWings.md"
     }
   ],
   "omittedPaths": [],

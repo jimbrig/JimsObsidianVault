@@ -1,3 +1,4 @@
+- 2023-10-18 at 22h57 · [[RStudio Community Answers]]
 - 2023-10-18 at 18h40 · [[Geographic Information System (GIS)]]
 - 2023-10-18 at 18h36 · [[PowerShell - Mount Virtual Hard Disk (VHD)]]
 - 2023-10-18 at 18h33 · [[Cmd - DISKPART]]
@@ -47,4 +48,3 @@
 - 2023-09-17 at 21h00 · [[LCHC - M365 Admin]]
 - 2023-09-17 at 21h00 · [[LCHC - Shopify Webstore]]
 - 2023-09-17 at 21h00 · [[Python - Flask Web App and API Demo]]
-- 2023-09-17 at 21h00 · [[R - lossrx Package]]
