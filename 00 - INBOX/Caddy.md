@@ -1,15 +1,21 @@
 ---
 Date Created: 2023-09-07
-Date Modified: 2023-09-07
+Date Modified: 2023-10-19
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Type: Tool
 Topic: Dev/Tool
 Status: WIP
-Sources: [ "https://github.com/caddyserver/caddy" ]
-Tags: [ "#Type/Tool", "#Topic/Dev/WebDev", "#Status/WIP" ]
-Aliases: [ "Caddy", "Caddy Server" ]
-cssclasses: [ ]
-cover: "https://i.imgur.com/tN7tRRK.png"
+Sources:
+  - https://github.com/caddyserver/caddy
+Tags:
+  - "#Type/Tool"
+  - "#Topic/Dev/WebDev"
+  - "#Status/WIP"
+Aliases:
+  - Caddy
+  - Caddy Server
+cssclasses: []
+cover: https://i.imgur.com/tN7tRRK.png
 ---
 
 # Caddy

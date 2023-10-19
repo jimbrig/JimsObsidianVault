@@ -1,0 +1,14 @@
+{
+  "frontmatterProperty": "Date Modified",
+  "momentFormat": "YYYY-MM-DD",
+  "excludedFolders": [
+    "04 - RESOURCES/Templates",
+    "Assets"
+  ],
+  "useKeyupEvents": true,
+  "onlyUpdateExisting": true,
+  "timeout": 10,
+  "excludeField": "exclude_modified_update",
+  "appendField": "append_modified_update",
+  "appendMaximumFrequency": "day"
+}

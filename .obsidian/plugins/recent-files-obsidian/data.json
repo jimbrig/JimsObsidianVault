@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Caddy",
+      "path": "00 - INBOX/Caddy.md"
+    },
+    {
+      "basename": "Google Fonts",
+      "path": "00 - INBOX/Google Fonts.md"
+    },
+    {
+      "basename": "CleanMgr+",
+      "path": "00 - INBOX/CleanMgr+.md"
+    },
+    {
+      "basename": "Azure Naming Tool",
+      "path": "00 - INBOX/Azure Naming Tool.md"
+    },
+    {
+      "basename": "Artificial Intelligence Concepts",
+      "path": "00 - INBOX/Artificial Intelligence Concepts.md"
+    },
+    {
+      "basename": "An Exploration of Data vs Metadata",
+      "path": "00 - INBOX/An Exploration of Data vs Metadata.md"
+    },
+    {
+      "basename": "Actuarial Relational Database Sample",
+      "path": "00 - INBOX/Actuarial Relational Database Sample.md"
+    },
+    {
+      "basename": "_README",
+      "path": "00 - INBOX/_README.md"
+    },
+    {
+      "basename": "Excel Spreadsheet Document API",
+      "path": "00 - INBOX/Excel Spreadsheet Document API.md"
+    },
+    {
+      "basename": "Digital Systems Overhaul",
+      "path": "00 - INBOX/Digital Systems Overhaul.md"
+    },
+    {
       "basename": "Untitled",
       "path": "00 - INBOX/Untitled.md"
     },
@@ -97,24 +137,12 @@
       "path": "02 - PROJECTS/_README.md"
     },
     {
-      "basename": "Actuarial Relational Database Sample",
-      "path": "00 - INBOX/Actuarial Relational Database Sample.md"
-    },
-    {
       "basename": "Template-Frontmatter-Enhanced",
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
     },
     {
       "basename": "Loss Reserving Mind Map",
       "path": "00 - INBOX/Loss Reserving Mind Map.md"
-    },
-    {
-      "basename": "Azure Naming Tool",
-      "path": "00 - INBOX/Azure Naming Tool.md"
-    },
-    {
-      "basename": "_README",
-      "path": "00 - INBOX/_README.md"
     },
     {
       "basename": "_README",
@@ -171,34 +199,6 @@
     {
       "basename": "Untitled",
       "path": "04 - RESOURCES/Templates/Code-Templates/Untitled.md"
-    },
-    {
-      "basename": "Template-Code-Bash",
-      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-Bash.md"
-    },
-    {
-      "basename": "Template-Code",
-      "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "PowerShell - ConvertTo-Markdown",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
-    },
-    {
-      "basename": "PowerShell - Add-GodModeShortcut",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "Python Excel Libraries and Packages",
-      "path": "04 - RESOURCES/Lists/Python Excel Libraries and Packages.md"
-    },
-    {
-      "basename": "Python - pyexcel",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - pyexcel.md"
-    },
-    {
-      "basename": "Python - XLRD",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLRD.md"
     }
   ],
   "omittedPaths": [],

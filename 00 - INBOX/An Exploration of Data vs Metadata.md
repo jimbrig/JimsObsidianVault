@@ -1,7 +1,6 @@
 ---
-Date: 2023-06-19
 Date Created: 2023-06-19
-Date Modified: 2023-08-28
+Date Modified: 2023-10-19
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags:
   - "#Type/Note"
@@ -9,16 +8,6 @@ Tags:
 Aliases:
   - Data vs Metadata
   - Exploration of Metadata
-Type: Note
-Topics: 
-	- Development
-	- Data
-Status: WIP
-Sources: 
-	- https: //blog.devart.com/data-vs-metadata.html
-cssclasses: []
-Done: 
-Cover:
 ---
 
 # An Exploration of Data vs Metadata
