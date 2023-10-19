@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "00 - INBOX/Untitled.md"
+    },
+    {
       "basename": "RStudio Community Answers",
       "path": "00 - INBOX/RStudio Community Answers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python - XLRD",
       "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLRD.md"
-    },
-    {
-      "basename": "Python - XLWT",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - XLWT.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,5 @@
+- 2023-10-19 at 13h14 · [[Template-Frontmatter]]
+- 2023-10-19 at 13h12 · [[Untitled]]
 - 2023-10-18 at 22h57 · [[RStudio Community Answers]]
 - 2023-10-18 at 18h40 · [[Geographic Information System (GIS)]]
 - 2023-10-18 at 18h36 · [[PowerShell - Mount Virtual Hard Disk (VHD)]]
@@ -46,5 +48,3 @@
 - 2023-09-19 at 20h09 · [[2023-09-19]]
 - 2023-09-17 at 21h01 · [[LCHC - Map]]
 - 2023-09-17 at 21h00 · [[LCHC - M365 Admin]]
-- 2023-09-17 at 21h00 · [[LCHC - Shopify Webstore]]
-- 2023-09-17 at 21h00 · [[Python - Flask Web App and API Demo]]

@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "436015b20cd2aadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/RStudio Community Answers.md"
+                "file": "00 - INBOX/Untitled.md"
               }
             }
           },
@@ -130,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/RStudio Community Answers.md"
+                "file": "00 - INBOX/Untitled.md"
               }
             }
           },
@@ -174,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/RStudio Community Answers.md",
+                "file": "00 - INBOX/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/RStudio Community Answers.md",
+                "file": "00 - INBOX/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/RStudio Community Answers.md",
+                "file": "00 - INBOX/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,10 +337,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a7d69d3f23bfc6da",
+  "active": "436015b20cd2aadd",
   "lastOpenFiles": [
-    "00 - INBOX/Geographic Information System (GIS).md",
     "00 - INBOX/RStudio Community Answers.md",
+    "00 - INBOX/Untitled.md",
+    "04 - RESOURCES/Scripts/DataviewJS/toc.js.md",
+    "04 - RESOURCES/Scripts/DataviewJS/toc.js",
+    "04 - RESOURCES/Scripts/DataviewJS",
+    "04 - RESOURCES/Scripts",
+    "00 - INBOX/Geographic Information System (GIS).md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
@@ -351,8 +368,6 @@
     "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md",
     "02 - PROJECTS/_README.md",
     "00 - INBOX/Actuarial Relational Database Sample.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
-    "00 - INBOX/Loss Reserving Mind Map.md",
     "04 - RESOURCES/Templates/Plugin-Templates",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
@@ -366,9 +381,6 @@
     "03 - AREAS/Code/HTML/src/landing-page/assets/css/styles.css",
     "03 - AREAS/Code/HTML/src/landing-page/Dockerfile",
     "03 - AREAS/Code/HTML/src/landing-page/assets/css",
-    "03 - AREAS/Code/HTML/src/landing-page/assets/js",
-    "03 - AREAS/Code/HTML/src/landing-page/assets/img",
-    "03 - AREAS/Code/HTML/src/landing-page/assets",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
