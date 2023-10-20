@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "INDEX",
+      "path": "INDEX.md"
+    },
+    {
+      "basename": "FAQ",
+      "path": "FAQ.md"
+    },
+    {
+      "basename": "ABOUT",
+      "path": "ABOUT.md"
+    },
+    {
+      "basename": "_README",
+      "path": "00 - INBOX/_README.md"
+    },
+    {
       "basename": "Untitled 1",
       "path": "00 - INBOX/Untitled 1.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "Actuarial Relational Database Sample",
       "path": "00 - INBOX/Actuarial Relational Database Sample.md"
-    },
-    {
-      "basename": "_README",
-      "path": "00 - INBOX/_README.md"
     },
     {
       "basename": "Excel Spreadsheet Document API",
@@ -187,18 +199,6 @@
     {
       "basename": "R - Tidy Evaluation and Programming with dplyr",
       "path": "00 - INBOX/R - Tidy Evaluation and Programming with dplyr.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
-      "basename": "2023-10-10",
-      "path": "03 - AREAS/Journal/Daily/2023-10-10.md"
-    },
-    {
-      "basename": "R - Shiny Server Deployment",
-      "path": "00 - INBOX/R - Shiny Server Deployment.md"
     }
   ],
   "omittedPaths": [],

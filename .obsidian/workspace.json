@@ -68,6 +68,45 @@
             }
           },
           {
+            "id": "2e6f1fd18db19106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ABOUT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a82bfe480f70ed75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FAQ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "aef3c63f7d118f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "9cd1c0a6295b19eb",
             "type": "leaf",
             "state": {
@@ -81,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -135,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Untitled 1.md"
+                "file": "INDEX.md"
               }
             }
           },
@@ -177,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Untitled 1.md"
+                "file": "INDEX.md"
               }
             }
           },
@@ -221,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Untitled 1.md",
+                "file": "INDEX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Untitled 1.md",
+                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Untitled 1.md",
+                "file": "INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,11 +410,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3f5bd6096615d26d",
+  "active": "aef3c63f7d118f81",
   "lastOpenFiles": [
-    "publish.js",
-    "00 - INBOX/SourceViewer.md",
+    "FAQ.md",
+    "INDEX.md",
+    "ABOUT.md",
+    "00 - INBOX/_README.md",
     "00 - INBOX/Untitled 1.md",
+    "Scripts/publish.js",
+    "00 - INBOX/SourceViewer.md",
     "Scripts/Test.js",
     "Scripts/SourceInputFile.js",
     "04 - RESOURCES/_README.md",
@@ -391,7 +433,6 @@
     "03 - AREAS/Code/JavaScript/src/_config/jsdoc",
     "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
     "03 - AREAS/Code/JavaScript/src/JS.DecodeEncodeBase64.js",
-    "03 - AREAS/Code/JavaScript/package.json",
     "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
     "03 - AREAS/Code/JavaScript/src/_index.md",
@@ -407,9 +448,6 @@
     "00 - INBOX/Artificial Intelligence Concepts.md",
     "00 - INBOX/An Exploration of Data vs Metadata.md",
     "00 - INBOX/Actuarial Relational Database Sample.md",
-    "00 - INBOX/_README.md",
-    "00 - INBOX/Excel Spreadsheet Document API.md",
-    "00 - INBOX/Digital Systems Overhaul.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
