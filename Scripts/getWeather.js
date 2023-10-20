@@ -72,7 +72,7 @@ class WeatherGov{
                     <div class='block p-1 --tag-border-color --tag-border-width rounded'>
                         <div class="flex border border-transparent pl-1">
                             <div>
-                                <div class="text-m font-bold --text-bold pl-4"><b>${hourly?"Los Angeles Weather At The Moment":"Los Angeles Weather Forecast (Day/Night)"}</b>
+                                <div class="text-m font-bold --text-bold pl-4"><b>${hourly?"Atlanta Weather At The Moment":"Atlanta Weather Forecast (Day/Night)"}</b>
                                 </div>
                                 <table style="display:flex; align-items:center; justify-content:center; font-size:0.${hourly?"7":"8"}em">
                                 <tr>
@@ -94,7 +94,7 @@ class WeatherGov{
 	// this is the function that fetch data from public API
         const fetchWeather = async () => {
 	    // Get forecast grid station, replace with your lat, long
-            const gridResponse = await fetch(`https://api.weather.gov/points/34.0522,-118.2437`)
+            const gridResponse = await fetch(`https://api.weather.gov/points/33.813166,-84.392781`)
 	    // Parse to json object so we can use
             const gridJson = await gridResponse.json()
 

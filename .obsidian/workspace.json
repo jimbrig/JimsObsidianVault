@@ -426,6 +426,7 @@
   },
   "active": "01112832152ffd12",
   "lastOpenFiles": [
+    "Scripts/getNews.js",
     "Scripts/getWeather.js",
     "Scripts/Class.js",
     "03 - AREAS/Journal/Daily/2023-10-20.md",
@@ -447,7 +448,6 @@
     "03 - AREAS/Code/JavaScript/src/_config/mdtree/markdown-tree.yml",
     "03 - AREAS/Code/JavaScript/src/_config/mdtree",
     "03 - AREAS/Code/JavaScript/src/_config/jsdoc/conf.json",
-    "03 - AREAS/Code/JavaScript/src/_config/jsdoc",
     "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
     "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
