@@ -1200,9 +1200,9 @@ var require_ponyfill_es2018 = __commonJS({
         }
         SetUpReadableByteStreamController(stream, controller, startAlgorithm, pullAlgorithm, cancelAlgorithm, highWaterMark, autoAllocateChunkSize);
       }
-      function SetUpReadableStreamBYOBRequest(request5, controller, view) {
-        request5._associatedReadableByteStreamController = controller;
-        request5._view = view;
+      function SetUpReadableStreamBYOBRequest(request4, controller, view) {
+        request4._associatedReadableByteStreamController = controller;
+        request4._view = view;
       }
       function byobRequestBrandCheckException(name) {
         return new TypeError(`ReadableStreamBYOBRequest.prototype.${name} can only be used on a ReadableStreamBYOBRequest`);
@@ -3661,9 +3661,9 @@ var require_streams = __commonJS({
       }
     }
     try {
-      const { Blob: Blob2 } = require("buffer");
-      if (Blob2 && !Blob2.prototype.stream) {
-        Blob2.prototype.stream = function name(params) {
+      const { Blob: Blob3 } = require("buffer");
+      if (Blob3 && !Blob3.prototype.stream) {
+        Blob3.prototype.stream = function name(params) {
           let position = 0;
           const blob = this;
           return new ReadableStream({
@@ -3714,7 +3714,7 @@ async function* toIterator(parts, clone2 = true) {
     }
   }
 }
-var import_streams, POOL_SIZE, _parts, _type, _size, _endings, _a, _Blob, Blob, fetch_blob_default;
+var import_streams, POOL_SIZE, _parts, _type, _size, _endings, _a, _Blob, Blob2, fetch_blob_default;
 var init_fetch_blob = __esm({
   "node_modules/fetch-blob/index.js"() {
     import_streams = __toESM(require_streams(), 1);
@@ -3839,8 +3839,8 @@ var init_fetch_blob = __esm({
       type: { enumerable: true },
       slice: { enumerable: true }
     });
-    Blob = _Blob;
-    fetch_blob_default = Blob;
+    Blob2 = _Blob;
+    fetch_blob_default = Blob2;
   }
 });
 
@@ -3897,7 +3897,7 @@ Content-Type: ${v.type || "application/octet-stream"}\r
   c.push(`--${b}--`);
   return new B(c, { type: "multipart/form-data; boundary=" + b });
 }
-var t, i, h, r, m, f, e, x, _d, _a3, FormData;
+var t, i, h, r, m, f, e, x, _d, _a3, FormData2;
 var init_esm_min = __esm({
   "node_modules/formdata-polyfill/esm.min.js"() {
     init_fetch_blob();
@@ -3912,7 +3912,7 @@ var init_esm_min = __esm({
         throw new TypeError(`Failed to execute '${n}' on 'FormData': ${e2} arguments required, but only ${a.length} present.`);
       }
     };
-    FormData = (_a3 = class {
+    FormData2 = (_a3 = class {
       constructor(...a) {
         __privateAdd(this, _d, []);
         if (a.length)
@@ -4082,7 +4082,7 @@ async function toFormData(Body2, ct) {
   let contentType;
   let filename;
   const entryChunks = [];
-  const formData = new FormData();
+  const formData = new FormData2();
   const onPartData = (ui8a) => {
     entryValue += decoder.decode(ui8a, { stream: true });
   };
@@ -4410,193 +4410,98 @@ module.exports = __toCommonJS(main_exports);
 var import_obsidian5 = require("obsidian");
 
 // src/settings.ts
-var import_obsidian = require("obsidian");
-var DEFAULT_SETTINGS = {
-  enableOfflineChat: false,
-  resultsCount: 6,
-  khojUrl: "http://127.0.0.1:42110",
-  connectedToBackend: false,
-  autoConfigure: true,
-  openaiApiKey: ""
-};
-var KhojSettingTab = class extends import_obsidian.PluginSettingTab {
-  constructor(app2, plugin) {
-    super(app2, plugin);
-    this.plugin = plugin;
-  }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    containerEl.createEl("small", { text: this.getBackendStatusMessage() });
-    new import_obsidian.Setting(containerEl).setName("Khoj URL").setDesc("The URL of the Khoj backend.").addText((text) => text.setValue(`${this.plugin.settings.khojUrl}`).onChange(async (value) => {
-      var _a4;
-      this.plugin.settings.khojUrl = value.trim();
-      await this.plugin.saveSettings();
-      (_a4 = containerEl.firstElementChild) == null ? void 0 : _a4.setText(this.getBackendStatusMessage());
-    }));
-    new import_obsidian.Setting(containerEl).setName("OpenAI API Key").setDesc("Use OpenAI for Khoj Chat with your API key.").addText((text) => text.setValue(`${this.plugin.settings.openaiApiKey}`).onChange(async (value) => {
-      this.plugin.settings.openaiApiKey = value.trim();
-      await this.plugin.saveSettings();
-    }));
-    new import_obsidian.Setting(containerEl).setName("Enable Offline Chat").setDesc("Chat privately without an internet connection. Enabling this will use offline chat even if OpenAI is configured.").addToggle((toggle) => toggle.setValue(this.plugin.settings.enableOfflineChat).onChange(async (value) => {
-      this.plugin.settings.enableOfflineChat = value;
-      await this.plugin.saveSettings();
-    }));
-    new import_obsidian.Setting(containerEl).setName("Results Count").setDesc("The number of results to show in search and use for chat.").addSlider((slider) => slider.setLimits(1, 10, 1).setValue(this.plugin.settings.resultsCount).setDynamicTooltip().onChange(async (value) => {
-      this.plugin.settings.resultsCount = value;
-      await this.plugin.saveSettings();
-    }));
-    new import_obsidian.Setting(containerEl).setName("Auto Configure").setDesc("Automatically configure the Khoj backend.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoConfigure).onChange(async (value) => {
-      this.plugin.settings.autoConfigure = value;
-      await this.plugin.saveSettings();
-    }));
-    let indexVaultSetting = new import_obsidian.Setting(containerEl);
-    indexVaultSetting.setName("Index Vault").setDesc("Manually force Khoj to re-index your Obsidian Vault.").addButton((button) => button.setButtonText("Update").setCta().onClick(async () => {
-      button.setButtonText("Updating \u{1F311}");
-      button.removeCta();
-      indexVaultSetting = indexVaultSetting.setDisabled(true);
-      const progress_indicator = window.setInterval(() => {
-        if (button.buttonEl.innerText === "Updating \u{1F311}") {
-          button.setButtonText("Updating \u{1F318}");
-        } else if (button.buttonEl.innerText === "Updating \u{1F318}") {
-          button.setButtonText("Updating \u{1F317}");
-        } else if (button.buttonEl.innerText === "Updating \u{1F317}") {
-          button.setButtonText("Updating \u{1F316}");
-        } else if (button.buttonEl.innerText === "Updating \u{1F316}") {
-          button.setButtonText("Updating \u{1F315}");
-        } else if (button.buttonEl.innerText === "Updating \u{1F315}") {
-          button.setButtonText("Updating \u{1F314}");
-        } else if (button.buttonEl.innerText === "Updating \u{1F314}") {
-          button.setButtonText("Updating \u{1F313}");
-        } else if (button.buttonEl.innerText === "Updating \u{1F313}") {
-          button.setButtonText("Updating \u{1F312}");
-        } else if (button.buttonEl.innerText === "Updating \u{1F312}") {
-          button.setButtonText("Updating \u{1F311}");
-        }
-      }, 300);
-      this.plugin.registerInterval(progress_indicator);
-      await (0, import_obsidian.request)(`${this.plugin.settings.khojUrl}/api/update?t=markdown&force=true&client=obsidian`);
-      await (0, import_obsidian.request)(`${this.plugin.settings.khojUrl}/api/update?t=pdf&force=true&client=obsidian`);
-      new import_obsidian.Notice("\u2705 Updated Khoj index.");
-      window.clearInterval(progress_indicator);
-      button.setButtonText("Update");
-      button.setCta();
-      indexVaultSetting = indexVaultSetting.setDisabled(false);
-    }));
-  }
-  getBackendStatusMessage() {
-    return !this.plugin.settings.connectedToBackend ? "\u2757Disconnected from Khoj backend. Ensure Khoj backend is running and Khoj URL is correctly set below." : "\u2705 Connected to Khoj backend.";
-  }
-};
-
-// src/search_modal.ts
-var import_obsidian3 = require("obsidian");
+var import_obsidian2 = require("obsidian");
 
 // src/utils.ts
-var import_obsidian2 = require("obsidian");
-function getVaultAbsolutePath(vault) {
-  let adaptor = vault.adapter;
-  if (adaptor instanceof import_obsidian2.FileSystemAdapter) {
-    return adaptor.getBasePath();
+var import_obsidian = require("obsidian");
+function fileExtensionToMimeType(extension) {
+  switch (extension) {
+    case "pdf":
+      return "application/pdf";
+    case "png":
+      return "image/png";
+    case "jpg":
+    case "jpeg":
+      return "image/jpeg";
+    case "md":
+    case "markdown":
+      return "text/markdown";
+    case "org":
+      return "text/org";
+    default:
+      return "text/plain";
   }
-  return "";
+}
+async function updateContentIndex(vault, setting, lastSyncedFiles, regenerate = false) {
+  console.log(`Khoj: Updating Khoj content index...`);
+  const files = vault.getFiles().filter((file) => file.extension === "md" || file.extension === "pdf");
+  const binaryFileTypes = ["pdf", "png", "jpg", "jpeg"];
+  let countOfFilesToIndex = 0;
+  let countOfFilesToDelete = 0;
+  const formData = new FormData();
+  for (const file of files) {
+    countOfFilesToIndex++;
+    const encoding = binaryFileTypes.includes(file.extension) ? "binary" : "utf8";
+    const mimeType = fileExtensionToMimeType(file.extension) + (encoding === "utf8" ? "; charset=UTF-8" : "");
+    const fileContent = encoding == "binary" ? await vault.readBinary(file) : await vault.read(file);
+    formData.append("files", new Blob([fileContent], { type: mimeType }), file.path);
+  }
+  for (const lastSyncedFile of lastSyncedFiles) {
+    if (!files.includes(lastSyncedFile)) {
+      countOfFilesToDelete++;
+      formData.append("files", new Blob([]), lastSyncedFile.path);
+    }
+  }
+  const response = await fetch(`${setting.khojUrl}/api/v1/index/update?force=${regenerate}&client=obsidian`, {
+    method: "POST",
+    headers: {
+      "x-api-key": "secret"
+    },
+    body: formData
+  });
+  if (!response.ok) {
+    new import_obsidian.Notice(`\u2757\uFE0FFailed to update Khoj content index. Ensure Khoj server connected or raise issue on Khoj Discord/Github
+Error: ${response.statusText}`);
+  } else {
+    console.log(`\u2705 Refreshed Khoj content index. Updated: ${countOfFilesToIndex} files, Deleted: ${countOfFilesToDelete} files.`);
+  }
+  return files;
 }
 async function configureKhojBackend(vault, setting, notify = true) {
-  let vaultPath = getVaultAbsolutePath(vault);
-  let mdInVault = `${vaultPath}/**/*.md`;
-  let pdfInVault = `${vaultPath}/**/*.pdf`;
   let khojConfigUrl = `${setting.khojUrl}/api/config/data`;
-  let khoj_already_configured = await (0, import_obsidian2.request)(khojConfigUrl).then((response) => {
+  let khoj_already_configured = await (0, import_obsidian.request)(khojConfigUrl).then((response) => {
     setting.connectedToBackend = true;
     return response !== "null";
   }).catch((error) => {
     setting.connectedToBackend = false;
     if (notify)
-      new import_obsidian2.Notice(`\u2757\uFE0FEnsure Khoj backend is running and Khoj URL is pointing to it in the plugin settings.
+      new import_obsidian.Notice(`\u2757\uFE0FEnsure Khoj backend is running and Khoj URL is pointing to it in the plugin settings.
 
 ${error}`);
   });
   if (!setting.connectedToBackend)
     return;
-  let indexName = vaultPath.replace(/\//g, "_").replace(/\\/g, "_").replace(/ /g, "_").replace(/:/g, "_");
-  let defaultConfig = await (0, import_obsidian2.request)(`${khojConfigUrl}/default`).then((response) => JSON.parse(response));
-  let khojDefaultMdIndexDirectory = getIndexDirectoryFromBackendConfig(defaultConfig["content-type"]["markdown"]["embeddings-file"]);
-  let khojDefaultPdfIndexDirectory = getIndexDirectoryFromBackendConfig(defaultConfig["content-type"]["pdf"]["embeddings-file"]);
+  let defaultConfig = await (0, import_obsidian.request)(`${khojConfigUrl}/default`).then((response) => JSON.parse(response));
   let khojDefaultChatDirectory = getIndexDirectoryFromBackendConfig(defaultConfig["processor"]["conversation"]["conversation-logfile"]);
-  let khojDefaultChatModelName = defaultConfig["processor"]["conversation"]["openai"]["chat-model"];
-  await (0, import_obsidian2.request)(khoj_already_configured ? khojConfigUrl : `${khojConfigUrl}/default`).then((response) => JSON.parse(response)).then((data) => {
+  let khojDefaultOpenAIChatModelName = defaultConfig["processor"]["conversation"]["openai"]["chat-model"];
+  let khojDefaultOfflineChatModelName = defaultConfig["processor"]["conversation"]["offline-chat"]["chat-model"];
+  await (0, import_obsidian.request)(khoj_already_configured ? khojConfigUrl : `${khojConfigUrl}/default`).then((response) => JSON.parse(response)).then((data) => {
     var _a4, _b, _c, _d2, _e, _f, _g;
-    khoj_already_configured = data["content-type"] != null;
-    if (!khoj_already_configured) {
-      data["content-type"] = {
-        "markdown": {
-          "input-filter": [mdInVault],
-          "input-files": null,
-          "embeddings-file": `${khojDefaultMdIndexDirectory}/${indexName}.pt`,
-          "compressed-jsonl": `${khojDefaultMdIndexDirectory}/${indexName}.jsonl.gz`
-        }
-      };
-      const hasPdfFiles = app.vault.getFiles().some((file) => file.extension === "pdf");
-      if (hasPdfFiles) {
-        data["content-type"]["pdf"] = {
-          "input-filter": [pdfInVault],
-          "input-files": null,
-          "embeddings-file": `${khojDefaultPdfIndexDirectory}/${indexName}.pt`,
-          "compressed-jsonl": `${khojDefaultPdfIndexDirectory}/${indexName}.jsonl.gz`
-        };
-      }
-    } else if (!data["content-type"]["markdown"]) {
-      data["content-type"]["markdown"] = {
-        "input-filter": [mdInVault],
-        "input-files": null,
-        "embeddings-file": `${khojDefaultMdIndexDirectory}/${indexName}.pt`,
-        "compressed-jsonl": `${khojDefaultMdIndexDirectory}/${indexName}.jsonl.gz`
-      };
-    } else if (data["content-type"]["markdown"]["input-files"] != null || data["content-type"]["markdown"]["input-filter"] == null || data["content-type"]["markdown"]["input-filter"].length != 1 || data["content-type"]["markdown"]["input-filter"][0] !== mdInVault) {
-      let khojMdIndexDirectory = getIndexDirectoryFromBackendConfig(data["content-type"]["markdown"]["embeddings-file"]);
-      data["content-type"]["markdown"] = {
-        "input-filter": [mdInVault],
-        "input-files": null,
-        "embeddings-file": `${khojMdIndexDirectory}/${indexName}.pt`,
-        "compressed-jsonl": `${khojMdIndexDirectory}/${indexName}.jsonl.gz`
-      };
-    }
-    if (khoj_already_configured && !data["content-type"]["pdf"]) {
-      const hasPdfFiles = app.vault.getFiles().some((file) => file.extension === "pdf");
-      if (hasPdfFiles) {
-        data["content-type"]["pdf"] = {
-          "input-filter": [pdfInVault],
-          "input-files": null,
-          "embeddings-file": `${khojDefaultPdfIndexDirectory}/${indexName}.pt`,
-          "compressed-jsonl": `${khojDefaultPdfIndexDirectory}/${indexName}.jsonl.gz`
-        };
-      } else {
-        data["content-type"]["pdf"] = null;
-      }
-    } else if (khoj_already_configured && (data["content-type"]["pdf"]["input-files"] != null || data["content-type"]["pdf"]["input-filter"] == null || data["content-type"]["pdf"]["input-filter"].length != 1 || data["content-type"]["pdf"]["input-filter"][0] !== pdfInVault)) {
-      let hasPdfFiles = app.vault.getFiles().some((file) => file.extension === "pdf");
-      if (hasPdfFiles) {
-        let khojPdfIndexDirectory = getIndexDirectoryFromBackendConfig(data["content-type"]["pdf"]["embeddings-file"]);
-        data["content-type"]["pdf"] = {
-          "input-filter": [pdfInVault],
-          "input-files": null,
-          "embeddings-file": `${khojPdfIndexDirectory}/${indexName}.pt`,
-          "compressed-jsonl": `${khojPdfIndexDirectory}/${indexName}.jsonl.gz`
-        };
-      } else {
-        data["content-type"]["pdf"] = null;
-      }
-    }
     let conversationLogFile = (_c = (_b = (_a4 = data == null ? void 0 : data["processor"]) == null ? void 0 : _a4["conversation"]) == null ? void 0 : _b["conversation-logfile"]) != null ? _c : `${khojDefaultChatDirectory}/conversation.json`;
     let processorData = {
       "conversation": {
         "conversation-logfile": conversationLogFile,
         "openai": null,
-        "enable-offline-chat": setting.enableOfflineChat
+        "offline-chat": {
+          "chat-model": khojDefaultOfflineChatModelName,
+          "enable-offline-chat": setting.enableOfflineChat
+        },
+        "tokenizer": null,
+        "max-prompt-size": null
       }
     };
     if (!!setting.openaiApiKey) {
-      let openAIChatModel = (_g = (_f = (_e = (_d2 = data == null ? void 0 : data["processor"]) == null ? void 0 : _d2["conversation"]) == null ? void 0 : _e["openai"]) == null ? void 0 : _f["chat-model"]) != null ? _g : khojDefaultChatModelName;
+      let openAIChatModel = (_g = (_f = (_e = (_d2 = data == null ? void 0 : data["processor"]) == null ? void 0 : _d2["conversation"]) == null ? void 0 : _e["openai"]) == null ? void 0 : _f["chat-model"]) != null ? _g : khojDefaultOpenAIChatModelName;
       processorData = {
         "conversation": {
           "conversation-logfile": conversationLogFile,
@@ -4604,7 +4509,12 @@ ${error}`);
             "chat-model": openAIChatModel,
             "api-key": setting.openaiApiKey
           },
-          "enable-offline-chat": setting.enableOfflineChat
+          "offline-chat": {
+            "chat-model": khojDefaultOfflineChatModelName,
+            "enable-offline-chat": setting.enableOfflineChat
+          },
+          "tokenizer": null,
+          "max-prompt-size": null
         }
       };
     }
@@ -4618,7 +4528,7 @@ ${JSON.stringify(data)}`);
 ${JSON.stringify(data)}`);
   }).catch((error) => {
     if (notify)
-      new import_obsidian2.Notice(`\u2757\uFE0FFailed to configure Khoj backend. Contact developer on Github.
+      new import_obsidian.Notice(`\u2757\uFE0FFailed to configure Khoj backend. Contact developer on Github.
 
 Error: ${error}`);
   });
@@ -4630,7 +4540,7 @@ async function updateKhojBackend(khojUrl, khojConfig) {
     method: "POST",
     contentType: "application/json"
   };
-  await (0, import_obsidian2.request)(requestContent).then((_) => (0, import_obsidian2.request)(`${khojUrl}/api/update?t=markdown`)).then((_) => (0, import_obsidian2.request)(`${khojUrl}/api/update?t=pdf`));
+  (0, import_obsidian.request)(requestContent);
 }
 function getIndexDirectoryFromBackendConfig(filepath) {
   return filepath.split("/").slice(0, -1).join("/");
@@ -4660,13 +4570,93 @@ async function createNoteAndCloseModal(query, modal, opt) {
   try {
     await createNote(query, opt == null ? void 0 : opt.newLeaf);
   } catch (e2) {
-    new import_obsidian2.Notice(e2.message);
+    new import_obsidian.Notice(e2.message);
     return;
   }
   modal.close();
 }
 
+// src/settings.ts
+var DEFAULT_SETTINGS = {
+  enableOfflineChat: false,
+  resultsCount: 6,
+  khojUrl: "http://127.0.0.1:42110",
+  connectedToBackend: false,
+  autoConfigure: true,
+  openaiApiKey: "",
+  lastSyncedFiles: []
+};
+var KhojSettingTab = class extends import_obsidian2.PluginSettingTab {
+  constructor(app2, plugin) {
+    super(app2, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    containerEl.createEl("small", { text: this.getBackendStatusMessage() });
+    new import_obsidian2.Setting(containerEl).setName("Khoj URL").setDesc("The URL of the Khoj backend.").addText((text) => text.setValue(`${this.plugin.settings.khojUrl}`).onChange(async (value) => {
+      var _a4;
+      this.plugin.settings.khojUrl = value.trim();
+      await this.plugin.saveSettings();
+      (_a4 = containerEl.firstElementChild) == null ? void 0 : _a4.setText(this.getBackendStatusMessage());
+    }));
+    new import_obsidian2.Setting(containerEl).setName("OpenAI API Key").setDesc("Use OpenAI for Khoj Chat with your API key.").addText((text) => text.setValue(`${this.plugin.settings.openaiApiKey}`).onChange(async (value) => {
+      this.plugin.settings.openaiApiKey = value.trim();
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian2.Setting(containerEl).setName("Enable Offline Chat").setDesc("Chat privately without an internet connection. Enabling this will use offline chat even if OpenAI is configured.").addToggle((toggle) => toggle.setValue(this.plugin.settings.enableOfflineChat).onChange(async (value) => {
+      this.plugin.settings.enableOfflineChat = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian2.Setting(containerEl).setName("Results Count").setDesc("The number of results to show in search and use for chat.").addSlider((slider) => slider.setLimits(1, 10, 1).setValue(this.plugin.settings.resultsCount).setDynamicTooltip().onChange(async (value) => {
+      this.plugin.settings.resultsCount = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian2.Setting(containerEl).setName("Auto Configure").setDesc("Automatically configure the Khoj backend.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoConfigure).onChange(async (value) => {
+      this.plugin.settings.autoConfigure = value;
+      await this.plugin.saveSettings();
+    }));
+    let indexVaultSetting = new import_obsidian2.Setting(containerEl);
+    indexVaultSetting.setName("Index Vault").setDesc("Manually force Khoj to re-index your Obsidian Vault.").addButton((button) => button.setButtonText("Update").setCta().onClick(async () => {
+      button.setButtonText("Updating \u{1F311}");
+      button.removeCta();
+      indexVaultSetting = indexVaultSetting.setDisabled(true);
+      const progress_indicator = window.setInterval(() => {
+        if (button.buttonEl.innerText === "Updating \u{1F311}") {
+          button.setButtonText("Updating \u{1F318}");
+        } else if (button.buttonEl.innerText === "Updating \u{1F318}") {
+          button.setButtonText("Updating \u{1F317}");
+        } else if (button.buttonEl.innerText === "Updating \u{1F317}") {
+          button.setButtonText("Updating \u{1F316}");
+        } else if (button.buttonEl.innerText === "Updating \u{1F316}") {
+          button.setButtonText("Updating \u{1F315}");
+        } else if (button.buttonEl.innerText === "Updating \u{1F315}") {
+          button.setButtonText("Updating \u{1F314}");
+        } else if (button.buttonEl.innerText === "Updating \u{1F314}") {
+          button.setButtonText("Updating \u{1F313}");
+        } else if (button.buttonEl.innerText === "Updating \u{1F313}") {
+          button.setButtonText("Updating \u{1F312}");
+        } else if (button.buttonEl.innerText === "Updating \u{1F312}") {
+          button.setButtonText("Updating \u{1F311}");
+        }
+      }, 300);
+      this.plugin.registerInterval(progress_indicator);
+      this.plugin.settings.lastSyncedFiles = await updateContentIndex(this.app.vault, this.plugin.settings, this.plugin.settings.lastSyncedFiles, true);
+      new import_obsidian2.Notice("\u2705 Updated Khoj index.");
+      window.clearInterval(progress_indicator);
+      button.setButtonText("Update");
+      button.setCta();
+      indexVaultSetting = indexVaultSetting.setDisabled(false);
+    }));
+  }
+  getBackendStatusMessage() {
+    return !this.plugin.settings.connectedToBackend ? "\u2757Disconnected from Khoj backend. Ensure Khoj backend is running and Khoj URL is correctly set below." : "\u2705 Connected to Khoj backend.";
+  }
+};
+
 // src/search_modal.ts
+var import_obsidian3 = require("obsidian");
 var KhojSearchModal = class extends import_obsidian3.SuggestModal {
   constructor(app2, setting, find_similar_notes = false) {
     super(app2);
@@ -4893,7 +4883,7 @@ var Body = class {
     } else if (ArrayBuffer.isView(body)) {
       body = import_node_buffer.Buffer.from(body.buffer, body.byteOffset, body.byteLength);
     } else if (body instanceof import_node_stream.default) {
-    } else if (body instanceof FormData) {
+    } else if (body instanceof FormData2) {
       body = formDataToBlob(body);
       boundary = body.type.split("=")[1];
     } else {
@@ -4933,7 +4923,7 @@ var Body = class {
   async formData() {
     const ct = this.headers.get("content-type");
     if (ct.startsWith("application/x-www-form-urlencoded")) {
-      const formData = new FormData();
+      const formData = new FormData2();
       const parameters = new URLSearchParams(await this.text());
       for (const [name, value] of parameters) {
         formData.append(name, value);
@@ -5035,7 +5025,7 @@ var clone = (instance, highWaterMark) => {
   return body;
 };
 var getNonSpecFormDataBoundary = (0, import_node_util.deprecate)((body) => body.getBoundary(), "form-data doesn't follow the spec and requires special treatment. Use alternative package", "https://github.com/node-fetch/node-fetch/issues/1167");
-var extractContentType = (body, request5) => {
+var extractContentType = (body, request4) => {
   if (body === null) {
     return null;
   }
@@ -5051,8 +5041,8 @@ var extractContentType = (body, request5) => {
   if (import_node_buffer.Buffer.isBuffer(body) || import_node_util.types.isAnyArrayBuffer(body) || ArrayBuffer.isView(body)) {
     return null;
   }
-  if (body instanceof FormData) {
-    return `multipart/form-data; boundary=${request5[INTERNALS].boundary}`;
+  if (body instanceof FormData2) {
+    return `multipart/form-data; boundary=${request4[INTERNALS].boundary}`;
   }
   if (body && typeof body.getBoundary === "function") {
     return `multipart/form-data;boundary=${getNonSpecFormDataBoundary(body)}`;
@@ -5062,8 +5052,8 @@ var extractContentType = (body, request5) => {
   }
   return "text/plain;charset=UTF-8";
 };
-var getTotalBytes = (request5) => {
-  const { body } = request5[INTERNALS];
+var getTotalBytes = (request4) => {
+  const { body } = request4[INTERNALS];
   if (body === null) {
     return 0;
   }
@@ -5437,15 +5427,15 @@ function isUrlPotentiallyTrustworthy(url) {
   }
   return isOriginPotentiallyTrustworthy(url);
 }
-function determineRequestsReferrer(request5, { referrerURLCallback, referrerOriginCallback } = {}) {
-  if (request5.referrer === "no-referrer" || request5.referrerPolicy === "") {
+function determineRequestsReferrer(request4, { referrerURLCallback, referrerOriginCallback } = {}) {
+  if (request4.referrer === "no-referrer" || request4.referrerPolicy === "") {
     return null;
   }
-  const policy = request5.referrerPolicy;
-  if (request5.referrer === "about:client") {
+  const policy = request4.referrerPolicy;
+  if (request4.referrer === "about:client") {
     return "no-referrer";
   }
-  const referrerSource = request5.referrer;
+  const referrerSource = request4.referrer;
   let referrerURL = stripURLForUseAsAReferrer(referrerSource);
   let referrerOrigin = stripURLForUseAsAReferrer(referrerSource, true);
   if (referrerURL.toString().length > 4096) {
@@ -5457,7 +5447,7 @@ function determineRequestsReferrer(request5, { referrerURLCallback, referrerOrig
   if (referrerOriginCallback) {
     referrerOrigin = referrerOriginCallback(referrerOrigin);
   }
-  const currentURL = new URL(request5.url);
+  const currentURL = new URL(request4.url);
   switch (policy) {
     case "no-referrer":
       return "no-referrer";
@@ -5630,18 +5620,18 @@ Object.defineProperties(Request.prototype, {
   referrer: { enumerable: true },
   referrerPolicy: { enumerable: true }
 });
-var getNodeRequestOptions = (request5) => {
-  const { parsedURL } = request5[INTERNALS3];
-  const headers = new Headers(request5[INTERNALS3].headers);
+var getNodeRequestOptions = (request4) => {
+  const { parsedURL } = request4[INTERNALS3];
+  const headers = new Headers(request4[INTERNALS3].headers);
   if (!headers.has("Accept")) {
     headers.set("Accept", "*/*");
   }
   let contentLengthValue = null;
-  if (request5.body === null && /^(post|put)$/i.test(request5.method)) {
+  if (request4.body === null && /^(post|put)$/i.test(request4.method)) {
     contentLengthValue = "0";
   }
-  if (request5.body !== null) {
-    const totalBytes = getTotalBytes(request5);
+  if (request4.body !== null) {
+    const totalBytes = getTotalBytes(request4);
     if (typeof totalBytes === "number" && !Number.isNaN(totalBytes)) {
       contentLengthValue = String(totalBytes);
     }
@@ -5649,24 +5639,24 @@ var getNodeRequestOptions = (request5) => {
   if (contentLengthValue) {
     headers.set("Content-Length", contentLengthValue);
   }
-  if (request5.referrerPolicy === "") {
-    request5.referrerPolicy = DEFAULT_REFERRER_POLICY;
+  if (request4.referrerPolicy === "") {
+    request4.referrerPolicy = DEFAULT_REFERRER_POLICY;
   }
-  if (request5.referrer && request5.referrer !== "no-referrer") {
-    request5[INTERNALS3].referrer = determineRequestsReferrer(request5);
+  if (request4.referrer && request4.referrer !== "no-referrer") {
+    request4[INTERNALS3].referrer = determineRequestsReferrer(request4);
   } else {
-    request5[INTERNALS3].referrer = "no-referrer";
+    request4[INTERNALS3].referrer = "no-referrer";
   }
-  if (request5[INTERNALS3].referrer instanceof URL) {
-    headers.set("Referer", request5.referrer);
+  if (request4[INTERNALS3].referrer instanceof URL) {
+    headers.set("Referer", request4.referrer);
   }
   if (!headers.has("User-Agent")) {
     headers.set("User-Agent", "node-fetch");
   }
-  if (request5.compress && !headers.has("Accept-Encoding")) {
+  if (request4.compress && !headers.has("Accept-Encoding")) {
     headers.set("Accept-Encoding", "gzip, deflate, br");
   }
-  let { agent } = request5;
+  let { agent } = request4;
   if (typeof agent === "function") {
     agent = agent(parsedURL);
   }
@@ -5676,9 +5666,9 @@ var getNodeRequestOptions = (request5) => {
   const search = getSearch(parsedURL);
   const options = {
     path: parsedURL.pathname + search,
-    method: request5.method,
+    method: request4.method,
     headers: headers[Symbol.for("nodejs.util.inspect.custom")](),
-    insecureHTTPParser: request5.insecureHTTPParser,
+    insecureHTTPParser: request4.insecureHTTPParser,
     agent
   };
   return {
@@ -5698,27 +5688,27 @@ var AbortError = class extends FetchBaseError {
 init_esm_min();
 init_from();
 var supportedSchemas = /* @__PURE__ */ new Set(["data:", "http:", "https:"]);
-async function fetch(url, options_) {
+async function fetch2(url, options_) {
   return new Promise((resolve, reject) => {
-    const request5 = new Request(url, options_);
-    const { parsedURL, options } = getNodeRequestOptions(request5);
+    const request4 = new Request(url, options_);
+    const { parsedURL, options } = getNodeRequestOptions(request4);
     if (!supportedSchemas.has(parsedURL.protocol)) {
       throw new TypeError(`node-fetch cannot load ${url}. URL scheme "${parsedURL.protocol.replace(/:$/, "")}" is not supported.`);
     }
     if (parsedURL.protocol === "data:") {
-      const data = dist_default(request5.url);
+      const data = dist_default(request4.url);
       const response2 = new Response(data, { headers: { "Content-Type": data.typeFull } });
       resolve(response2);
       return;
     }
     const send = (parsedURL.protocol === "https:" ? import_node_https.default : import_node_http2.default).request;
-    const { signal } = request5;
+    const { signal } = request4;
     let response = null;
     const abort = () => {
       const error = new AbortError("The operation was aborted.");
       reject(error);
-      if (request5.body && request5.body instanceof import_node_stream2.default.Readable) {
-        request5.body.destroy(error);
+      if (request4.body && request4.body instanceof import_node_stream2.default.Readable) {
+        request4.body.destroy(error);
       }
       if (!response || !response.body) {
         return;
@@ -5744,7 +5734,7 @@ async function fetch(url, options_) {
       }
     };
     request_.on("error", (error) => {
-      reject(new FetchError(`request to ${request5.url} failed, reason: ${error.message}`, "system", error));
+      reject(new FetchError(`request to ${request4.url} failed, reason: ${error.message}`, "system", error));
       finalize();
     });
     fixResponseChunkedTransferBadEnding(request_, (error) => {
@@ -5774,17 +5764,17 @@ async function fetch(url, options_) {
         const location = headers.get("Location");
         let locationURL = null;
         try {
-          locationURL = location === null ? null : new URL(location, request5.url);
+          locationURL = location === null ? null : new URL(location, request4.url);
         } catch (e2) {
-          if (request5.redirect !== "manual") {
+          if (request4.redirect !== "manual") {
             reject(new FetchError(`uri requested responds with an invalid redirect URL: ${location}`, "invalid-redirect"));
             finalize();
             return;
           }
         }
-        switch (request5.redirect) {
+        switch (request4.redirect) {
           case "error":
-            reject(new FetchError(`uri requested responds with a redirect, redirect mode is set to error: ${request5.url}`, "no-redirect"));
+            reject(new FetchError(`uri requested responds with a redirect, redirect mode is set to error: ${request4.url}`, "no-redirect"));
             finalize();
             return;
           case "manual":
@@ -5793,35 +5783,35 @@ async function fetch(url, options_) {
             if (locationURL === null) {
               break;
             }
-            if (request5.counter >= request5.follow) {
-              reject(new FetchError(`maximum redirect reached at: ${request5.url}`, "max-redirect"));
+            if (request4.counter >= request4.follow) {
+              reject(new FetchError(`maximum redirect reached at: ${request4.url}`, "max-redirect"));
               finalize();
               return;
             }
             const requestOptions = {
-              headers: new Headers(request5.headers),
-              follow: request5.follow,
-              counter: request5.counter + 1,
-              agent: request5.agent,
-              compress: request5.compress,
-              method: request5.method,
-              body: clone(request5),
-              signal: request5.signal,
-              size: request5.size,
-              referrer: request5.referrer,
-              referrerPolicy: request5.referrerPolicy
+              headers: new Headers(request4.headers),
+              follow: request4.follow,
+              counter: request4.counter + 1,
+              agent: request4.agent,
+              compress: request4.compress,
+              method: request4.method,
+              body: clone(request4),
+              signal: request4.signal,
+              size: request4.size,
+              referrer: request4.referrer,
+              referrerPolicy: request4.referrerPolicy
             };
-            if (!isDomainOrSubdomain(request5.url, locationURL) || !isSameProtocol(request5.url, locationURL)) {
+            if (!isDomainOrSubdomain(request4.url, locationURL) || !isSameProtocol(request4.url, locationURL)) {
               for (const name of ["authorization", "www-authenticate", "cookie", "cookie2"]) {
                 requestOptions.headers.delete(name);
               }
             }
-            if (response_.statusCode !== 303 && request5.body && options_.body instanceof import_node_stream2.default.Readable) {
+            if (response_.statusCode !== 303 && request4.body && options_.body instanceof import_node_stream2.default.Readable) {
               reject(new FetchError("Cannot follow redirect with body being a readable stream", "unsupported-redirect"));
               finalize();
               return;
             }
-            if (response_.statusCode === 303 || (response_.statusCode === 301 || response_.statusCode === 302) && request5.method === "POST") {
+            if (response_.statusCode === 303 || (response_.statusCode === 301 || response_.statusCode === 302) && request4.method === "POST") {
               requestOptions.method = "GET";
               requestOptions.body = void 0;
               requestOptions.headers.delete("content-length");
@@ -5830,12 +5820,12 @@ async function fetch(url, options_) {
             if (responseReferrerPolicy) {
               requestOptions.referrerPolicy = responseReferrerPolicy;
             }
-            resolve(fetch(new Request(locationURL, requestOptions)));
+            resolve(fetch2(new Request(locationURL, requestOptions)));
             finalize();
             return;
           }
           default:
-            return reject(new TypeError(`Redirect option '${request5.redirect}' is not a valid value of RequestRedirect`));
+            return reject(new TypeError(`Redirect option '${request4.redirect}' is not a valid value of RequestRedirect`));
         }
       }
       if (signal) {
@@ -5852,16 +5842,16 @@ async function fetch(url, options_) {
         response_.on("aborted", abortAndFinalize);
       }
       const responseOptions = {
-        url: request5.url,
+        url: request4.url,
         status: response_.statusCode,
         statusText: response_.statusMessage,
         headers,
-        size: request5.size,
-        counter: request5.counter,
-        highWaterMark: request5.highWaterMark
+        size: request4.size,
+        counter: request4.counter,
+        highWaterMark: request4.highWaterMark
       };
       const codings = headers.get("Content-Encoding");
-      if (!request5.compress || request5.method === "HEAD" || codings === null || response_.statusCode === 204 || response_.statusCode === 304) {
+      if (!request4.compress || request4.method === "HEAD" || codings === null || response_.statusCode === 204 || response_.statusCode === 304) {
         response = new Response(body, responseOptions);
         resolve(response);
         return;
@@ -5924,19 +5914,19 @@ async function fetch(url, options_) {
       response = new Response(body, responseOptions);
       resolve(response);
     });
-    writeToStream(request_, request5).catch(reject);
+    writeToStream(request_, request4).catch(reject);
   });
 }
-function fixResponseChunkedTransferBadEnding(request5, errorCallback) {
+function fixResponseChunkedTransferBadEnding(request4, errorCallback) {
   const LAST_CHUNK = import_node_buffer2.Buffer.from("0\r\n\r\n");
   let isChunkedTransfer = false;
   let properLastChunkReceived = false;
   let previousChunk;
-  request5.on("response", (response) => {
+  request4.on("response", (response) => {
     const { headers } = response;
     isChunkedTransfer = headers["transfer-encoding"] === "chunked" && !headers["content-length"];
   });
-  request5.on("socket", (socket) => {
+  request4.on("socket", (socket) => {
     const onSocketClose = () => {
       if (isChunkedTransfer && !properLastChunkReceived) {
         const error = new Error("Premature close");
@@ -5953,7 +5943,7 @@ function fixResponseChunkedTransferBadEnding(request5, errorCallback) {
     };
     socket.prependListener("close", onSocketClose);
     socket.on("data", onData);
-    request5.on("close", () => {
+    request4.on("close", () => {
       socket.removeListener("close", onSocketClose);
       socket.removeListener("data", onData);
     });
@@ -6067,7 +6057,7 @@ var KhojChatModal = class extends import_obsidian4.Modal {
     let chatUrl = `${this.setting.khojUrl}/api/chat?q=${encodedQuery}&n=${this.setting.resultsCount}&client=obsidian&stream=true`;
     let responseElement = this.createKhojResponseDiv();
     this.renderIncrementalMessage(responseElement, "\u{1F914}");
-    let response = await fetch(chatUrl, {
+    let response = await fetch2(chatUrl, {
       method: "GET",
       headers: {
         "Access-Control-Allow-Origin": "*",
@@ -6129,6 +6119,11 @@ var Khoj = class extends import_obsidian5.Plugin {
       this.settings.connectedToBackend ? new KhojSearchModal(this.app, this.settings).open() : new import_obsidian5.Notice(`\u2757\uFE0FEnsure Khoj backend is running and Khoj URL is pointing to it in the plugin settings`);
     });
     this.addSettingTab(new KhojSettingTab(this.app, this));
+    this.indexingTimer = setInterval(async () => {
+      if (this.settings.autoConfigure) {
+        this.settings.lastSyncedFiles = await updateContentIndex(this.app.vault, this.settings, this.settings.lastSyncedFiles);
+      }
+    }, 60 * 60 * 1e3);
   }
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
@@ -6141,6 +6136,11 @@ var Khoj = class extends import_obsidian5.Plugin {
       await configureKhojBackend(this.app.vault, this.settings, false);
     }
     this.saveData(this.settings);
+  }
+  async onunload() {
+    if (this.indexingTimer)
+      clearInterval(this.indexingTimer);
+    this.unload();
   }
 };
 /*! fetch-blob. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */

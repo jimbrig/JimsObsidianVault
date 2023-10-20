@@ -4,26 +4,9 @@ if you want to view the source, please visit the github repository of this plugi
 */
 
 var __defProp = Object.defineProperty;
-var __defProps = Object.defineProperties;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
-var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
 var __getOwnPropNames = Object.getOwnPropertyNames;
-var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __propIsEnum = Object.prototype.propertyIsEnumerable;
-var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
-var __spreadValues = (a, b) => {
-  for (var prop in b || (b = {}))
-    if (__hasOwnProp.call(b, prop))
-      __defNormalProp(a, prop, b[prop]);
-  if (__getOwnPropSymbols)
-    for (var prop of __getOwnPropSymbols(b)) {
-      if (__propIsEnum.call(b, prop))
-        __defNormalProp(a, prop, b[prop]);
-    }
-  return a;
-};
-var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
 var __export = (target, all) => {
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
@@ -37,26 +20,6 @@ var __copyProps = (to, from, except, desc) => {
   return to;
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
-var __async = (__this, __arguments, generator) => {
-  return new Promise((resolve, reject) => {
-    var fulfilled = (value) => {
-      try {
-        step(generator.next(value));
-      } catch (e) {
-        reject(e);
-      }
-    };
-    var rejected = (value) => {
-      try {
-        step(generator.throw(value));
-      } catch (e) {
-        reject(e);
-      }
-    };
-    var step = (x) => x.done ? resolve(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
-    step((generator = generator.apply(__this, __arguments)).next());
-  });
-};
 
 // src/ImgurPlugin.ts
 var ImgurPlugin_exports = {};
@@ -64,10 +27,10 @@ __export(ImgurPlugin_exports, {
   default: () => ImgurPlugin
 });
 module.exports = __toCommonJS(ImgurPlugin_exports);
-var import_obsidian6 = require("obsidian");
+var import_obsidian9 = require("obsidian");
 
 // src/ui/ImgurPluginSettingsTab.ts
-var import_obsidian3 = require("obsidian");
+var import_obsidian4 = require("obsidian");
 
 // src/imgur/constants.ts
 var IMGUR_PLUGIN_CLIENT_ID = "5d3647b14ed585f";
@@ -75,7 +38,7 @@ var IMGUR_API_BASE = "https://api.imgur.com/3/";
 var IMGUR_ACCESS_TOKEN_LOCALSTORAGE_KEY = "imgur-access_token";
 
 // src/UploadStrategy.ts
-var _UploadStrategy = class {
+var _UploadStrategy = class _UploadStrategy {
   constructor(id, description) {
     this.id = id;
     this.description = description;
@@ -85,29 +48,13 @@ var _UploadStrategy = class {
     return this.valuesArr;
   }
 };
+_UploadStrategy.valuesArr = [];
+_UploadStrategy.ANONYMOUS_IMGUR = new _UploadStrategy("ANONYMOUS_IMGUR", "Anonymous Imgur upload");
+_UploadStrategy.AUTHENTICATED_IMGUR = new _UploadStrategy(
+  "AUTHENTICATED_IMGUR",
+  "Authenticated Imgur upload"
+);
 var UploadStrategy = _UploadStrategy;
-UploadStrategy.valuesArr = [];
-UploadStrategy.ANONYMOUS_IMGUR = new _UploadStrategy("ANONYMOUS_IMGUR", "Anonymous Imgur upload");
-UploadStrategy.AUTHENTICATED_IMGUR = new _UploadStrategy("AUTHENTICATED_IMGUR", "Authenticated Imgur upload");
-
-// src/ui/ImgurAuthenticationStatus.ts
-var import_obsidian2 = require("obsidian");
-
-// src/uploader/ApiError.ts
-var ApiError = class extends Error {
-};
-
-// src/uploader/imgur/ImgurAuthenticatedUploader.ts
-var ImgurAuthenticatedUploader = class {
-  constructor(client) {
-    this.client = client;
-  }
-  upload(image) {
-    return __async(this, null, function* () {
-      return (yield this.client.upload(image)).data.link;
-    });
-  }
-};
 
 // src/ui/ImgurAuthModal.ts
 var import_obsidian = require("obsidian");
@@ -140,13 +87,11 @@ var ImgurAuthModal = class extends import_obsidian.Modal {
     this.addNoWaitDiv(this.intervalId);
     new import_obsidian.ButtonComponent(this.modalEl.createDiv()).setButtonText("Cancel").setCta().onClick(() => this.close());
   }
-  onClose() {
-    return __async(this, null, function* () {
-      clearInterval(this.intervalId);
-      this.opened = false;
-      if (this.afterClose)
-        yield this.afterClose();
-    });
+  async onClose() {
+    clearInterval(this.intervalId);
+    this.opened = false;
+    if (this.afterClose)
+      await this.afterClose();
   }
   addNoWaitDiv(interval) {
     const linkEl = createEl("a", { href: this.authLink, text: "here" });
@@ -161,107 +106,150 @@ var ImgurAuthModal = class extends import_obsidian.Modal {
     return noWaitDiv;
   }
   updateText() {
-    this.timerDiv.setText(`Please complete authentication at imgur.com; Opening browser in ${this.secondsLeft} seconds...`);
+    this.timerDiv.setText(
+      `Please complete authentication at imgur.com; Opening browser in ${this.secondsLeft} seconds...`
+    );
   }
 };
 
 // src/ui/ImgurAuthenticationStatus.ts
+var import_obsidian2 = require("obsidian");
 var ImgurAuthenticationStatus = class {
-  constructor(parent, settingsTab) {
+  constructor(parent) {
     this.parent = parent;
-    this.settingsTab = settingsTab;
-  }
-  display() {
-    return __async(this, null, function* () {
-      const settingItem = this.parent.createDiv();
-      settingItem.addClass("setting-item");
-      const settingItemInfo = settingItem.createDiv();
-      settingItemInfo.addClass("setting-item-info");
-      const settingItemControl = settingItem.createDiv();
-      settingItemControl.addClass("setting-item-control");
-      this.authStatusDiv = settingItemInfo.createDiv();
-      this.buttonsDiv = settingItemControl;
-      yield this.updateAll();
-    });
-  }
-  updateAll() {
-    return __async(this, null, function* () {
-      this.authStatusDiv.empty();
-      this.buttonsDiv.empty();
-      yield this.updateStatus();
-      this.drawButtons();
-    });
-  }
-  updateStatus() {
-    return __async(this, null, function* () {
-      const uploader = this.getAuthenticatedUploader();
-      if (!uploader) {
-        this.setNotAuthenticated();
-        return;
-      }
-      this.authStatusDiv.setText("Checking Imgur authentication...");
-      try {
-        const currentUserName = (yield uploader.client.accountInfo()).data.url;
-        this.authStatusDiv.setText(`Authenticated as: ${currentUserName} \u2705`);
-        this.authenticated = true;
-      } catch (e) {
-        if (e instanceof TypeError && e.message === "Failed to fetch") {
-          this.authStatusDiv.setText("Internet connection problem");
-        } else if (e instanceof ApiError) {
-          this.authStatusDiv.setText(`Imgur session error: ${e.message}`);
-        } else {
-          console.warn("Not authenticated, exception: ", e);
-          this.setNotAuthenticated();
-        }
-      }
-    });
-  }
-  getAuthenticatedUploader() {
-    if (this.settingsTab.plugin.imgUploader && this.settingsTab.plugin.imgUploader instanceof ImgurAuthenticatedUploader) {
-      return this.settingsTab.plugin.imgUploader;
-    }
-    return null;
+    const settingItem = this.parent.createDiv();
+    settingItem.addClass("setting-item");
+    const settingItemInfo = settingItem.createDiv();
+    settingItemInfo.addClass("setting-item-info");
+    const settingItemControl = settingItem.createDiv();
+    settingItemControl.addClass("setting-item-control");
+    this.authStatusDiv = settingItemInfo.createDiv();
+    this.buttonsDiv = settingItemControl;
   }
   setNotAuthenticated() {
+    this.clear();
     this.authStatusDiv.setText("Not authenticated");
-    this.authenticated = false;
+    this.addAuthButton();
   }
-  drawButtons() {
-    if (this.authenticated) {
-      this.addLogoutButton(this.buttonsDiv);
-    } else {
-      this.addAuthButton(this.buttonsDiv);
-    }
+  setStatusChecking() {
+    this.clear();
+    this.authStatusDiv.setText("Checking Imgur authentication...");
   }
-  addLogoutButton(el) {
-    new import_obsidian2.ButtonComponent(el).setButtonText("Logout").setWarning().onClick(() => __async(this, null, function* () {
-      localStorage.removeItem(IMGUR_ACCESS_TOKEN_LOCALSTORAGE_KEY);
-      this.settingsTab.plugin.setupImagesUploader();
-      yield this.updateAll();
-    }));
+  setAuthenticatedAs(currentUser) {
+    this.clear();
+    this.authStatusDiv.setText(`Authenticated as: ${currentUser} \u2705`);
+    this.addLogoutButton();
   }
-  addAuthButton(parentEl) {
-    new import_obsidian2.ButtonComponent(parentEl).setButtonText("Authenticate").setCta().onClick(() => {
-      const modal = new ImgurAuthModal(IMGUR_PLUGIN_CLIENT_ID, this.settingsTab.app, () => __async(this, null, function* () {
-        yield this.updateAll();
-      }));
-      modal.open();
-      this.settingsTab.authModal = modal;
-    });
+  setInternetConnectionProblem() {
+    this.clear();
+    this.authStatusDiv.setText("Internet connection problem");
+  }
+  setImgurSessionError(sessionError) {
+    this.clear();
+    this.authStatusDiv.setText(`Imgur session error: ${sessionError}`);
+    this.addAuthButton();
+  }
+  setNotAuthenticatedWithError() {
+    this.clear();
+    this.authStatusDiv.setText("\u26A0\uFE0F Not authenticated. See console for error");
+    this.addAuthButton();
+  }
+  clear() {
+    this.authStatusDiv.empty();
+    this.buttonsDiv.empty();
+  }
+  addLogoutButton() {
+    new import_obsidian2.ButtonComponent(this.buttonsDiv).setButtonText("Logout").setWarning().onClick((e) => this.logoutButtonClick(e));
+  }
+  addAuthButton() {
+    new import_obsidian2.ButtonComponent(this.buttonsDiv).setButtonText("Authenticate").setCta().onClick((e) => this.authButtonClick(e));
   }
 };
 
+// src/uploader/ApiError.ts
+var ApiError = class extends Error {
+};
+
+// src/ui/NewAlbumModal.ts
+var import_obsidian3 = require("obsidian");
+var NewAlbumModal = class extends import_obsidian3.Modal {
+  onOpen() {
+    this.setModalTitle();
+    const { newAlbumNameField, newAlbumDescriptionField } = this.createInputs();
+    const { createButton, cancelButton } = this.createButtons();
+    setRequiredAlbumNameChangeCallback(newAlbumNameField, createButton);
+    this.setCreateButtonCallback(createButton, newAlbumNameField, newAlbumDescriptionField);
+    cancelButton.onClick(() => this.close());
+  }
+  setModalTitle() {
+    this.titleEl.setText("Create new album");
+  }
+  createInputs() {
+    const newAlbumNameField = new import_obsidian3.TextComponent(
+      this.modalEl.createDiv("setting-item").createDiv("setting-item-info")
+    );
+    newAlbumNameField.setPlaceholder("Album name (required)");
+    newAlbumNameField.inputEl.setAttr("maxlength", 55);
+    newAlbumNameField.inputEl.setCssStyles({ width: "100%" });
+    const newAlbumDescriptionField = new import_obsidian3.TextAreaComponent(
+      this.modalEl.createDiv("setting-item").createDiv("setting-item-info")
+    );
+    newAlbumDescriptionField.setPlaceholder("Album description (optional)");
+    newAlbumDescriptionField.inputEl.setCssStyles({ width: "100%" });
+    return { newAlbumNameField, newAlbumDescriptionField };
+  }
+  createButtons() {
+    const buttonsContainer = this.modalEl.createDiv("modal-button-container");
+    const cancelButton = new import_obsidian3.ButtonComponent(buttonsContainer);
+    cancelButton.setButtonText("Cancel");
+    const createButton = new import_obsidian3.ButtonComponent(buttonsContainer);
+    createButton.setButtonText("Create");
+    disableActionButton(createButton);
+    return { createButton, cancelButton };
+  }
+  setCreateButtonCallback(createButton, albumNameField, albumDescriptionField) {
+    createButton.onClick(async () => {
+      setButtonInProgress(createButton);
+      await this.createButtonHandler(albumNameField.getValue(), albumDescriptionField.getValue());
+      this.close();
+    });
+  }
+};
+function setRequiredAlbumNameChangeCallback(newAlbumNameField, createButton) {
+  newAlbumNameField.onChange((value) => {
+    if (value.length === 0) {
+      disableActionButton(createButton);
+    } else {
+      activateActionButton(createButton);
+    }
+  });
+}
+function setButtonInProgress(createButton) {
+  createButton.setDisabled(true);
+  createButton.setIcon("loader");
+}
+function activateActionButton(createButton) {
+  createButton.setDisabled(false);
+  createButton.setCta();
+}
+function disableActionButton(button) {
+  button.setDisabled(true);
+  button.buttonEl.setAttribute("disabled", "true");
+  button.removeCta();
+}
+
 // src/ui/ImgurPluginSettingsTab.ts
 var REGISTER_CLIENT_URL = "https://api.imgur.com/oauth2/addclient";
-var ImgurPluginSettingsTab = class extends import_obsidian3.PluginSettingTab {
+var ImgurPluginSettingsTab = class _ImgurPluginSettingsTab extends import_obsidian4.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
+    this.authenticatedUserName = void 0;
     this.plugin = plugin;
     this.plugin.registerObsidianProtocolHandler("imgur-oauth", (params) => {
       if (!this.authModal || !this.authModal.isOpen)
         return;
       if (params.error) {
-        new import_obsidian3.Notice(`Authentication failed with error: ${params.error}`);
+        new import_obsidian4.Notice(`Authentication failed with error: ${params.error}`);
         return;
       }
       const mappedData = params.hash.split("&").map((p) => {
@@ -281,52 +269,52 @@ var ImgurPluginSettingsTab = class extends import_obsidian3.PluginSettingTab {
     containerEl.createEl("h2", { text: "Imgur Plugin settings" });
     const uploadApproachDiv = containerEl.createDiv();
     this.strategyDiv = containerEl.createDiv();
-    new import_obsidian3.Setting(uploadApproachDiv).setName("Images upload approach").addDropdown((dropdown) => {
+    new import_obsidian4.Setting(uploadApproachDiv).setName("Images upload approach").addDropdown((dropdown) => {
       UploadStrategy.values.forEach((s) => {
         dropdown.addOption(s.id, s.description);
       });
       dropdown.setValue(this.plugin.settings.uploadStrategy);
-      dropdown.onChange((v) => __async(this, null, function* () {
+      dropdown.onChange(async (v) => {
         this.plugin.settings.uploadStrategy = v;
         this.plugin.setupImagesUploader();
-        yield this.drawSettings(this.strategyDiv);
-      }));
+        await this.drawSettings(this.strategyDiv);
+      });
     });
-    this.drawSettings(this.strategyDiv).then(() => {
-    }).finally(() => {
-    });
-    new import_obsidian3.Setting(containerEl).setName("Confirm before upload").addToggle((t) => {
+    void this.drawSettings(this.strategyDiv);
+    new import_obsidian4.Setting(containerEl).setName("Confirm before upload").addToggle((t) => {
       t.setValue(this.plugin.settings.showRemoteUploadConfirmation);
       t.onChange((newValue) => {
         this.plugin.settings.showRemoteUploadConfirmation = newValue;
       });
     });
   }
-  hide() {
-    return __async(this, null, function* () {
-      yield this.plugin.saveSettings();
-      this.plugin.setupImagesUploader();
-    });
+  async hide() {
+    await this.plugin.saveSettings();
+    this.plugin.setupImagesUploader();
   }
-  drawSettings(parentEl) {
-    return __async(this, null, function* () {
-      parentEl.empty();
-      switch (this.plugin.settings.uploadStrategy) {
-        case UploadStrategy.ANONYMOUS_IMGUR.id:
-          this.drawAnonymousClientIdSetting(parentEl);
-          break;
-        case UploadStrategy.AUTHENTICATED_IMGUR.id:
-          yield new ImgurAuthenticationStatus(parentEl, this).display();
-          break;
-        default:
-          throw new Error("There must be a bug, this code is not expected to be reached");
-      }
-    });
+  async drawSettings(parentEl) {
+    parentEl.empty();
+    switch (this.plugin.settings.uploadStrategy) {
+      case UploadStrategy.ANONYMOUS_IMGUR.id:
+        this.drawAnonymousClientIdSetting(parentEl);
+        break;
+      case UploadStrategy.AUTHENTICATED_IMGUR.id:
+        await this.createAuthenticationInfoBlock(parentEl);
+        if (this.authenticatedUserName)
+          this.drawAlbumSettings(parentEl);
+        break;
+      default:
+        throw new Error("There must be a bug, this code is not expected to be reached");
+    }
   }
   drawAnonymousClientIdSetting(containerEl) {
-    new import_obsidian3.Setting(containerEl).setName("Client ID").setTooltip(`Client ID is required for anonymous images upload. If you do not provide your own Client ID, the one shipped with the plugin and shared with many other users will be used. If you face issues with images upload, it's better generate your own Client ID"`).setDesc(ImgurPluginSettingsTab.clientIdSettingDescription()).addText((text) => text.setPlaceholder("Enter your client_id").setValue(this.plugin.settings.clientId).onChange((value) => {
-      this.plugin.settings.clientId = value;
-    }));
+    new import_obsidian4.Setting(containerEl).setName("Client ID").setTooltip(
+      `Client ID is required for anonymous images upload. If you do not provide your own Client ID, the one shipped with the plugin and shared with many other users will be used. If you face issues with images upload, it's better generate your own Client ID"`
+    ).setDesc(_ImgurPluginSettingsTab.clientIdSettingDescription()).addText(
+      (text) => text.setPlaceholder("Enter your client_id").setValue(this.plugin.settings.clientId).onChange((value) => {
+        this.plugin.settings.clientId = value;
+      })
+    );
   }
   static clientIdSettingDescription() {
     const fragment = document.createDocumentFragment();
@@ -337,68 +325,287 @@ var ImgurPluginSettingsTab = class extends import_obsidian3.PluginSettingTab {
     fragment.append(a);
     return fragment;
   }
+  async createAuthenticationInfoBlock(parentEl) {
+    this.authElem = new ImgurAuthenticationStatus(parentEl);
+    await this.drawAuthenticationInfo();
+    this.authElem.authButtonClick = () => {
+      const modal = new ImgurAuthModal(IMGUR_PLUGIN_CLIENT_ID, this.app, async () => {
+        await this.drawAuthenticationInfo();
+      });
+      modal.open();
+      this.authModal = modal;
+    };
+    this.authElem.logoutButtonClick = async () => {
+      localStorage.removeItem(IMGUR_ACCESS_TOKEN_LOCALSTORAGE_KEY);
+      this.plugin.setupImagesUploader();
+      await this.drawAuthenticationInfo();
+    };
+  }
+  async drawAuthenticationInfo() {
+    const authenticatedClient = this.plugin.getAuthenticatedImgurClient();
+    if (!authenticatedClient) {
+      this.authElem.setNotAuthenticated();
+      return;
+    }
+    this.authElem.setStatusChecking();
+    try {
+      this.authenticatedUserName = (await authenticatedClient.accountInfo()).data.url;
+      this.authElem.setAuthenticatedAs(this.authenticatedUserName);
+    } catch (e) {
+      if (e instanceof TypeError && e.message === "Failed to fetch") {
+        this.authElem.setInternetConnectionProblem();
+      } else if (e instanceof ApiError) {
+        this.authElem.setImgurSessionError(e.message);
+      } else {
+        console.warn("Not authenticated, exception: ", e);
+        this.authElem.setNotAuthenticatedWithError();
+      }
+    }
+  }
+  drawAlbumSettings(parentEl) {
+    const albumSetting = new import_obsidian4.Setting(parentEl);
+    this.addAlbumsManagerLink(albumSetting.descEl, this.authenticatedUserName);
+    albumSetting.setName("Album to upload").addDropdown(async (d) => {
+      d.setDisabled(true);
+      d.addOption("", "Loading...");
+      await this.populateList(d);
+      d.selectEl.options.remove(0);
+      d.setDisabled(false);
+      d.onChange((value) => {
+        if (value === "\uFF0B") {
+          const handler = async (name, description) => {
+            const client = this.plugin.getAuthenticatedImgurClient();
+            try {
+              const resp = await client.createNewAlbum(name, description);
+              if (resp.success === true) {
+                await this.populateList(d);
+                d.setValue(resp.data.id);
+                d.selectEl.removeClass("mod-warning");
+                this.plugin.settings.albumToUpload = resp.data.id;
+              }
+            } catch (e) {
+              new import_obsidian4.Notice("Failed to create new album. Open console to see log");
+              console.error("Failed to create a new album", e);
+            }
+          };
+          const modal = new NewAlbumModal(this.app);
+          modal.createButtonHandler = handler;
+          modal.open();
+          return;
+        }
+        if (value === "null") {
+          this.plugin.settings.albumToUpload = void 0;
+        } else {
+          this.plugin.settings.albumToUpload = value;
+        }
+        for (const opt of Array.from(d.selectEl.options)) {
+          if (opt.value === value) {
+            if (opt.innerText.contains("\u26A0\uFE0F")) {
+              d.selectEl.addClass("mod-warning");
+            } else {
+              d.selectEl.removeClass("mod-warning");
+            }
+          }
+        }
+      });
+    });
+  }
+  addAlbumsManagerLink(element, loggedInUser) {
+    const link = `https://${loggedInUser}.imgur.com/all`;
+    const linkEl = createEl("a", { href: link, text: link });
+    element.appendText("Manage your albums at ");
+    element.append(linkEl);
+  }
+  async populateList(d) {
+    const client = this.plugin.getAuthenticatedImgurClient();
+    const albums = (await client.listAlbums()).data;
+    albums.sort((a1, a2) => a1.datetime - a2.datetime);
+    d.addOption(null, "Not specified");
+    d.addOption("\uFF0B", "\uFF0B Create new album");
+    for (const album of albums) {
+      d.addOption(album.id, album.title);
+    }
+    const currentlyChosenAlbum = this.plugin.settings.albumToUpload;
+    if (currentlyChosenAlbum != void 0 && !albums.some((a) => a.id === currentlyChosenAlbum)) {
+      d.addOption(
+        currentlyChosenAlbum,
+        `id: ${currentlyChosenAlbum} (\u26A0\uFE0F album not found at imgur.com)`
+      );
+      d.selectEl.addClass("mod-warning");
+    }
+    d.setValue(currentlyChosenAlbum);
+  }
 };
 
-// src/imgur/ImgurClient.ts
-function handleImgurErrorResponse(resp) {
-  return __async(this, null, function* () {
-    if (resp.headers.get("Content-Type") === "application/json") {
-      throw new ApiError((yield resp.json()).data.error);
-    }
-    throw new Error(yield resp.text());
-  });
+// src/imgur/AuthenticatedImgurClient.ts
+var import_obsidian5 = require("obsidian");
+
+// src/utils/multipart-http.ts
+function buildMultipartBody(formData, boundary) {
+  const multipartPirces = multipartPiecesFrom(formData);
+  return composeMultipartBodyFrom(multipartPirces, boundary);
 }
-var ImgurClient = class {
+function multipartPiecesFrom(formData) {
+  const pieces = [];
+  formData.forEach((content, name) => {
+    if (typeof content === "string") {
+      pieces.push(stringToFormDataSection(name, content));
+    } else if (content instanceof File) {
+      pieces.push(fileToFormDataSection(name, content));
+    }
+  });
+  return pieces;
+}
+var MIME_LINE_BREAK = "\r\n";
+var DOUBLE_LINE_BREAK = `${MIME_LINE_BREAK}${MIME_LINE_BREAK}`;
+function stringToFormDataSection(formName, strValue) {
+  return `Content-Disposition: form-data; name="${formName}"${DOUBLE_LINE_BREAK}${strValue}`;
+}
+function fileToFormDataSection(formName, file) {
+  const firstLine = `Content-Disposition: form-data; name="${formName}"; filename="${file.name}"${DOUBLE_LINE_BREAK}`;
+  return new Blob([firstLine, file]);
+}
+function composeMultipartBodyFrom(multipartPieces, boundaryLine) {
+  const allPieces = addMultipartBoundaries(multipartPieces, boundaryLine);
+  const singleBlob = new Blob(addLineBreaks(allPieces));
+  return singleBlob;
+}
+function addMultipartBoundaries(multipartPieces, boundary) {
+  const boundaryLine = `--${boundary}`;
+  const allPieces = multipartPieces.flatMap((p) => [boundaryLine, p]);
+  const finalBoundaryLine = `--${boundary}--`;
+  allPieces.push(finalBoundaryLine);
+  return allPieces;
+}
+function addLineBreaks(allPieces) {
+  const result = [];
+  for (let i = 0; i < allPieces.length; i++) {
+    result.push(allPieces[i]);
+    if (i !== allPieces.length - 1) {
+      result.push(MIME_LINE_BREAK);
+    }
+  }
+  return result;
+}
+
+// src/utils/obsidian-http-client.ts
+async function prepareMultipartRequestPiece(requestData) {
+  const boundary = `----formdata-0${`${Math.floor(Math.random() * 1e11)}`.padStart(11, "0")}`;
+  return {
+    contentType: `multipart/form-data; boundary=${boundary}`,
+    body: await buildMultipartBody(requestData, boundary).arrayBuffer()
+  };
+}
+
+// src/imgur/AuthenticatedImgurClient.ts
+function handleImgurErrorResponse(resp) {
+  if (resp.headers["Content-Type"] === "application/json") {
+    throw new ApiError(resp.json.data.error);
+  }
+  throw new Error(resp.text);
+}
+var AuthenticatedImgurClient = class {
   constructor(accessToken) {
     this.accessToken = accessToken;
+    void this.accountInfo().then((r) => this.authenticatedUser = r.data.url).catch((e) => console.error("Failed to get info about currently authenticated user!", e));
   }
-  accountInfo() {
-    return __async(this, null, function* () {
-      const r = yield fetch(`${IMGUR_API_BASE}account/me`, {
-        headers: new Headers({ Authorization: `Bearer ${this.accessToken}` })
-      });
-      if (!r.ok) {
-        yield handleImgurErrorResponse(r);
-      }
-      return yield r.json();
-    });
+  async accountInfo() {
+    const req = {
+      url: `${IMGUR_API_BASE}account/me`,
+      method: "GET",
+      headers: { Authorization: `Bearer ${this.accessToken}` },
+      throw: false
+    };
+    const resp = await (0, import_obsidian5.requestUrl)(req);
+    if (resp.status >= 400) {
+      handleImgurErrorResponse(resp);
+    }
+    return resp.json;
   }
-  upload(image) {
-    return __async(this, null, function* () {
-      const requestData = new FormData();
-      requestData.append("image", image);
-      const resp = yield fetch(`${IMGUR_API_BASE}image`, {
-        method: "POST",
-        headers: new Headers({ Authorization: `Bearer ${this.accessToken}` }),
-        body: requestData
-      });
-      if (!resp.ok) {
-        yield handleImgurErrorResponse(resp);
-      }
-      return yield resp.json();
-    });
+  async upload(image, albumId) {
+    const requestData = new FormData();
+    requestData.append("image", image);
+    if (albumId) {
+      requestData.append("album", albumId);
+    }
+    const request = {
+      url: `${IMGUR_API_BASE}image`,
+      method: "POST",
+      headers: { Authorization: `Bearer ${this.accessToken}` },
+      ...await prepareMultipartRequestPiece(requestData),
+      throw: false
+    };
+    const resp = await (0, import_obsidian5.requestUrl)(request);
+    if (resp.status >= 400) {
+      handleImgurErrorResponse(resp);
+    }
+    return resp.json;
+  }
+  async listAlbums() {
+    const req = {
+      url: `${IMGUR_API_BASE}account/${this.authenticatedUser}/albums`,
+      method: "GET",
+      headers: { Authorization: `Bearer ${this.accessToken}` },
+      throw: false
+    };
+    const resp = await (0, import_obsidian5.requestUrl)(req);
+    if (resp.status >= 400) {
+      handleImgurErrorResponse(resp);
+    }
+    return resp.json;
+  }
+  async createNewAlbum(name, description) {
+    const requestData = new FormData();
+    requestData.append("title", name);
+    if (description) {
+      requestData.append("description", description);
+    }
+    const request = {
+      url: `${IMGUR_API_BASE}album`,
+      method: "POST",
+      headers: { Authorization: `Bearer ${this.accessToken}` },
+      ...await prepareMultipartRequestPiece(requestData),
+      throw: false
+    };
+    const resp = await (0, import_obsidian5.requestUrl)(request);
+    if (resp.status >= 400) {
+      handleImgurErrorResponse(resp);
+    }
+    return resp.json;
   }
 };
 
 // src/uploader/imgur/ImgurAnonymousUploader.ts
+var import_obsidian6 = require("obsidian");
 var ImgurAnonymousUploader = class {
   constructor(clientId) {
     this.clientId = clientId;
   }
-  upload(image) {
-    return __async(this, null, function* () {
-      const requestData = new FormData();
-      requestData.append("image", image);
-      const resp = yield fetch(`${IMGUR_API_BASE}image`, {
-        method: "POST",
-        headers: new Headers({ Authorization: `Client-ID ${this.clientId}` }),
-        body: requestData
-      });
-      if (!resp.ok) {
-        yield handleImgurErrorResponse(resp);
-      }
-      return (yield resp.json()).data.link;
-    });
+  async upload(image) {
+    const requestData = new FormData();
+    requestData.append("image", image);
+    const request = {
+      url: `${IMGUR_API_BASE}image`,
+      method: "POST",
+      headers: { Authorization: `Client-ID ${this.clientId}` },
+      ...await prepareMultipartRequestPiece(requestData),
+      throw: false
+    };
+    const resp = await (0, import_obsidian6.requestUrl)(request);
+    if (resp.status >= 400) {
+      handleImgurErrorResponse(resp);
+    }
+    return resp.json.data.link;
+  }
+};
+
+// src/uploader/imgur/ImgurAuthenticatedUploader.ts
+var ImgurAuthenticatedUploader = class {
+  constructor(client) {
+    this.client = client;
+  }
+  async upload(image, albumId) {
+    return (await this.client.upload(image, albumId)).data.link;
   }
 };
 
@@ -412,7 +619,7 @@ function buildUploaderFrom(settings) {
     if (!accessToken) {
       return void 0;
     }
-    return new ImgurAuthenticatedUploader(new ImgurClient(accessToken));
+    return new ImgurAuthenticatedUploader(new AuthenticatedImgurClient(accessToken));
   }
   if (settings.uploadStrategy === UploadStrategy.ANONYMOUS_IMGUR.id) {
     if (settings.clientId) {
@@ -424,8 +631,8 @@ function buildUploaderFrom(settings) {
 }
 
 // src/ui/RemoteUploadConfirmationDialog.ts
-var import_obsidian4 = require("obsidian");
-var RemoteUploadConfirmationDialog = class extends import_obsidian4.Modal {
+var import_obsidian7 = require("obsidian");
+var RemoteUploadConfirmationDialog = class extends import_obsidian7.Modal {
   constructor() {
     super(...arguments);
     this.userResponded = false;
@@ -433,24 +640,22 @@ var RemoteUploadConfirmationDialog = class extends import_obsidian4.Modal {
       this.deferredResolve = resolve;
     });
   }
-  response() {
-    return __async(this, null, function* () {
-      return this.resp;
-    });
+  async response() {
+    return this.resp;
   }
   onOpen() {
     this.titleEl.setText("Imgur plugin");
     this.contentEl.setText("Would you like to upload to Imgur or paste your content locally?");
     const buttonsDiv = this.modalEl.createDiv("modal-button-container");
-    new import_obsidian4.ButtonComponent(buttonsDiv).setButtonText("Always upload").setCta().onClick(() => {
+    new import_obsidian7.ButtonComponent(buttonsDiv).setButtonText("Always upload").setCta().onClick(() => {
       this.deferredResolve({ shouldUpload: true, alwaysUpload: true });
       this.afterUserInput();
     });
-    new import_obsidian4.ButtonComponent(buttonsDiv).setButtonText("Upload").setCta().onClick(() => {
+    new import_obsidian7.ButtonComponent(buttonsDiv).setButtonText("Upload").setCta().onClick(() => {
       this.deferredResolve({ shouldUpload: true });
       this.afterUserInput();
     });
-    new import_obsidian4.ButtonComponent(buttonsDiv).setButtonText("Paste locally").onClick(() => {
+    new import_obsidian7.ButtonComponent(buttonsDiv).setButtonText("Paste locally").onClick(() => {
       this.deferredResolve({ shouldUpload: false });
       this.afterUserInput();
     });
@@ -478,13 +683,13 @@ var PasteEventCopy = class extends ClipboardEvent {
 };
 
 // src/aux-event-classes/DragEventCopy.ts
-var DragEventCopy = class extends DragEvent {
+var DragEventCopy = class _DragEventCopy extends DragEvent {
   static create(fromEvent, files) {
     const dataTransfer = new DataTransfer();
     for (let i = 0; i < files.length; i += 1) {
       dataTransfer.items.add(files[i]);
     }
-    return new DragEventCopy(fromEvent.type, {
+    return new _DragEventCopy(fromEvent.type, {
       dataTransfer,
       clientX: fromEvent.clientX,
       clientY: fromEvent.clientY
@@ -493,7 +698,7 @@ var DragEventCopy = class extends DragEvent {
 };
 
 // src/imgur/resizing/plugin-callback.ts
-var import_obsidian5 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 
 // src/imgur/resizing/MarkdownImagePieces.ts
 function isWrapped(img) {
@@ -508,19 +713,20 @@ function mdImagePiecesFrom(arr) {
   const imageId = arr[4];
   if (!isImageIdOfExpectedSize(imageId))
     throw Error("Imgur image id is of unexpcted size");
-  return __spreadProps(__spreadValues(__spreadProps(__spreadValues({}, arr[1] && { urlPrefix: arr[1] }), {
+  return {
+    ...arr[1] && { urlPrefix: arr[1] },
     imgPrefix: arr[2],
     imgurhost: arr[3],
     imageId: imageId.slice(0, IMGUR_IMAGE_ID_LENGTH),
-    imageExt: arr[5]
-  }), arr[6] && { urlSuffix: arr[6] }), {
+    imageExt: arr[5],
+    ...arr[6] && { urlSuffix: arr[6] },
     startIndex: arr.index,
     endIndex: arr.index + arr[0].length
-  });
+  };
 }
 
 // src/imgur/resizing/md-image-parsing.ts
-var imgurImageRegexp = /(\[)?(!\[[^[\]]*\]\()(https?:\/\/(?:i\.)?imgur\.com\/)(\w+)\.(png|jpe?g|gif)\)(]\(https?:\/\/(?:i\.)?imgur\.com\/\w+\.(?:png|jpe?g|gif)\))?/gm;
+var imgurImageRegexp = /(\[)?(!\[[^[\]]*]\()(https?:\/\/(?:i\.)?imgur\.com\/)(\w+)\.(png|jpe?g|gif)\)(]\(https?:\/\/(?:i\.)?imgur\.com\/\w+\.(?:png|jpe?g|gif)\))?/gm;
 var parseImgurImages = (line) => line.matchAll(imgurImageRegexp);
 var isMatchUnderCursor = (match, cursorPosition) => cursorPosition >= match.index && cursorPosition < match.index + match[0].length;
 var MatchWrapper = class {
@@ -536,13 +742,15 @@ var MatchWrapper = class {
 };
 var findImgurMarkdownImage = (str, cursorPosOnStr) => {
   const allMatchedOnStr = parseImgurImages(str);
-  const matchUnderCursor = Array.from(allMatchedOnStr).find((match) => isMatchUnderCursor(match, cursorPosOnStr));
+  const matchUnderCursor = Array.from(allMatchedOnStr).find(
+    (match) => isMatchUnderCursor(match, cursorPosOnStr)
+  );
   return new MatchWrapper(matchUnderCursor);
 };
 var md_image_parsing_default = findImgurMarkdownImage;
 
 // src/imgur/resizing/ImgurSize.ts
-var _ImgurSize = class {
+var _ImgurSize = class _ImgurSize {
   constructor(suffix, description, sizeHint) {
     this.suffix = suffix;
     this.description = description;
@@ -556,15 +764,15 @@ var _ImgurSize = class {
     return this.description;
   }
 };
+_ImgurSize.VALUES = [];
+_ImgurSize.SMALL_SQUARE = new _ImgurSize("s", "Small square", "90x90");
+_ImgurSize.BIG_SQUARE = new _ImgurSize("b", "Big square", "160x160");
+_ImgurSize.SMALL_THUMBNAIL = new _ImgurSize("t", "Small Thumbnail", "160x160");
+_ImgurSize.MEDIUM_THUMBNAIL = new _ImgurSize("m", "Medium Thumbnail", "320x320");
+_ImgurSize.LARGE_THUMBNAIL = new _ImgurSize("l", "Large Thumbnail", "640x640");
+_ImgurSize.HUGE_THUMBNAIL = new _ImgurSize("h", "Huge Thumbnail", "1024x1024");
+_ImgurSize.ORIGINAL = new _ImgurSize("", "Original size");
 var ImgurSize = _ImgurSize;
-ImgurSize.VALUES = [];
-ImgurSize.SMALL_SQUARE = new _ImgurSize("s", "Small square", "90x90");
-ImgurSize.BIG_SQUARE = new _ImgurSize("b", "Big square", "160x160");
-ImgurSize.SMALL_THUMBNAIL = new _ImgurSize("t", "Small Thumbnail", "160x160");
-ImgurSize.MEDIUM_THUMBNAIL = new _ImgurSize("m", "Medium Thumbnail", "320x320");
-ImgurSize.LARGE_THUMBNAIL = new _ImgurSize("l", "Large Thumbnail", "640x640");
-ImgurSize.HUGE_THUMBNAIL = new _ImgurSize("h", "Huge Thumbnail", "1024x1024");
-ImgurSize.ORIGINAL = new _ImgurSize("", "Original size");
 
 // src/imgur/resizing/resizing.ts
 var resizeTo = (size) => (pieces) => {
@@ -597,13 +805,18 @@ var editorCheckCallbackFor = (size) => (checking, editor) => {
   try {
     replacement = resizing_default(size)(match.mdImagePieces);
   } catch (e) {
-    if (e instanceof Error)
-      new import_obsidian5.Notice(e.message);
-    else
+    if (e instanceof Error) {
+      new import_obsidian8.Notice(e.message);
+    } else {
       console.error(e);
+    }
     return false;
   }
-  editor.replaceRange(replacement.content, { line: lineNumber, ch: replacement.from }, { line: lineNumber, ch: replacement.to });
+  editor.replaceRange(
+    replacement.content,
+    { line: lineNumber, ch: replacement.from },
+    { line: lineNumber, ch: replacement.to }
+  );
   return true;
 };
 var plugin_callback_default = editorCheckCallbackFor;
@@ -612,7 +825,8 @@ var plugin_callback_default = editorCheckCallbackFor;
 var DEFAULT_SETTINGS = {
   uploadStrategy: UploadStrategy.ANONYMOUS_IMGUR.id,
   clientId: null,
-  showRemoteUploadConfirmation: true
+  showRemoteUploadConfirmation: true,
+  albumToUpload: void 0
 };
 function allFilesAreImages(files) {
   if (files.length === 0)
@@ -623,14 +837,14 @@ function allFilesAreImages(files) {
   }
   return true;
 }
-var ImgurPlugin = class extends import_obsidian6.Plugin {
+var ImgurPlugin = class _ImgurPlugin extends import_obsidian9.Plugin {
   constructor() {
     super(...arguments);
-    this.customPasteEventCallback = (e, _, markdownView) => __async(this, null, function* () {
+    this.customPasteEventCallback = async (e, _, markdownView) => {
       if (e instanceof PasteEventCopy)
         return;
       if (!this.imgUploader) {
-        ImgurPlugin.showUnconfiguredPluginNotice();
+        _ImgurPlugin.showUnconfiguredPluginNotice();
         return;
       }
       const { files } = e.clipboardData;
@@ -640,16 +854,14 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
       if (this.settings.showRemoteUploadConfirmation) {
         const modal = new RemoteUploadConfirmationDialog(this.app);
         modal.open();
-        const userResp = yield modal.response();
+        const userResp = await modal.response();
         switch (userResp.shouldUpload) {
           case void 0:
             return;
           case true:
             if (userResp.alwaysUpload) {
               this.settings.showRemoteUploadConfirmation = false;
-              this.saveSettings().then(() => {
-              }).catch(() => {
-              });
+              void this.saveSettings();
             }
             break;
           case false:
@@ -664,12 +876,12 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
           markdownView.currentMode.clipboardManager.handlePaste(new PasteEventCopy(e));
         });
       }
-    });
-    this.customDropEventListener = (e, _, markdownView) => __async(this, null, function* () {
+    };
+    this.customDropEventListener = async (e, _, markdownView) => {
       if (e instanceof DragEventCopy)
         return;
       if (!this.imgUploader) {
-        ImgurPlugin.showUnconfiguredPluginNotice();
+        _ImgurPlugin.showUnconfiguredPluginNotice();
         return;
       }
       if (e.dataTransfer.types.length !== 1 || e.dataTransfer.types[0] !== "Files") {
@@ -682,16 +894,14 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
       if (this.settings.showRemoteUploadConfirmation) {
         const modal = new RemoteUploadConfirmationDialog(this.app);
         modal.open();
-        const userResp = yield modal.response();
+        const userResp = await modal.response();
         switch (userResp.shouldUpload) {
           case void 0:
             return;
           case true:
             if (userResp.alwaysUpload) {
               this.settings.showRemoteUploadConfirmation = false;
-              this.saveSettings().then(() => {
-              }).catch(() => {
-              });
+              void this.saveSettings();
             }
             break;
           case false: {
@@ -712,45 +922,49 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
         });
         promises.push(uploadPromise);
       }
-      yield Promise.all(promises);
+      await Promise.all(promises);
       if (filesFailedToUpload.length === 0) {
         return;
       }
-      markdownView.currentMode.clipboardManager.handleDrop(DragEventCopy.create(e, filesFailedToUpload));
-    });
+      markdownView.currentMode.clipboardManager.handleDrop(
+        DragEventCopy.create(e, filesFailedToUpload)
+      );
+    };
   }
   get imgUploader() {
     return this.imgUploaderField;
   }
-  loadSettings() {
-    return __async(this, null, function* () {
-      this.settings = __spreadValues(__spreadValues({}, DEFAULT_SETTINGS), yield this.loadData());
-    });
+  async loadSettings() {
+    this.settings = {
+      ...DEFAULT_SETTINGS,
+      ...await this.loadData()
+    };
   }
-  saveSettings() {
-    return __async(this, null, function* () {
-      yield this.saveData(this.settings);
-    });
+  async saveSettings() {
+    await this.saveData(this.settings);
   }
-  onload() {
-    return __async(this, null, function* () {
-      const sizes = ImgurSize.values();
-      for (let i = 0; i < sizes.length; i += 1) {
-        const size = sizes[i];
-        this.addCommand({
-          id: `imgur-resize-${size.suffix}-command`,
-          name: `Resize to ${size.description}${size.sizeHint ? ` (${size.sizeHint})` : ""}`,
-          editorCheckCallback: plugin_callback_default(size)
-        });
-      }
-      yield this.loadSettings();
-      this.addSettingTab(new ImgurPluginSettingsTab(this.app, this));
-      this.setupImgurHandlers();
-      this.setupImagesUploader();
-    });
+  async onload() {
+    const sizes = ImgurSize.values();
+    for (const size of sizes) {
+      this.addCommand({
+        id: `imgur-resize-${size.suffix}-command`,
+        name: `Resize to ${size.description}${size.sizeHint ? ` (${size.sizeHint})` : ""}`,
+        editorCheckCallback: plugin_callback_default(size)
+      });
+    }
+    await this.loadSettings();
+    this.addSettingTab(new ImgurPluginSettingsTab(this.app, this));
+    this.setupImgurHandlers();
+    this.setupImagesUploader();
   }
   setupImagesUploader() {
     this.imgUploaderField = buildUploaderFrom(this.settings);
+  }
+  getAuthenticatedImgurClient() {
+    if (this.imgUploader instanceof ImgurAuthenticatedUploader) {
+      return this.imgUploader.client;
+    }
+    return null;
   }
   setupImgurHandlers() {
     this.registerEvent(this.app.workspace.on("editor-paste", this.customPasteEventCallback));
@@ -758,29 +972,30 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
   }
   static showUnconfiguredPluginNotice() {
     const fiveSecondsMillis = 5e3;
-    new import_obsidian6.Notice("\u26A0\uFE0F Please configure Imgur plugin or disable it", fiveSecondsMillis);
+    new import_obsidian9.Notice("\u26A0\uFE0F Please configure Imgur plugin or disable it", fiveSecondsMillis);
   }
-  uploadFileAndEmbedImgurImage(file) {
-    return __async(this, null, function* () {
-      const pasteId = (Math.random() + 1).toString(36).substr(2, 5);
-      this.insertTemporaryText(pasteId);
-      let imgUrl;
-      try {
-        imgUrl = yield this.imgUploaderField.upload(file);
-      } catch (e) {
-        if (e instanceof ApiError) {
-          this.handleFailedUpload(pasteId, `Upload failed, remote server returned an error: ${e.message}`);
-        } else {
-          console.error("Failed imgur request: ", e);
-          this.handleFailedUpload(pasteId, "\u26A0\uFE0FImgur upload failed, check dev console");
-        }
-        throw e;
+  async uploadFileAndEmbedImgurImage(file) {
+    const pasteId = (Math.random() + 1).toString(36).substring(2, 7);
+    this.insertTemporaryText(pasteId);
+    let imgUrl;
+    try {
+      imgUrl = await this.imgUploaderField.upload(file, this.settings.albumToUpload);
+    } catch (e) {
+      if (e instanceof ApiError) {
+        this.handleFailedUpload(
+          pasteId,
+          `Upload failed, remote server returned an error: ${e.message}`
+        );
+      } else {
+        console.error("Failed imgur request: ", e);
+        this.handleFailedUpload(pasteId, "\u26A0\uFE0FImgur upload failed, check dev console");
       }
-      this.embedMarkDownImage(pasteId, imgUrl);
-    });
+      throw e;
+    }
+    this.embedMarkDownImage(pasteId, imgUrl);
   }
   insertTemporaryText(pasteId) {
-    const progressText = ImgurPlugin.progressTextFor(pasteId);
+    const progressText = _ImgurPlugin.progressTextFor(pasteId);
     this.getEditor().replaceSelection(`${progressText}
 `);
   }
@@ -788,16 +1003,16 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
     return `![Uploading file...${id}]()`;
   }
   embedMarkDownImage(pasteId, imageUrl) {
-    const progressText = ImgurPlugin.progressTextFor(pasteId);
+    const progressText = _ImgurPlugin.progressTextFor(pasteId);
     const markDownImage = `![](${imageUrl})`;
-    ImgurPlugin.replaceFirstOccurrence(this.getEditor(), progressText, markDownImage);
+    _ImgurPlugin.replaceFirstOccurrence(this.getEditor(), progressText, markDownImage);
   }
   handleFailedUpload(pasteId, message) {
-    const progressText = ImgurPlugin.progressTextFor(pasteId);
-    ImgurPlugin.replaceFirstOccurrence(this.getEditor(), progressText, `<!--${message}-->`);
+    const progressText = _ImgurPlugin.progressTextFor(pasteId);
+    _ImgurPlugin.replaceFirstOccurrence(this.getEditor(), progressText, `<!--${message}-->`);
   }
   getEditor() {
-    const mdView = this.app.workspace.activeLeaf.view;
+    const mdView = this.app.workspace.getActiveViewOfType(import_obsidian9.MarkdownView);
     return mdView.editor;
   }
   static replaceFirstOccurrence(editor, target, replacement) {
