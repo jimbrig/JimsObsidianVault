@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Caddy.md",
+                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Caddy.md"
+                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Caddy.md"
+                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Caddy.md",
+                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Caddy.md",
+                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Caddy.md",
+                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,8 +339,29 @@
   },
   "active": "436015b20cd2aadd",
   "lastOpenFiles": [
-    "00 - INBOX/Google Fonts.md",
+    "03 - AREAS/Code/JavaScript/src/_docs/index.html",
+    "03 - AREAS/Code/JavaScript/src/_config/mdtree/markdown-tree.yml",
+    "03 - AREAS/Code/JavaScript/src/_config/mdtree",
+    "03 - AREAS/Code/JavaScript/src/_config/jsdoc/conf.json",
+    "03 - AREAS/Code/JavaScript/src/_config/jsdoc",
+    "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
+    "03 - AREAS/Code/JavaScript/src/JS.DecodeEncodeBase64.js",
+    "03 - AREAS/Code/JavaScript/package.json",
+    "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
+    "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
+    "03 - AREAS/Code/JavaScript/src/_index.md",
+    "03 - AREAS/Code/JavaScript/src/_tests",
+    "03 - AREAS/Code/JavaScript/src/_docs",
+    "03 - AREAS/Code/JavaScript/src/_lib",
+    "03 - AREAS/Code/JavaScript/src/_config",
+    "03 - AREAS/Code/JavaScript/Dataview - Search and Display List of Callouts.md",
+    "03 - AREAS/Code/PowerShell/_README.md",
+    "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+    "03 - AREAS/Code/_README.md",
+    "03 - AREAS/_README.md",
+    "04 - RESOURCES/_README.md",
     "00 - INBOX/Caddy.md",
+    "00 - INBOX/Google Fonts.md",
     "00 - INBOX/CleanMgr+.md",
     "00 - INBOX/Azure Naming Tool.md",
     "00 - INBOX/Artificial Intelligence Concepts.md",
@@ -352,35 +373,14 @@
     "00 - INBOX/Untitled.md",
     "00 - INBOX/RStudio Community Answers.md",
     "04 - RESOURCES/Scripts/DataviewJS/toc.js.md",
-    "04 - RESOURCES/Scripts/DataviewJS/toc.js",
-    "04 - RESOURCES/Scripts/DataviewJS",
-    "04 - RESOURCES/Scripts",
     "00 - INBOX/Geographic Information System (GIS).md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
-    "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md",
-    "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md",
-    "03 - AREAS/Code/Cmd/Cmd - DISKPART.md",
-    "03 - AREAS/Journal/Daily/2023-10-18.md",
-    "03 - AREAS/Code/Cmd/src/CMD - DiskPart.md",
-    "03 - AREAS/Code/_README.md",
-    "03 - AREAS/Business/Startups/Funding.md",
-    "03 - AREAS/Business/SaaS.md",
-    "03 - AREAS/Business/Products.md",
-    "03 - AREAS/Business/DAO.md",
-    "04 - RESOURCES/Templates/Plugin-Templates",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-connect-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/favicon.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/concept_map.jpg",
-    "03 - AREAS/Code/HTML/src/landing-page/500.html",
-    "03 - AREAS/Code/HTML/src/landing-page/robots.txt",
-    "03 - AREAS/Code/HTML/src/landing-page/assets/css/air.css",
-    "03 - AREAS/Code/HTML/src/landing-page/assets/css/styles.css",
-    "03 - AREAS/Code/HTML/src/landing-page/Dockerfile",
-    "03 - AREAS/Code/HTML/src/landing-page/assets/css",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",

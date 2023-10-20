@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Template-Folder-README",
+      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/PowerShell/_README.md"
+    },
+    {
+      "basename": "PowerShell - Add-GodModeShortcut",
+      "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
       "basename": "Caddy",
       "path": "00 - INBOX/Caddy.md"
     },
@@ -77,10 +101,6 @@
       "path": "03 - AREAS/Journal/Daily/2023-10-18.md"
     },
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
-    },
-    {
       "basename": "ECommerce",
       "path": "03 - AREAS/Business/Finance/ECommerce.md"
     },
@@ -145,10 +165,6 @@
       "path": "00 - INBOX/Loss Reserving Mind Map.md"
     },
     {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
-    },
-    {
       "basename": "2023-10-16",
       "path": "03 - AREAS/Journal/Daily/2023-10-16.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Python - git-xl",
       "path": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/_README.md"
-    },
-    {
-      "basename": "2023-10-04",
-      "path": "03 - AREAS/Journal/Daily/2023-10-04.md"
-    },
-    {
-      "basename": "PowerShell - PSProfileTools Module",
-      "path": "02 - PROJECTS/PowerShell - PSProfileTools Module.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "04 - RESOURCES/Templates/Code-Templates/Untitled.md"
     }
   ],
   "omittedPaths": [],
