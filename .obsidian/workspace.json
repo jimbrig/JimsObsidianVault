@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,6 +339,8 @@
   },
   "active": "436015b20cd2aadd",
   "lastOpenFiles": [
+    "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
+    "03 - AREAS/Journal/Daily/2023-10-20.md",
     "03 - AREAS/Code/JavaScript/src/_docs/index.html",
     "03 - AREAS/Code/JavaScript/src/_config/mdtree/markdown-tree.yml",
     "03 - AREAS/Code/JavaScript/src/_config/mdtree",
@@ -353,7 +355,6 @@
     "03 - AREAS/Code/JavaScript/src/_tests",
     "03 - AREAS/Code/JavaScript/src/_docs",
     "03 - AREAS/Code/JavaScript/src/_lib",
-    "03 - AREAS/Code/JavaScript/src/_config",
     "03 - AREAS/Code/JavaScript/Dataview - Search and Display List of Callouts.md",
     "03 - AREAS/Code/PowerShell/_README.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
@@ -374,7 +375,6 @@
     "00 - INBOX/RStudio Community Answers.md",
     "04 - RESOURCES/Scripts/DataviewJS/toc.js.md",
     "00 - INBOX/Geographic Information System (GIS).md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

@@ -1,3 +1,4 @@
+- 2023-10-20 at 14h48 · [[2023-10-20]]
 - 2023-10-19 at 21h04 · [[JavaScript - NPM Project Initialization Script]]
 - 2023-10-19 at 21h03 · [[JavaScript - FormatCompactNumbers]]
 - 2023-10-19 at 21h02 · [[JavaScript - Echo]]
@@ -47,4 +48,3 @@
 - 2023-09-26 at 16h20 · [[R - pkgdev Package]]
 - 2023-09-26 at 16h00 · [[2023-09-26]]
 - 2023-09-21 at 13h07 · [[Windows Startup Process]]
-- 2023-09-21 at 13h01 · [[2023-09-21]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-20",
+      "path": "03 - AREAS/Journal/Daily/2023-10-20.md"
+    },
+    {
       "basename": "Template-Folder-README",
       "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-10-09",
       "path": "03 - AREAS/Journal/Daily/2023-10-09.md"
-    },
-    {
-      "basename": "Python - git-xl",
-      "path": "03 - AREAS/Tools/Tools - Python Packages/Python - git-xl.md"
     }
   ],
   "omittedPaths": [],
