@@ -1,0 +1,17 @@
+{
+    "name": "JavaScript Code",
+    "version": "1.0.0",
+    "description": "Documentation for my Library of JavaScript Code",
+    "scripts": {
+        "doc": "jsdoc2md --clear --source ./src/*.js --configure ./src/_config/jsdoc/conf.json > _README.temp.md",
+        "doc:test": "jsdoc -c src/_config/jsdoc/conf.json -T",
+        "doc:explain": "jsdoc -c src/_config/jsdoc/conf.json -r -d src/_docs -X"
+    },
+    "keywords": [],
+    "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
+    "license": "Unlicense",
+    "devDependencies": {
+        "jsdoc": "^4.0.2",
+        "jsdoc-to-markdown": "^8.0.0"
+    }
+}
