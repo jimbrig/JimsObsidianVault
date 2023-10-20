@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDEX.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INDEX.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "INDEX.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INDEX.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -382,6 +382,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -405,9 +406,9 @@
       "obsidian-omnivore:Omnivore": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "aef3c63f7d118f81",
