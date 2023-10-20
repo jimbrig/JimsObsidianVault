@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test",
+      "path": "00 - INBOX/Test.md"
+    },
+    {
       "basename": "2023-10-20",
       "path": "03 - AREAS/Journal/Daily/2023-10-20.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-10-13",
       "path": "03 - AREAS/Journal/Daily/2023-10-13.md"
-    },
-    {
-      "basename": "R - Tidy Evaluation and Programming with dplyr",
-      "path": "00 - INBOX/R - Tidy Evaluation and Programming with dplyr.md"
     }
   ],
   "omittedPaths": [],

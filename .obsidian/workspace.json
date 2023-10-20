@@ -107,6 +107,19 @@
             }
           },
           {
+            "id": "01112832152ffd12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "9cd1c0a6295b19eb",
             "type": "leaf",
             "state": {
@@ -120,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
+                "file": "00 - INBOX/Test.md"
               }
             }
           },
@@ -215,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
+                "file": "00 - INBOX/Test.md"
               }
             }
           },
@@ -259,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
+                "file": "00 - INBOX/Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
+                "file": "00 - INBOX/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
+                "file": "00 - INBOX/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,8 +424,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "aef3c63f7d118f81",
+  "active": "01112832152ffd12",
   "lastOpenFiles": [
+    "Scripts/getWeather.js",
+    "Scripts/Class.js",
+    "03 - AREAS/Journal/Daily/2023-10-20.md",
+    "00 - INBOX/Test.md",
     "FAQ.md",
     "INDEX.md",
     "ABOUT.md",
@@ -425,7 +442,6 @@
     "04 - RESOURCES/_README.md",
     "Scripts",
     "Scripts/SourceInputFile.md",
-    "03 - AREAS/Journal/Daily/2023-10-20.md",
     "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
     "03 - AREAS/Code/JavaScript/src/_docs/index.html",
     "03 - AREAS/Code/JavaScript/src/_config/mdtree/markdown-tree.yml",
@@ -433,7 +449,6 @@
     "03 - AREAS/Code/JavaScript/src/_config/jsdoc/conf.json",
     "03 - AREAS/Code/JavaScript/src/_config/jsdoc",
     "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
-    "03 - AREAS/Code/JavaScript/src/JS.DecodeEncodeBase64.js",
     "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
     "03 - AREAS/Code/JavaScript/src/_index.md",
@@ -447,8 +462,6 @@
     "00 - INBOX/CleanMgr+.md",
     "00 - INBOX/Azure Naming Tool.md",
     "00 - INBOX/Artificial Intelligence Concepts.md",
-    "00 - INBOX/An Exploration of Data vs Metadata.md",
-    "00 - INBOX/Actuarial Relational Database Sample.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
