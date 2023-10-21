@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Test.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Test.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
