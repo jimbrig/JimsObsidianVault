@@ -424,8 +424,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "01112832152ffd12",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "03 - AREAS/Code/R/src/_config",
+    "03 - AREAS/Code/R/src/_tests",
+    "03 - AREAS/Code/R/src/_docs",
+    "03 - AREAS/Code/R/src/_lib",
     "Scripts/getNews.js",
     "Scripts/getWeather.js",
     "Scripts/Class.js",
@@ -444,10 +448,6 @@
     "Scripts",
     "Scripts/SourceInputFile.md",
     "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
-    "03 - AREAS/Code/JavaScript/src/_docs/index.html",
-    "03 - AREAS/Code/JavaScript/src/_config/mdtree/markdown-tree.yml",
-    "03 - AREAS/Code/JavaScript/src/_config/mdtree",
-    "03 - AREAS/Code/JavaScript/src/_config/jsdoc/conf.json",
     "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
     "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
