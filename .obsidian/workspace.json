@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-24.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-24.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -424,8 +424,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "01112832152ffd12",
   "lastOpenFiles": [
+    "03 - AREAS/Journal/Daily/2023-10-24.md",
+    "03 - AREAS/Journal/Daily/2023-10-20.md",
     "03 - AREAS/Code/R/src/http_plumber_errors.R",
     "03 - AREAS/Code/R/src/shiny_filts.R",
     "03 - AREAS/Code/R/src/convert_df2md.R",
@@ -436,8 +438,6 @@
     "03 - AREAS/Code/R/src/rpkg_build_prep.R",
     "03 - AREAS/Code/R/src/rpkg_build_check_test.R",
     "03 - AREAS/Code/R/src/rstudio_setup_bootstrap.R",
-    "03 - AREAS/Code/R/src/plumber_api_authentication.R",
-    "03 - AREAS/Journal/Daily/2023-10-20.md",
     "00 - INBOX/Test.md",
     "FAQ.md",
     "INDEX.md",
