@@ -1,3 +1,5 @@
+- 2023-10-24 at 20h58 · [[PowerShell - Get-PSGalleryDownloads]]
+- 2023-10-24 at 20h43 · [[2023-10-24]]
 - 2023-10-20 at 15h30 · [[Test]]
 - 2023-10-20 at 15h17 · [[2023-10-20]]
 - 2023-10-20 at 15h10 · [[INDEX]]
@@ -46,5 +48,3 @@
 - 2023-10-01 at 18h22 · [[Python - XLWings]]
 - 2023-10-01 at 18h22 · [[Python - XlsxWriter]]
 - 2023-10-01 at 18h22 · [[Python - OpenPyXL]]
-- 2023-10-01 at 18h21 · [[2023-10-01]]
-- 2023-10-01 at 14h19 · [[Untitled]]

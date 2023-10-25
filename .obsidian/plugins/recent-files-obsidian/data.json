@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - Get-PSGalleryDownloads",
+      "path": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
+    },
+    {
       "basename": "2023-10-24",
       "path": "03 - AREAS/Journal/Daily/2023-10-24.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/PowerShell/_README.md"
     },
     {
       "basename": "2023-10-20",
@@ -43,10 +51,6 @@
     {
       "basename": "Template-Folder-README",
       "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/PowerShell/_README.md"
     },
     {
       "basename": "PowerShell - Add-GodModeShortcut",
@@ -195,10 +199,6 @@
     {
       "basename": "Loss Reserving Mind Map",
       "path": "00 - INBOX/Loss Reserving Mind Map.md"
-    },
-    {
-      "basename": "2023-10-16",
-      "path": "03 - AREAS/Journal/Daily/2023-10-16.md"
     }
   ],
   "omittedPaths": [],

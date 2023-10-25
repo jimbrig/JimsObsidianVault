@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-24.md"
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-24.md"
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-24.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -424,9 +424,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "01112832152ffd12",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
     "03 - AREAS/Journal/Daily/2023-10-24.md",
+    "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
+    "03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1",
     "03 - AREAS/Journal/Daily/2023-10-20.md",
     "03 - AREAS/Code/R/src/http_plumber_errors.R",
     "03 - AREAS/Code/R/src/shiny_filts.R",
@@ -437,7 +439,6 @@
     "03 - AREAS/Code/R/src/r_cloud_vendors.R",
     "03 - AREAS/Code/R/src/rpkg_build_prep.R",
     "03 - AREAS/Code/R/src/rpkg_build_check_test.R",
-    "03 - AREAS/Code/R/src/rstudio_setup_bootstrap.R",
     "00 - INBOX/Test.md",
     "FAQ.md",
     "INDEX.md",
@@ -461,7 +462,6 @@
     "00 - INBOX/Google Fonts.md",
     "00 - INBOX/CleanMgr+.md",
     "00 - INBOX/Azure Naming Tool.md",
-    "00 - INBOX/Artificial Intelligence Concepts.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
