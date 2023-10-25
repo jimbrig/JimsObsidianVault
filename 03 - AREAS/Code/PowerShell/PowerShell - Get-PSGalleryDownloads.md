@@ -8,8 +8,7 @@ Alias: [ "Get-PSGalleryDownloads" ]
 # Get-PSGalleryDownloads
 
 > [!NOTE] About
-> [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]] [[Code Snippet]] / Function to retrieve
-> the total number of downloads for a PowerShell module from the PowerShell Gallery.
+> [[03 - AREAS/Tools/Tools - CLI/PowerShell CLI Tools/PowerShell|PowerShell]] Function to retrieve the total number of downloads for a PowerShell module from the PowerShell Gallery.
 
 ## Contents
 
@@ -26,7 +25,7 @@ Alias: [ "Get-PSGalleryDownloads" ]
 > [!source] Links:
 
 ```embed-powershell
-PATH: "vault://Code/PowerShell/src/Get-PSGalleryDownloads.ps1"
+PATH: "vault://03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1"
 TITLE: "Get-PSGalleryDownloads.ps1"
 ```
 
@@ -42,13 +41,7 @@ The code performs the following:
 
 ### Internal Linked Notes
 
-- [[03 - AREAS/Technology/Programming/Command Line/Shell/PowerShell/PowerShell]]
-- [[Code/_README|Code Snippets]]
-- [[03 - AREAS/Code/PowerShell/_README|PowerShell Code Snippets]]
-- [[MOCs/Development|Development]]
-- [[MOCs/Technology|Technology]]
-- [[MOCs/Windows|Microsoft Windows]]
-- [[MOCs/Software Engineering|Software Engineering]]
+
 
 ### External References
 
@@ -59,7 +52,7 @@ The code performs the following:
 - [[03 - AREAS/Code/PowerShell/_README|PowerShell Code Snippets]]
 
 ```dataview
-list from [[PowerShell - Get-PSGalleryDownloads]] AND -"CHANGELOG" AND -"Code/PowerShell/PowerShell - Get-PSGalleryDownloads"
+list from [[PowerShell - Get-PSGalleryDownloads]] AND -"CHANGELOG" AND -"04 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads"
 ```
 
 

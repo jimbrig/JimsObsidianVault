@@ -113,7 +113,7 @@
               "type": "markdown",
               "state": {
                 "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -390,8 +390,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 651.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -424,7 +423,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "01112832152ffd12",
   "lastOpenFiles": [
     "03 - AREAS/Journal/Daily/2023-10-24.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
