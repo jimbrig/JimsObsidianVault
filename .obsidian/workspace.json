@@ -112,8 +112,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
-                "mode": "preview",
+                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-25.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-25.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -425,8 +425,9 @@
   },
   "active": "01112832152ffd12",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-10-24.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
+    "03 - AREAS/Journal/Daily/2023-10-25.md",
+    "03 - AREAS/Journal/Daily/2023-10-24.md",
     "03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1",
     "03 - AREAS/Journal/Daily/2023-10-20.md",
     "03 - AREAS/Code/R/src/http_plumber_errors.R",
@@ -460,7 +461,6 @@
     "00 - INBOX/Caddy.md",
     "00 - INBOX/Google Fonts.md",
     "00 - INBOX/CleanMgr+.md",
-    "00 - INBOX/Azure Naming Tool.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

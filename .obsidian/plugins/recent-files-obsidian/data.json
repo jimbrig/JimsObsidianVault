@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-25",
+      "path": "03 - AREAS/Journal/Daily/2023-10-25.md"
+    },
+    {
       "basename": "PowerShell - Get-PSGalleryDownloads",
       "path": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Frontmatter-Enhanced",
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
-    },
-    {
-      "basename": "Loss Reserving Mind Map",
-      "path": "00 - INBOX/Loss Reserving Mind Map.md"
     }
   ],
   "omittedPaths": [],
