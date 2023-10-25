@@ -425,6 +425,7 @@
   },
   "active": "01112832152ffd12",
   "lastOpenFiles": [
+    "03 - AREAS/Code/PowerShell/src/Add-GitHubMetadata.ps1",
     "03 - AREAS/Code/PowerShell/src/Export-InstalledPackages.ps1",
     "03 - AREAS/Code/PowerShell/src/Export-EdgeKeywords.ps1",
     "03 - AREAS/Code/PowerShell/src/Import-EdgeKeywords.ps1",
@@ -439,7 +440,6 @@
     "03 - AREAS/Code/R/src/convert_df2md.R",
     "03 - AREAS/Code/R/src/rpkg_example_dependencies.R",
     "03 - AREAS/Code/R/src/data_validation_functions.R",
-    "03 - AREAS/Code/R/src/create_animated_r_gif.R",
     "00 - INBOX/Test.md",
     "FAQ.md",
     "INDEX.md",
