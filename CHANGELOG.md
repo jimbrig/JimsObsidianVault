@@ -1,4 +1,5 @@
-- 2023-10-26 at 18h34 · [[JavaScript Frameworks]]
+- 2023-10-26 at 18h42 · [[JavaScript Frameworks]]
+- 2023-10-26 at 18h35 · [[Untitled 2]]
 - 2023-10-26 at 18h32 · [[2023-10-26]]
 - 2023-10-25 at 14h27 · [[2023-10-25]]
 - 2023-10-24 at 21h00 · [[PowerShell - Get-PSGalleryDownloads]]
@@ -47,4 +48,3 @@
 - 2023-10-01 at 18h26 · [[Python - git-xl]]
 - 2023-10-01 at 18h23 · [[Python - pyexcel]]
 - 2023-10-01 at 18h22 · [[Python - XLRD]]
-- 2023-10-01 at 18h22 · [[Python - XLWT]]

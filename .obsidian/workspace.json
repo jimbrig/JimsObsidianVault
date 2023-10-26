@@ -16,6 +16,19 @@
             }
           },
           {
+            "id": "4625a39ae70b59a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/JavaScript Frameworks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "d7638cd21ad9df9e",
             "type": "leaf",
             "state": {
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-26.md"
+                "file": "00 - INBOX/JavaScript Frameworks.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-26.md"
+                "file": "00 - INBOX/JavaScript Frameworks.md"
               }
             }
           },
@@ -168,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
+                "file": "00 - INBOX/JavaScript Frameworks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
+                "file": "00 - INBOX/JavaScript Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
+                "file": "00 - INBOX/JavaScript Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 651.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,11 +332,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d7638cd21ad9df9e",
+  "active": "4625a39ae70b59a4",
   "lastOpenFiles": [
+    "Scripts/Templater",
+    "Scripts/DataviewJS",
+    "00 - INBOX/Untitled 2.md",
+    "03 - AREAS/Journal/Daily/2023-10-26.md",
     "00 - INBOX/JavaScript Frameworks.md",
     "00 - INBOX/SourceViewer.md",
-    "03 - AREAS/Journal/Daily/2023-10-26.md",
     "03 - AREAS/Journal/Daily/2023-10-20.md",
     "FAQ.md",
     "ABOUT.md",
@@ -342,7 +359,6 @@
     "03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1",
     "03 - AREAS/Code/R/src/http_plumber_errors.R",
     "03 - AREAS/Code/R/src/shiny_filts.R",
-    "03 - AREAS/Code/R/src/convert_df2md.R",
     "00 - INBOX/Test.md",
     "INDEX.md",
     "00 - INBOX/_README.md",
@@ -354,8 +370,6 @@
     "03 - AREAS/Code/JavaScript/src/_index.md",
     "03 - AREAS/Code/JavaScript/Dataview - Search and Display List of Callouts.md",
     "03 - AREAS/Code/PowerShell/_README.md",
-    "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
-    "03 - AREAS/Code/_README.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

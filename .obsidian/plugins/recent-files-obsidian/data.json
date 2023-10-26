@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-10-26",
-      "path": "03 - AREAS/Journal/Daily/2023-10-26.md"
-    },
-    {
       "basename": "JavaScript Frameworks",
       "path": "00 - INBOX/JavaScript Frameworks.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "00 - INBOX/Untitled 2.md"
+    },
+    {
+      "basename": "2023-10-26",
+      "path": "03 - AREAS/Journal/Daily/2023-10-26.md"
     },
     {
       "basename": "SourceViewer",
@@ -195,10 +199,6 @@
     {
       "basename": "Active Projects",
       "path": "02 - PROJECTS/Active Projects.md"
-    },
-    {
-      "basename": "Template-Brainstorm",
-      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md"
     }
   ],
   "omittedPaths": [],
