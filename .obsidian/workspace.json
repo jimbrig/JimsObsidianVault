@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-25.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-26.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-25.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-26.md"
               }
             }
           },
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-25.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -425,6 +425,8 @@
   },
   "active": "01112832152ffd12",
   "lastOpenFiles": [
+    "03 - AREAS/Journal/Daily/2023-10-25.md",
+    "03 - AREAS/Journal/Daily/2023-10-26.md",
     "03 - AREAS/Code/PowerShell/src/Backup-ScheduledTasks.ps1",
     "03 - AREAS/Code/PowerShell/src/Add-GitHubMetadata.ps1",
     "03 - AREAS/Code/PowerShell/src/Export-InstalledPackages.ps1",
@@ -432,14 +434,12 @@
     "03 - AREAS/Code/PowerShell/src/Import-EdgeKeywords.ps1",
     "03 - AREAS/Code/JavaScript/src/EdgeSearchEngines.js",
     "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
-    "03 - AREAS/Journal/Daily/2023-10-25.md",
     "03 - AREAS/Journal/Daily/2023-10-24.md",
     "03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1",
     "03 - AREAS/Journal/Daily/2023-10-20.md",
     "03 - AREAS/Code/R/src/http_plumber_errors.R",
     "03 - AREAS/Code/R/src/shiny_filts.R",
     "03 - AREAS/Code/R/src/convert_df2md.R",
-    "03 - AREAS/Code/R/src/rpkg_example_dependencies.R",
     "00 - INBOX/Test.md",
     "FAQ.md",
     "INDEX.md",

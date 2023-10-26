@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-26",
+      "path": "03 - AREAS/Journal/Daily/2023-10-26.md"
+    },
+    {
       "basename": "2023-10-25",
       "path": "03 - AREAS/Journal/Daily/2023-10-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "02 - PROJECTS/_README.md"
-    },
-    {
-      "basename": "Template-Frontmatter-Enhanced",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
     }
   ],
   "omittedPaths": [],
