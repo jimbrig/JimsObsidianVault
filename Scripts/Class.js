@@ -1,5 +1,5 @@
-class MyClass {
-    logFunction(msg) {
-        console.log(msg);
-    }
-}
+// class MyClass {
+//     logFunction(msg) {
+//         console.log(msg);
+//     }
+// }

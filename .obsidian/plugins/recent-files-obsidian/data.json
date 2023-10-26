@@ -5,6 +5,42 @@
       "path": "03 - AREAS/Journal/Daily/2023-10-26.md"
     },
     {
+      "basename": "JavaScript Frameworks",
+      "path": "00 - INBOX/JavaScript Frameworks.md"
+    },
+    {
+      "basename": "SourceViewer",
+      "path": "00 - INBOX/SourceViewer.md"
+    },
+    {
+      "basename": "2023-10-20",
+      "path": "03 - AREAS/Journal/Daily/2023-10-20.md"
+    },
+    {
+      "basename": "FAQ",
+      "path": "FAQ.md"
+    },
+    {
+      "basename": "ABOUT",
+      "path": "ABOUT.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "00 - INBOX/Untitled 1.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "RStudio Community Answers",
+      "path": "00 - INBOX/RStudio Community Answers.md"
+    },
+    {
+      "basename": "Geographic Information System (GIS)",
+      "path": "00 - INBOX/Geographic Information System (GIS).md"
+    },
+    {
       "basename": "2023-10-25",
       "path": "03 - AREAS/Journal/Daily/2023-10-25.md"
     },
@@ -21,10 +57,6 @@
       "path": "03 - AREAS/Code/PowerShell/_README.md"
     },
     {
-      "basename": "2023-10-20",
-      "path": "03 - AREAS/Journal/Daily/2023-10-20.md"
-    },
-    {
       "basename": "Test",
       "path": "00 - INBOX/Test.md"
     },
@@ -33,28 +65,8 @@
       "path": "INDEX.md"
     },
     {
-      "basename": "FAQ",
-      "path": "FAQ.md"
-    },
-    {
-      "basename": "ABOUT",
-      "path": "ABOUT.md"
-    },
-    {
       "basename": "_README",
       "path": "00 - INBOX/_README.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "00 - INBOX/Untitled 1.md"
-    },
-    {
-      "basename": "SourceViewer",
-      "path": "00 - INBOX/SourceViewer.md"
-    },
-    {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
     },
     {
       "basename": "Template-Folder-README",
@@ -111,14 +123,6 @@
     {
       "basename": "Untitled",
       "path": "00 - INBOX/Untitled.md"
-    },
-    {
-      "basename": "RStudio Community Answers",
-      "path": "00 - INBOX/RStudio Community Answers.md"
-    },
-    {
-      "basename": "Geographic Information System (GIS)",
-      "path": "00 - INBOX/Geographic Information System (GIS).md"
     },
     {
       "basename": "Template-Footer",
@@ -195,10 +199,6 @@
     {
       "basename": "Template-Brainstorm",
       "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Brainstorm.md"
-    },
-    {
-      "basename": "_README",
-      "path": "02 - PROJECTS/_README.md"
     }
   ],
   "omittedPaths": [],

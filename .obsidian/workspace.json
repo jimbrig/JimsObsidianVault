@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7aa278eef1de7ca1",
+        "id": "0744e2f31f1aef2e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1bda8493a099ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Geographic Information System (GIS).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7d69d3f23bfc6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/RStudio Community Answers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "436015b20cd2aadd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - RESOURCES/_README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4d366cc6f08e3991",
+            "id": "2cc51177f2f9844f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -55,59 +16,7 @@
             }
           },
           {
-            "id": "3f5bd6096615d26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Untitled 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2e6f1fd18db19106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ABOUT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a82bfe480f70ed75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAQ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aef3c63f7d118f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "01112832152ffd12",
+            "id": "d7638cd21ad9df9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,22 +27,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9cd1c0a6295b19eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/SourceViewer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -419,14 +315,22 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "01112832152ffd12",
+  "active": "d7638cd21ad9df9e",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-10-25.md",
+    "00 - INBOX/JavaScript Frameworks.md",
+    "00 - INBOX/SourceViewer.md",
     "03 - AREAS/Journal/Daily/2023-10-26.md",
+    "03 - AREAS/Journal/Daily/2023-10-20.md",
+    "FAQ.md",
+    "ABOUT.md",
+    "00 - INBOX/Untitled 1.md",
+    "04 - RESOURCES/_README.md",
+    "00 - INBOX/RStudio Community Answers.md",
+    "00 - INBOX/Geographic Information System (GIS).md",
+    "03 - AREAS/Journal/Daily/2023-10-25.md",
     "03 - AREAS/Code/PowerShell/src/Backup-ScheduledTasks.ps1",
     "03 - AREAS/Code/PowerShell/src/Add-GitHubMetadata.ps1",
     "03 - AREAS/Code/PowerShell/src/Export-InstalledPackages.ps1",
@@ -436,18 +340,12 @@
     "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
     "03 - AREAS/Journal/Daily/2023-10-24.md",
     "03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1",
-    "03 - AREAS/Journal/Daily/2023-10-20.md",
     "03 - AREAS/Code/R/src/http_plumber_errors.R",
     "03 - AREAS/Code/R/src/shiny_filts.R",
     "03 - AREAS/Code/R/src/convert_df2md.R",
     "00 - INBOX/Test.md",
-    "FAQ.md",
     "INDEX.md",
-    "ABOUT.md",
     "00 - INBOX/_README.md",
-    "00 - INBOX/Untitled 1.md",
-    "00 - INBOX/SourceViewer.md",
-    "04 - RESOURCES/_README.md",
     "Scripts/SourceInputFile.md",
     "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
     "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
@@ -458,9 +356,6 @@
     "03 - AREAS/Code/PowerShell/_README.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "03 - AREAS/Code/_README.md",
-    "03 - AREAS/_README.md",
-    "00 - INBOX/Caddy.md",
-    "00 - INBOX/Google Fonts.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
