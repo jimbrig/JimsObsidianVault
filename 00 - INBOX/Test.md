@@ -15,14 +15,6 @@ await News.listNews(element, 15);
 ***
 
 ```dataviewjs
-const {CommandTable} = customJS;
-let element = this.container.createEl('div', {cls: ["tailwind"]});
-await CommandTable.getCommandTable(element)
-```
-
-***
-
-```dataviewjs
 const getNestedObject = (nestedObj, pathArr) => {
     return pathArr.reduce((obj, key) =>
         (obj && obj[key] !== 'undefined') ? obj[key] : undefined, nestedObj);
@@ -45,4 +37,15 @@ dv.table(["Command ID", "Name in current locale", "Hotkeys"],
     getHotkey(v[1]),
     ])
   );
+```
+
+***
+
+```dataviewjs
+// Render a simple table of book info sorted by rating.
+const table = dv.markdownTable(["File", "Author", "Last Modified"], dv.pages()
+    .sort(b => b.rating)
+    .map(b => [b.file.link, b.genre, b["time-read"], b.rating]))
+
+dv.paragraph(table);
 ```
