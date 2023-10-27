@@ -12,6 +12,16 @@ let element = this.container.createEl('div', {cls: ["tailwind"]});
 await News.listNews(element, 15);
 ```
 
+***
+
+```dataviewjs
+const {CommandTable} = customJS;
+let element = this.container.createEl('div', {cls: ["tailwind"]});
+await CommandTable.generateTable(element)
+```
+
+
+
 ```dataviewjs
 const getNestedObject = (nestedObj, pathArr) => {
     return pathArr.reduce((obj, key) =>

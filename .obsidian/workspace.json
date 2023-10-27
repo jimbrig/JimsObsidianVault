@@ -11,8 +11,13 @@
             "id": "2cc51177f2f9844f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           },
           {
@@ -21,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "00 - INBOX/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -41,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -334,23 +338,22 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4625a39ae70b59a4",
+  "active": "2cc51177f2f9844f",
   "lastOpenFiles": [
+    "00 - INBOX/Untitled.md",
+    "00 - INBOX/Test.md",
+    "Scripts/customJS/CommandTable.js",
+    "srcjs/getObsidianCommands.js",
+    "srcjs/getWeather.js",
+    "srcjs/getNews.js",
     "srcjs",
     "Scripts/customJS",
     "Scripts/Python",
     "Scripts/CMD",
     "Scripts/Bash",
     "Scripts/PowerShell",
-    "Scripts/Temp/Test.js",
-    "Scripts/Temp/publish.js",
-    "Scripts/Temp",
-    "00 - INBOX/Untitled.md",
-    "00 - INBOX/Test.md",
     "03 - AREAS/Journal/Daily/2023-10-27.md",
     "00 - INBOX/JavaScript Frameworks.md",
-    "Scripts/Templater",
-    "Scripts/DataviewJS",
     "00 - INBOX/Untitled 2.md",
     "03 - AREAS/Journal/Daily/2023-10-26.md",
     "00 - INBOX/SourceViewer.md",
