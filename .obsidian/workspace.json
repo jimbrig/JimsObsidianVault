@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/JavaScript Frameworks.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/JavaScript Frameworks.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-27.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/JavaScript Frameworks.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-27.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/JavaScript Frameworks.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/JavaScript Frameworks.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/JavaScript Frameworks.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,16 +329,18 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "4625a39ae70b59a4",
   "lastOpenFiles": [
+    "00 - INBOX/JavaScript Frameworks.md",
+    "03 - AREAS/Journal/Daily/2023-10-27.md",
     "Scripts/Templater",
     "Scripts/DataviewJS",
     "00 - INBOX/Untitled 2.md",
     "03 - AREAS/Journal/Daily/2023-10-26.md",
-    "00 - INBOX/JavaScript Frameworks.md",
     "00 - INBOX/SourceViewer.md",
     "03 - AREAS/Journal/Daily/2023-10-20.md",
     "FAQ.md",
@@ -358,7 +360,6 @@
     "03 - AREAS/Journal/Daily/2023-10-24.md",
     "03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1",
     "03 - AREAS/Code/R/src/http_plumber_errors.R",
-    "03 - AREAS/Code/R/src/shiny_filts.R",
     "00 - INBOX/Test.md",
     "INDEX.md",
     "00 - INBOX/_README.md",

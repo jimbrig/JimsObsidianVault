@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-27",
+      "path": "03 - AREAS/Journal/Daily/2023-10-27.md"
+    },
+    {
       "basename": "JavaScript Frameworks",
       "path": "00 - INBOX/JavaScript Frameworks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Development - dotfiles",
       "path": "02 - PROJECTS/Development - dotfiles.md"
-    },
-    {
-      "basename": "Active Projects",
-      "path": "02 - PROJECTS/Active Projects.md"
     }
   ],
   "omittedPaths": [],
