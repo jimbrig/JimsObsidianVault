@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
+                "file": "00 - INBOX/Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caddy",
+                "query": "```dataviewjs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-27.md"
+                "file": "00 - INBOX/Test.md"
               }
             }
           },
@@ -137,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-27.md"
+                "file": "00 - INBOX/Test.md"
               }
             }
           },
@@ -181,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
+                "file": "00 - INBOX/Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
+                "file": "00 - INBOX/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-27.md",
+                "file": "00 - INBOX/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,10 +334,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4625a39ae70b59a4",
+  "active": "665582f2fb073909",
   "lastOpenFiles": [
-    "00 - INBOX/JavaScript Frameworks.md",
+    "Scripts/Python",
+    "Scripts/CMD",
+    "Scripts/Bash",
+    "Scripts/PowerShell",
+    "Scripts/Temp/Test.js",
+    "Scripts/Temp/publish.js",
+    "Scripts/Temp",
+    "00 - INBOX/Untitled.md",
+    "00 - INBOX/Test.md",
     "03 - AREAS/Journal/Daily/2023-10-27.md",
+    "00 - INBOX/JavaScript Frameworks.md",
     "Scripts/Templater",
     "Scripts/DataviewJS",
     "00 - INBOX/Untitled 2.md",
@@ -352,15 +362,8 @@
     "03 - AREAS/Journal/Daily/2023-10-25.md",
     "03 - AREAS/Code/PowerShell/src/Backup-ScheduledTasks.ps1",
     "03 - AREAS/Code/PowerShell/src/Add-GitHubMetadata.ps1",
-    "03 - AREAS/Code/PowerShell/src/Export-InstalledPackages.ps1",
-    "03 - AREAS/Code/PowerShell/src/Export-EdgeKeywords.ps1",
-    "03 - AREAS/Code/PowerShell/src/Import-EdgeKeywords.ps1",
-    "03 - AREAS/Code/JavaScript/src/EdgeSearchEngines.js",
     "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
     "03 - AREAS/Journal/Daily/2023-10-24.md",
-    "03 - AREAS/Code/PowerShell/src/Get-PSGalleryDownloads.ps1",
-    "03 - AREAS/Code/R/src/http_plumber_errors.R",
-    "00 - INBOX/Test.md",
     "INDEX.md",
     "00 - INBOX/_README.md",
     "Scripts/SourceInputFile.md",
@@ -369,8 +372,6 @@
     "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
     "03 - AREAS/Code/JavaScript/src/_index.md",
-    "03 - AREAS/Code/JavaScript/Dataview - Search and Display List of Callouts.md",
-    "03 - AREAS/Code/PowerShell/_README.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

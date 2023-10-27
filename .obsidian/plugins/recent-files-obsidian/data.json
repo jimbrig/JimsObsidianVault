@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Test",
+      "path": "00 - INBOX/Test.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00 - INBOX/Untitled.md"
+    },
+    {
       "basename": "2023-10-27",
       "path": "03 - AREAS/Journal/Daily/2023-10-27.md"
     },
@@ -65,10 +73,6 @@
       "path": "03 - AREAS/Code/PowerShell/_README.md"
     },
     {
-      "basename": "Test",
-      "path": "00 - INBOX/Test.md"
-    },
-    {
       "basename": "INDEX",
       "path": "INDEX.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "Digital Systems Overhaul",
       "path": "00 - INBOX/Digital Systems Overhaul.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "00 - INBOX/Untitled.md"
     },
     {
       "basename": "Template-Footer",
