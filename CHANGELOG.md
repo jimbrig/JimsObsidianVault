@@ -1,4 +1,6 @@
-- 2023-10-27 at 01h06 · [[Test]]
+- 2023-10-27 at 01h42 · [[Untitled 3]]
+- 2023-10-27 at 01h37 · [[Untitled 4]]
+- 2023-10-27 at 01h16 · [[Test]]
 - 2023-10-27 at 00h28 · [[2023-10-27]]
 - 2023-10-26 at 18h42 · [[JavaScript Frameworks]]
 - 2023-10-26 at 18h35 · [[Untitled 2]]
@@ -46,5 +48,3 @@
 - 2023-10-05 at 13h05 · [[Loss Reserving Mind Map]]
 - 2023-10-04 at 19h51 · [[2023-10-04]]
 - 2023-10-01 at 18h26 · [[Python Excel Libraries and Packages]]
-- 2023-10-01 at 18h26 · [[Python - git-xl]]
-- 2023-10-01 at 18h23 · [[Python - pyexcel]]

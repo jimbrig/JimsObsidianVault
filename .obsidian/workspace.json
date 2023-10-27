@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "921b2315e792b7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/Untitled 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1054134f35e68924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/Untitled 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "4625a39ae70b59a4",
             "type": "leaf",
             "state": {
@@ -46,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Test.md"
+                "file": "00 - INBOX/Untitled 3.md"
               }
             }
           },
@@ -142,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Test.md"
+                "file": "00 - INBOX/Untitled 3.md"
               }
             }
           },
@@ -186,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "00 - INBOX/Untitled 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "00 - INBOX/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "00 - INBOX/Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,10 +365,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "2cc51177f2f9844f",
+  "active": "921b2315e792b7d2",
   "lastOpenFiles": [
-    "00 - INBOX/Untitled.md",
+    "00 - INBOX/Untitled 4.md",
+    "00 - INBOX/Untitled 3.md",
     "00 - INBOX/Test.md",
+    "00 - INBOX/Untitled.md",
     "Scripts/customJS/CommandTable.js",
     "srcjs/getObsidianCommands.js",
     "srcjs/getWeather.js",
@@ -374,7 +403,6 @@
     "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
     "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
     "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
-    "03 - AREAS/Code/JavaScript/src/_index.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

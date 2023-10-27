@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 3",
+      "path": "00 - INBOX/Untitled 3.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "00 - INBOX/Untitled 4.md"
+    },
+    {
       "basename": "Test",
       "path": "00 - INBOX/Test.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "LCHC - Map",
       "path": "02 - PROJECTS/LCHC - Map.md"
-    },
-    {
-      "basename": "LCHC - M365 Admin",
-      "path": "02 - PROJECTS/LCHC - M365 Admin.md"
-    },
-    {
-      "basename": "Development - dotfiles",
-      "path": "02 - PROJECTS/Development - dotfiles.md"
     }
   ],
   "omittedPaths": [],
