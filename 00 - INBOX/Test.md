@@ -17,10 +17,10 @@ await News.listNews(element, 15);
 ```dataviewjs
 const {CommandTable} = customJS;
 let element = this.container.createEl('div', {cls: ["tailwind"]});
-await CommandTable.generateTable(element)
+await CommandTable.getCommandTable(element)
 ```
 
-
+***
 
 ```dataviewjs
 const getNestedObject = (nestedObj, pathArr) => {
