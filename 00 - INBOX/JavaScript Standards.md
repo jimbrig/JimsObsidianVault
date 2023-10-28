@@ -3,6 +3,33 @@
 > This style guide aims to provide the ground rules for writing JavaScript code, such that it's highly readable and
 > consistent across different developers on a team.
 
+
+## Contents
+
+- [Linting](#linting)
+- [Modules](#modules)
+- [Strict Mode](#strict-mode)
+- [Spacing](#spacing)
+- [Naming](#naming)
+- [Semicolons](#semicolons)
+- [Strings](#strings)
+- [Variable Declaration](#variable-declaration)
+- [Conditionals](#conditionals)
+- [Equality](#equality)
+- [Ternary Operators](#ternary-operators)
+- [Functions](#functions)
+- [Prototypes](#prototypes)
+- [Object Literals](#object-literals)
+- [Array Literals](#array-literals)
+- [Regular Expressions](#regular-expressions)
+- [`console` Statements](#console-statements)
+- [Comments](#comments)
+- [Variable Naming](#variable-naming)
+- [Polyfills](#polyfills)
+- [Everyday Tricks](#everyday-tricks)
+- [Appendix: Custom ESLint Config](#appendix-custom-eslint-configuration)
+- [Credits](#credits)
+
 ## Linting
 
 - Lint your code using [[ESLint]].

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-10-28",
-      "path": "03 - AREAS/Journal/Daily/2023-10-28.md"
+      "basename": "Python Standards",
+      "path": "00 - INBOX/Python Standards.md"
+    },
+    {
+      "basename": "Markup (HTML) Standards",
+      "path": "00 - INBOX/Markup (HTML) Standards.md"
     },
     {
       "basename": "JavaScript Standards",
       "path": "00 - INBOX/JavaScript Standards.md"
+    },
+    {
+      "basename": "2023-10-28",
+      "path": "03 - AREAS/Journal/Daily/2023-10-28.md"
     },
     {
       "basename": "CSS Standards",
@@ -191,14 +199,6 @@
     {
       "basename": "SaaS",
       "path": "03 - AREAS/Business/SaaS.md"
-    },
-    {
-      "basename": "Products",
-      "path": "03 - AREAS/Business/Products.md"
-    },
-    {
-      "basename": "DAO",
-      "path": "03 - AREAS/Business/DAO.md"
     }
   ],
   "omittedPaths": [],
