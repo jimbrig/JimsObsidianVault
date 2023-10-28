@@ -1,12 +1,18 @@
 {
   "cSpell.words": [
+    "ANSEL",
     "cmds",
     "dataframe",
     "dropna",
     "fopen",
     "forcast",
+    "MSVCRT",
+    "Nview",
+    "NVPCF",
     "openai",
+    "Optimus",
     "pythonmisc",
+    "redownloading",
     "temproary",
     "ujjwal",
     "xlclass",
@@ -16,7 +22,7 @@
   ],
   "obsidian-code.vaultName": "JimsVault",
   "obsidianmd.excludedDirectories": [],
-  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
   "workbench.iconTheme": "vscode-icons",
   "workbench.productIconTheme": "material-product-icons"
 }

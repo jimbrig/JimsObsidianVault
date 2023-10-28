@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Untitled 3.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Untitled 3.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-28.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Untitled 3.md"
+                "file": "03 - AREAS/Journal/Daily/2023-10-28.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Untitled 3.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Untitled 3.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Untitled 3.md",
+                "file": "03 - AREAS/Journal/Daily/2023-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,8 +367,9 @@
   },
   "active": "921b2315e792b7d2",
   "lastOpenFiles": [
-    "00 - INBOX/Untitled 4.md",
     "00 - INBOX/Untitled 3.md",
+    "03 - AREAS/Journal/Daily/2023-10-28.md",
+    "00 - INBOX/Untitled 4.md",
     "00 - INBOX/Test.md",
     "00 - INBOX/Untitled.md",
     "Scripts/customJS/CommandTable.js",
@@ -402,7 +403,6 @@
     "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
     "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
     "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
-    "03 - AREAS/Code/JavaScript/JavaScript - Echo.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
