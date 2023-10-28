@@ -78,8 +78,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Python Standards.md",
-                "mode": "preview",
+                "file": "00 - INBOX/Git Best Practices.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Python Standards.md"
+                "file": "00 - INBOX/Git Best Practices.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Python Standards.md"
+                "file": "00 - INBOX/Git Best Practices.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Python Standards.md",
+                "file": "00 - INBOX/Git Best Practices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Python Standards.md",
+                "file": "00 - INBOX/Git Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Python Standards.md",
+                "file": "00 - INBOX/Git Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,8 +343,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5,
-    "collapsed": true
+    "width": 651.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -379,9 +378,20 @@
   },
   "active": "f193f9c7fef77a91",
   "lastOpenFiles": [
+    "03 - AREAS/Code/Python/src/Logging.py",
+    "03 - AREAS/Code/Python/src/ESProxy.py",
+    "03 - AREAS/Code/Python/src/DateUtils.py",
+    "03 - AREAS/Code/Python/src/CSV2JSON.py",
+    "00 - INBOX/FrontEnd Testing.md",
+    "00 - INBOX/Git Best Practices.md",
+    "00 - INBOX/Documenting Your Work.md",
+    "00 - INBOX/Creating CommonJS Modules.md",
+    "00 - INBOX/Building Frontend.md",
+    "00 - INBOX/Authoring NPM Modules.md",
+    "00 - INBOX/Atomic Design.md",
+    "00 - INBOX/Python Standards.md",
     "03 - AREAS/Code/Bash/src/open-source-template.sh",
     "00 - INBOX/Markup (HTML) Standards.md",
-    "00 - INBOX/Python Standards.md",
     "00 - INBOX/JavaScript Standards.md",
     "03 - AREAS/Journal/Daily/2023-10-28.md",
     "00 - INBOX/CSS Standards.md",
@@ -397,10 +407,6 @@
     "srcjs/getNews.js",
     "srcjs",
     "Scripts/customJS",
-    "Scripts/Python",
-    "Scripts/CMD",
-    "Scripts/Bash",
-    "Scripts/PowerShell",
     "03 - AREAS/Journal/Daily/2023-10-27.md",
     "00 - INBOX/JavaScript Frameworks.md",
     "00 - INBOX/Untitled 2.md",
@@ -408,13 +414,6 @@
     "00 - INBOX/SourceViewer.md",
     "03 - AREAS/Journal/Daily/2023-10-20.md",
     "FAQ.md",
-    "ABOUT.md",
-    "00 - INBOX/Untitled 1.md",
-    "04 - RESOURCES/_README.md",
-    "00 - INBOX/RStudio Community Answers.md",
-    "00 - INBOX/Geographic Information System (GIS).md",
-    "03 - AREAS/Journal/Daily/2023-10-25.md",
-    "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Git Best Practices",
+      "path": "00 - INBOX/Git Best Practices.md"
+    },
+    {
+      "basename": "FrontEnd Testing",
+      "path": "00 - INBOX/FrontEnd Testing.md"
+    },
+    {
+      "basename": "Documenting Your Work",
+      "path": "00 - INBOX/Documenting Your Work.md"
+    },
+    {
+      "basename": "Creating CommonJS Modules",
+      "path": "00 - INBOX/Creating CommonJS Modules.md"
+    },
+    {
+      "basename": "Building Frontend",
+      "path": "00 - INBOX/Building Frontend.md"
+    },
+    {
+      "basename": "Authoring NPM Modules",
+      "path": "00 - INBOX/Authoring NPM Modules.md"
+    },
+    {
+      "basename": "Atomic Design",
+      "path": "00 - INBOX/Atomic Design.md"
+    },
+    {
       "basename": "Python Standards",
       "path": "00 - INBOX/Python Standards.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Template-Frontmatter",
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
-      "basename": "Template-Readwise",
-      "path": "04 - RESOURCES/Templates/Plugin-Templates/Template-Readwise.md"
-    },
-    {
-      "basename": "PowerShell - Mount Virtual Hard Disk (VHD)",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
-    },
-    {
-      "basename": "Cmd - DISKPART",
-      "path": "03 - AREAS/Code/Cmd/Cmd - DISKPART.md"
-    },
-    {
-      "basename": "2023-10-18",
-      "path": "03 - AREAS/Journal/Daily/2023-10-18.md"
-    },
-    {
-      "basename": "ECommerce",
-      "path": "03 - AREAS/Business/Finance/ECommerce.md"
-    },
-    {
-      "basename": "Funding",
-      "path": "03 - AREAS/Business/Startups/Funding.md"
-    },
-    {
-      "basename": "SaaS",
-      "path": "03 - AREAS/Business/SaaS.md"
     }
   ],
   "omittedPaths": [],
