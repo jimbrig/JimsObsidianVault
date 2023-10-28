@@ -5,12 +5,24 @@
       "path": "03 - AREAS/Journal/Daily/2023-10-28.md"
     },
     {
-      "basename": "Untitled 3",
-      "path": "00 - INBOX/Untitled 3.md"
+      "basename": "JavaScript Standards",
+      "path": "00 - INBOX/JavaScript Standards.md"
+    },
+    {
+      "basename": "CSS Standards",
+      "path": "00 - INBOX/CSS Standards.md"
+    },
+    {
+      "basename": "API Design Standards",
+      "path": "00 - INBOX/API Design Standards.md"
     },
     {
       "basename": "Untitled 4",
       "path": "00 - INBOX/Untitled 4.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "00 - INBOX/Untitled 3.md"
     },
     {
       "basename": "Test",
@@ -187,18 +199,6 @@
     {
       "basename": "DAO",
       "path": "03 - AREAS/Business/DAO.md"
-    },
-    {
-      "basename": "Business",
-      "path": "03 - AREAS/Business/Business.md"
-    },
-    {
-      "basename": "Obsidian - Vault Consolidation and Organization",
-      "path": "02 - PROJECTS/Obsidian - Vault Consolidation and Organization.md"
-    },
-    {
-      "basename": "LCHC - Shopify Webstore",
-      "path": "02 - PROJECTS/LCHC - Shopify Webstore.md"
     }
   ],
   "omittedPaths": [],

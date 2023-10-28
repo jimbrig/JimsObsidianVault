@@ -71,9 +71,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f193f9c7fef77a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Journal/Daily/2023-10-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -365,11 +377,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "921b2315e792b7d2",
+  "active": "f193f9c7fef77a91",
   "lastOpenFiles": [
-    "00 - INBOX/Untitled 3.md",
-    "03 - AREAS/Journal/Daily/2023-10-28.md",
+    "00 - INBOX/CSS Standards.md",
+    "00 - INBOX/JavaScript Standards.md",
+    "00 - INBOX/API Design Standards.md",
+    "00 - INBOX/API Design TidBits.md",
     "00 - INBOX/Untitled 4.md",
+    "03 - AREAS/Journal/Daily/2023-10-28.md",
+    "00 - INBOX/Untitled 3.md",
     "00 - INBOX/Test.md",
     "00 - INBOX/Untitled.md",
     "Scripts/customJS/CommandTable.js",
@@ -399,10 +415,6 @@
     "03 - AREAS/Journal/Daily/2023-10-24.md",
     "INDEX.md",
     "00 - INBOX/_README.md",
-    "Scripts/SourceInputFile.md",
-    "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
-    "03 - AREAS/Code/JavaScript/JavaScript - NPM Project Initialization Script.md",
-    "03 - AREAS/Code/JavaScript/JavaScript - FormatCompactNumbers.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
