@@ -1,3 +1,4 @@
+- 2023-10-30 at 00h21 · [[2023-10-30]]
 - 2023-10-28 at 15h40 · [[Git Best Practices]]
 - 2023-10-28 at 15h40 · [[FrontEnd Testing]]
 - 2023-10-28 at 15h40 · [[Documenting Your Work]]
@@ -47,4 +48,3 @@
 - 2023-10-17 at 19h59 · [[Active Projects]]
 - 2023-10-16 at 21h53 · [[Actuarial Relational Database Sample]]
 - 2023-10-16 at 21h45 · [[Template-Brainstorm]]
-- 2023-10-16 at 21h41 · [[2023-10-16]]

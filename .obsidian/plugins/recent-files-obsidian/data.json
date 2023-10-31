@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell - Mount Virtual Hard Disk (VHD)",
+      "path": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/PowerShell/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/_README.md"
+    },
+    {
       "basename": "2023-10-30",
       "path": "03 - AREAS/Journal/Daily/2023-10-30.md"
     },
@@ -133,10 +149,6 @@
       "path": "03 - AREAS/Journal/Daily/2023-10-24.md"
     },
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/PowerShell/_README.md"
-    },
-    {
       "basename": "INDEX",
       "path": "INDEX.md"
     },
@@ -151,14 +163,6 @@
     {
       "basename": "PowerShell - Add-GodModeShortcut",
       "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/_README.md"
     },
     {
       "basename": "Caddy",
@@ -195,10 +199,6 @@
     {
       "basename": "Digital Systems Overhaul",
       "path": "00 - INBOX/Digital Systems Overhaul.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
     }
   ],
   "omittedPaths": [],

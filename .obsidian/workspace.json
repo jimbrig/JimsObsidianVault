@@ -78,8 +78,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-30.md",
-                "mode": "source",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-30.md"
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-30.md"
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-30.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-30.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-30.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,13 +372,19 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "f193f9c7fef77a91",
   "lastOpenFiles": [
-    "00 - INBOX/Git Best Practices.md",
+    "03 - AREAS/Code/PowerShell/src/_templates/diskpartscript.txt",
+    "03 - AREAS/Code/PowerShell/src/Mount-VirtualDrive.ps1",
+    "03 - AREAS/Code/PowerShell/_README.md",
+    "03 - AREAS/Code/_README.md",
+    "03 - AREAS/_README.md",
     "03 - AREAS/Journal/Daily/2023-10-30.md",
+    "00 - INBOX/Git Best Practices.md",
     "03 - AREAS/Code/Python/src/Logging.py",
     "03 - AREAS/Code/Python/src/ESProxy.py",
     "03 - AREAS/Code/Python/src/DateUtils.py",
@@ -405,14 +411,9 @@
     "srcjs/getObsidianCommands.js",
     "srcjs/getWeather.js",
     "srcjs/getNews.js",
-    "srcjs",
     "03 - AREAS/Journal/Daily/2023-10-27.md",
     "00 - INBOX/JavaScript Frameworks.md",
     "00 - INBOX/Untitled 2.md",
-    "03 - AREAS/Journal/Daily/2023-10-26.md",
-    "00 - INBOX/SourceViewer.md",
-    "03 - AREAS/Journal/Daily/2023-10-20.md",
-    "FAQ.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
