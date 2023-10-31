@@ -376,8 +376,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f193f9c7fef77a91",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
+    "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
+    "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",
+    "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippets.json",
     "03 - AREAS/Code/PowerShell/src/_templates/diskpartscript.txt",
     "03 - AREAS/Code/PowerShell/src/Mount-VirtualDrive.ps1",
     "03 - AREAS/Code/PowerShell/_README.md",
@@ -407,10 +411,6 @@
     "00 - INBOX/Untitled 3.md",
     "00 - INBOX/Test.md",
     "00 - INBOX/Untitled.md",
-    "Scripts/customJS/CommandTable.js",
-    "srcjs/getObsidianCommands.js",
-    "srcjs/getWeather.js",
-    "srcjs/getNews.js",
     "03 - AREAS/Journal/Daily/2023-10-27.md",
     "00 - INBOX/JavaScript Frameworks.md",
     "00 - INBOX/Untitled 2.md",
