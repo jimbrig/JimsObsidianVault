@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-01",
+      "path": "03 - AREAS/Journal/Daily/2023-11-01.md"
+    },
+    {
+      "basename": "Test",
+      "path": "00 - INBOX/Test.md"
+    },
+    {
       "basename": "PowerShell - Mount Virtual Hard Disk (VHD)",
       "path": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "Untitled 3",
       "path": "00 - INBOX/Untitled 3.md"
-    },
-    {
-      "basename": "Test",
-      "path": "00 - INBOX/Test.md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "Excel Spreadsheet Document API",
       "path": "00 - INBOX/Excel Spreadsheet Document API.md"
-    },
-    {
-      "basename": "Digital Systems Overhaul",
-      "path": "00 - INBOX/Digital Systems Overhaul.md"
     }
   ],
   "omittedPaths": [],
