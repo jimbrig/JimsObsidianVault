@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-26.md",
-                "mode": "source",
+                "file": "02 - PROJECTS/R - pkgdev Package.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -78,15 +78,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-01.md",
-                "mode": "source",
+                "file": "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```dataviewjs",
+                "query": "R Package",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-01.md"
+                "file": "02 - PROJECTS/R - pkgdev Package.md"
               }
             }
           },
@@ -181,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-01.md"
+                "file": "02 - PROJECTS/R - pkgdev Package.md"
               }
             }
           },
@@ -225,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-01.md",
+                "file": "02 - PROJECTS/R - pkgdev Package.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-01.md",
+                "file": "02 - PROJECTS/R - pkgdev Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-01.md",
+                "file": "02 - PROJECTS/R - pkgdev Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,10 +377,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f193f9c7fef77a91",
+  "active": "d7638cd21ad9df9e",
   "lastOpenFiles": [
-    "00 - INBOX/Test.md",
+    "04 - RESOURCES/Sources/FleetingNotes/R - Packages for Viewing and Editing Data.md.md",
+    "04 - RESOURCES/Sources/FleetingNotes/R - Connect Shiny to PostgreSQL Database.md.md",
+    "04 - RESOURCES/Sources/FleetingNotes/Plumber REST APIs in R.md.md",
+    "04 - RESOURCES/Sources/FleetingNotes/Plumber Logging.md.md",
+    "03 - AREAS/Tools/Tools - R Packages/R - packagepal.md",
+    "04 - RESOURCES/Sources/FleetingNotes/Github Actions for R.md.md",
+    "03 - AREAS/Journal/Daily/2023-10-26.md",
+    "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
+    "04 - RESOURCES/Sources/ReadWise/Articles/API as a Package Structure.md",
     "03 - AREAS/Journal/Daily/2023-11-01.md",
+    "00 - INBOX/Test.md",
     "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
     "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",
@@ -405,15 +415,6 @@
     "00 - INBOX/Markup (HTML) Standards.md",
     "00 - INBOX/JavaScript Standards.md",
     "03 - AREAS/Journal/Daily/2023-10-28.md",
-    "00 - INBOX/CSS Standards.md",
-    "00 - INBOX/API Design Standards.md",
-    "00 - INBOX/API Design TidBits.md",
-    "00 - INBOX/Untitled 4.md",
-    "00 - INBOX/Untitled 3.md",
-    "00 - INBOX/Untitled.md",
-    "03 - AREAS/Journal/Daily/2023-10-27.md",
-    "00 - INBOX/JavaScript Frameworks.md",
-    "00 - INBOX/Untitled 2.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

@@ -34,37 +34,6 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
 ));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
-// node_modules/safe-eval/index.js
-var require_safe_eval = __commonJS({
-  "node_modules/safe-eval/index.js"(exports, module2) {
-    var vm = require("vm");
-    module2.exports = function safeEval2(code, context, opts) {
-      var sandbox = {};
-      var resultKey = "SAFE_EVAL_" + Math.floor(Math.random() * 1e6);
-      sandbox[resultKey] = {};
-      var clearContext = `
-    (function(){
-      Function = undefined;
-      const keys = Object.getOwnPropertyNames(this).concat(['constructor']);
-      keys.forEach((key) => {
-        const item = this[key];
-        if(!item || typeof item.constructor !== 'function') return;
-        this[key].constructor = undefined;
-      });
-    })();
-  `;
-      code = clearContext + resultKey + "=" + code;
-      if (context) {
-        Object.keys(context).forEach(function(key) {
-          sandbox[key] = context[key];
-        });
-      }
-      vm.runInNewContext(code, sandbox, opts);
-      return sandbox[resultKey];
-    };
-  }
-});
-
 // node_modules/diff-match-patch/index.js
 var require_diff_match_patch = __commonJS({
   "node_modules/diff-match-patch/index.js"(exports, module2) {
@@ -9117,8 +9086,46 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 var import_obsidian5 = require("obsidian");
 
-// src/utils/evalFromExpression.ts
-var import_safe_eval = __toESM(require_safe_eval());
+// node_modules/ts-dedent/esm/index.js
+function dedent(templ) {
+  var values = [];
+  for (var _i = 1; _i < arguments.length; _i++) {
+    values[_i - 1] = arguments[_i];
+  }
+  var strings = Array.from(typeof templ === "string" ? [templ] : templ);
+  strings[strings.length - 1] = strings[strings.length - 1].replace(/\r?\n([\t ]*)$/, "");
+  var indentLengths = strings.reduce(function(arr, str2) {
+    var matches = str2.match(/\n([\t ]+|(?!\s).)/g);
+    if (matches) {
+      return arr.concat(matches.map(function(match) {
+        var _a, _b;
+        return (_b = (_a = match.match(/[\t ]/g)) === null || _a === void 0 ? void 0 : _a.length) !== null && _b !== void 0 ? _b : 0;
+      }));
+    }
+    return arr;
+  }, []);
+  if (indentLengths.length) {
+    var pattern_1 = new RegExp("\n[	 ]{" + Math.min.apply(Math, indentLengths) + "}", "g");
+    strings = strings.map(function(str2) {
+      return str2.replace(pattern_1, "\n");
+    });
+  }
+  strings[0] = strings[0].replace(/^\r?\n/, "");
+  var string = strings[0];
+  values.forEach(function(value, i) {
+    var endentations = string.match(/(?:^|\n)( *)$/);
+    var endentation = endentations ? endentations[1] : "";
+    var indentedValue = value;
+    if (typeof value === "string" && value.includes("\n")) {
+      indentedValue = String(value).split("\n").map(function(str2, i2) {
+        return i2 === 0 ? str2 : "" + endentation + str2;
+      }).join("\n");
+    }
+    string += indentedValue + strings[i + 1];
+  });
+  return string;
+}
+var esm_default = dedent;
 
 // node_modules/zod/lib/index.mjs
 var util;
@@ -12853,7 +12860,14 @@ var recursivePrmitiveSchema = z.lazy(
 );
 function evalFromExpression(expression, context) {
   try {
-    const object = (0, import_safe_eval.default)(expression, context);
+    const object = new Function(
+      ...Object.keys(context).sort(),
+      esm_default`
+			return ${expression}
+		    `
+    )(
+      ...Object.keys(context).sort().map((key) => context[key])
+    );
     if (typeof object !== "object") {
       return {
         success: false,
@@ -12877,6 +12891,70 @@ function evalFromExpression(expression, context) {
       }
     };
   }
+}
+
+// src/utils/deepInclude.ts
+function deepInclude(obj1, obj2) {
+  if (obj1 === null && obj2 === null) {
+    return false;
+  }
+  if (typeof obj1 !== "object" || obj1 === null) {
+    return obj1 === obj2;
+  }
+  if (typeof obj2 !== "object" || obj2 === null) {
+    return false;
+  }
+  for (const key in obj2) {
+    if (!deepInclude(obj1[key], obj2[key])) {
+      return false;
+    }
+  }
+  return true;
+}
+
+// src/utils/obsidian.ts
+var import_obsidian = require("obsidian");
+
+// src/utils/regex.ts
+var fencedRegexTemplate = "^XXX\\.*?\n(?:((?:.|\n)*?)\n)?XXX(?=\\s|$)$";
+var yamlRegex = /^---\n((?:(((?!---)(?:.|\n)*?)\n)?))---(?=\n|$)/;
+var backtickBlockRegexTemplate = fencedRegexTemplate.replaceAll(
+  "X",
+  "`"
+);
+var tildeBlockRegexTemplate = fencedRegexTemplate.replaceAll("X", "~");
+var indentedBlockRegex = "^((	|( {4})).*\n)+";
+var codeBlockRegex = new RegExp(
+  `${backtickBlockRegexTemplate}|${tildeBlockRegexTemplate}|${indentedBlockRegex}`,
+  "gm"
+);
+var lineStartingWithWhitespaceOrBlockquoteTemplate = `\\s*(>\\s*)*`;
+var customIgnoreAllStartIndicator = generateHTMLLinterCommentWithSpecificTextAndWhitespaceRegexMatch(true);
+var customIgnoreAllEndIndicator = generateHTMLLinterCommentWithSpecificTextAndWhitespaceRegexMatch(false);
+var checklistBoxIndicator = "\\[.\\]";
+var checklistBoxStartsTextRegex = new RegExp(
+  `^${checklistBoxIndicator}`
+);
+var indentedOrBlockquoteNestedChecklistIndicatorRegex = new RegExp(
+  `^${lineStartingWithWhitespaceOrBlockquoteTemplate}- ${checklistBoxIndicator} `
+);
+var nonBlockquoteChecklistRegex = new RegExp(
+  `^\\s*- ${checklistBoxIndicator} `
+);
+function generateHTMLLinterCommentWithSpecificTextAndWhitespaceRegexMatch(isStart) {
+  const regexTemplate = "<!-{2,} *linter-{ENDING_TEXT} *-{2,}>";
+  let endingText = "";
+  if (isStart) {
+    endingText += "disable";
+  } else {
+    endingText += "enable";
+  }
+  return new RegExp(regexTemplate.replace("{ENDING_TEXT}", endingText), "g");
+}
+
+// src/utils/strings.ts
+function stripCr(text) {
+  return text.replace(/\r/g, "");
 }
 
 // node_modules/js-yaml/dist/js-yaml.mjs
@@ -15536,55 +15614,7 @@ var safeLoad = renamed("safeLoad", "load");
 var safeLoadAll = renamed("safeLoadAll", "loadAll");
 var safeDump = renamed("safeDump", "dump");
 
-// src/utils/regex.ts
-var fencedRegexTemplate = "^XXX\\.*?\n(?:((?:.|\n)*?)\n)?XXX(?=\\s|$)$";
-var yamlRegex = /^---\n((?:(((?!---)(?:.|\n)*?)\n)?))---(?=\n|$)/;
-var backtickBlockRegexTemplate = fencedRegexTemplate.replaceAll(
-  "X",
-  "`"
-);
-var tildeBlockRegexTemplate = fencedRegexTemplate.replaceAll("X", "~");
-var indentedBlockRegex = "^((	|( {4})).*\n)+";
-var codeBlockRegex = new RegExp(
-  `${backtickBlockRegexTemplate}|${tildeBlockRegexTemplate}|${indentedBlockRegex}`,
-  "gm"
-);
-var lineStartingWithWhitespaceOrBlockquoteTemplate = `\\s*(>\\s*)*`;
-var customIgnoreAllStartIndicator = generateHTMLLinterCommentWithSpecificTextAndWhitespaceRegexMatch(true);
-var customIgnoreAllEndIndicator = generateHTMLLinterCommentWithSpecificTextAndWhitespaceRegexMatch(false);
-var checklistBoxIndicator = "\\[.\\]";
-var checklistBoxStartsTextRegex = new RegExp(
-  `^${checklistBoxIndicator}`
-);
-var indentedOrBlockquoteNestedChecklistIndicatorRegex = new RegExp(
-  `^${lineStartingWithWhitespaceOrBlockquoteTemplate}- ${checklistBoxIndicator} `
-);
-var nonBlockquoteChecklistRegex = new RegExp(
-  `^\\s*- ${checklistBoxIndicator} `
-);
-function generateHTMLLinterCommentWithSpecificTextAndWhitespaceRegexMatch(isStart) {
-  const regexTemplate = "<!-{2,} *linter-{ENDING_TEXT} *-{2,}>";
-  let endingText = "";
-  if (isStart) {
-    endingText += "disable";
-  } else {
-    endingText += "enable";
-  }
-  return new RegExp(regexTemplate.replace("{ENDING_TEXT}", endingText), "g");
-}
-
-// src/utils/strings.ts
-function stripCr(text) {
-  return text.replace(/\r/g, "");
-}
-
 // src/utils/yaml.ts
-function initYAML(text) {
-  if (text.match(yamlRegex) === null) {
-    text = "---\n---\n" + text;
-  }
-  return text;
-}
 function getYAMLText(text) {
   const yaml = text.match(yamlRegex);
   if (!yaml) {
@@ -15613,24 +15643,7 @@ var splitYamlAndBody = (markdown) => {
   };
 };
 
-// src/utils/deepInclude.ts
-function deepInclude(obj1, obj2) {
-  if (typeof obj1 !== "object" || obj1 === null) {
-    return obj1 === obj2;
-  }
-  if (typeof obj2 !== "object" || obj2 === null) {
-    return false;
-  }
-  for (const key in obj2) {
-    if (!deepInclude(obj1[key], obj2[key])) {
-      return false;
-    }
-  }
-  return true;
-}
-
 // src/utils/obsidian.ts
-var import_obsidian = require("obsidian");
 var import_diff_match_patch = __toESM(require_diff_match_patch());
 function isMarkdownFile(file) {
   return file && file.extension === "md";
@@ -15733,10 +15746,10 @@ var setRealTimePreview = (element, result, context) => {
     console.error(result.error.cause);
     if (context)
       console.log(context);
-    element.innerHTML = result.error.message;
+    element.setText(result.error.message);
     element.style.color = "red";
   } else {
-    element.innerHTML = JSON.stringify(result.object, null, 2);
+    element.setText(JSON.stringify(result.object, null, 2));
     element.style.color = "white";
   }
 };
@@ -15747,6 +15760,23 @@ var SettingTab = class extends import_obsidian3.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
+  }
+  updatePreview(file, data, realTimePreviewElement) {
+    var _a, _b;
+    const context = {
+      file: {
+        ...file,
+        tags: (_b = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.tags) != null ? _b : [],
+        properties: data == null ? void 0 : data.yamlObj
+      },
+      dv: (0, import_obsidian_dataview.getAPI)(this.app),
+      z
+    };
+    const result = evalFromExpression(
+      this.plugin.settings.template,
+      context
+    );
+    setRealTimePreview(realTimePreviewElement, result, context);
   }
   getSampleFile() {
     var _a;
@@ -15770,109 +15800,80 @@ var SettingTab = class extends import_obsidian3.PluginSettingTab {
     return (_a = filesInFolder[0]) != null ? _a : filesInRoot[0];
   }
   async display() {
-    var _a;
     const { containerEl } = this;
     containerEl.empty();
     const sampleFile = this.getSampleFile();
     const data = sampleFile ? await getDataFromFile(this.plugin, sampleFile) : void 0;
-    const fragment = new DocumentFragment();
-    const desc = document.createElement("div");
-    desc.innerHTML = [
-      `A map from a key to value.`,
-      `for example, the following frontmatter template will cause the file "${sampleFile == null ? void 0 : sampleFile.path}" to have the following frontmatter:`,
-      "",
-      `folder: file.parent.path`,
-      "title: file.basename",
-      "",
-      "\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193 generate \u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193",
-      "",
-      `folder: ${(_a = sampleFile == null ? void 0 : sampleFile.parent) == null ? void 0 : _a.path}`,
-      `title: ${sampleFile == null ? void 0 : sampleFile.basename}`,
-      ``,
-      `Note: If you see error, it means that the template is not valid. Please check the console for more information.`
-    ].join("<br />");
-    fragment.appendChild(desc);
-    new import_obsidian3.Setting(containerEl).setName("Frontmatter Template").setDesc(fragment).addTextArea((text) => {
+    const templateSetting = new import_obsidian3.Setting(containerEl).setName("Frontmatter template").setDesc(`Current Demo file: ${sampleFile == null ? void 0 : sampleFile.path}`).addTextArea((text) => {
       const realTimePreview = document.createElement("pre");
-      realTimePreview.style.textAlign = "left";
-      realTimePreview.style.maxWidth = "300px";
-      realTimePreview.style.whiteSpace = "pre-wrap";
-      realTimePreview.style.color = "white";
+      realTimePreview.classList.add(
+        "frontmatter-generator-settings-real-time-preview"
+      );
       if (sampleFile) {
-        const context = {
-          file: {
-            ...sampleFile,
-            properties: data == null ? void 0 : data.yamlObj
-          },
-          dv: (0, import_obsidian_dataview.getAPI)(this.app)
-        };
-        const result = evalFromExpression(
-          this.plugin.settings.template,
-          context
-        );
-        setRealTimePreview(realTimePreview, result, context);
+        this.updatePreview(sampleFile, data, realTimePreview);
       }
       text.setPlaceholder("Enter your template").setValue(this.plugin.settings.template).onChange(async (value) => {
         this.plugin.settings.template = value;
         await this.plugin.saveSettings();
         if (!sampleFile)
           return;
-        const context = {
-          file: {
-            ...sampleFile,
-            properties: data == null ? void 0 : data.yamlObj
-          },
-          dv: (0, import_obsidian_dataview.getAPI)(this.app)
-        };
-        const result = evalFromExpression(
-          this.plugin.settings.template,
-          context
-        );
-        setRealTimePreview(realTimePreview, result, context);
+        this.updatePreview(sampleFile, data, realTimePreview);
       });
-      text.inputEl.style.minWidth = text.inputEl.style.maxWidth = "300px";
-      text.inputEl.style.minHeight = "200px";
+      text.inputEl.addClass("frontmatter-generator-settings-input");
       if (text.inputEl.parentElement) {
-        text.inputEl.parentElement.style.flexDirection = "column";
-        text.inputEl.parentElement.style.alignItems = "flex-start";
-        text.inputEl.parentElement.style.maxWidth = "300px";
+        text.inputEl.parentElement.addClass(
+          "frontmatter-generator-settings-input-outer"
+        );
       }
       text.inputEl.insertAdjacentElement("afterend", realTimePreview);
       return text;
     });
-    new import_obsidian3.Setting(containerEl).setName("Ignore folders").setDesc("Folders to ignore. One folder per line.").addTextArea((text) => {
+    templateSetting.setClass(
+      "frontmatter-generator-settings-template-setting"
+    );
+    const ignoredFoldersSetting = new import_obsidian3.Setting(containerEl).setName("Ignore folders").setDesc("Folders to ignore. One folder per line.").addTextArea((text) => {
       const realTimePreview = document.createElement("pre");
-      realTimePreview.style.textAlign = "left";
-      realTimePreview.style.maxWidth = "300px";
-      realTimePreview.style.whiteSpace = "pre-wrap";
-      realTimePreview.style.color = "white";
-      realTimePreview.innerHTML = JSON.stringify(
-        this.plugin.settings.internal.ignoredFolders,
-        null,
-        2
+      realTimePreview.classList.add(
+        "frontmatter-generator-settings-real-time-preview"
       );
-      realTimePreview.style.color = "white";
+      realTimePreview.setText(
+        JSON.stringify(
+          this.plugin.settings.internal.ignoredFolders,
+          null,
+          2
+        )
+      );
       text.setPlaceholder("Enter folders to ignore").setValue(this.plugin.settings.folderToIgnore).onChange(async (value) => {
         this.plugin.settings.folderToIgnore = value;
         this.plugin.settings.internal.ignoredFolders = value.split("\n").map((folder) => folder.trim()).filter((folder) => folder !== "");
         await this.plugin.saveSettings();
         if (!sampleFile)
           return;
-        realTimePreview.innerHTML = JSON.stringify(
-          this.plugin.settings.internal.ignoredFolders,
-          null,
-          2
+        realTimePreview.setText(
+          JSON.stringify(
+            this.plugin.settings.internal.ignoredFolders,
+            null,
+            2
+          )
         );
       });
-      text.inputEl.style.minWidth = text.inputEl.style.maxWidth = "300px";
-      text.inputEl.style.minHeight = "200px";
+      text.inputEl.addClass("frontmatter-generator-settings-input");
       if (text.inputEl.parentElement) {
-        text.inputEl.parentElement.style.flexDirection = "column";
-        text.inputEl.parentElement.style.alignItems = "flex-start";
-        text.inputEl.parentElement.style.maxWidth = "300px";
+        text.inputEl.parentElement.addClass(
+          "frontmatter-generator-settings-input-outer"
+        );
       }
       text.inputEl.insertAdjacentElement("afterend", realTimePreview);
       return text;
+    });
+    ignoredFoldersSetting.setClass(
+      "frontmatter-generator-settings-ignored-folders-setting"
+    );
+    new import_obsidian3.Setting(containerEl).setName("Sort Yaml key").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.sortYamlKey).onChange(async (value) => {
+        this.plugin.settings.sortYamlKey = value;
+        await this.plugin.saveSettings();
+      });
     });
   }
 };
@@ -15883,11 +15884,40 @@ var DEFAULT_SETTINGS = {
   folderToIgnore: "",
   internal: {
     ignoredFolders: []
-  }
+  },
+  sortYamlKey: true
 };
 
 // src/main.ts
 var import_obsidian_dataview2 = __toESM(require_lib());
+
+// src/utils/deepRemoveNull.ts
+function deepRemoveNull(obj, obj2) {
+  if (typeof obj !== "object" || obj === null) {
+    return obj;
+  }
+  const result = Array.isArray(obj) ? [] : {};
+  for (const key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      const keyExistsInObj2 = typeof obj2 === "object" && obj2 !== null && key in obj2;
+      const shouldBeRemoved = keyExistsInObj2 && obj2[key] === null;
+      if (!shouldBeRemoved) {
+        if (typeof obj[key] === "object" && obj[key] !== null) {
+          result[key] = deepRemoveNull(
+            obj[key],
+            // @ts-ignore
+            keyExistsInObj2 ? obj2[key] : void 0
+          );
+        } else {
+          result[key] = obj[key];
+        }
+      }
+    }
+  }
+  return result;
+}
+
+// src/main.ts
 var userClickTimeout = 5e3;
 var isIgnoredByFolder = (settings, file) => {
   var _a;
@@ -15899,10 +15929,7 @@ function shouldIgnoreFile(settings, file, data) {
   if (isIgnoredByFolder(settings, file))
     return true;
   if (data) {
-    const newText = initYAML(data.text);
-    const yaml = getYAMLText(newText);
-    const yamlObj = (0, import_obsidian5.parseYaml)(yaml);
-    if (yamlObj && yamlObj["yaml-gen-ignore" /* IGNORE */])
+    if (data.yamlObj && data.yamlObj["yaml-gen-ignore" /* IGNORE */])
       return true;
   }
   return false;
@@ -15910,7 +15937,7 @@ function shouldIgnoreFile(settings, file, data) {
 function createNotice(message, color = "white") {
   const fragment = new DocumentFragment();
   const desc = document.createElement("div");
-  desc.innerHTML = `Obsidian Frontmatter Generator: ${message}`;
+  desc.setText(`Obsidian Frontmatter Generator: ${message}`);
   desc.style.color = color;
   fragment.appendChild(desc);
   new import_obsidian5.Notice(fragment);
@@ -15918,31 +15945,42 @@ function createNotice(message, color = "white") {
 function isObjectEmpty(obj) {
   return obj && typeof obj === "object" && Object.keys(obj).length === 0;
 }
-function getNewTextFromFile(settings, file, data, dv) {
-  var _a;
-  if (shouldIgnoreFile(settings, file, data))
-    return;
-  const result = evalFromExpression(settings.template, {
+function getNewTextFromFile(template, file, data, plugin) {
+  var _a, _b, _c;
+  const app = plugin.app;
+  const dv = (0, import_obsidian_dataview2.getAPI)(app);
+  const result = evalFromExpression(template, {
     file: {
       ...file,
+      tags: (_b = (_a = app.metadataCache.getFileCache(file)) == null ? void 0 : _a.tags) != null ? _b : [],
       properties: data.yamlObj
     },
-    dv
+    dv,
+    z
   });
   if (!result.success) {
     createNotice("Invalid template", "red");
+    console.error(result.error.cause);
     return;
   }
   if (isObjectEmpty(result.object))
     return;
-  if (data.yamlObj && deepInclude(data.yamlObj, result.object))
+  if (data.yamlObj && deepInclude(data.yamlObj, result.object)) {
     return;
+  }
   const yamlObj = {
-    ...(_a = data.yamlObj) != null ? _a : {},
+    ...(_c = data.yamlObj) != null ? _c : {},
     ...result.object
   };
   Object.assign(yamlObj, result.object);
-  const yamlText = (0, import_obsidian5.stringifyYaml)(yamlObj);
+  const noNull = deepRemoveNull(yamlObj, result.object);
+  const sortedYamlObj = Object.keys(noNull).sort().reduce((acc, key) => {
+    acc[key] = noNull[key];
+    return acc;
+  }, {});
+  const yamlText = (0, import_obsidian5.stringifyYaml)(
+    plugin.settings.sortYamlKey ? sortedYamlObj : noNull
+  );
   const newText = `---
 ${yamlText}---
 
@@ -16018,7 +16056,6 @@ var FrontmatterGeneratorPlugin = class extends import_obsidian5.Plugin {
   }
   async onload() {
     await this.loadSettings();
-    this.dv = (0, import_obsidian_dataview2.getAPI)(this.app);
     this.registerEventsAndSaveCallback();
     this.addCommands();
     this.addSettingTab(new SettingTab(this.app, this));
@@ -16039,22 +16076,73 @@ var FrontmatterGeneratorPlugin = class extends import_obsidian5.Plugin {
   async saveSettings() {
     await this.saveData(this.settings);
   }
+  /**
+   * 1. check the file is ignored
+   * 2.
+   * @param file
+   * @param editor
+   */
   runFileSync(file, editor) {
     const data = getDataFromTextSync(editor.getValue());
-    const newText = getNewTextFromFile(this.settings, file, data, this.dv);
+    if (shouldIgnoreFile(this.settings, file, data))
+      return;
+    const newText = getNewTextFromFile(
+      this.settings.template,
+      file,
+      data,
+      this
+    );
     if (newText) {
       writeFile(editor, data.text, newText);
     }
   }
   async runFile(file) {
     const data = await getDataFromFile(this, file);
-    const newText = getNewTextFromFile(this.settings, file, data, this.dv);
+    if (shouldIgnoreFile(this.settings, file, data))
+      return;
+    const newText = getNewTextFromFile(
+      this.settings.template,
+      file,
+      data,
+      this
+    );
     if (newText)
       await this.app.vault.modify(file, newText);
   }
   registerEventsAndSaveCallback() {
     const saveCommandDefinition = this.app.commands.commands["editor:save-file"];
     this.previousSaveCommand = saveCommandDefinition.callback;
+    const eventRef = this.app.workspace.on(
+      "file-menu",
+      async (menu, file) => {
+        if (file instanceof import_obsidian5.TFile && isMarkdownFile(file)) {
+          menu.addItem((item) => {
+            item.setTitle(
+              "Generate frontmatter for this file"
+            ).onClick(async () => {
+              var _a;
+              const activeFile = this.app.workspace.getActiveFile();
+              const editor = (_a = this.app.workspace.getActiveViewOfType(
+                import_obsidian5.MarkdownView
+              )) == null ? void 0 : _a.editor;
+              if (activeFile === file && editor) {
+                this.runFileSync(file, editor);
+              } else {
+                await this.runFile(file);
+              }
+            });
+          });
+        } else if (file instanceof import_obsidian5.TFolder) {
+          menu.addItem((item) => {
+            item.setTitle(
+              "Generate frontmatter in this folder"
+            ).onClick(() => this.runAllFilesInFolder(file));
+          });
+        }
+      }
+    );
+    this.registerEvent(eventRef);
+    this.eventRefs.push(eventRef);
     if (typeof this.previousSaveCommand === "function") {
       saveCommandDefinition.callback = async () => {
         var _a;
@@ -16074,6 +16162,9 @@ var FrontmatterGeneratorPlugin = class extends import_obsidian5.Plugin {
     }
   }
   unregisterEventsAndSaveCallback() {
+    for (const eventRef of this.eventRefs) {
+      this.app.workspace.offref(eventRef);
+    }
     const saveCommandDefinition = this.app.commands.commands["editor:save-file"];
     saveCommandDefinition.callback = this.previousSaveCommand;
   }

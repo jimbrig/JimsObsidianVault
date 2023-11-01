@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "R - pkgdev Package",
+      "path": "02 - PROJECTS/R - pkgdev Package.md"
+    },
+    {
+      "basename": "R - Packages for Viewing and Editing Data.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/R - Packages for Viewing and Editing Data.md.md"
+    },
+    {
+      "basename": "R - Connect Shiny to PostgreSQL Database.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/R - Connect Shiny to PostgreSQL Database.md.md"
+    },
+    {
+      "basename": "Plumber REST APIs in R.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/Plumber REST APIs in R.md.md"
+    },
+    {
+      "basename": "Plumber Logging.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/Plumber Logging.md.md"
+    },
+    {
+      "basename": "R - packagepal",
+      "path": "03 - AREAS/Tools/Tools - R Packages/R - packagepal.md"
+    },
+    {
+      "basename": "Github Actions for R.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/Github Actions for R.md.md"
+    },
+    {
+      "basename": "2023-10-26",
+      "path": "03 - AREAS/Journal/Daily/2023-10-26.md"
+    },
+    {
+      "basename": "Data Validation Packages in R.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md"
+    },
+    {
+      "basename": "API as a Package Structure",
+      "path": "04 - RESOURCES/Sources/ReadWise/Articles/API as a Package Structure.md"
+    },
+    {
       "basename": "2023-11-01",
       "path": "03 - AREAS/Journal/Daily/2023-11-01.md"
     },
@@ -105,10 +145,6 @@
       "path": "00 - INBOX/Untitled 2.md"
     },
     {
-      "basename": "2023-10-26",
-      "path": "03 - AREAS/Journal/Daily/2023-10-26.md"
-    },
-    {
       "basename": "SourceViewer",
       "path": "00 - INBOX/SourceViewer.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Template-Folder-README",
       "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "PowerShell - Add-GodModeShortcut",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "Caddy",
-      "path": "00 - INBOX/Caddy.md"
-    },
-    {
-      "basename": "Google Fonts",
-      "path": "00 - INBOX/Google Fonts.md"
-    },
-    {
-      "basename": "CleanMgr+",
-      "path": "00 - INBOX/CleanMgr+.md"
-    },
-    {
-      "basename": "Azure Naming Tool",
-      "path": "00 - INBOX/Azure Naming Tool.md"
-    },
-    {
-      "basename": "Artificial Intelligence Concepts",
-      "path": "00 - INBOX/Artificial Intelligence Concepts.md"
-    },
-    {
-      "basename": "An Exploration of Data vs Metadata",
-      "path": "00 - INBOX/An Exploration of Data vs Metadata.md"
-    },
-    {
-      "basename": "Actuarial Relational Database Sample",
-      "path": "00 - INBOX/Actuarial Relational Database Sample.md"
-    },
-    {
-      "basename": "Excel Spreadsheet Document API",
-      "path": "00 - INBOX/Excel Spreadsheet Document API.md"
     }
   ],
   "omittedPaths": [],

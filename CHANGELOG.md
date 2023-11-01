@@ -1,3 +1,6 @@
+- 2023-11-01 at 09h08 · [[Github Actions for R.md]]
+- 2023-11-01 at 09h08 · [[Data Validation Packages in R.md]]
+- 2023-11-01 at 08h51 · [[2023-11-01]]
 - 2023-10-30 at 00h21 · [[2023-10-30]]
 - 2023-10-28 at 15h40 · [[Git Best Practices]]
 - 2023-10-28 at 15h40 · [[FrontEnd Testing]]
@@ -45,6 +48,3 @@
 - 2023-10-18 at 18h26 · [[Cmd - FSUTIL]]
 - 2023-10-18 at 18h26 · [[_README]]
 - 2023-10-18 at 18h20 · [[2023-10-18]]
-- 2023-10-17 at 19h59 · [[Active Projects]]
-- 2023-10-16 at 21h53 · [[Actuarial Relational Database Sample]]
-- 2023-10-16 at 21h45 · [[Template-Brainstorm]]
