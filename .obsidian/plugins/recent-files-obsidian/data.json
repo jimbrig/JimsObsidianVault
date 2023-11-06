@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-05",
+      "path": "03 - AREAS/Journal/Daily/2023-11-05.md"
+    },
+    {
       "basename": "R - pkgdev Package",
       "path": "02 - PROJECTS/R - pkgdev Package.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "00 - INBOX/_README.md"
-    },
-    {
-      "basename": "Template-Folder-README",
-      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
     }
   ],
   "omittedPaths": [],

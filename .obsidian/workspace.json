@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
-                "mode": "preview",
+                "file": "03 - AREAS/Journal/Daily/2023-11-05.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-05.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-05.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - PROJECTS/R - pkgdev Package.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,6 +379,8 @@
   },
   "active": "d7638cd21ad9df9e",
   "lastOpenFiles": [
+    "02 - PROJECTS/R - pkgdev Package.md",
+    "03 - AREAS/Journal/Daily/2023-11-05.md",
     "04 - RESOURCES/Sources/FleetingNotes/R - Packages for Viewing and Editing Data.md.md",
     "04 - RESOURCES/Sources/FleetingNotes/R - Connect Shiny to PostgreSQL Database.md.md",
     "04 - RESOURCES/Sources/FleetingNotes/Plumber REST APIs in R.md.md",
@@ -413,8 +415,6 @@
     "00 - INBOX/Atomic Design.md",
     "00 - INBOX/Python Standards.md",
     "00 - INBOX/Markup (HTML) Standards.md",
-    "00 - INBOX/JavaScript Standards.md",
-    "03 - AREAS/Journal/Daily/2023-10-28.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",
