@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Clipper",
+      "path": "Inbox/Clips/Obsidian Clipper.md"
+    },
+    {
+      "basename": "_README",
+      "path": "00 - INBOX/_README.md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
       "basename": "2023-11-05",
       "path": "03 - AREAS/Journal/Daily/2023-11-05.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "00 - INBOX/Untitled 4.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "00 - INBOX/Untitled 3.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "00 - INBOX/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "00 - INBOX/Untitled 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00 - INBOX/Untitled.md"
     },
     {
       "basename": "R - pkgdev Package",
@@ -125,28 +157,12 @@
       "path": "00 - INBOX/API Design Standards.md"
     },
     {
-      "basename": "Untitled 4",
-      "path": "00 - INBOX/Untitled 4.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "00 - INBOX/Untitled 3.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "00 - INBOX/Untitled.md"
-    },
-    {
       "basename": "2023-10-27",
       "path": "03 - AREAS/Journal/Daily/2023-10-27.md"
     },
     {
       "basename": "JavaScript Frameworks",
       "path": "00 - INBOX/JavaScript Frameworks.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "00 - INBOX/Untitled 2.md"
     },
     {
       "basename": "SourceViewer",
@@ -163,10 +179,6 @@
     {
       "basename": "ABOUT",
       "path": "ABOUT.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "00 - INBOX/Untitled 1.md"
     },
     {
       "basename": "_README",
@@ -187,18 +199,6 @@
     {
       "basename": "PowerShell - Get-PSGalleryDownloads",
       "path": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
-    },
-    {
-      "basename": "2023-10-24",
-      "path": "03 - AREAS/Journal/Daily/2023-10-24.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "INDEX.md"
-    },
-    {
-      "basename": "_README",
-      "path": "00 - INBOX/_README.md"
     }
   ],
   "omittedPaths": [],
