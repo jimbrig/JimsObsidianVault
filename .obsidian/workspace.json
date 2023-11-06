@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0744e2f31f1aef2e",
+        "id": "5f5dd13ef84f5019",
         "type": "tabs",
         "children": [
           {
-            "id": "2cc51177f2f9844f",
+            "id": "a8d2a59c1c2f1704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Test.md",
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "921b2315e792b7d2",
+            "id": "ec5512f1e56c12ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-10-28.md",
+                "file": "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,59 +34,20 @@
             }
           },
           {
-            "id": "1054134f35e68924",
+            "id": "ab40af138652bd8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Untitled 4.md",
+                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4625a39ae70b59a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d7638cd21ad9df9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f193f9c7fef77a91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md"
+                "file": "00 - INBOX/Espanso for Obsidian Setup.md"
               }
             }
           },
@@ -181,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md"
+                "file": "00 - INBOX/Espanso for Obsidian Setup.md"
               }
             }
           },
@@ -226,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md",
+                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md",
+                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Clips/Obsidian Clipper.md",
+                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -377,20 +339,27 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d7638cd21ad9df9e",
+  "active": "ab40af138652bd8d",
   "lastOpenFiles": [
-    "00 - INBOX/_README.md",
+    "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
+    "00 - INBOX/Espanso for Obsidian Setup.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+    "04 - RESOURCES/_README.md",
+    "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
+    "00 - INBOX/Test.md",
+    "03 - AREAS/Journal/Daily/2023-10-28.md",
+    "00 - INBOX/Untitled 4.md",
+    "00 - INBOX/Untitled.md",
     "Inbox/Clips/Obsidian Clipper.md",
+    "00 - INBOX/_README.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",
     "CHANGELOG.md",
     "03 - AREAS/Journal/Daily/2023-11-05.md",
-    "00 - INBOX/Untitled 4.md",
     "00 - INBOX/Untitled 3.md",
     "00 - INBOX/Untitled 2.md",
     "00 - INBOX/Untitled 1.md",
-    "00 - INBOX/Untitled.md",
     "logs/xvba_debug.log",
     "logs",
     "02 - PROJECTS/R - pkgdev Package.md",
@@ -401,20 +370,13 @@
     "03 - AREAS/Tools/Tools - R Packages/R - packagepal.md",
     "04 - RESOURCES/Sources/FleetingNotes/Github Actions for R.md.md",
     "03 - AREAS/Journal/Daily/2023-10-26.md",
-    "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
     "04 - RESOURCES/Sources/ReadWise/Articles/API as a Package Structure.md",
     "03 - AREAS/Journal/Daily/2023-11-01.md",
-    "00 - INBOX/Test.md",
     "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
     "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippets.json",
     "03 - AREAS/Code/PowerShell/src/_templates/diskpartscript.txt",
-    "03 - AREAS/Code/PowerShell/_README.md",
-    "03 - AREAS/Code/_README.md",
-    "03 - AREAS/_README.md",
-    "03 - AREAS/Journal/Daily/2023-10-30.md",
-    "00 - INBOX/Git Best Practices.md",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-workbench-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-team-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-package-manager-full-color.svg",

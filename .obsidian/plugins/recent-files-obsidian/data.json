@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Espanso for Obsidian Setup",
+      "path": "00 - INBOX/Espanso for Obsidian Setup.md"
+    },
+    {
+      "basename": "PowerShell Commands Master List",
+      "path": "04 - RESOURCES/Lists/PowerShell Commands Master List.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "Data Validation Packages in R.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md"
+    },
+    {
+      "basename": "Test",
+      "path": "00 - INBOX/Test.md"
+    },
+    {
+      "basename": "2023-10-28",
+      "path": "03 - AREAS/Journal/Daily/2023-10-28.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "00 - INBOX/Untitled 4.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00 - INBOX/Untitled.md"
+    },
+    {
       "basename": "Obsidian Clipper",
       "path": "Inbox/Clips/Obsidian Clipper.md"
     },
@@ -17,10 +53,6 @@
       "path": "03 - AREAS/Journal/Daily/2023-11-05.md"
     },
     {
-      "basename": "Untitled 4",
-      "path": "00 - INBOX/Untitled 4.md"
-    },
-    {
       "basename": "Untitled 3",
       "path": "00 - INBOX/Untitled 3.md"
     },
@@ -31,10 +63,6 @@
     {
       "basename": "Untitled 1",
       "path": "00 - INBOX/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "00 - INBOX/Untitled.md"
     },
     {
       "basename": "R - pkgdev Package",
@@ -69,20 +97,12 @@
       "path": "03 - AREAS/Journal/Daily/2023-10-26.md"
     },
     {
-      "basename": "Data Validation Packages in R.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md"
-    },
-    {
       "basename": "API as a Package Structure",
       "path": "04 - RESOURCES/Sources/ReadWise/Articles/API as a Package Structure.md"
     },
     {
       "basename": "2023-11-01",
       "path": "03 - AREAS/Journal/Daily/2023-11-01.md"
-    },
-    {
-      "basename": "Test",
-      "path": "00 - INBOX/Test.md"
     },
     {
       "basename": "PowerShell - Mount Virtual Hard Disk (VHD)",
@@ -145,10 +165,6 @@
       "path": "00 - INBOX/JavaScript Standards.md"
     },
     {
-      "basename": "2023-10-28",
-      "path": "03 - AREAS/Journal/Daily/2023-10-28.md"
-    },
-    {
       "basename": "CSS Standards",
       "path": "00 - INBOX/CSS Standards.md"
     },
@@ -181,24 +197,8 @@
       "path": "ABOUT.md"
     },
     {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
-    },
-    {
       "basename": "RStudio Community Answers",
       "path": "00 - INBOX/RStudio Community Answers.md"
-    },
-    {
-      "basename": "Geographic Information System (GIS)",
-      "path": "00 - INBOX/Geographic Information System (GIS).md"
-    },
-    {
-      "basename": "2023-10-25",
-      "path": "03 - AREAS/Journal/Daily/2023-10-25.md"
-    },
-    {
-      "basename": "PowerShell - Get-PSGalleryDownloads",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Get-PSGalleryDownloads.md"
     }
   ],
   "omittedPaths": [],

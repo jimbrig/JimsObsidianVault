@@ -1,3 +1,5 @@
+- 2023-11-05 at 20h03 · [[Espanso for Obsidian Setup]]
+- 2023-11-05 at 20h03 · [[PowerShell Commands Master List]]
 - 2023-11-05 at 19h52 · [[Obsidian Clipper]]
 - 2023-11-05 at 19h49 · [[2023-11-05]]
 - 2023-11-01 at 09h08 · [[Github Actions for R.md]]
@@ -46,5 +48,3 @@
 - 2023-10-18 at 22h57 · [[RStudio Community Answers]]
 - 2023-10-18 at 18h40 · [[Geographic Information System (GIS)]]
 - 2023-10-18 at 18h36 · [[PowerShell - Mount Virtual Hard Disk (VHD)]]
-- 2023-10-18 at 18h33 · [[Cmd - DISKPART]]
-- 2023-10-18 at 18h26 · [[Cmd - FSUTIL]]
