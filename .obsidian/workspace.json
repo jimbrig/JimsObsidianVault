@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Espanso for Obsidian Setup.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-08.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Espanso for Obsidian Setup.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-08.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Espanso for Obsidian Setup.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -341,8 +341,9 @@
   },
   "active": "ab40af138652bd8d",
   "lastOpenFiles": [
-    "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
     "00 - INBOX/Espanso for Obsidian Setup.md",
+    "03 - AREAS/Journal/Daily/2023-11-08.md",
+    "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/_README.md",
     "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
@@ -371,7 +372,6 @@
     "04 - RESOURCES/Sources/FleetingNotes/Github Actions for R.md.md",
     "03 - AREAS/Journal/Daily/2023-10-26.md",
     "04 - RESOURCES/Sources/ReadWise/Articles/API as a Package Structure.md",
-    "03 - AREAS/Journal/Daily/2023-11-01.md",
     "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
     "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",

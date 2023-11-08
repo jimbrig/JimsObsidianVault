@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-08",
+      "path": "03 - AREAS/Journal/Daily/2023-11-08.md"
+    },
+    {
       "basename": "Espanso for Obsidian Setup",
       "path": "00 - INBOX/Espanso for Obsidian Setup.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ABOUT",
       "path": "ABOUT.md"
-    },
-    {
-      "basename": "RStudio Community Answers",
-      "path": "00 - INBOX/RStudio Community Answers.md"
     }
   ],
   "omittedPaths": [],
