@@ -5,6 +5,10 @@
       "path": "03 - AREAS/Journal/Daily/2023-11-13.md"
     },
     {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
       "basename": "2023-11-08",
       "path": "03 - AREAS/Journal/Daily/2023-11-08.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "PowerShell Commands Master List",
       "path": "04 - RESOURCES/Lists/PowerShell Commands Master List.md"
-    },
-    {
-      "basename": "Template-Frontmatter",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
     },
     {
       "basename": "_README",

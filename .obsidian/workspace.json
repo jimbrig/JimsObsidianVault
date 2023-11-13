@@ -47,11 +47,16 @@
             }
           },
           {
-            "id": "d7ee4d0fcbb90d3c",
+            "id": "b76c0c8e89c29422",
             "type": "leaf",
             "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -347,13 +352,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d7ee4d0fcbb90d3c",
+  "active": "b76c0c8e89c29422",
   "lastOpenFiles": [
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "03 - AREAS/Journal/Daily/2023-11-08.md",
     "03 - AREAS/Journal/Daily/2023-11-13.md",
     "00 - INBOX/Espanso for Obsidian Setup.md",
     "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/_README.md",
     "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
     "00 - INBOX/Test.md",
