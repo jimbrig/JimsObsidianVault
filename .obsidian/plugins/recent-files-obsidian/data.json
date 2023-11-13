@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-13",
+      "path": "03 - AREAS/Journal/Daily/2023-11-13.md"
+    },
+    {
       "basename": "2023-11-08",
       "path": "03 - AREAS/Journal/Daily/2023-11-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FAQ",
       "path": "FAQ.md"
-    },
-    {
-      "basename": "ABOUT",
-      "path": "ABOUT.md"
     }
   ],
   "omittedPaths": [],

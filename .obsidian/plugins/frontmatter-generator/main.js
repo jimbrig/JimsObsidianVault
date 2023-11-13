@@ -22975,16 +22975,16 @@ var FrontmatterGeneratorPlugin = class extends import_obsidian5.Plugin {
     this.registerEvent(eventRef);
     this.eventRefs.push(eventRef);
     const eventRef2 = this.app.vault.on("modify", async (file) => {
-      var _a;
       if (!this.settings.runOnModify)
         return;
       if (file instanceof import_obsidian5.TFile && isMarkdownFile(file)) {
         const activeFile = this.app.workspace.getActiveFile();
-        const editor = (_a = this.app.workspace.getActiveViewOfType(
-          import_obsidian5.MarkdownView
-        )) == null ? void 0 : _a.editor;
+        const view = this.app.workspace.getActiveViewOfType(import_obsidian5.MarkdownView);
+        const isPreview = (view == null ? void 0 : view.currentMode) instanceof import_obsidian5.MarkdownPreviewView;
+        const editor = view == null ? void 0 : view.editor;
         if (activeFile === file && editor) {
-          this.runFileSync(file, editor);
+          if (isPreview)
+            await this.runFile(file);
         } else {
           await this.runFile(file);
         }

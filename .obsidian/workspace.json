@@ -39,15 +39,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "d7ee4d0fcbb90d3c",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "R Package",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-08.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md"
               }
             }
           },
@@ -143,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-08.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md"
               }
             }
           },
@@ -188,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-08.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,10 +347,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ab40af138652bd8d",
+  "active": "d7ee4d0fcbb90d3c",
   "lastOpenFiles": [
-    "00 - INBOX/Espanso for Obsidian Setup.md",
     "03 - AREAS/Journal/Daily/2023-11-08.md",
+    "03 - AREAS/Journal/Daily/2023-11-13.md",
+    "00 - INBOX/Espanso for Obsidian Setup.md",
     "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/_README.md",
@@ -371,7 +380,6 @@
     "03 - AREAS/Tools/Tools - R Packages/R - packagepal.md",
     "04 - RESOURCES/Sources/FleetingNotes/Github Actions for R.md.md",
     "03 - AREAS/Journal/Daily/2023-10-26.md",
-    "04 - RESOURCES/Sources/ReadWise/Articles/API as a Package Structure.md",
     "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
     "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",
