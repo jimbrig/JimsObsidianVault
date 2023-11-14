@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
-                "mode": "source",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-13.md"
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-13.md"
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
               }
             }
           },
@@ -201,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
+                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,9 +353,12 @@
   },
   "active": "b76c0c8e89c29422",
   "lastOpenFiles": [
+    "03 - AREAS/Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
+    "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
+    "03 - AREAS/_README.md",
+    "03 - AREAS/Journal/Daily/2023-11-13.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "03 - AREAS/Journal/Daily/2023-11-08.md",
-    "03 - AREAS/Journal/Daily/2023-11-13.md",
     "00 - INBOX/Espanso for Obsidian Setup.md",
     "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
     "04 - RESOURCES/_README.md",
@@ -382,9 +384,6 @@
     "04 - RESOURCES/Sources/FleetingNotes/R - Connect Shiny to PostgreSQL Database.md.md",
     "04 - RESOURCES/Sources/FleetingNotes/Plumber REST APIs in R.md.md",
     "04 - RESOURCES/Sources/FleetingNotes/Plumber Logging.md.md",
-    "03 - AREAS/Tools/Tools - R Packages/R - packagepal.md",
-    "04 - RESOURCES/Sources/FleetingNotes/Github Actions for R.md.md",
-    "03 - AREAS/Journal/Daily/2023-10-26.md",
     "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
     "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",

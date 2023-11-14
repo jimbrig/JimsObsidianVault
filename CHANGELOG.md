@@ -1,3 +1,4 @@
+- 2023-11-13 at 19h36 · [[PowerShell - Add-GodModeShortcut]]
 - 2023-11-13 at 18h20 · [[2023-11-13]]
 - 2023-11-08 at 17h37 · [[2023-11-08]]
 - 2023-11-05 at 20h03 · [[Espanso for Obsidian Setup]]
@@ -47,4 +48,3 @@
 - 2023-10-19 at 13h27 · [[An Exploration of Data vs Metadata]]
 - 2023-10-19 at 13h14 · [[Template-Frontmatter]]
 - 2023-10-19 at 13h12 · [[Untitled]]
-- 2023-10-18 at 22h57 · [[RStudio Community Answers]]
