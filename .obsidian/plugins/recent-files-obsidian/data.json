@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-13",
+      "path": "03 - AREAS/Journal/Daily/2023-11-13.md"
+    },
+    {
       "basename": "PowerShell - ConvertTo-Markdown",
       "path": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "_README",
       "path": "03 - AREAS/_README.md"
-    },
-    {
-      "basename": "2023-11-13",
-      "path": "03 - AREAS/Journal/Daily/2023-11-13.md"
     },
     {
       "basename": "Template-Frontmatter",

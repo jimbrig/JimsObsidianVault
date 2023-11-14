@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
-                "mode": "preview",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5110321044922
+    "width": 200
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
