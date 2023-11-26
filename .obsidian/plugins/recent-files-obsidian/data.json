@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Template-Frontmatter-Enhanced",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "2023-11-25",
+      "path": "03 - AREAS/Journal/Daily/2023-11-25.md"
+    },
+    {
       "basename": "2023-11-21",
       "path": "03 - AREAS/Journal/Daily/2023-11-21.md"
     },
@@ -25,10 +45,6 @@
       "path": "03 - AREAS/_README.md"
     },
     {
-      "basename": "Template-Frontmatter",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
       "basename": "2023-11-08",
       "path": "03 - AREAS/Journal/Daily/2023-11-08.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "PowerShell Commands Master List",
       "path": "04 - RESOURCES/Lists/PowerShell Commands Master List.md"
-    },
-    {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
     },
     {
       "basename": "Data Validation Packages in R.md",
@@ -187,18 +199,6 @@
     {
       "basename": "JavaScript Standards",
       "path": "00 - INBOX/JavaScript Standards.md"
-    },
-    {
-      "basename": "CSS Standards",
-      "path": "00 - INBOX/CSS Standards.md"
-    },
-    {
-      "basename": "API Design Standards",
-      "path": "00 - INBOX/API Design Standards.md"
-    },
-    {
-      "basename": "2023-10-27",
-      "path": "03 - AREAS/Journal/Daily/2023-10-27.md"
     }
   ],
   "omittedPaths": [],

@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-21.md",
-                "mode": "preview",
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-21.md"
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
               }
             }
           },
@@ -145,7 +145,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -155,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-21.md"
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
               }
             }
           },
@@ -200,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-21.md",
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-21.md",
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-21.md",
+                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,18 +355,20 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b76c0c8e89c29422",
+  "active": "c869dc57698e4add",
   "lastOpenFiles": [
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
+    "04 - RESOURCES/_README.md",
+    "03 - AREAS/Journal/Daily/2023-11-25.md",
     "03 - AREAS/Journal/Daily/2023-11-21.md",
     "03 - AREAS/Journal/Daily/2023-11-13.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "03 - AREAS/_README.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "03 - AREAS/Journal/Daily/2023-11-08.md",
     "00 - INBOX/Espanso for Obsidian Setup.md",
     "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
-    "04 - RESOURCES/_README.md",
     "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
     "00 - INBOX/Test.md",
     "03 - AREAS/Journal/Daily/2023-10-28.md",
@@ -384,8 +388,6 @@
     "logs",
     "02 - PROJECTS/R - pkgdev Package.md",
     "04 - RESOURCES/Sources/FleetingNotes/R - Packages for Viewing and Editing Data.md.md",
-    "04 - RESOURCES/Sources/FleetingNotes/R - Connect Shiny to PostgreSQL Database.md.md",
-    "04 - RESOURCES/Sources/FleetingNotes/Plumber REST APIs in R.md.md",
     "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
     "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",

@@ -9164,6 +9164,11 @@ function hashString53Bit(str2, seed = 0) {
 function stripCr(text3) {
   return text3.replace(/\r/g, "");
 }
+function trimFirstSpaces(input) {
+  const leadingSpaces = input.match(/^[ \t]+/);
+  const start = leadingSpaces ? leadingSpaces[0].length : 0;
+  return input.substring(start);
+}
 
 // node_modules/js-yaml/dist/js-yaml.mjs
 function isNothing(subject) {
@@ -11849,6 +11854,19 @@ var splitYamlAndBody = (markdown) => {
     yaml: parts[1],
     body: parts.slice(2).join("---")
   };
+};
+var isValidFrontmatter = (data) => {
+  const { yamlText, text: text3 } = data;
+  if (!yamlText) {
+    const textAfterTrimFirstSpace = trimFirstSpaces(text3);
+    const yamlText2 = getYAMLText(textAfterTrimFirstSpace);
+    if (yamlText2) {
+      return false;
+    }
+  }
+  if (data.text && !data.yamlText && !data.body)
+    return false;
+  return true;
 };
 
 // src/utils/obsidian.ts
@@ -22928,8 +22946,7 @@ var FrontmatterGeneratorPlugin2 = class extends import_obsidian7.Plugin {
     const data = getDataFromTextSync(editor.getValue());
     if (shouldIgnoreFile(this.settings, file, data))
       return;
-    const invalidFrontmatter = data.text && !data.yamlText && !data.body;
-    if (invalidFrontmatter)
+    if (!isValidFrontmatter(data))
       return;
     const newText = getNewTextFromFile(
       this.settings.template,
@@ -22945,8 +22962,7 @@ var FrontmatterGeneratorPlugin2 = class extends import_obsidian7.Plugin {
     const data = await getDataFromFile(this, file);
     if (shouldIgnoreFile(this.settings, file, data))
       return;
-    const invalidFrontmatter = data.text && !data.yamlText && !data.body;
-    if (invalidFrontmatter)
+    if (!isValidFrontmatter(data))
       return;
     const newText = getNewTextFromFile(
       this.settings.template,
@@ -22990,6 +23006,7 @@ var FrontmatterGeneratorPlugin2 = class extends import_obsidian7.Plugin {
     );
     this.registerEvent(
       this.app.vault.on("modify", async (file) => {
+        console.log("modify", file);
         if (!this.settings.runOnModify)
           return;
         if (this.lock)
@@ -23034,7 +23051,6 @@ var FrontmatterGeneratorPlugin2 = class extends import_obsidian7.Plugin {
               if (isUsingPropertiesEditor)
                 await this.runFile(file);
               else {
-                console.log("running file sync");
                 this.runFileSync(file, editor);
               }
             } else {
