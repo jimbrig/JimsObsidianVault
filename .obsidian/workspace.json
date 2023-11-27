@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -370,8 +371,8 @@
   },
   "active": "b1c5e24a44b2e3b9",
   "lastOpenFiles": [
-    "00 - INBOX/Microsoft Licensing.md",
     "03 - AREAS/Journal/Daily/2023-11-27.md",
+    "00 - INBOX/Microsoft Licensing.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "03 - AREAS/Guides/_README.md",
     "03 - AREAS/Code/_README.md",
