@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Difference between Office365 and Microsoft 365",
+      "path": "00 - INBOX/Difference between Office365 and Microsoft 365.md"
+    },
+    {
       "basename": "2023-11-27",
       "path": "03 - AREAS/Journal/Daily/2023-11-27.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "03 - AREAS/Code/PowerShell/_README.md"
-    },
-    {
-      "basename": "2023-10-30",
-      "path": "03 - AREAS/Journal/Daily/2023-10-30.md"
     }
   ],
   "omittedPaths": [],
