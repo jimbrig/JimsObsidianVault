@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-27",
+      "path": "03 - AREAS/Journal/Daily/2023-11-27.md"
+    },
+    {
+      "basename": "Canvas - PowerShell Profile MindMap",
+      "path": "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Guides/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/_README.md"
+    },
+    {
+      "basename": "Developing PowerShell Core Modules Best Practices",
+      "path": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
+    },
+    {
+      "basename": "Data Requirements",
+      "path": "01 - SLIPBOX/Data Requirements.md"
+    },
+    {
+      "basename": "HTTP Status Codes",
+      "path": "01 - SLIPBOX/HTTP Status Codes.md"
+    },
+    {
+      "basename": "_README",
+      "path": "01 - SLIPBOX/_README.md"
+    },
+    {
+      "basename": "Template-MOC",
+      "path": "04 - RESOURCES/Templates/Core-Templates/Template-MOC.md"
+    },
+    {
+      "basename": "Template-Folder-README",
+      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
+    },
+    {
+      "basename": "Template-Footer",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
+    },
+    {
       "basename": "Template-Frontmatter-Enhanced",
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
     },
     {
       "basename": "Template-Frontmatter",
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
     },
     {
       "basename": "_README",
@@ -153,52 +193,12 @@
       "path": "03 - AREAS/Code/PowerShell/_README.md"
     },
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
-    },
-    {
       "basename": "2023-10-30",
       "path": "03 - AREAS/Journal/Daily/2023-10-30.md"
     },
     {
       "basename": "Git Best Practices",
       "path": "00 - INBOX/Git Best Practices.md"
-    },
-    {
-      "basename": "FrontEnd Testing",
-      "path": "00 - INBOX/FrontEnd Testing.md"
-    },
-    {
-      "basename": "Documenting Your Work",
-      "path": "00 - INBOX/Documenting Your Work.md"
-    },
-    {
-      "basename": "Creating CommonJS Modules",
-      "path": "00 - INBOX/Creating CommonJS Modules.md"
-    },
-    {
-      "basename": "Building Frontend",
-      "path": "00 - INBOX/Building Frontend.md"
-    },
-    {
-      "basename": "Authoring NPM Modules",
-      "path": "00 - INBOX/Authoring NPM Modules.md"
-    },
-    {
-      "basename": "Atomic Design",
-      "path": "00 - INBOX/Atomic Design.md"
-    },
-    {
-      "basename": "Python Standards",
-      "path": "00 - INBOX/Python Standards.md"
-    },
-    {
-      "basename": "Markup (HTML) Standards",
-      "path": "00 - INBOX/Markup (HTML) Standards.md"
-    },
-    {
-      "basename": "JavaScript Standards",
-      "path": "00 - INBOX/JavaScript Standards.md"
     }
   ],
   "omittedPaths": [],

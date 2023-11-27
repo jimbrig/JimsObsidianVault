@@ -1,3 +1,4 @@
+- 2023-11-27 at 18h28 · [[2023-11-27]]
 - 2023-11-25 at 21h22 · [[2023-11-25]]
 - 2023-11-21 at 15h41 · [[2023-11-21]]
 - 2023-11-13 at 19h36 · [[PowerShell - Add-GodModeShortcut]]
@@ -47,4 +48,3 @@
 - 2023-10-19 at 21h02 · [[_index]]
 - 2023-10-19 at 21h01 · [[Dataview - Search and Display List of Callouts]]
 - 2023-10-19 at 13h27 · [[Caddy]]
-- 2023-10-19 at 13h27 · [[An Exploration of Data vs Metadata]]

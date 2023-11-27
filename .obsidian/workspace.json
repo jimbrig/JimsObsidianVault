@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 407.5
   },
   "right": {
     "id": "c765e711ed4f22b7",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-27.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md"
+                "file": "03 - AREAS/Journal/Daily/2023-11-27.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+                "file": "03 - AREAS/Journal/Daily/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,14 +351,24 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "b76c0c8e89c29422",
   "lastOpenFiles": [
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+    "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
+    "03 - AREAS/Journal/Daily/2023-11-27.md",
+    "03 - AREAS/Guides/_README.md",
+    "03 - AREAS/Code/_README.md",
+    "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
+    "01 - SLIPBOX/Data Requirements.md",
+    "01 - SLIPBOX/HTTP Status Codes.md",
+    "01 - SLIPBOX/_README.md",
+    "04 - RESOURCES/Templates/Core-Templates/Template-MOC.md",
+    "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
     "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
     "04 - RESOURCES/_README.md",
     "03 - AREAS/Journal/Daily/2023-11-25.md",
     "03 - AREAS/Journal/Daily/2023-11-21.md",
@@ -372,22 +382,11 @@
     "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
     "00 - INBOX/Test.md",
     "03 - AREAS/Journal/Daily/2023-10-28.md",
-    "00 - INBOX/Untitled 4.md",
-    "00 - INBOX/Untitled.md",
-    "Inbox/Clips/Obsidian Clipper.md",
-    "00 - INBOX/_README.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",
-    "CHANGELOG.md",
-    "03 - AREAS/Journal/Daily/2023-11-05.md",
-    "00 - INBOX/Untitled 3.md",
-    "00 - INBOX/Untitled 2.md",
-    "00 - INBOX/Untitled 1.md",
     "logs/xvba_debug.log",
     "logs",
-    "02 - PROJECTS/R - pkgdev Package.md",
-    "04 - RESOURCES/Sources/FleetingNotes/R - Packages for Viewing and Editing Data.md.md",
     "03 - AREAS/Code/JavaScript/src/DevToolsSnippetsImportExport.js",
     "03 - AREAS/Code/JavaScript/src/_lib/DevToolsSnippetsCustom.json",
     "03 - AREAS/Code/JavaScript/src/_lib/EdgeSearchEngines.json",
@@ -399,7 +398,6 @@
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/logo-connect-full-color.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/favicon.svg",
     "03 - AREAS/Code/HTML/src/landing-page/assets/img/concept_map.jpg",
-    "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "04 - RESOURCES/Assets/Banners/programming.gif",
     "Assets/Banners/programming.gif",
     "Canvas/Canvas - PowerShell Profile MindMap.canvas"
