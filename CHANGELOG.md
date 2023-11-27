@@ -1,3 +1,4 @@
+- 2023-11-27 at 18h33 · [[Microsoft Licensing]]
 - 2023-11-27 at 18h28 · [[2023-11-27]]
 - 2023-11-25 at 21h22 · [[2023-11-25]]
 - 2023-11-21 at 15h41 · [[2023-11-21]]
@@ -47,4 +48,3 @@
 - 2023-10-19 at 21h02 · [[JavaScript - Echo]]
 - 2023-10-19 at 21h02 · [[_index]]
 - 2023-10-19 at 21h01 · [[Dataview - Search and Display List of Callouts]]
-- 2023-10-19 at 13h27 · [[Caddy]]

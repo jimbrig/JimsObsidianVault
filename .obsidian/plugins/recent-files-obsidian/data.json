@@ -5,6 +5,10 @@
       "path": "03 - AREAS/Journal/Daily/2023-11-27.md"
     },
     {
+      "basename": "Microsoft Licensing",
+      "path": "00 - INBOX/Microsoft Licensing.md"
+    },
+    {
       "basename": "Canvas - PowerShell Profile MindMap",
       "path": "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-10-30",
       "path": "03 - AREAS/Journal/Daily/2023-10-30.md"
-    },
-    {
-      "basename": "Git Best Practices",
-      "path": "00 - INBOX/Git Best Practices.md"
     }
   ],
   "omittedPaths": [],
