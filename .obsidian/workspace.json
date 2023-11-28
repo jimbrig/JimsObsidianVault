@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Difference between Office365 and Microsoft 365.md",
-                "mode": "source",
+                "file": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/Difference between Office365 and Microsoft 365.md"
+                "file": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/Difference between Office365 and Microsoft 365.md"
+                "file": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Difference between Office365 and Microsoft 365.md",
+                "file": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Difference between Office365 and Microsoft 365.md",
+                "file": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Difference between Office365 and Microsoft 365.md",
+                "file": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,8 +370,9 @@
   },
   "active": "b1c5e24a44b2e3b9",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-11-27.md",
     "00 - INBOX/Difference between Office365 and Microsoft 365.md",
+    "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
+    "03 - AREAS/Journal/Daily/2023-11-27.md",
     "00 - INBOX/Microsoft Licensing.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "03 - AREAS/Guides/_README.md",
@@ -396,7 +397,6 @@
     "00 - INBOX/Espanso for Obsidian Setup.md",
     "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
     "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md",
-    "00 - INBOX/Test.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",

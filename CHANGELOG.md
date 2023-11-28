@@ -1,3 +1,4 @@
+- 2023-11-27 at 19h26 · [[Understanding Azure Tenants, Subscriptions, Directories, and Authentication]]
 - 2023-11-27 at 18h53 · [[Difference between Office365 and Microsoft 365]]
 - 2023-11-27 at 18h50 · [[2023-11-27]]
 - 2023-11-27 at 18h50 · [[Microsoft Licensing]]
@@ -47,4 +48,3 @@
 - 2023-10-19 at 21h04 · [[JavaScript - NPM Project Initialization Script]]
 - 2023-10-19 at 21h03 · [[JavaScript - FormatCompactNumbers]]
 - 2023-10-19 at 21h02 · [[JavaScript - Echo]]
-- 2023-10-19 at 21h02 · [[_index]]

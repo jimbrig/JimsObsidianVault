@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Understanding Azure Tenants, Subscriptions, Directories, and Authentication",
+      "path": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md"
+    },
+    {
       "basename": "Difference between Office365 and Microsoft 365",
       "path": "00 - INBOX/Difference between Office365 and Microsoft 365.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PowerShell - Mount Virtual Hard Disk (VHD)",
       "path": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/PowerShell/_README.md"
     }
   ],
   "omittedPaths": [],
