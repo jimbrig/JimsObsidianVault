@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-30",
+      "path": "03 - AREAS/Journal/Daily/2023-11-30.md"
+    },
+    {
       "basename": "Understanding Azure Tenants, Subscriptions, Directories, and Authentication",
       "path": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-11-01",
       "path": "03 - AREAS/Journal/Daily/2023-11-01.md"
-    },
-    {
-      "basename": "PowerShell - Mount Virtual Hard Disk (VHD)",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Mount Virtual Hard Disk (VHD).md"
     }
   ],
   "omittedPaths": [],
