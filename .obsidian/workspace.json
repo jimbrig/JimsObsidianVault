@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-30.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-30.md"
+                "file": "00 - INBOX/PowerShell Configuration Data.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-30.md"
+                "file": "00 - INBOX/PowerShell Configuration Data.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-30.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-30.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-11-30.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -368,10 +368,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c869dc57698e4add",
+  "active": "b1c5e24a44b2e3b9",
   "lastOpenFiles": [
-    "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
     "03 - AREAS/Journal/Daily/2023-11-30.md",
+    "00 - INBOX/PowerShell Configuration Data.md",
+    "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
     "00 - INBOX/Difference between Office365 and Microsoft 365.md",
     "03 - AREAS/Journal/Daily/2023-11-27.md",
     "00 - INBOX/Microsoft Licensing.md",
@@ -396,7 +397,6 @@
     "03 - AREAS/_README.md",
     "03 - AREAS/Journal/Daily/2023-11-08.md",
     "00 - INBOX/Espanso for Obsidian Setup.md",
-    "04 - RESOURCES/Lists/PowerShell Commands Master List.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",

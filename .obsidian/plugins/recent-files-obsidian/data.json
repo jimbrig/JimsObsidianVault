@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell Configuration Data",
+      "path": "00 - INBOX/PowerShell Configuration Data.md"
+    },
+    {
       "basename": "2023-11-30",
       "path": "03 - AREAS/Journal/Daily/2023-11-30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "API as a Package Structure",
       "path": "04 - RESOURCES/Sources/ReadWise/Articles/API as a Package Structure.md"
-    },
-    {
-      "basename": "2023-11-01",
-      "path": "03 - AREAS/Journal/Daily/2023-11-01.md"
     }
   ],
   "omittedPaths": [],

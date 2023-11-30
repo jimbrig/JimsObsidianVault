@@ -18676,16 +18676,20 @@ function getAllFilesInFolder(startingFolder) {
 }
 var getDataFromTextSync = (text3) => {
   const yamlText = getYAMLText(text3);
+  const yamlObj = yamlText ? (0, import_obsidian.parseYaml)(yamlText) : null;
   const { body } = splitYamlAndBody(text3);
-  const tags = [];
+  const yamlTags = yamlObj == null ? void 0 : yamlObj.tags;
+  const _tags = typeof yamlTags === "string" ? [yamlTags] : yamlTags;
+  const tags = _tags ? _tags.map((t2) => `#${t2}`) : [];
   ignoreListOfTypes([IgnoreTypes.yaml], text3, (text4) => {
     tags.push(...matchTagRegex(text4));
     return text4;
   });
+  console.log(tags);
   return {
     text: text3,
     yamlText,
-    yamlObj: yamlText ? (0, import_obsidian.parseYaml)(yamlText) : null,
+    yamlObj,
     tags,
     body
   };
@@ -22699,9 +22703,19 @@ var SettingTab = class extends import_obsidian3.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian3.Setting(containerEl).setName("Run on modify").setDesc("Run the plugin when a file is modified").addToggle((toggle) => {
-      toggle.setValue(this.plugin.settings.runOnModify).onChange(async (value) => {
-        this.plugin.settings.runOnModify = value;
+    new import_obsidian3.Setting(containerEl).setName("Run on modify not in file").setDesc(
+      "Run the plugin when a file is modified and the file is not in active markdown view"
+    ).addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.runOnModifyNotInFile).onChange(async (value) => {
+        this.plugin.settings.runOnModifyNotInFile = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian3.Setting(containerEl).setName("Run on modify in file").setDesc(
+      "Run the plugin when a file is modified and the file is in active markdown view"
+    ).addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.runOnModifyInFile).onChange(async (value) => {
+        this.plugin.settings.runOnModifyInFile = value;
         await this.plugin.saveSettings();
       });
     });
@@ -22715,7 +22729,8 @@ var DEFAULT_SETTINGS = {
   internal: {
     ignoredFolders: []
   },
-  runOnModify: false,
+  runOnModifyNotInFile: false,
+  runOnModifyInFile: false,
   sortYamlKey: true
 };
 
@@ -22978,9 +22993,7 @@ var FrontmatterGeneratorPlugin2 = class extends import_obsidian7.Plugin {
       this.app.workspace.on("file-menu", async (menu, file) => {
         if (file instanceof import_obsidian7.TFile && isMarkdownFile(file)) {
           menu.addItem((item) => {
-            item.setTitle(
-              "Generate frontmatter for this file"
-            ).onClick(async () => {
+            item.setIcon("file-cog").setTitle("Generate frontmatter for this file").onClick(async () => {
               const activeFile = this.app.workspace.getActiveFile();
               const view = this.app.workspace.getActiveViewOfType(
                 import_obsidian7.MarkdownView
@@ -22997,29 +23010,26 @@ var FrontmatterGeneratorPlugin2 = class extends import_obsidian7.Plugin {
           });
         } else if (file instanceof import_obsidian7.TFolder) {
           menu.addItem((item) => {
-            item.setTitle(
-              "Generate frontmatter in this folder"
-            ).onClick(() => this.runAllFilesInFolder(file));
+            item.setIcon("file-cog").setTitle("Generate frontmatter in this folder").onClick(() => this.runAllFilesInFolder(file));
           });
         }
       })
     );
     this.registerEvent(
       this.app.vault.on("modify", async (file) => {
-        console.log("modify", file);
-        if (!this.settings.runOnModify)
+        const view = this.app.workspace.getActiveViewOfType(import_obsidian7.MarkdownView);
+        const isUsingPropertiesEditor = (view == null ? void 0 : view.getMode()) === "preview" || (view == null ? void 0 : view.getMode()) === "source" && // @ts-ignore
+        !view.currentMode.sourceMode;
+        const editor = view == null ? void 0 : view.editor;
+        const activeFile = this.app.workspace.getActiveFile();
+        if (!this.settings.runOnModifyInFile && activeFile === file && editor && !isUsingPropertiesEditor)
+          return;
+        if (!this.settings.runOnModifyNotInFile && activeFile !== file)
           return;
         if (this.lock)
           return;
         try {
           if (file instanceof import_obsidian7.TFile && isMarkdownFile(file)) {
-            const activeFile = this.app.workspace.getActiveFile();
-            const view = this.app.workspace.getActiveViewOfType(
-              import_obsidian7.MarkdownView
-            );
-            const isUsingPropertiesEditor = (view == null ? void 0 : view.getMode()) === "preview" || (view == null ? void 0 : view.getMode()) === "source" && // @ts-ignore
-            !view.currentMode.sourceMode;
-            const editor = view == null ? void 0 : view.editor;
             if (activeFile === file && editor) {
               if (isUsingPropertiesEditor)
                 await this.runFile(file);
@@ -23036,9 +23046,7 @@ var FrontmatterGeneratorPlugin2 = class extends import_obsidian7.Plugin {
     );
     this.registerEvent(
       this.app.workspace.on("editor-change", async (editor) => {
-        if (!this.settings.runOnModify)
-          return;
-        if (this.lock)
+        if (!this.settings.runOnModifyInFile)
           return;
         this.lock = true;
         try {
