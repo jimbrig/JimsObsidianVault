@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md"
+                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md"
+                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,12 +357,9 @@
       "smart-random-note:Open Random Note from Search": false,
       "workbench-obsidian:Workbench": false,
       "open-vscode:VSCode": false,
-      "gpt3-notes:GPT-3 Notes": false,
       "periodic-notes:Open today's daily note": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-omnivore:Omnivore": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
@@ -370,8 +367,9 @@
   },
   "active": "b1c5e24a44b2e3b9",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-11-30.md",
+    "02 - PROJECTS/_README.md",
     "00 - INBOX/PowerShell Configuration Data.md",
+    "03 - AREAS/Journal/Daily/2023-11-30.md",
     "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
     "00 - INBOX/Difference between Office365 and Microsoft 365.md",
     "03 - AREAS/Journal/Daily/2023-11-27.md",
@@ -396,7 +394,6 @@
     "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "03 - AREAS/_README.md",
     "03 - AREAS/Journal/Daily/2023-11-08.md",
-    "00 - INBOX/Espanso for Obsidian Setup.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",

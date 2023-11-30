@@ -1,3 +1,4 @@
+- 2023-11-30 at 14h59 · [[PowerShell - PowerShell Profile]]
 - 2023-11-30 at 14h43 · [[PowerShell Configuration Data]]
 - 2023-11-30 at 14h21 · [[2023-11-30]]
 - 2023-11-27 at 19h26 · [[Understanding Azure Tenants, Subscriptions, Directories, and Authentication]]
@@ -47,4 +48,3 @@
 - 2023-10-20 at 15h09 · [[ABOUT]]
 - 2023-10-20 at 15h00 · [[SourceViewer]]
 - 2023-10-20 at 15h00 · [[Untitled 1]]
-- 2023-10-19 at 21h04 · [[JavaScript - NPM Project Initialization Script]]
