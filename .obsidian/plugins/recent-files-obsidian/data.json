@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-05",
+      "path": "03 - AREAS/Journal/Daily/2023-12-05.md"
+    },
+    {
       "basename": "PowerShell - PowerShell Profile",
       "path": "02 - PROJECTS/PowerShell - PowerShell Profile.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "R - packagepal",
       "path": "03 - AREAS/Tools/Tools - R Packages/R - packagepal.md"
-    },
-    {
-      "basename": "Github Actions for R.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/Github Actions for R.md.md"
     }
   ],
   "omittedPaths": [],

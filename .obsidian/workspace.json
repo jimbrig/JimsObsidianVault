@@ -71,9 +71,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4391e117cb0a7a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - AREAS/Journal/Daily/2023-12-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md"
+                "file": "03 - AREAS/Journal/Daily/2023-12-05.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md"
+                "file": "03 - AREAS/Journal/Daily/2023-12-05.md"
               }
             }
           },
@@ -215,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md",
+                "file": "03 - AREAS/Journal/Daily/2023-12-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md",
+                "file": "03 - AREAS/Journal/Daily/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - PROJECTS/PowerShell - PowerShell Profile.md",
+                "file": "03 - AREAS/Journal/Daily/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,12 +374,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-omnivore:Omnivore": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "b1c5e24a44b2e3b9",
+  "active": "4391e117cb0a7a2d",
   "lastOpenFiles": [
+    "03 - AREAS/Journal/Daily/2023-12-05.md",
     "02 - PROJECTS/_README.md",
     "00 - INBOX/PowerShell Configuration Data.md",
     "03 - AREAS/Journal/Daily/2023-11-30.md",
@@ -393,7 +406,6 @@
     "03 - AREAS/Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md",
     "03 - AREAS/_README.md",
-    "03 - AREAS/Journal/Daily/2023-11-08.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",
