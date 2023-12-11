@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-11",
+      "path": "03 - AREAS/Journal/Daily/2023-12-11.md"
+    },
+    {
       "basename": "2023-12-09",
       "path": "03 - AREAS/Journal/Daily/2023-12-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Plumber REST APIs in R.md",
       "path": "04 - RESOURCES/Sources/FleetingNotes/Plumber REST APIs in R.md.md"
-    },
-    {
-      "basename": "Plumber Logging.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/Plumber Logging.md.md"
     }
   ],
   "omittedPaths": [],
