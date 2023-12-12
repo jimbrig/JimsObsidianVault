@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Meta/Integrations/_README.md",
+                "file": "03 - AREAS/Meta/Obsidian Templates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Meta/Integrations/_README.md"
+                "file": "03 - AREAS/Meta/Obsidian Templates.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Meta/Integrations/_README.md"
+                "file": "03 - AREAS/Meta/Obsidian Templates.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Meta/Integrations/_README.md",
+                "file": "03 - AREAS/Meta/Obsidian Templates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Meta/Integrations/_README.md",
+                "file": "03 - AREAS/Meta/Obsidian Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Meta/Integrations/_README.md",
+                "file": "03 - AREAS/Meta/Obsidian Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,9 +380,18 @@
   },
   "active": "4391e117cb0a7a2d",
   "lastOpenFiles": [
-    "03 - AREAS/Meta/_README.md",
+    "03 - AREAS/Meta/Plugins/Templater.md",
+    "03 - AREAS/Meta/Plugins/Dataview.md",
+    "03 - AREAS/Logs/TIL/PowerShell/_README.md",
+    "03 - AREAS/Logs/ADRs/005-Choose-Tools.md",
+    "03 - AREAS/Logs/ADRs/004-Use-Version-Control-via-Obsidian-Git.md",
+    "03 - AREAS/Logs/ADRs/003-Use-GitHub-Actions.md",
+    "03 - AREAS/Logs/ADRs/002-Choose-Hosting-Platform.md",
+    "03 - AREAS/Logs/ADRs/001-Choose-Publishing-Option.md",
     "03 - AREAS/Logs/ADRs/000-Use-ADRs.md",
     "03 - AREAS/Logs/ADRs/_README.md",
+    "03 - AREAS/Meta/Integrations/_README.md",
+    "03 - AREAS/Meta/_README.md",
     "03 - AREAS/Logs/TIL/_README.md",
     "03 - AREAS/Logs/Vault Changelog.md",
     "04 - RESOURCES/_README.md",
@@ -397,16 +406,7 @@
     "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
     "00 - INBOX/Difference between Office365 and Microsoft 365.md",
     "03 - AREAS/Journal/Daily/2023-11-27.md",
-    "00 - INBOX/Microsoft Licensing.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
-    "03 - AREAS/Guides/_README.md",
-    "03 - AREAS/Code/_README.md",
-    "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md",
-    "01 - SLIPBOX/Data Requirements.md",
-    "01 - SLIPBOX/HTTP Status Codes.md",
-    "01 - SLIPBOX/_README.md",
-    "04 - RESOURCES/Templates/Core-Templates/Template-MOC.md",
-    "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",

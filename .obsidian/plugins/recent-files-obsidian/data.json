@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Meta/Integrations/_README.md"
+      "basename": "Obsidian Templates",
+      "path": "03 - AREAS/Meta/Obsidian Templates.md"
+    },
+    {
+      "basename": "Templater",
+      "path": "03 - AREAS/Meta/Plugins/Templater.md"
+    },
+    {
+      "basename": "Dataview",
+      "path": "03 - AREAS/Meta/Plugins/Dataview.md"
     },
     {
       "basename": "_README",
-      "path": "03 - AREAS/Meta/_README.md"
+      "path": "03 - AREAS/Logs/TIL/PowerShell/_README.md"
+    },
+    {
+      "basename": "005-Choose-Tools",
+      "path": "03 - AREAS/Logs/ADRs/005-Choose-Tools.md"
+    },
+    {
+      "basename": "004-Use-Version-Control-via-Obsidian-Git",
+      "path": "03 - AREAS/Logs/ADRs/004-Use-Version-Control-via-Obsidian-Git.md"
+    },
+    {
+      "basename": "003-Use-GitHub-Actions",
+      "path": "03 - AREAS/Logs/ADRs/003-Use-GitHub-Actions.md"
+    },
+    {
+      "basename": "002-Choose-Hosting-Platform",
+      "path": "03 - AREAS/Logs/ADRs/002-Choose-Hosting-Platform.md"
+    },
+    {
+      "basename": "001-Choose-Publishing-Option",
+      "path": "03 - AREAS/Logs/ADRs/001-Choose-Publishing-Option.md"
     },
     {
       "basename": "000-Use-ADRs",
@@ -15,6 +43,14 @@
     {
       "basename": "_README",
       "path": "03 - AREAS/Logs/ADRs/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Meta/Integrations/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Meta/_README.md"
     },
     {
       "basename": "_README",
@@ -163,42 +199,6 @@
     {
       "basename": "PowerShell Commands Master List",
       "path": "04 - RESOURCES/Lists/PowerShell Commands Master List.md"
-    },
-    {
-      "basename": "Data Validation Packages in R.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/Data Validation Packages in R.md.md"
-    },
-    {
-      "basename": "Test",
-      "path": "00 - INBOX/Test.md"
-    },
-    {
-      "basename": "2023-10-28",
-      "path": "03 - AREAS/Journal/Daily/2023-10-28.md"
-    },
-    {
-      "basename": "Untitled 4",
-      "path": "00 - INBOX/Untitled 4.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "00 - INBOX/Untitled.md"
-    },
-    {
-      "basename": "Obsidian Clipper",
-      "path": "Inbox/Clips/Obsidian Clipper.md"
-    },
-    {
-      "basename": "_README",
-      "path": "00 - INBOX/_README.md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "CHANGELOG.md"
-    },
-    {
-      "basename": "2023-11-05",
-      "path": "03 - AREAS/Journal/Daily/2023-11-05.md"
     }
   ],
   "omittedPaths": [],
