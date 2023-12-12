@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "03 - AREAS/Meta/Integrations/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Meta/_README.md"
+    },
+    {
+      "basename": "000-Use-ADRs",
+      "path": "03 - AREAS/Logs/ADRs/000-Use-ADRs.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Logs/ADRs/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Logs/TIL/_README.md"
+    },
+    {
+      "basename": "Vault Changelog",
+      "path": "03 - AREAS/Logs/Vault Changelog.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Logs/_README.md"
+    },
+    {
       "basename": "2023-12-11",
       "path": "03 - AREAS/Journal/Daily/2023-12-11.md"
     },
@@ -93,10 +125,6 @@
       "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
     },
     {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
-    },
-    {
       "basename": "2023-11-25",
       "path": "03 - AREAS/Journal/Daily/2023-11-25.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "2023-11-05",
       "path": "03 - AREAS/Journal/Daily/2023-11-05.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "00 - INBOX/Untitled 3.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "00 - INBOX/Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "00 - INBOX/Untitled 1.md"
-    },
-    {
-      "basename": "R - pkgdev Package",
-      "path": "02 - PROJECTS/R - pkgdev Package.md"
-    },
-    {
-      "basename": "R - Packages for Viewing and Editing Data.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/R - Packages for Viewing and Editing Data.md.md"
-    },
-    {
-      "basename": "R - Connect Shiny to PostgreSQL Database.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/R - Connect Shiny to PostgreSQL Database.md.md"
-    },
-    {
-      "basename": "Plumber REST APIs in R.md",
-      "path": "04 - RESOURCES/Sources/FleetingNotes/Plumber REST APIs in R.md.md"
     }
   ],
   "omittedPaths": [],

@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-11.md",
+                "file": "03 - AREAS/Meta/Integrations/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-11.md"
+                "file": "03 - AREAS/Meta/Integrations/_README.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-11.md"
+                "file": "03 - AREAS/Meta/Integrations/_README.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-11.md",
+                "file": "03 - AREAS/Meta/Integrations/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-11.md",
+                "file": "03 - AREAS/Meta/Integrations/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-11.md",
+                "file": "03 - AREAS/Meta/Integrations/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,8 +351,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -365,23 +363,33 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "smart-random-note:Open Random Note from Search": false,
       "workbench-obsidian:Workbench": false,
-      "open-vscode:VSCode": false,
-      "periodic-notes:Open today's daily note": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
+      "open-vscode:VSCode": false,
       "obsidian-omnivore:Omnivore": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
+      "periodic-notes:Open today's daily note": false,
+      "obsidian42-brat:BRAT": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "4391e117cb0a7a2d",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2023-12-09.md",
+    "03 - AREAS/Meta/_README.md",
+    "03 - AREAS/Logs/ADRs/000-Use-ADRs.md",
+    "03 - AREAS/Logs/ADRs/_README.md",
+    "03 - AREAS/Logs/TIL/_README.md",
+    "03 - AREAS/Logs/Vault Changelog.md",
+    "04 - RESOURCES/_README.md",
+    "03 - AREAS/Logs/_README.md",
+    "03 - AREAS/Journal/Daily/2023-12-12.md",
     "03 - AREAS/Journal/Daily/2023-12-11.md",
+    "03 - AREAS/Journal/Daily/2023-12-09.md",
     "03 - AREAS/Journal/Daily/2023-12-05.md",
     "02 - PROJECTS/_README.md",
     "00 - INBOX/PowerShell Configuration Data.md",
@@ -399,14 +407,6 @@
     "01 - SLIPBOX/_README.md",
     "04 - RESOURCES/Templates/Core-Templates/Template-MOC.md",
     "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter-Enhanced.md",
-    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
-    "04 - RESOURCES/_README.md",
-    "03 - AREAS/Journal/Daily/2023-11-25.md",
-    "03 - AREAS/Journal/Daily/2023-11-21.md",
-    "03 - AREAS/Journal/Daily/2023-11-13.md",
-    "03 - AREAS/Code/PowerShell/PowerShell - Convert XLS to XLSX.md",
     "Inbox/Clips",
     "Inbox",
     "00 - INBOX/Clips",
