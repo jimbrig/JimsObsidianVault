@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Meta/Obsidian Templates.md",
+                "file": "03 - AREAS/Meta/Workflows/Best Practices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Meta/Obsidian Templates.md"
+                "file": "03 - AREAS/Meta/Workflows/Best Practices.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Meta/Obsidian Templates.md"
+                "file": "03 - AREAS/Meta/Workflows/Best Practices.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Meta/Obsidian Templates.md",
+                "file": "03 - AREAS/Meta/Workflows/Best Practices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Meta/Obsidian Templates.md",
+                "file": "03 - AREAS/Meta/Workflows/Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Meta/Obsidian Templates.md",
+                "file": "03 - AREAS/Meta/Workflows/Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,6 +380,15 @@
   },
   "active": "4391e117cb0a7a2d",
   "lastOpenFiles": [
+    "03 - AREAS/Meta/Workflows/Re-Structuring Vaults.md",
+    "03 - AREAS/Meta/Workflows/Best Practices.md",
+    "03 - AREAS/Meta/Workflows/Workflows.md",
+    "03 - AREAS/Meta/Folders.md",
+    "03 - AREAS/Meta/Tags.md",
+    "03 - AREAS/Meta/Sources.md",
+    "03 - AREAS/Meta/Settings.md",
+    "03 - AREAS/Meta/References.md",
+    "03 - AREAS/Meta/Obsidian Templates.md",
     "03 - AREAS/Meta/Plugins/Templater.md",
     "03 - AREAS/Meta/Plugins/Dataview.md",
     "03 - AREAS/Logs/TIL/PowerShell/_README.md",
@@ -397,15 +406,6 @@
     "04 - RESOURCES/_README.md",
     "03 - AREAS/Logs/_README.md",
     "03 - AREAS/Journal/Daily/2023-12-12.md",
-    "03 - AREAS/Journal/Daily/2023-12-11.md",
-    "03 - AREAS/Journal/Daily/2023-12-09.md",
-    "03 - AREAS/Journal/Daily/2023-12-05.md",
-    "02 - PROJECTS/_README.md",
-    "00 - INBOX/PowerShell Configuration Data.md",
-    "03 - AREAS/Journal/Daily/2023-11-30.md",
-    "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md",
-    "00 - INBOX/Difference between Office365 and Microsoft 365.md",
-    "03 - AREAS/Journal/Daily/2023-11-27.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",

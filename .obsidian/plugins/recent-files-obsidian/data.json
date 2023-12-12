@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Best Practices",
+      "path": "03 - AREAS/Meta/Workflows/Best Practices.md"
+    },
+    {
+      "basename": "Re-Structuring Vaults",
+      "path": "03 - AREAS/Meta/Workflows/Re-Structuring Vaults.md"
+    },
+    {
+      "basename": "Workflows",
+      "path": "03 - AREAS/Meta/Workflows/Workflows.md"
+    },
+    {
+      "basename": "Folders",
+      "path": "03 - AREAS/Meta/Folders.md"
+    },
+    {
+      "basename": "Tags",
+      "path": "03 - AREAS/Meta/Tags.md"
+    },
+    {
+      "basename": "Sources",
+      "path": "03 - AREAS/Meta/Sources.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "03 - AREAS/Meta/Settings.md"
+    },
+    {
+      "basename": "References",
+      "path": "03 - AREAS/Meta/References.md"
+    },
+    {
       "basename": "Obsidian Templates",
       "path": "03 - AREAS/Meta/Obsidian Templates.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "2023-11-21",
       "path": "03 - AREAS/Journal/Daily/2023-11-21.md"
-    },
-    {
-      "basename": "2023-11-13",
-      "path": "03 - AREAS/Journal/Daily/2023-11-13.md"
-    },
-    {
-      "basename": "PowerShell - ConvertTo-Markdown",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - ConvertTo-Markdown.md"
-    },
-    {
-      "basename": "PowerShell - Convert XLS to XLSX",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Convert XLS to XLSX.md"
-    },
-    {
-      "basename": "PowerShell - Add-GodModeShortcut",
-      "path": "03 - AREAS/Code/PowerShell/PowerShell - Add-GodModeShortcut.md"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/_README.md"
-    },
-    {
-      "basename": "2023-11-08",
-      "path": "03 - AREAS/Journal/Daily/2023-11-08.md"
-    },
-    {
-      "basename": "Espanso for Obsidian Setup",
-      "path": "00 - INBOX/Espanso for Obsidian Setup.md"
-    },
-    {
-      "basename": "PowerShell Commands Master List",
-      "path": "04 - RESOURCES/Lists/PowerShell Commands Master List.md"
     }
   ],
   "omittedPaths": [],
