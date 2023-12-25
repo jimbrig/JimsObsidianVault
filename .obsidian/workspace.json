@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-23.md",
+                "file": "03 - AREAS/Journal/Daily/2023-12-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-23.md"
+                "file": "03 - AREAS/Journal/Daily/2023-12-24.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-23.md"
+                "file": "03 - AREAS/Journal/Daily/2023-12-24.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-23.md",
+                "file": "03 - AREAS/Journal/Daily/2023-12-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-23.md",
+                "file": "03 - AREAS/Journal/Daily/2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2023-12-23.md",
+                "file": "03 - AREAS/Journal/Daily/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,8 +380,9 @@
   },
   "active": "4391e117cb0a7a2d",
   "lastOpenFiles": [
-    "03 - AREAS/Meta/Workflows/Best Practices.md",
     "03 - AREAS/Journal/Daily/2023-12-23.md",
+    "03 - AREAS/Journal/Daily/2023-12-24.md",
+    "03 - AREAS/Meta/Workflows/Best Practices.md",
     "03 - AREAS/Meta/Workflows/Re-Structuring Vaults.md",
     "03 - AREAS/Meta/Workflows/Workflows.md",
     "03 - AREAS/Meta/Folders.md",
@@ -405,7 +406,6 @@
     "03 - AREAS/Logs/TIL/_README.md",
     "03 - AREAS/Logs/Vault Changelog.md",
     "04 - RESOURCES/_README.md",
-    "03 - AREAS/Logs/_README.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",
