@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/Bash/_README.md"
+    },
+    {
+      "basename": "AHK - Custom Text Expansions",
+      "path": "03 - AREAS/Code/AutoHotKey/AHK - Custom Text Expansions.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/Code/AutoHotKey/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "03 - AREAS/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "04 - RESOURCES/_README.md"
+    },
+    {
       "basename": "Template-Code-PowerShell",
       "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code-PowerShell.md"
     },
     {
       "basename": "Template-Code",
       "path": "04 - RESOURCES/Templates/Code-Templates/Template-Code.md"
-    },
-    {
-      "basename": "_README",
-      "path": "04 - RESOURCES/_README.md"
     },
     {
       "basename": "2023-12-24",
@@ -169,10 +189,6 @@
       "path": "03 - AREAS/Guides/_README.md"
     },
     {
-      "basename": "_README",
-      "path": "03 - AREAS/Code/_README.md"
-    },
-    {
       "basename": "Developing PowerShell Core Modules Best Practices",
       "path": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "HTTP Status Codes",
       "path": "01 - SLIPBOX/HTTP Status Codes.md"
-    },
-    {
-      "basename": "_README",
-      "path": "01 - SLIPBOX/_README.md"
-    },
-    {
-      "basename": "Template-MOC",
-      "path": "04 - RESOURCES/Templates/Core-Templates/Template-MOC.md"
-    },
-    {
-      "basename": "Template-Folder-README",
-      "path": "04 - RESOURCES/Templates/Utility-Templates/Template-Folder-README.md"
-    },
-    {
-      "basename": "Template-Footer",
-      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Footer.md"
     }
   ],
   "omittedPaths": [],
