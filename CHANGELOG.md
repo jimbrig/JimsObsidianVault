@@ -1,5 +1,6 @@
+- 2023-12-25 at 13h51 · [[Template-Code]]
+- 2023-12-25 at 13h51 · [[2023-12-24]]
 - 2023-12-24 at 20h20 · [[2023-12-23]]
-- 2023-12-24 at 20h20 · [[2023-12-24]]
 - 2023-12-12 at 15h08 · [[Best Practices]]
 - 2023-12-12 at 14h35 · [[Tags]]
 - 2023-12-12 at 14h35 · [[References]]
@@ -47,4 +48,3 @@
 - 2023-12-12 at 13h50 · [[Template-Person]]
 - 2023-12-12 at 13h50 · [[Template-Readwise]]
 - 2023-12-12 at 13h50 · [[Template-YouTube]]
-- 2023-12-12 at 13h50 · [[Template - Tool - IDE]]
