@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://r-craft.org/r-news/r-markdown-lesser-known-tips-tricks-4-looks-better-works-better/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better", "R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better"
+  - "R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better"
 ---
 # R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better
 

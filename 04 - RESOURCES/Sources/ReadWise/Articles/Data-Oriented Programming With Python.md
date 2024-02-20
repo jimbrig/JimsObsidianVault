@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/ef478c43a874
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Data-Oriented Programming With Python", "Data-Oriented Programming With Python"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Data-Oriented Programming With Python
+  - Data-Oriented Programming With Python
 ---
 # Data-Oriented Programming With Python
 

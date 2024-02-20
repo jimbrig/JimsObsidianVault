@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/5dc3d8868d9
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Running Pester Against Terraform State", "Running Pester Against Terraform State"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Running Pester Against Terraform State
+  - Running Pester Against Terraform State
 ---
 # Running Pester Against Terraform State
 

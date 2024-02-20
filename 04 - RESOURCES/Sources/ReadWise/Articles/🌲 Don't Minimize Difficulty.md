@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.obsidianroundup.org/dont-minimize-difficulty/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["🌲 Don't Minimize Difficulty", "🌲 Don't Minimize Difficulty"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - 🌲 Don't Minimize Difficulty
+  - 🌲 Don't Minimize Difficulty
 ---
 # 🌲 Don't Minimize Difficulty
 

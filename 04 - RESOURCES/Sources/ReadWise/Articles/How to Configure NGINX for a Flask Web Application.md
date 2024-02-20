@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.patricksoftwareblog.com/how-to-configure-nginx-for-a-flask-web-application/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["How to Configure NGINX for a Flask Web Application", "How to Configure NGINX for a Flask Web Application"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - How to Configure NGINX for a Flask Web Application
+  - How to Configure NGINX for a Flask Web Application
 ---
 # How to Configure NGINX for a Flask Web Application
 

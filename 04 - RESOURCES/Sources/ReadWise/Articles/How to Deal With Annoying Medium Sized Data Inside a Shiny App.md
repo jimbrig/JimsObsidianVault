@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://r-craft.org/r-news/how-to-deal-with-annoying-medium-sized-data-inside-a-shiny-app/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["How to Deal With Annoying Medium Sized Data Inside a Shiny App", "How to Deal With Annoying Medium Sized Data Inside a Shiny App"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - How to Deal With Annoying Medium Sized Data Inside a Shiny App
+  - How to Deal With Annoying Medium Sized Data Inside a Shiny App
 ---
 # How to Deal With Annoying Medium Sized Data Inside a Shiny App
 

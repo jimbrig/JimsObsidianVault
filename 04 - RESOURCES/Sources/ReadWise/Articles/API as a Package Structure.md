@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://feedly.com/i/entry/qvGtkO5fnj6ZnEh/FwHw8GADYofdlRqvnAzOhhhBGz4=_1833e7fdb30:6d4f7eb:84ca694a
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["API as a Package: Structure", "API as a Package: Structure"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "API as a Package: Structure"
+  - "API as a Package: Structure"
 ---
 # API as a Package: Structure
 

@@ -1,8 +1,13 @@
 ---
 Date: 2023-10-10
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Dev/R"]
-Aliases: [ "tidyeval", "tidy evaluation", "programming with dplyr" ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Dev/R"
+Aliases:
+  - tidyeval
+  - tidy evaluation
+  - programming with dplyr
 ---
 
 # R - Tidy Evaluation and Programming with dplyr

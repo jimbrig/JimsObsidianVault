@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://r-craft.org/r-news/purrr-1-0-0/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Purrr 1.0.0", "Purrr 1.0.0"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Purrr 1.0.0
+  - Purrr 1.0.0
 ---
 # Purrr 1.0.0
 

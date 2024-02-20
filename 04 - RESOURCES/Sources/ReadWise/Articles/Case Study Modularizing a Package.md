@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://turtletopia.github.io/2022/08/04/case-study-modularizing-a-package/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Case Study: Modularizing a Package", "Case Study: Modularizing a Package"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Case Study: Modularizing a Package"
+  - "Case Study: Modularizing a Package"
 ---
 # Case Study: Modularizing a Package
 

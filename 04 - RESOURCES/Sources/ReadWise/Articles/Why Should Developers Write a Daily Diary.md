@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://blog.invidelabs.com/why-developers-should-write-a-daily-diary/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Why Should Developers Write a Daily Diary", "Why Should Developers Write a Daily Diary"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Why Should Developers Write a Daily Diary
+  - Why Should Developers Write a Daily Diary
 ---
 # Why Should Developers Write a Daily Diary
 

@@ -2,7 +2,16 @@
   "accentColor": "#0ce208",
   "cssTheme": "VSCoder",
   "showViewHeader": true,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "homepage",
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "MCL Wide Views",
+    "progress",
+    "sidebar",
+    "todoist",
+    "zettelkasten"
+  ],
   "baseFontSize": 15,
   "nativeMenus": false
 }

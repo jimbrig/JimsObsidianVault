@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: http://blog.pamelafox.org/2022/09/deploying-containerized-flask-app-to.html?m=1
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Deploying a Containerized Flask App to Azure Container Apps", "Deploying a Containerized Flask App to Azure Container Apps"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Deploying a Containerized Flask App to Azure Container Apps
+  - Deploying a Containerized Flask App to Azure Container Apps
 ---
 # Deploying a Containerized Flask App to Azure Container Apps
 

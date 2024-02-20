@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.obsidianroundup.org/the-konik-method-for-making-notes/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["🌲The Konik Method for Making Useful Notes", "🌲The Konik Method for Making Useful Notes"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - 🌲The Konik Method for Making Useful Notes
+  - 🌲The Konik Method for Making Useful Notes
 ---
 # 🌲The Konik Method for Making Useful Notes
 

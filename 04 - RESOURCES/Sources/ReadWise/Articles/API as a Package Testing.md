@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.r-bloggers.com/2022/09/api-as-a-package-testing/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["API as a Package: Testing", "API as a Package: Testing"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "API as a Package: Testing"
+  - "API as a Package: Testing"
 ---
 # API as a Package: Testing
 

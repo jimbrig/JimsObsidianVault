@@ -1,6 +1,3 @@
----
-
----
 
 # An Overview of Personal Knowledge Management
 

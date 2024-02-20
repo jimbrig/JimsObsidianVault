@@ -1,13 +1,14 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: 
+Tags:
   - Type/Project
-Alias: [ "<% tp.file.title %>" ]
+Alias:
+  - <% tp.file.title %>
 Status: Triage
 Priority: 0
-Cover:
-Due-Date:
+Cover: 
+Due-Date: 
 Exclude-from-Project: false
 ---
 

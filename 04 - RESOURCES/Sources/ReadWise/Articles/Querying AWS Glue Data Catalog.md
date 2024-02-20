@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://docs.aws.amazon.com/athena/latest/ug/querying-glue-catalog.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Querying AWS Glue Data Catalog", "Querying AWS Glue Data Catalog"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Querying AWS Glue Data Catalog
+  - Querying AWS Glue Data Catalog
 ---
 # Querying AWS Glue Data Catalog
 

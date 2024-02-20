@@ -1,8 +1,13 @@
 ---
 Date: 2023-06-10
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Dev/Windows"]
-Alias: [ ".NET SDK", "dotnet", ".NET" ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Dev/Windows"
+Alias:
+  - .NET SDK
+  - dotnet
+  - .NET
 ---
 
 # DotNet SDK

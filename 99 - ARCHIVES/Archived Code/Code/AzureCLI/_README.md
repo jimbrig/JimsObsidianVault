@@ -1,8 +1,11 @@
 ---
 Date: 2023-08-08
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "AzureCLI" ]
+Tags:
+  - "#Type/Readme"
+  - "#Topic/Meta"
+Alias:
+  - AzureCLI
 ---
 
 # AzureCLI

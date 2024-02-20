@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://blog.miguelgrinberg.com/post/setting-up-a-flask-application-in-visual-studio-code
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Setting Up a Flask Application in Visual Studio Code", "Setting Up a Flask Application in Visual Studio Code"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Setting Up a Flask Application in Visual Studio Code
+  - Setting Up a Flask Application in Visual Studio Code
 ---
 # Setting Up a Flask Application in Visual Studio Code
 

@@ -1,8 +1,12 @@
 ---
 Date: 2023-06-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/MOC", "#Topic/Undefined" ]
-Alias: [ "Terraform", "Terraform Map of Content" ]
+Tags:
+  - "#Type/MOC"
+  - "#Topic/Undefined"
+Alias:
+  - Terraform
+  - Terraform Map of Content
 ---
 
 # Terraform Map of Content

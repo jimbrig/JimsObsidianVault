@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d135670313a6
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["A Guide for Using WSL for Development", "A Guide for Using WSL for Development"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - A Guide for Using WSL for Development
+  - A Guide for Using WSL for Development
 ---
 # A Guide for Using WSL for Development
 

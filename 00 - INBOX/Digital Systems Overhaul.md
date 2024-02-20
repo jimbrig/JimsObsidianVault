@@ -1,6 +1,3 @@
----
-
----
 
 # Digital Systems Overhaul
 

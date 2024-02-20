@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://apiumhub.com/tech-blog-barcelona/web-component/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Web Components: Everything You Need to Know", "Web Components: Everything You Need to Know"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Web Components: Everything You Need to Know"
+  - "Web Components: Everything You Need to Know"
 ---
 # Web Components: Everything You Need to Know
 

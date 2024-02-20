@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://dev.to/vinibgoulart/you-dont-need-to-watch-videos-or-lessons-to-learn-something-52j5
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["You Don't Need to Watch Videos or Lessons to Learn Something", "You Don't Need to Watch Videos or Lessons to Learn Something"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - You Don't Need to Watch Videos or Lessons to Learn Something
+  - You Don't Need to Watch Videos or Lessons to Learn Something
 ---
 # You Don't Need to Watch Videos or Lessons to Learn Something
 

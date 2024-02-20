@@ -1,8 +1,10 @@
 ---
 Date: 2023-07-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Unknown"]
-Alias: [ ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Unknown"
+Alias: []
 ---
 
 # Secure Socket Shell (SSH)

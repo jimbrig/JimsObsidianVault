@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://inadarei.github.io/rfc-healthcheck/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Health Check Response Format for HTTP APIs", "Health Check Response Format for HTTP APIs"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Health Check Response Format for HTTP APIs
+  - Health Check Response Format for HTTP APIs
 ---
 # Health Check Response Format for HTTP APIs
 

@@ -1,8 +1,11 @@
 ---
 Date: 2023-08-29
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "Personal Projects" ]
+Tags:
+  - "#Type/Readme"
+  - "#Topic/Meta"
+Alias:
+  - Personal Projects
 ---
 
 # Personal Projects

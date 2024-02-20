@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: Matter
 Link: https://www.auditexcel.co.za/article/spreadsheet-documentation-using-only-excels-inbuilt-tools/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Spreadsheet Documentation (using only Excel's inbuilt tools)", "Spreadsheet Documentation (using only Excel's inbuilt tools)"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Spreadsheet Documentation (using only Excel's inbuilt tools)
+  - Spreadsheet Documentation (using only Excel's inbuilt tools)
 ---
 # Spreadsheet Documentation (using only Excel's inbuilt tools)
 

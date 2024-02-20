@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://blog.r-hub.io/2022/09/12/r-dependency/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Minimum R Version Dependency in R Packages", "Minimum R Version Dependency in R Packages"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Minimum R Version Dependency in R Packages
+  - Minimum R Version Dependency in R Packages
 ---
 # Minimum R Version Dependency in R Packages
 

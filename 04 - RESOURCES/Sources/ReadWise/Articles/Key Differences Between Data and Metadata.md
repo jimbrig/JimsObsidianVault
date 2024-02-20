@@ -3,8 +3,11 @@ Date: 2023-06-19
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://blog.devart.com/data-vs-metadata.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Key Differences Between Data and Metadata", "Key Differences Between Data and Metadata"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Key Differences Between Data and Metadata
+  - Key Differences Between Data and Metadata
 ---
 # Key Differences Between Data and Metadata
 

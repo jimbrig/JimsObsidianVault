@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: raindrop
 Link: https://rubberduckvba.wordpress.com/2020/02/27/vba-classes-gateway-to-solid/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["VBA Class Modules: Gateway to SOLID Code", "VBA Class Modules: Gateway to SOLID Code"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "VBA Class Modules: Gateway to SOLID Code"
+  - "VBA Class Modules: Gateway to SOLID Code"
 ---
 # VBA Class Modules: Gateway to SOLID Code
 

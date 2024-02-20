@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://obsidianninja.com/obsidian-css-snippets/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["27 Awesome CSS Snippets for Customizing Obsidian", "27 Awesome CSS Snippets for Customizing Obsidian"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - 27 Awesome CSS Snippets for Customizing Obsidian
+  - 27 Awesome CSS Snippets for Customizing Obsidian
 ---
 # 27 Awesome CSS Snippets for Customizing Obsidian
 

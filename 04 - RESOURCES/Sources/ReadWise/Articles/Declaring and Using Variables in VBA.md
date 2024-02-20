@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://rubberduckvba.wordpress.com/2023/05/07/declaring-and-using-variables-in-vba/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Declaring and Using Variables in VBA", "Declaring and Using Variables in VBA"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Declaring and Using Variables in VBA
+  - Declaring and Using Variables in VBA
 ---
 # Declaring and Using Variables in VBA
 

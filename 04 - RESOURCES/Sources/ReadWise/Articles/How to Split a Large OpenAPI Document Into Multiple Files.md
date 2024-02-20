@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://davidgarcia.dev/posts/how-to-split-open-api-spec-into-multiple-files/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["How to Split a Large OpenAPI Document Into Multiple Files", "How to Split a Large OpenAPI Document Into Multiple Files"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - How to Split a Large OpenAPI Document Into Multiple Files
+  - How to Split a Large OpenAPI Document Into Multiple Files
 ---
 # How to Split a Large OpenAPI Document Into Multiple Files
 

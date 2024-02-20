@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/928bb1245c62
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["My Productivity Workflow. Part 1: Principles", "My Productivity Workflow. Part 1: Principles"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "My Productivity Workflow. Part 1: Principles"
+  - "My Productivity Workflow. Part 1: Principles"
 ---
 # My Productivity Workflow. Part 1: Principles
 

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://develpreneur.com/incremental-improvement-and-progress-do-it-now/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Incremental Improvement and Progress – Do It Now", "Incremental Improvement and Progress – Do It Now"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Incremental Improvement and Progress – Do It Now
+  - Incremental Improvement and Progress – Do It Now
 ---
 # Incremental Improvement and Progress – Do It Now
 

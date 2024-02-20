@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://publish.obsidian.md/myquantumwell/Knowledge+Management
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["The Quantum Well", "The Quantum Well"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - The Quantum Well
+  - The Quantum Well
 ---
 # The Quantum Well
 

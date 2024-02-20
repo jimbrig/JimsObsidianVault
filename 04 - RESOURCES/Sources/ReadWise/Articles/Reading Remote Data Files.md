@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://kieranhealy.org/blog/archives/2023/03/25/reading-remote-data-files/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Reading Remote Data Files", "Reading Remote Data Files"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Reading Remote Data Files
+  - Reading Remote Data Files
 ---
 # Reading Remote Data Files
 

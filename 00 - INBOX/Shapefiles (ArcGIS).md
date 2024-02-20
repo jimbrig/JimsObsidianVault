@@ -1,8 +1,11 @@
 ---
 Date: 2023-09-30
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Dev"]
-Aliases: [ "Shapefiles" ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Dev"
+Aliases:
+  - Shapefiles
 ---
 
 # Shapefiles (ArcGIS)

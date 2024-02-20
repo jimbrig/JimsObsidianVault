@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://zerotomastery.io/blog/why-you-should-learn-system-design-now/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Why You Should Learn System Design ASAP", "Why You Should Learn System Design ASAP"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Why You Should Learn System Design ASAP
+  - Why You Should Learn System Design ASAP
 ---
 # Why You Should Learn System Design ASAP
 

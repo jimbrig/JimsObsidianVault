@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://pgjones.dev/blog/modern-flask-2023/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["13 Tips and Techniques for Modern Flask Apps", "13 Tips and Techniques for Modern Flask Apps"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - 13 Tips and Techniques for Modern Flask Apps
+  - 13 Tips and Techniques for Modern Flask Apps
 ---
 # 13 Tips and Techniques for Modern Flask Apps
 

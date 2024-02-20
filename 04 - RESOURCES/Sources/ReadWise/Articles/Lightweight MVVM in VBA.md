@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://rubberduckvba.wordpress.com/2023/04/11/lightweight-mvvm-in-vba/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Lightweight MVVM in VBA", "Lightweight MVVM in VBA"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Lightweight MVVM in VBA
+  - Lightweight MVVM in VBA
 ---
 # Lightweight MVVM in VBA
 

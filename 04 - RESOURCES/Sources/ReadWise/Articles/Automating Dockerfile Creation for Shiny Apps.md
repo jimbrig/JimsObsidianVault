@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.r-bloggers.com/2022/10/automating-dockerfile-creation-for-shiny-apps/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Automating Dockerfile Creation for Shiny Apps", "Automating Dockerfile Creation for Shiny Apps"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Automating Dockerfile Creation for Shiny Apps
+  - Automating Dockerfile Creation for Shiny Apps
 ---
 # Automating Dockerfile Creation for Shiny Apps
 

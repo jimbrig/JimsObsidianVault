@@ -1,6 +1,3 @@
----
-
----
 
 
 ## File Name Template

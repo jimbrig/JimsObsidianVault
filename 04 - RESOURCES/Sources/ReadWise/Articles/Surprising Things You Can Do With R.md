@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.r-bloggers.com/2022/08/surprising-things-you-can-do-with-r/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Surprising Things You Can Do With R", "Surprising Things You Can Do With R"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Surprising Things You Can Do With R
+  - Surprising Things You Can Do With R
 ---
 # Surprising Things You Can Do With R
 

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_methods
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["About_Functions_Advanced_Methods", "About_Functions_Advanced_Methods"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - About_Functions_Advanced_Methods
+  - About_Functions_Advanced_Methods
 ---
 # About_Functions_Advanced_Methods
 

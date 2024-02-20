@@ -1,8 +1,10 @@
 ---
 Date: 2023-08-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Unknown"]
-Alias: [ ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Unknown"
+Alias: []
 ---
 
 # Microsoft 365

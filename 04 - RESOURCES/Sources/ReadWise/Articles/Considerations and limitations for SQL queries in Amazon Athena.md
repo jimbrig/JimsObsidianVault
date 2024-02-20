@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: Matter
 Link: https://docs.aws.amazon.com/athena/latest/ug/other-notable-limitations.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Considerations and limitations for SQL queries in Amazon Athena", "Considerations and limitations for SQL queries in Amazon Athena"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Considerations and limitations for SQL queries in Amazon Athena
+  - Considerations and limitations for SQL queries in Amazon Athena
 ---
 # Considerations and limitations for SQL queries in Amazon Athena
 

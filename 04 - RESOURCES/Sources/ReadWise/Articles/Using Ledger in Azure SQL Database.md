@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://devblogs.microsoft.com/azure-sql/using-ledger-in-azure-sql-database/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Using Ledger in Azure SQL Database", "Using Ledger in Azure SQL Database"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Using Ledger in Azure SQL Database
+  - Using Ledger in Azure SQL Database
 ---
 # Using Ledger in Azure SQL Database
 

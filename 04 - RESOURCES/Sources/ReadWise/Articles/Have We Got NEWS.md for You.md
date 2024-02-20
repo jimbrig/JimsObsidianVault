@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.jumpingrivers.com/blog/intro-to-r-news-format/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Have We Got NEWS.md for You", "Have We Got NEWS.md for You"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Have We Got NEWS.md for You
+  - Have We Got NEWS.md for You
 ---
 # Have We Got NEWS.md for You
 

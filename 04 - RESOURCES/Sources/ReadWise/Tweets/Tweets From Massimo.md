@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: twitter
 Link: https://twitter.com/Rainmaker1973
-Tags: ["#Type/Highlight/Tweet"]
-Aliases: ["Tweets From Massimo", "Tweets From Massimo"]
+Tags:
+  - "#Type/Highlight/Tweet"
+Aliases:
+  - Tweets From Massimo
+  - Tweets From Massimo
 ---
 # Tweets From Massimo
 

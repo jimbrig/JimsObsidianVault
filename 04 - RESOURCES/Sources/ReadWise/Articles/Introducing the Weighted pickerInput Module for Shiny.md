@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://appsilon.com/weighted-pickerinput-module-for-shiny/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Introducing the Weighted pickerInput Module for Shiny", "Introducing the Weighted pickerInput Module for Shiny"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Introducing the Weighted pickerInput Module for Shiny
+  - Introducing the Weighted pickerInput Module for Shiny
 ---
 # Introducing the Weighted pickerInput Module for Shiny
 

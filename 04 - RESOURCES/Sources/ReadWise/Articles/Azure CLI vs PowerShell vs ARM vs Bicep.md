@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://sgryphon.gamertheory.net/2021/12/10/azure-cli-vs-powershell-vs-arm-vs-bicep/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Azure CLI vs PowerShell vs ARM vs Bicep", "Azure CLI vs PowerShell vs ARM vs Bicep"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Azure CLI vs PowerShell vs ARM vs Bicep
+  - Azure CLI vs PowerShell vs ARM vs Bicep
 ---
 # Azure CLI vs PowerShell vs ARM vs Bicep
 

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: raindrop
 Link: https://community.spiceworks.com/topic/592770-extract-icon-from-exe-powershell
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Extract Icon From .EXE Powershell", "Extract Icon From .EXE Powershell"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Extract Icon From .EXE Powershell
+  - Extract Icon From .EXE Powershell
 ---
 # Extract Icon From .EXE Powershell
 

@@ -1,8 +1,12 @@
 ---
 Date: 2023-10-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Diagram", "#Topic/Actuarial"]
-Aliases: [ "Loss Map", "Loss Reserving Map" ]
+Tags:
+  - "#Type/Diagram"
+  - "#Topic/Actuarial"
+Aliases:
+  - Loss Map
+  - Loss Reserving Map
 ---
 
 # Loss Reserving Map Diagram

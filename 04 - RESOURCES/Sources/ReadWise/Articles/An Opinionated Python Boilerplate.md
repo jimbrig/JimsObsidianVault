@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://duarteocarmo.com/blog/opinionated-python-boilerplate.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["An Opinionated Python Boilerplate", "An Opinionated Python Boilerplate"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - An Opinionated Python Boilerplate
+  - An Opinionated Python Boilerplate
 ---
 # An Opinionated Python Boilerplate
 

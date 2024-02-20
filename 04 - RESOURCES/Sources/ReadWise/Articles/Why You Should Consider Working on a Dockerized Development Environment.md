@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.brodrigues.co/blog/2023-05-08-dock_dev_env/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Why You Should Consider Working on a Dockerized Development Environment", "Why You Should Consider Working on a Dockerized Development Environment"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Why You Should Consider Working on a Dockerized Development Environment
+  - Why You Should Consider Working on a Dockerized Development Environment
 ---
 # Why You Should Consider Working on a Dockerized Development Environment
 

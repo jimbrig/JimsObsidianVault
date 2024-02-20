@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://azureossd.github.io/2023/02/06/Deploying-Web-App-for-Containers-with-CI-CD-pipelines/index.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Deploying Web App for Containers With CI/CD Pipelines", "Deploying Web App for Containers With CI/CD Pipelines"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Deploying Web App for Containers With CI/CD Pipelines
+  - Deploying Web App for Containers With CI/CD Pipelines
 ---
 # Deploying Web App for Containers With CI/CD Pipelines
 

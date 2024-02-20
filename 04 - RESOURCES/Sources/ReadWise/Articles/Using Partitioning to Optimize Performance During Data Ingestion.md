@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: Matter
 Link: https://www.bluegranite.com/blog/using-partitioning-to-optimize-performance-during-data-ingestion
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Using Partitioning to Optimize Performance During Data Ingestion", "Using Partitioning to Optimize Performance During Data Ingestion"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Using Partitioning to Optimize Performance During Data Ingestion
+  - Using Partitioning to Optimize Performance During Data Ingestion
 ---
 # Using Partitioning to Optimize Performance During Data Ingestion
 

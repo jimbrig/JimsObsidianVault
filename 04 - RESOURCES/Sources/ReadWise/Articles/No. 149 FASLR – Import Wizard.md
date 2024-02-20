@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://genedan.com/no-149-faslr-import-wizard/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["No. 149: FASLR – Import Wizard", "No. 149: FASLR – Import Wizard"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "No. 149: FASLR – Import Wizard"
+  - "No. 149: FASLR – Import Wizard"
 ---
 # No. 149: FASLR – Import Wizard
 

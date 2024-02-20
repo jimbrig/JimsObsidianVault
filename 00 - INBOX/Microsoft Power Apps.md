@@ -1,8 +1,12 @@
 ---
 Date: 2023-08-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Microsoft", "#Topic/Dev" ]
-Alias: [ "Power Apps" ]
+Tags:
+  - "#Type/Tool"
+  - "#Topic/Microsoft"
+  - "#Topic/Dev"
+Alias:
+  - Power Apps
 ---
 
 # Microsoft Power Apps

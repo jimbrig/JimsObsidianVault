@@ -1,8 +1,10 @@
 ---
 Date: 2023-06-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Unknown"]
-Alias: [ ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Unknown"
+Alias: []
 ---
 
 # Laptop Purchasing Guide

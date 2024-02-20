@@ -1,8 +1,12 @@
 ---
 Date: 2023-09-21
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Windows", "#Status/WIP"]
-Aliases: [ "Windows Startup" ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Windows"
+  - "#Status/WIP"
+Aliases:
+  - Windows Startup
 ---
 
 # Windows Startup Process

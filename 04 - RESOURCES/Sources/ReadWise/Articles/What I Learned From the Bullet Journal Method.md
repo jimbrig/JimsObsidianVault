@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://fortelabs.co/blog/what-i-learned-from-the-bullet-journal-method/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["What I Learned From the Bullet Journal Method", "What I Learned From the Bullet Journal Method"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - What I Learned From the Bullet Journal Method
+  - What I Learned From the Bullet Journal Method
 ---
 # What I Learned From the Bullet Journal Method
 

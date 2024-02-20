@@ -1,8 +1,11 @@
 ---
 Date: 2023-06-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: [ "PSStyle" ]
+Tags:
+  - "#Type/Code/PowerShell"
+  - "#Topic/Dev/PowerShell"
+Alias:
+  - PSStyle
 ---
 
 # PSStyle

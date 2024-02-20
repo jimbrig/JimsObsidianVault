@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/b1ca7a9c7101
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Revamping Git Practices for Improved Development Workflow: Using Feature-Based Development", "Revamping Git Practices for Improved Development Workflow: Using Feature-Based Development"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Revamping Git Practices for Improved Development Workflow: Using Feature-Based Development"
+  - "Revamping Git Practices for Improved Development Workflow: Using Feature-Based Development"
 ---
 # Revamping Git Practices for Improved Development Workflow: Using Feature-Based Development
 

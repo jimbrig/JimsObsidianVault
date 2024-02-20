@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://genedan.com/no-151-faslr-exhibit-builder/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["No. 151: FASLR – Exhibit Builder", "No. 151: FASLR – Exhibit Builder"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "No. 151: FASLR – Exhibit Builder"
+  - "No. 151: FASLR – Exhibit Builder"
 ---
 # No. 151: FASLR – Exhibit Builder
 

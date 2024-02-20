@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://blog.invidelabs.com/continuous-learning-for-developers-how-to-stay-up-to-date-and-boost-productivity/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Continuous Learning for Developers", "Continuous Learning for Developers"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Continuous Learning for Developers
+  - Continuous Learning for Developers
 ---
 # Continuous Learning for Developers
 

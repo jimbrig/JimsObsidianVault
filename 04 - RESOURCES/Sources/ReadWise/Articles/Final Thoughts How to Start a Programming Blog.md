@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://mikkegoes.com/start-a-programming-blog/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Final Thoughts: How to Start a Programming Blog", "Final Thoughts: How to Start a Programming Blog"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Final Thoughts: How to Start a Programming Blog"
+  - "Final Thoughts: How to Start a Programming Blog"
 ---
 # Final Thoughts: How to Start a Programming Blog
 

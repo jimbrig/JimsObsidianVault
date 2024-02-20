@@ -1,8 +1,11 @@
 ---
 Date: 2023-06-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Tool", "#Topic/Dev/Cloud/Azure" ]
-Alias: [ "Azure Naming Tool" ]
+Tags:
+  - "#Type/Tool"
+  - "#Topic/Dev/Cloud/Azure"
+Alias:
+  - Azure Naming Tool
 ---
 
 # Azure Naming Tool

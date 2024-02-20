@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://jdhitsolutions.com/blog/powershell/9117/organizing-chaos-with-psworkitems-and-powershell/?utm_source=rss&utm_medium=rss&utm_campaign=organizing-chaos-with-psworkitems-and-powershell
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Organizing Chaos With PSWorkItems and PowerShell", "Organizing Chaos With PSWorkItems and PowerShell"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Organizing Chaos With PSWorkItems and PowerShell
+  - Organizing Chaos With PSWorkItems and PowerShell
 ---
 # Organizing Chaos With PSWorkItems and PowerShell
 

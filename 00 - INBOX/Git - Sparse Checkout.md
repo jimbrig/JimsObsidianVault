@@ -2,8 +2,16 @@
 Date Created: 2023-09-09
 Date Modified: 2023-09-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Note", "#Type/Code/Git", "#Topic/Dev/Git", "#Topic/Dev", "#Status/Permanent" ]
-Aliases: [ "git-sparse-checkout", "Git Sparse Checkout", "Git Sparse Checkout Command" ]
+Tags:
+  - "#Type/Note"
+  - "#Type/Code/Git"
+  - "#Topic/Dev/Git"
+  - "#Topic/Dev"
+  - "#Status/Permanent"
+Aliases:
+  - git-sparse-checkout
+  - Git Sparse Checkout
+  - Git Sparse Checkout Command
 ---
 
 # Git Sparse Checkout

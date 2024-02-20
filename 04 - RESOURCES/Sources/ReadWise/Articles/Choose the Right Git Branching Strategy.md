@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/8c191a4808f5
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Choose the Right Git Branching Strategy", "Choose the Right Git Branching Strategy"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Choose the Right Git Branching Strategy
+  - Choose the Right Git Branching Strategy
 ---
 # Choose the Right Git Branching Strategy
 

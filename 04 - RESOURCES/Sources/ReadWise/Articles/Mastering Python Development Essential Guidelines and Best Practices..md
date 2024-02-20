@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/78634aac5b12
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Mastering Python Development: Essential Guidelines and Best Practices.", "Mastering Python Development: Essential Guidelines and Best Practices."]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Mastering Python Development: Essential Guidelines and Best Practices."
+  - "Mastering Python Development: Essential Guidelines and Best Practices."
 ---
 # Mastering Python Development: Essential Guidelines and Best Practices.
 

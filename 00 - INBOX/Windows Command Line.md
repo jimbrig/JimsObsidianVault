@@ -1,8 +1,18 @@
 ---
 Date: 2023-06-01
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Note", "#Topic/Dev/Windows"]
-Alias: [ "CMD", "Windows CMD", "Command Prompt", "cmd.exe", "Command Line Interpreter", "Command Processor Shell", "DOS Batch", "Win32 Console" ]
+Tags:
+  - "#Type/Note"
+  - "#Topic/Dev/Windows"
+Alias:
+  - CMD
+  - Windows CMD
+  - Command Prompt
+  - cmd.exe
+  - Command Line Interpreter
+  - Command Processor Shell
+  - DOS Batch
+  - Win32 Console
 ---
 
 # Windows Command Line

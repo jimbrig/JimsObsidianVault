@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.r-bloggers.com/2022/07/r-quarto-tutorial-how-to-create-interactive-markdown-documents/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["R Quarto Tutorial – How to Create Interactive Markdown Documents", "R Quarto Tutorial – How to Create Interactive Markdown Documents"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - R Quarto Tutorial – How to Create Interactive Markdown Documents
+  - R Quarto Tutorial – How to Create Interactive Markdown Documents
 ---
 # R Quarto Tutorial – How to Create Interactive Markdown Documents
 

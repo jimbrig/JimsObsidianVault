@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://testdriven.io/blog/docker-best-practices/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Docker Best Practices for Python Developers", "Docker Best Practices for Python Developers"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Docker Best Practices for Python Developers
+  - Docker Best Practices for Python Developers
 ---
 # Docker Best Practices for Python Developers
 

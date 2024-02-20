@@ -1,8 +1,11 @@
 ---
 Date: 2023-08-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "FleetingNotes" ]
+Tags:
+  - "#Type/Readme"
+  - "#Topic/Meta"
+Alias:
+  - FleetingNotes
 ---
 
 # FleetingNotes

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://purple.telstra.com/blog/terraform-with-azure-devops-pipeline
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Terraform With Azure DevOps Pipeline", "Terraform With Azure DevOps Pipeline"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Terraform With Azure DevOps Pipeline
+  - Terraform With Azure DevOps Pipeline
 ---
 # Terraform With Azure DevOps Pipeline
 

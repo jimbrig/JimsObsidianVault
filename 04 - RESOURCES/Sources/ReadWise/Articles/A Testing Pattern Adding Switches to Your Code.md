@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://blog.r-hub.io/2023/01/23/code-switch-escape-hatch-test/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["A Testing Pattern: Adding Switches to Your Code", "A Testing Pattern: Adding Switches to Your Code"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "A Testing Pattern: Adding Switches to Your Code"
+  - "A Testing Pattern: Adding Switches to Your Code"
 ---
 # A Testing Pattern: Adding Switches to Your Code
 

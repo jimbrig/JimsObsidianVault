@@ -1,6 +1,6 @@
 {
   "style": "solid",
-  "adjustWidthToReadableLineWidth": false,
+  "adjustWidthToReadableLineWidth": true,
   "showInInternalEmbed": true,
   "showInPopover": true,
   "bannerDragModifier": "None",
@@ -13,6 +13,6 @@
   "useHeaderByDefault": false,
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
-  "bannersFolder": "04 - Resources/Assets/Banners",
+  "bannersFolder": "04 - RESOURCES/Assets/Banners",
   "version": "2.0.3-beta"
 }

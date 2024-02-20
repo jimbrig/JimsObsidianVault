@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.r-bloggers.com/2022/08/python-is-superior-to-r-for-writing-quality-codes/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Python Is Superior to R for Writing Quality Codes", "Python Is Superior to R for Writing Quality Codes"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Python Is Superior to R for Writing Quality Codes
+  - Python Is Superior to R for Writing Quality Codes
 ---
 # Python Is Superior to R for Writing Quality Codes
 

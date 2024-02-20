@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://github.com/trussworks/Engineering-Playbook/tree/main/docs/developing/healthcheck
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Overview", "Overview"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Overview
+  - Overview
 ---
 # Overview
 

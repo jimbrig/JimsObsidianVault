@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.wanderlustworker.com/how-to-organize-your-chaotic-life/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["How to Organize Your (Chaotic) Life", "How to Organize Your (Chaotic) Life"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - How to Organize Your (Chaotic) Life
+  - How to Organize Your (Chaotic) Life
 ---
 # How to Organize Your (Chaotic) Life
 

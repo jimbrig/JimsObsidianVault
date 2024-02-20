@@ -5,10 +5,17 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Type: Tool
 Topic: Dev/Tool
 Status: WIP
-Sources: [ "https://github.com/builtbybel/CleanmgrPlus" ]
-Tags: [ "#Type/Tool", "#Topic/Dev/Windows", "#Status/Permanent" ]
-Aliases: [ "CleanMgr+", "CleanMgr++", "CleanMgrPlus" ]
-cssclasses: [ ]
+Sources:
+  - https://github.com/builtbybel/CleanmgrPlus
+Tags:
+  - "#Type/Tool"
+  - "#Topic/Dev/Windows"
+  - "#Status/Permanent"
+Aliases:
+  - CleanMgr+
+  - CleanMgr++
+  - CleanMgrPlus
+cssclasses: []
 ---
 
 # CleanMgr+

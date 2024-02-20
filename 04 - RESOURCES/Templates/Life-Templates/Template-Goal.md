@@ -2,12 +2,12 @@
 Date Created: <% tp.file.creation_date("YYYY-MM-DD") %>
 Date Modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: 
+Tags:
   - Type/Goal
   - Status/WIP
-Alias: [ ]
+Alias: []
 Type: Goal
-Topic:
+Topic: 
 Status: WIP
 ---
 

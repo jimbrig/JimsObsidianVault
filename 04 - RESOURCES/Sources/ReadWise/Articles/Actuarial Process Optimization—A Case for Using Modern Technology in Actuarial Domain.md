@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: raindrop
 Link: https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain", "Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain
+  - Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain
 ---
 # Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain
 

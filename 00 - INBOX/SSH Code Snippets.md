@@ -1,8 +1,12 @@
 ---
 Date: 2023-07-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Code/Bash", "#Topic/Dev/Bash", "#Topic/Dev/Linux" ]
-Alias: [ "SSH Code Snippets" ]
+Tags:
+  - "#Type/Code/Bash"
+  - "#Topic/Dev/Bash"
+  - "#Topic/Dev/Linux"
+Alias:
+  - SSH Code Snippets
 ---
 
 # SSH Code Snippets

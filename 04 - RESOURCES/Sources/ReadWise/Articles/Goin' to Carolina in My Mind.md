@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://emilyriederer.netlify.app/post/duckdb-carolina/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Goin' to Carolina in My Mind", "Goin' to Carolina in My Mind"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Goin' to Carolina in My Mind
+  - Goin' to Carolina in My Mind
 ---
 # Goin' to Carolina in My Mind
 

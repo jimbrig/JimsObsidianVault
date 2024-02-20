@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: raindrop
 Link: https://www.surveyking.com/blog/excel-automation-explained/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Excel Automation Explained: VBA Code + Sample Workbooks", "Excel Automation Explained: VBA Code + Sample Workbooks"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Excel Automation Explained: VBA Code + Sample Workbooks"
+  - "Excel Automation Explained: VBA Code + Sample Workbooks"
 ---
 # Excel Automation Explained: VBA Code + Sample Workbooks
 

@@ -1,5 +1,5 @@
 ---
-input_file: "/03 - Areas/Code/src/Bookmarklet.AddToReadWise.js"
+input_file: /03 - Areas/Code/src/Bookmarklet.AddToReadWise.js
 ---
 
 ```button

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://javascript.info/manuals-specifications
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Manuals and Specifications", "Manuals and Specifications"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Manuals and Specifications
+  - Manuals and Specifications
 ---
 # Manuals and Specifications
 

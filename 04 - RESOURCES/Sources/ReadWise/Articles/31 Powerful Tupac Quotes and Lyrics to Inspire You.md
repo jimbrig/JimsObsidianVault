@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.epicquotes.com/31-powerful-tupac-quotes-and-lyrics-to-inspire-you/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["31 Powerful Tupac Quotes and Lyrics to Inspire You", "31 Powerful Tupac Quotes and Lyrics to Inspire You"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - 31 Powerful Tupac Quotes and Lyrics to Inspire You
+  - 31 Powerful Tupac Quotes and Lyrics to Inspire You
 ---
 # 31 Powerful Tupac Quotes and Lyrics to Inspire You
 

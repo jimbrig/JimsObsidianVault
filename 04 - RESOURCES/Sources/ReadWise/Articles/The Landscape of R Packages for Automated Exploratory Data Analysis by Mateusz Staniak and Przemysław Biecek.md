@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://arxiv.org/pdf/1904.02101.pdf
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["The Landscape of R Packages for Automated Exploratory Data Analysis by Mateusz Staniak and Przemysław Biecek", "The Landscape of R Packages for Automated Exploratory Data Analysis by Mateusz Staniak and Przemysław Biecek"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - The Landscape of R Packages for Automated Exploratory Data Analysis by Mateusz Staniak and Przemysław Biecek
+  - The Landscape of R Packages for Automated Exploratory Data Analysis by Mateusz Staniak and Przemysław Biecek
 ---
 # The Landscape of R Packages for Automated Exploratory Data Analysis by Mateusz Staniak and Przemysław Biecek
 

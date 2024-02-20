@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://javascript.info/intro
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["An Introduction to JavaScript", "An Introduction to JavaScript"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - An Introduction to JavaScript
+  - An Introduction to JavaScript
 ---
 # An Introduction to JavaScript
 

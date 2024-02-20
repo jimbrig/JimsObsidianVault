@@ -1,8 +1,11 @@
 ---
 Date: 2023-08-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "PowerShell Projects" ]
+Tags:
+  - "#Type/Readme"
+  - "#Topic/Meta"
+Alias:
+  - PowerShell Projects
 ---
 
 # PowerShell Projects

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://jarche.com/2022/08/navigating-complexity/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Navigating Complexity", "Navigating Complexity"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Navigating Complexity
+  - Navigating Complexity
 ---
 # Navigating Complexity
 

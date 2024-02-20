@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://dev.to/simplegeek/logical-communication-for-devs-548n
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Logical Communication", "Logical Communication"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Logical Communication
+  - Logical Communication
 ---
 # Logical Communication
 

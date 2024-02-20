@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://zerotomastery.io/blog/web-development-trends-in-2023/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Most Important Web Development Trends in 2023", "Most Important Web Development Trends in 2023"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Most Important Web Development Trends in 2023
+  - Most Important Web Development Trends in 2023
 ---
 # Most Important Web Development Trends in 2023
 

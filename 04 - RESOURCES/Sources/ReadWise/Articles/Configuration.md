@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://flask-monitoringdashboard.readthedocs.io/en/latest/configuration.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Configuration", "Configuration"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Configuration
+  - Configuration
 ---
 # Configuration
 

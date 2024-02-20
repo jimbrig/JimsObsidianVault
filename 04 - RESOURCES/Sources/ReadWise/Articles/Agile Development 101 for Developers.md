@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://blog.invidelabs.com/agile-101-for-developers-an-overview-of-agile-methodologies/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Agile Development 101 for Developers", "Agile Development 101 for Developers"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Agile Development 101 for Developers
+  - Agile Development 101 for Developers
 ---
 # Agile Development 101 for Developers
 

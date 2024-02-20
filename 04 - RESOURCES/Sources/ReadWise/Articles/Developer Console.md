@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://javascript.info/devtools
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Developer Console", "Developer Console"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Developer Console
+  - Developer Console
 ---
 # Developer Console
 

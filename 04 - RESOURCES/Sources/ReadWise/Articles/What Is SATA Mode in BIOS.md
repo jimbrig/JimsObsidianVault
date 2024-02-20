@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.compuhoy.com/what-is-sata-mode-in-bios/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["What Is SATA Mode in BIOS?", "What Is SATA Mode in BIOS?"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - What Is SATA Mode in BIOS?
+  - What Is SATA Mode in BIOS?
 ---
 # What Is SATA Mode in BIOS?
 

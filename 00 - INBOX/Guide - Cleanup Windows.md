@@ -1,8 +1,11 @@
 ---
 Date: 2023-09-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Topic/Dev/Windows"]
-Aliases: [ "Cleanup Windows" ]
+Tags:
+  - "#Type/Guide"
+  - "#Topic/Dev/Windows"
+Aliases:
+  - Cleanup Windows
 ---
 
 # Guide - Cleanup Windows

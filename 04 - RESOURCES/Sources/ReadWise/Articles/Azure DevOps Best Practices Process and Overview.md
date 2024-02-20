@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/992924d262cf
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Azure DevOps Best Practices: Process and Overview", "Azure DevOps Best Practices: Process and Overview"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Azure DevOps Best Practices: Process and Overview"
+  - "Azure DevOps Best Practices: Process and Overview"
 ---
 # Azure DevOps Best Practices: Process and Overview
 

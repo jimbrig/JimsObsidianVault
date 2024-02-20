@@ -1,6 +1,3 @@
----
-
----
 
 # List of Services I Use
 

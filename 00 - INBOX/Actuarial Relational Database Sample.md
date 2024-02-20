@@ -2,8 +2,13 @@
 Date Created: 2023-10-05
 Date Modified: 2023-10-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Brainstorm", "#Topic/Actuarial", "#Topic/Dev" ]
-Aliases: [ "Actuarial Database", "actuaryDB" ]
+Tags:
+  - "#Type/Brainstorm"
+  - "#Topic/Actuarial"
+  - "#Topic/Dev"
+Aliases:
+  - Actuarial Database
+  - actuaryDB
 ---
 
 # Actuarial Relational Database Sample

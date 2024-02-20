@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-relational-data/1-introduction
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Introduction", "Introduction"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Introduction
+  - Introduction
 ---
 # Introduction
 

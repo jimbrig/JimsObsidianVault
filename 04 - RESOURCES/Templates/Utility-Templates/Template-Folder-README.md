@@ -1,8 +1,11 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "<% tp.file.folder(false) %>" ]
+Tags:
+  - "#Type/Readme"
+  - "#Topic/Meta"
+Alias:
+  - <% tp.file.folder(false) %>
 ---
 
 # <% tp.file.folder(false) %>

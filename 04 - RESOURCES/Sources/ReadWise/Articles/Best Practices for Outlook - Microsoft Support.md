@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: raindrop
 Link: https://support.microsoft.com/en-us/office/best-practices-for-outlook-f90e5f69-8832-4d89-95b3-bfdf76c82ef8
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Best Practices for Outlook - Microsoft Support", "Best Practices for Outlook - Microsoft Support"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Best Practices for Outlook - Microsoft Support
+  - Best Practices for Outlook - Microsoft Support
 ---
 # Best Practices for Outlook - Microsoft Support
 

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.youtube.com/watch?v=OmJ-4B-mS-Y
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["The Map of Mathematics", "The Map of Mathematics"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - The Map of Mathematics
+  - The Map of Mathematics
 ---
 # The Map of Mathematics
 

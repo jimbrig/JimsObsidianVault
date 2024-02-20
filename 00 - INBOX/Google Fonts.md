@@ -5,11 +5,15 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Type: Tool
 Topic: Dev/Tool
 Status: WIP
-Sources: [ ]
-Tags: [ "#Type/Tool", "#Topic/Dev", "#Status/WIP" ]
-Aliases: [ "Google Fonts" ]
-cssclasses: [ ]
-Cover:
+Sources: []
+Tags:
+  - "#Type/Tool"
+  - "#Topic/Dev"
+  - "#Status/WIP"
+Aliases:
+  - Google Fonts
+cssclasses: []
+Cover: 
 ---
 
 # Google Fonts

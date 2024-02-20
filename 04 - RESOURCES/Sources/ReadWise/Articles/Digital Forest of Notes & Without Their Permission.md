@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://feedly.com/i/entry/2cTKp1tOTdSdnnY/EEEise1XtyX1hckQ1zS+iHsh3cI=_18255b53560:85fd26:7d1295fe
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Digital Forest of Notes & Without Their Permission", "Digital Forest of Notes & Without Their Permission"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Digital Forest of Notes & Without Their Permission
+  - Digital Forest of Notes & Without Their Permission
 ---
 # Digital Forest of Notes & Without Their Permission
 

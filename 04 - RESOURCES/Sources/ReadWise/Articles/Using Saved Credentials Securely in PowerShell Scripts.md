@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://purple.telstra.com/blog/using-saved-credentials-securely-in-powershell-scripts
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Using Saved Credentials Securely in PowerShell Scripts", "Using Saved Credentials Securely in PowerShell Scripts"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Using Saved Credentials Securely in PowerShell Scripts
+  - Using Saved Credentials Securely in PowerShell Scripts
 ---
 # Using Saved Credentials Securely in PowerShell Scripts
 

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.toptal.com/finance/financial-modeling/financial-modeling-best-practices
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Advanced Financial Modeling Best Practices: Hacks for Intelligent, Error-Free Modeling", "Advanced Financial Modeling Best Practices: Hacks for Intelligent, Error-Free Modeling"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "Advanced Financial Modeling Best Practices: Hacks for Intelligent, Error-Free Modeling"
+  - "Advanced Financial Modeling Best Practices: Hacks for Intelligent, Error-Free Modeling"
 ---
 # Advanced Financial Modeling Best Practices: Hacks for Intelligent, Error-Free Modeling
 

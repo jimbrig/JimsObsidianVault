@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.techtarget.com/whatis/definition/quantum-interference
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["What Is Quantum Interference and How It Works? – TechTarget Definition", "What Is Quantum Interference and How It Works? – TechTarget Definition"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - What Is Quantum Interference and How It Works? – TechTarget Definition
+  - What Is Quantum Interference and How It Works? – TechTarget Definition
 ---
 # What Is Quantum Interference and How It Works? – TechTarget Definition
 

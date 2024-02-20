@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/6f9f3abe9328
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Modernize Your ETL Processes to Unleash Better Business Intelligence", "Modernize Your ETL Processes to Unleash Better Business Intelligence"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Modernize Your ETL Processes to Unleash Better Business Intelligence
+  - Modernize Your ETL Processes to Unleash Better Business Intelligence
 ---
 # Modernize Your ETL Processes to Unleash Better Business Intelligence
 

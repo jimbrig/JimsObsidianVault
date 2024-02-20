@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://zettelkasten.de/posts/strength-claim/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["How to Assess the Strength of Claims in Your Zettelkasten", "How to Assess the Strength of Claims in Your Zettelkasten"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - How to Assess the Strength of Claims in Your Zettelkasten
+  - How to Assess the Strength of Claims in Your Zettelkasten
 ---
 # How to Assess the Strength of Claims in Your Zettelkasten
 

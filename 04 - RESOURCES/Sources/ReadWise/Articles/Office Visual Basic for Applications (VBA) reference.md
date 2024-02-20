@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: Matter
 Link: https://learn.microsoft.com/en-us/office/vba/api/overview/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Office Visual Basic for Applications (VBA) reference", "Office Visual Basic for Applications (VBA) reference"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Office Visual Basic for Applications (VBA) reference
+  - Office Visual Basic for Applications (VBA) reference
 ---
 # Office Visual Basic for Applications (VBA) reference
 

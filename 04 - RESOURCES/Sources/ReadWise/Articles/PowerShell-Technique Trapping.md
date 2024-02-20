@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://devdojo.com/hcritter/powershell-technique-trapping
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["PowerShell-Technique: Trapping", "PowerShell-Technique: Trapping"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "PowerShell-Technique: Trapping"
+  - "PowerShell-Technique: Trapping"
 ---
 # PowerShell-Technique: Trapping
 

@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://develpreneur.com/lessons-learned-a-better-life/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Lessons Learned – A Better Life", "Lessons Learned – A Better Life"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Lessons Learned – A Better Life
+  - Lessons Learned – A Better Life
 ---
 # Lessons Learned – A Better Life
 

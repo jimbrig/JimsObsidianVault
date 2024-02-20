@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://www.spsanderson.com/steveondata/posts/rtip-2023-05-10/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["VBA to R and Back Again: Running R From VBA Pt 2", "VBA to R and Back Again: Running R From VBA Pt 2"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - "VBA to R and Back Again: Running R From VBA Pt 2"
+  - "VBA to R and Back Again: Running R From VBA Pt 2"
 ---
 # VBA to R and Back Again: Running R From VBA Pt 2
 

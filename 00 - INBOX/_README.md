@@ -1,8 +1,11 @@
 ---
 Date: 2023-05-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Readme", "#Topic/Meta"  ]
-Alias: [ "Inbox" ]
+Tags:
+  - "#Type/Readme"
+  - "#Topic/Meta"
+Alias:
+  - Inbox
 ---
 
 # Inbox

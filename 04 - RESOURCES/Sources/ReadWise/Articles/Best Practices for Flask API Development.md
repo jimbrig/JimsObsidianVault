@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://auth0.com/blog/best-practices-for-flask-api-development/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Best Practices for Flask API Development", "Best Practices for Flask API Development"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Best Practices for Flask API Development
+  - Best Practices for Flask API Development
 ---
 # Best Practices for Flask API Development
 

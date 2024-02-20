@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/634674b41770
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Building Your Connected Data Catalog", "Building Your Connected Data Catalog"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Building Your Connected Data Catalog
+  - Building Your Connected Data Catalog
 ---
 # Building Your Connected Data Catalog
 

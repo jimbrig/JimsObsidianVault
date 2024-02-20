@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://appsilon.com/professional-shiny-app-ui/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Professional Shiny App UI and Layouts With Imola and shiny.fluent", "Professional Shiny App UI and Layouts With Imola and shiny.fluent"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Professional Shiny App UI and Layouts With Imola and shiny.fluent
+  - Professional Shiny App UI and Layouts With Imola and shiny.fluent
 ---
 # Professional Shiny App UI and Layouts With Imola and shiny.fluent
 

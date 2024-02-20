@@ -1,8 +1,12 @@
 ---
 Date: 2023-08-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Topic/Windows"]
-Aliases: [ "Windows Recovery Environment", "WinRE" ]
+Tags:
+  - "#Type/Guide"
+  - "#Topic/Windows"
+Aliases:
+  - Windows Recovery Environment
+  - WinRE
 ---
 
 # Windows Recovery Environment (WinRE)

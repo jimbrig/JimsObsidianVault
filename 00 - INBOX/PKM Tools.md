@@ -1,7 +1,3 @@
----
-
-
----
 
 # Personal Knowledge Management Software and Tools
 

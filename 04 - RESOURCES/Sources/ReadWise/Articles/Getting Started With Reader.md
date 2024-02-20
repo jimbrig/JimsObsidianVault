@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: reader
 Link: https://blog.readwise.io/p/bf87944f-b0fe-4f08-a461-f75ab8aded6a/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Getting Started With Reader", "Getting Started With Reader"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Getting Started With Reader
+  - Getting Started With Reader
 ---
 # Getting Started With Reader
 

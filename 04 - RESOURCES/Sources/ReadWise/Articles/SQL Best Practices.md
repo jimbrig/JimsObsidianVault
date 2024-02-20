@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/e1c61e96ee27
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["SQL Best Practices", "SQL Best Practices"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - SQL Best Practices
+  - SQL Best Practices
 ---
 # SQL Best Practices
 

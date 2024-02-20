@@ -3,8 +3,11 @@ Date: 2023-06-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/fab47e7da4ce
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Git Branching Strategy for Dynamic Production Releases", "Git Branching Strategy for Dynamic Production Releases"]
+Tags:
+  - "#Type/Highlight/Article"
+Aliases:
+  - Git Branching Strategy for Dynamic Production Releases
+  - Git Branching Strategy for Dynamic Production Releases
 ---
 # Git Branching Strategy for Dynamic Production Releases
 
