@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-20",
+      "path": "03 - AREAS/Journal/Daily/2024-02-20.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "_README",
       "path": "03 - AREAS/Code/_README.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Developing PowerShell Core Modules Best Practices",
       "path": "01 - SLIPBOX/Developing PowerShell Core Modules Best Practices.md"
-    },
-    {
-      "basename": "Data Requirements",
-      "path": "01 - SLIPBOX/Data Requirements.md"
-    },
-    {
-      "basename": "HTTP Status Codes",
-      "path": "01 - SLIPBOX/HTTP Status Codes.md"
     }
   ],
   "omittedPaths": [],
