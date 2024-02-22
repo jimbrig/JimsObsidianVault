@@ -1,3 +1,4 @@
+- 2024-02-22 at 16h51 · [[2024-02-22]]
 - 2024-02-20 at 12h01 · [[HOME]]
 - 2024-02-20 at 12h00 · [[_README]]
 - 2024-02-20 at 12h00 · [[1.3.10]]
@@ -47,4 +48,3 @@
 - 2024-02-20 at 12h00 · [[Have We Got NEWS.md for You]]
 - 2024-02-20 at 12h00 · [[How to Assess the Strength of Claims in Your Zettelkasten]]
 - 2024-02-20 at 12h00 · [[How to Deal With Annoying Medium Sized Data Inside a Shiny App]]
-- 2024-02-20 at 12h00 · [[How to Configure NGINX for a Flask Web Application]]
