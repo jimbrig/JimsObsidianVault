@@ -8,7 +8,7 @@ Type: Home
 Topic: Obsidian
 Status: Ongoing 
 Sources: "N/A"
-banner: "04 - RESOURCES/Assets/Banners/programming.gif"
+banne
 cssclasses: [ "homepage" ]
 banner_x: 0.65
 banner_y: 0.35

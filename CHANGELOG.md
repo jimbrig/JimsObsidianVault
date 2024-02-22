@@ -1,3 +1,4 @@
+- 2024-02-20 at 12h01 · [[HOME]]
 - 2024-02-20 at 12h00 · [[_README]]
 - 2024-02-20 at 12h00 · [[1.3.10]]
 - 2024-02-20 at 12h00 · [[27 Awesome CSS Snippets for Customizing Obsidian]]
@@ -47,4 +48,3 @@
 - 2024-02-20 at 12h00 · [[How to Assess the Strength of Claims in Your Zettelkasten]]
 - 2024-02-20 at 12h00 · [[How to Deal With Annoying Medium Sized Data Inside a Shiny App]]
 - 2024-02-20 at 12h00 · [[How to Configure NGINX for a Flask Web Application]]
-- 2024-02-20 at 12h00 · [[How to Organize Your (Chaotic) Life]]

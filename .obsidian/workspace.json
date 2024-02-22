@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "03 - AREAS/Journal/Daily/2024-02-22.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HOME.md"
+                "file": "03 - AREAS/Journal/Daily/2024-02-22.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,8 +393,9 @@
   },
   "active": "75e251c15c55f15d",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2024-02-20.md",
     "HOME.md",
+    "03 - AREAS/Journal/Daily/2024-02-22.md",
+    "03 - AREAS/Journal/Daily/2024-02-20.md",
     "03 - AREAS/Journal/Daily/2024-02-16.md",
     "03 - AREAS/Code/_README.md",
     "03 - AREAS/Code/Bash/_README.md",
@@ -418,7 +419,6 @@
     "03 - AREAS/Meta/Plugins/Templater.md",
     "03 - AREAS/Meta/Plugins/Dataview.md",
     "03 - AREAS/Logs/TIL/PowerShell/_README.md",
-    "03 - AREAS/Logs/ADRs/005-Choose-Tools.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",
