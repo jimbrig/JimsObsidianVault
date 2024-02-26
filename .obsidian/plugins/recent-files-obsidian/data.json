@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-26",
+      "path": "03 - AREAS/Journal/Daily/2024-02-26.md"
+    },
+    {
+      "basename": "2024-02-23",
+      "path": "03 - AREAS/Journal/Daily/2024-02-23.md"
+    },
+    {
       "basename": "2024-02-22",
       "path": "03 - AREAS/Journal/Daily/2024-02-22.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Microsoft Licensing",
       "path": "00 - INBOX/Microsoft Licensing.md"
-    },
-    {
-      "basename": "Canvas - PowerShell Profile MindMap",
-      "path": "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas"
-    },
-    {
-      "basename": "_README",
-      "path": "03 - AREAS/Guides/_README.md"
     }
   ],
   "omittedPaths": [],

@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-22.md"
+                "file": "03 - AREAS/Journal/Daily/2024-02-26.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-22.md"
+                "file": "03 - AREAS/Journal/Daily/2024-02-26.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-22.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,8 +393,10 @@
   },
   "active": "75e251c15c55f15d",
   "lastOpenFiles": [
-    "HOME.md",
+    "03 - AREAS/Journal/Daily/2024-02-23.md",
+    "03 - AREAS/Journal/Daily/2024-02-26.md",
     "03 - AREAS/Journal/Daily/2024-02-22.md",
+    "HOME.md",
     "03 - AREAS/Journal/Daily/2024-02-20.md",
     "03 - AREAS/Journal/Daily/2024-02-16.md",
     "03 - AREAS/Code/_README.md",
@@ -417,8 +419,6 @@
     "03 - AREAS/Meta/References.md",
     "03 - AREAS/Meta/Obsidian Templates.md",
     "03 - AREAS/Meta/Plugins/Templater.md",
-    "03 - AREAS/Meta/Plugins/Dataview.md",
-    "03 - AREAS/Logs/TIL/PowerShell/_README.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",

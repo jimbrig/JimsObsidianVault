@@ -1,4 +1,6 @@
-- 2024-02-22 at 16h51 · [[2024-02-22]]
+- 2024-02-26 at 18h12 · [[2024-02-23]]
+- 2024-02-26 at 18h12 · [[2024-02-26]]
+- 2024-02-23 at 18h51 · [[2024-02-22]]
 - 2024-02-20 at 12h01 · [[HOME]]
 - 2024-02-20 at 12h00 · [[_README]]
 - 2024-02-20 at 12h00 · [[1.3.10]]
@@ -46,5 +48,3 @@
 - 2024-02-20 at 12h00 · [[Don’t Use Git Flow in 2023, Move to Trunk-Based Development Instead!]]
 - 2024-02-20 at 12h00 · [[Have We Got NEWS.md for You-2]]
 - 2024-02-20 at 12h00 · [[Have We Got NEWS.md for You]]
-- 2024-02-20 at 12h00 · [[How to Assess the Strength of Claims in Your Zettelkasten]]
-- 2024-02-20 at 12h00 · [[How to Deal With Annoying Medium Sized Data Inside a Shiny App]]
