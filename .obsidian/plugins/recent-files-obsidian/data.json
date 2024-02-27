@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Useful Packages in R List.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md"
+    },
+    {
+      "basename": "Shiny Apps as Packages in R.md",
+      "path": "04 - RESOURCES/Sources/FleetingNotes/Shiny Apps as Packages in R.md.md"
+    },
+    {
       "basename": "PowerShell Configuration Data",
       "path": "00 - INBOX/PowerShell Configuration Data.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2023-11-30",
       "path": "03 - AREAS/Journal/Daily/2023-11-30.md"
-    },
-    {
-      "basename": "Understanding Azure Tenants, Subscriptions, Directories, and Authentication",
-      "path": "00 - INBOX/Understanding Azure Tenants, Subscriptions, Directories, and Authentication.md"
-    },
-    {
-      "basename": "Difference between Office365 and Microsoft 365",
-      "path": "00 - INBOX/Difference between Office365 and Microsoft 365.md"
     }
   ],
   "omittedPaths": [],

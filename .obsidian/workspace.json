@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "R Package",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md"
+                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md"
               }
             }
           },
@@ -196,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md"
+                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md"
               }
             }
           },
@@ -241,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/PowerShell Configuration Data.md",
+                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,6 +394,8 @@
   },
   "active": "75e251c15c55f15d",
   "lastOpenFiles": [
+    "04 - RESOURCES/Sources/FleetingNotes/Shiny Apps as Packages in R.md.md",
+    "00 - INBOX/PowerShell Configuration Data.md",
     "00 - INBOX/PowerShell - PSStyle.md",
     "03 - AREAS/Journal/Daily/2024-02-27.md",
     "03 - AREAS/Journal/Daily/2024-02-26.md",
@@ -417,8 +420,6 @@
     "03 - AREAS/Meta/Folders.md",
     "03 - AREAS/Meta/Tags.md",
     "03 - AREAS/Meta/Sources.md",
-    "03 - AREAS/Meta/Settings.md",
-    "03 - AREAS/Meta/References.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",
