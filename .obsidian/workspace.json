@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-27.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-27.md"
+                "file": "00 - INBOX/PowerShell Configuration Data.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-27.md"
+                "file": "00 - INBOX/PowerShell Configuration Data.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-27.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-27.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-27.md",
+                "file": "00 - INBOX/PowerShell Configuration Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,8 +393,9 @@
   },
   "active": "75e251c15c55f15d",
   "lastOpenFiles": [
-    "03 - AREAS/Journal/Daily/2024-02-26.md",
+    "00 - INBOX/PowerShell - PSStyle.md",
     "03 - AREAS/Journal/Daily/2024-02-27.md",
+    "03 - AREAS/Journal/Daily/2024-02-26.md",
     "03 - AREAS/Journal/Daily/2024-02-23.md",
     "03 - AREAS/Journal/Daily/2024-02-22.md",
     "HOME.md",
@@ -418,7 +419,6 @@
     "03 - AREAS/Meta/Sources.md",
     "03 - AREAS/Meta/Settings.md",
     "03 - AREAS/Meta/References.md",
-    "03 - AREAS/Meta/Obsidian Templates.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",

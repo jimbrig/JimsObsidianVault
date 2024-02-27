@@ -1,3 +1,4 @@
+- 2024-02-27 at 12h37 · [[PowerShell - PSStyle]]
 - 2024-02-27 at 12h37 · [[2024-02-27]]
 - 2024-02-27 at 12h37 · [[2024-02-26]]
 - 2024-02-26 at 18h12 · [[2024-02-23]]
@@ -47,4 +48,3 @@
 - 2024-02-20 at 12h00 · [[Goin' to Carolina in My Mind]]
 - 2024-02-20 at 12h00 · [[Git Branching Strategy for Dynamic Production Releases]]
 - 2024-02-20 at 12h00 · [[Don’t Use Git Flow in 2023, Move to Trunk-Based Development Instead!]]
-- 2024-02-20 at 12h00 · [[Have We Got NEWS.md for You-2]]

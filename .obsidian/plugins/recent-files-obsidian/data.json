@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell Configuration Data",
+      "path": "00 - INBOX/PowerShell Configuration Data.md"
+    },
+    {
+      "basename": "PowerShell - PSStyle",
+      "path": "00 - INBOX/PowerShell - PSStyle.md"
+    },
+    {
       "basename": "2024-02-27",
       "path": "03 - AREAS/Journal/Daily/2024-02-27.md"
     },
@@ -181,10 +189,6 @@
       "path": "02 - PROJECTS/_README.md"
     },
     {
-      "basename": "PowerShell Configuration Data",
-      "path": "00 - INBOX/PowerShell Configuration Data.md"
-    },
-    {
       "basename": "2023-11-30",
       "path": "03 - AREAS/Journal/Daily/2023-11-30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Difference between Office365 and Microsoft 365",
       "path": "00 - INBOX/Difference between Office365 and Microsoft 365.md"
-    },
-    {
-      "basename": "2023-11-27",
-      "path": "03 - AREAS/Journal/Daily/2023-11-27.md"
     }
   ],
   "omittedPaths": [],
