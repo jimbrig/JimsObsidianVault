@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-29",
+      "path": "03 - AREAS/Journal/Daily/2024-02-29.md"
+    },
+    {
       "basename": "Useful Packages in R List.md",
       "path": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "02 - PROJECTS/_README.md"
-    },
-    {
-      "basename": "2023-11-30",
-      "path": "03 - AREAS/Journal/Daily/2023-11-30.md"
     }
   ],
   "omittedPaths": [],

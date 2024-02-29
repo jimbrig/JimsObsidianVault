@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md"
+                "file": "03 - AREAS/Journal/Daily/2024-02-29.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md"
+                "file": "03 - AREAS/Journal/Daily/2024-02-29.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
+                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,6 +394,8 @@
   },
   "active": "75e251c15c55f15d",
   "lastOpenFiles": [
+    "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
+    "03 - AREAS/Journal/Daily/2024-02-29.md",
     "04 - RESOURCES/Sources/FleetingNotes/Shiny Apps as Packages in R.md.md",
     "00 - INBOX/PowerShell Configuration Data.md",
     "00 - INBOX/PowerShell - PSStyle.md",
@@ -418,8 +420,6 @@
     "03 - AREAS/Meta/Workflows/Re-Structuring Vaults.md",
     "03 - AREAS/Meta/Workflows/Workflows.md",
     "03 - AREAS/Meta/Folders.md",
-    "03 - AREAS/Meta/Tags.md",
-    "03 - AREAS/Meta/Sources.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",

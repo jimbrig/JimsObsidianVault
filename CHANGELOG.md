@@ -1,3 +1,5 @@
+- 2024-02-29 at 16h23 · [[2024-02-29]]
+- 2024-02-29 at 16h23 · [[Useful Packages in R List.md]]
 - 2024-02-27 at 14h03 · [[PowerShell Configuration Data]]
 - 2024-02-27 at 14h03 · [[Shiny Apps as Packages in R.md]]
 - 2024-02-27 at 12h37 · [[PowerShell - PSStyle]]
@@ -46,5 +48,3 @@
 - 2024-02-20 at 12h00 · [[Extract Icon From .EXE Powershell]]
 - 2024-02-20 at 12h00 · [[Getting Familiar With the R Studio Source Pane]]
 - 2024-02-20 at 12h00 · [[Getting Started With Reader]]
-- 2024-02-20 at 12h00 · [[Final Thoughts How to Start a Programming Blog]]
-- 2024-02-20 at 12h00 · [[Goin' to Carolina in My Mind]]
