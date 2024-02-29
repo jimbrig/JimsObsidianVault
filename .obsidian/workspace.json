@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
+                "file": "03 - AREAS/MOCs/_README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -153,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-29.md"
+                "file": "03 - AREAS/MOCs/_README.md"
               }
             }
           },
@@ -197,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-29.md"
+                "file": "03 - AREAS/MOCs/_README.md"
               }
             }
           },
@@ -242,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
+                "file": "03 - AREAS/MOCs/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
+                "file": "03 - AREAS/MOCs/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/Journal/Daily/2024-02-29.md",
+                "file": "03 - AREAS/MOCs/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,8 +393,9 @@
   },
   "active": "75e251c15c55f15d",
   "lastOpenFiles": [
-    "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
+    "03 - AREAS/_README.md",
     "03 - AREAS/Journal/Daily/2024-02-29.md",
+    "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
     "04 - RESOURCES/Sources/FleetingNotes/Shiny Apps as Packages in R.md.md",
     "00 - INBOX/PowerShell Configuration Data.md",
     "00 - INBOX/PowerShell - PSStyle.md",
@@ -410,7 +410,6 @@
     "03 - AREAS/Code/Bash/_README.md",
     "03 - AREAS/Code/AutoHotKey/AHK - Custom Text Expansions.md",
     "03 - AREAS/Code/AutoHotKey/_README.md",
-    "03 - AREAS/_README.md",
     "04 - RESOURCES/_README.md",
     "04 - RESOURCES/Templates/Code-Templates/Template-Code-PowerShell.md",
     "04 - RESOURCES/Templates/Code-Templates/Template-Code.md",
