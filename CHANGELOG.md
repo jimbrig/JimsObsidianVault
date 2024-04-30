@@ -1,3 +1,6 @@
+- 2024-04-30 at 14h06 · [[2024-04-30]]
+- 2024-04-30 at 14h06 · [[2024-04-29]]
+- 2024-04-29 at 12h12 · [[_README]]
 - 2024-02-29 at 16h27 · [[2024-02-29]]
 - 2024-02-29 at 16h23 · [[Useful Packages in R List.md]]
 - 2024-02-27 at 14h03 · [[PowerShell Configuration Data]]
@@ -45,6 +48,3 @@
 - 2024-02-20 at 12h00 · [[Docker Best Practices for Python Developers]]
 - 2024-02-20 at 12h00 · [[ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks]]
 - 2024-02-20 at 12h00 · [[Excel Automation Explained VBA Code + Sample Workbooks]]
-- 2024-02-20 at 12h00 · [[Extract Icon From .EXE Powershell]]
-- 2024-02-20 at 12h00 · [[Getting Familiar With the R Studio Source Pane]]
-- 2024-02-20 at 12h00 · [[Getting Started With Reader]]

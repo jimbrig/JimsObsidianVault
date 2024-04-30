@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - AREAS/MOCs/_README.md",
+                "file": "03 - AREAS/Journal/Daily/2024-04-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -153,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - AREAS/MOCs/_README.md"
+                "file": "03 - AREAS/Journal/Daily/2024-04-30.md"
               }
             }
           },
@@ -196,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - AREAS/MOCs/_README.md"
+                "file": "03 - AREAS/Journal/Daily/2024-04-30.md"
               }
             }
           },
@@ -241,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - AREAS/MOCs/_README.md",
+                "file": "03 - AREAS/Journal/Daily/2024-04-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - AREAS/MOCs/_README.md",
+                "file": "03 - AREAS/Journal/Daily/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - AREAS/MOCs/_README.md",
+                "file": "03 - AREAS/Journal/Daily/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,6 +394,10 @@
   },
   "active": "75e251c15c55f15d",
   "lastOpenFiles": [
+    "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md",
+    "03 - AREAS/Journal/Daily/2024-04-30.md",
+    "03 - AREAS/MOCs/_README.md",
+    "03 - AREAS/Journal/Daily/2024-04-29.md",
     "03 - AREAS/_README.md",
     "03 - AREAS/Journal/Daily/2024-02-29.md",
     "04 - RESOURCES/Sources/FleetingNotes/Useful Packages in R List.md.md",
@@ -415,10 +420,6 @@
     "04 - RESOURCES/Templates/Code-Templates/Template-Code.md",
     "03 - AREAS/Journal/Daily/2023-12-24.md",
     "03 - AREAS/Journal/Daily/2023-12-23.md",
-    "03 - AREAS/Meta/Workflows/Best Practices.md",
-    "03 - AREAS/Meta/Workflows/Re-Structuring Vaults.md",
-    "03 - AREAS/Meta/Workflows/Workflows.md",
-    "03 - AREAS/Meta/Folders.md",
     "04 - RESOURCES/Canvas/Canvas - PowerShell Profile MindMap.canvas",
     "Inbox/Clips",
     "Inbox",

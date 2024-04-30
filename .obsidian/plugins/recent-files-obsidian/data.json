@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-04-30",
+      "path": "03 - AREAS/Journal/Daily/2024-04-30.md"
+    },
+    {
+      "basename": "Template-Frontmatter",
+      "path": "04 - RESOURCES/Templates/Fragment-Templates/Template-Frontmatter.md"
+    },
+    {
       "basename": "_README",
       "path": "03 - AREAS/MOCs/_README.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2023-12-09",
       "path": "03 - AREAS/Journal/Daily/2023-12-09.md"
-    },
-    {
-      "basename": "2023-12-05",
-      "path": "03 - AREAS/Journal/Daily/2023-12-05.md"
-    },
-    {
-      "basename": "PowerShell - PowerShell Profile",
-      "path": "02 - PROJECTS/PowerShell - PowerShell Profile.md"
     }
   ],
   "omittedPaths": [],
